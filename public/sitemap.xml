@@ -2,32 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cola1605.github.io/tags/ai/</loc>
-    <lastmod>2025-10-02T18:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://cola1605.github.io/posts/qiita_ai_productivity_tools_2025_vietnamese/</loc>
-    <lastmod>2025-10-02T18:00:00+09:00</lastmod>
-  </url><url>
     <loc>https://cola1605.github.io/tags/automation/</loc>
-    <lastmod>2025-10-02T18:00:00+09:00</lastmod>
+    <lastmod>2025-10-02T13:00:00+07:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/</loc>
-    <lastmod>2025-10-02T18:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://cola1605.github.io/tags/coding/</loc>
-    <lastmod>2025-10-02T18:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://cola1605.github.io/tags/development-tools/</loc>
-    <lastmod>2025-10-02T18:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://cola1605.github.io/posts/</loc>
-    <lastmod>2025-10-02T18:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://cola1605.github.io/tags/productivity/</loc>
-    <lastmod>2025-10-02T18:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://cola1605.github.io/tags/</loc>
-    <lastmod>2025-10-02T18:00:00+09:00</lastmod>
+    <lastmod>2025-10-02T13:00:00+07:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/categories/</loc>
     <lastmod>2025-10-02T13:00:00+07:00</lastmod>
@@ -48,6 +27,12 @@
     <lastmod>2025-10-02T13:00:00+07:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/playwright/</loc>
+    <lastmod>2025-10-02T13:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/posts/</loc>
+    <lastmod>2025-10-02T13:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/</loc>
     <lastmod>2025-10-02T13:00:00+07:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/categories/technology/</loc>
@@ -75,6 +60,9 @@
     <lastmod>2025-10-02T12:00:00+07:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/posts/ai_scream_heavy_users_survey_vietnamese/</loc>
+    <lastmod>2025-10-02T12:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/productivity/</loc>
     <lastmod>2025-10-02T12:00:00+07:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/categories/survey/</loc>
@@ -107,29 +95,33 @@
     <loc>https://cola1605.github.io/posts/cyberagent_automated_reasoning_checks_vietnamese/</loc>
     <lastmod>2025-10-02T11:00:00+07:00</lastmod>
   </url><url>
-    <loc>https://cola1605.github.io/tags/ai-coding/</loc>
-    <lastmod>2025-10-02T10:00:00+07:00</lastmod>
+    <loc>https://cola1605.github.io/posts/annotation_center_expansion_vietnamese/</loc>
   </url><url>
-    <loc>https://cola1605.github.io/tags/claude-code/</loc>
-    <lastmod>2025-10-02T10:00:00+07:00</lastmod>
+    <loc>https://cola1605.github.io/posts/cyberagent_ai_studio_tips_promise_commercial_vietnamese/</loc>
+  </url><url>
+    <loc>https://cola1605.github.io/posts/developers_desk_report_7_vietnamese/</loc>
+  </url><url>
+    <loc>https://cola1605.github.io/posts/qiita_ai_agent_instruction_prompts_2025_vietnamese/</loc>
+  </url><url>
+    <loc>https://cola1605.github.io/posts/qiita_ai_productivity_tools_2025_vietnamese/</loc>
+  </url><url>
+    <loc>https://cola1605.github.io/posts/qiita_aws_architecture_diagram_ai_vietnamese/</loc>
   </url><url>
     <loc>https://cola1605.github.io/posts/qiita_claude_vs_codex_comparison_2025_vietnamese/</loc>
-    <lastmod>2025-10-02T10:00:00+07:00</lastmod>
   </url><url>
-    <loc>https://cola1605.github.io/tags/codex-cli/</loc>
-    <lastmod>2025-10-02T10:00:00+07:00</lastmod>
+    <loc>https://cola1605.github.io/posts/qiita_cloudfront_waf_alb_error_guide/</loc>
   </url><url>
-    <loc>https://cola1605.github.io/categories/coding-tools/</loc>
-    <lastmod>2025-10-02T10:00:00+07:00</lastmod>
+    <loc>https://cola1605.github.io/posts/qiita_engineer_business_strategy_2025_vietnamese/</loc>
   </url><url>
-    <loc>https://cola1605.github.io/tags/comparison/</loc>
-    <lastmod>2025-10-02T10:00:00+07:00</lastmod>
+    <loc>https://cola1605.github.io/posts/qiita_figma_mcp_design_system_guide_vi/</loc>
   </url><url>
-    <loc>https://cola1605.github.io/tags/openai/</loc>
-    <lastmod>2025-10-02T10:00:00+07:00</lastmod>
+    <loc>https://cola1605.github.io/posts/qiita_strands_agents_guide_summary_vi/</loc>
   </url><url>
-    <loc>https://cola1605.github.io/tags/review/</loc>
-    <lastmod>2025-10-02T10:00:00+07:00</lastmod>
+    <loc>https://cola1605.github.io/posts/qiita_strands_agents_guide_vi/</loc>
+  </url><url>
+    <loc>https://cola1605.github.io/posts/tap_ai_era_market_understanding_vietnamese/</loc>
+  </url><url>
+    <loc>https://cola1605.github.io/posts/woman_ai_meet_lounge_vietnamese/</loc>
   </url><url>
     <loc>https://cola1605.github.io/about/</loc>
   </url>
