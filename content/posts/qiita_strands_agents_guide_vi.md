@@ -1,6 +1,6 @@
 ---
 title: "Hướng dẫn nhập môn StrandsAgents"
-date: 2025-10-03T19:00:00+07:00
+date: 2025-10-02T08:00:00+07:00
 categories: ["AWS", "AI", "Development Tools"]
 tags: ["StrandsAgents", "AWS", "Bedrock", "VSCode", "AI", "Development"]
 description: "Hướng dẫn nhập môn StrandsAgents - công cụ AI mạnh mẽ trên AWS Bedrock"

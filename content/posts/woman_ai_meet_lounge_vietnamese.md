@@ -1,6 +1,6 @@
 ---
 title: "Woman AI Meet Lounge: Tăng cường kết nối AI và phụ nữ trong công nghệ"
-date: 2025-10-03T21:00:00+07:00
+date: 2025-10-02T10:00:00+07:00
 categories: ["AI", "Technology", "Community"]
 tags: ["Woman in Tech", "AI", "Community", "CyberAgent", "Meet Lounge", "Networking"]
 description: "Sự kiện Woman AI Meet Lounge nhằm tăng cường kết nối ngang giữa các mảng kinh doanh AI"
