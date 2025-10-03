@@ -1,18 +1,90 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ if .Content }}<div class="content">{{ .Content }}</div>{{ end }}
-  <ul class="post-list">
-    {{ range .Paginator.Pages }}
-      <li class="post-item">
-        <a href="{{ .RelPermalink }}"><h2>{{ .Title }}</h2></a>
-        {{ with .Params.description }}<p class="desc">{{ . }}</p>{{ end }}
-        <p class="meta">{{ .Date.Format "02/01/2006" }}
-        {{ with .Params.tags }} • Tags: {{ delimit . ", " }}{{ end }}</p>
-      </li>
+<main class="main" role="main">
+  <div class="main__header">
+    <h1 class="main__title">{{ .Title }}</h1>
+    {{ if .Content }}
+    <div class="main__content content">
+      {{ .Content }}
+    </div>
     {{ end }}
-  </ul>
-  <nav class="pager">
-    {{ if .Paginator.HasPrev }}<a href="{{ .Paginator.Prev.URL }}">← Mới hơn</a>{{ end }}
-    {{ if .Paginator.HasNext }}<a href="{{ .Paginator.Next.URL }}">Cũ hơn →</a>{{ end }}
+  </div>
+
+  {{ if .Paginator.Pages }}
+  <div class="list">
+    {{ range .Paginator.Pages }}
+    <article class="list__item post">
+      <header class="list__header">
+        <h2 class="list__title post__title">
+          <a href="{{ .RelPermalink }}" rel="bookmark">{{ .Title }}</a>
+        </h2>
+        <div class="list__meta meta">
+          <div class="meta__item-datetime meta__item">
+            <svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28">
+              <path d="m15 0c8.3 0 15 6.7 15 15s-6.7 15-15 15-15-6.7-15-15 6.7-15 15-15zm0 28c7.2 0 13-5.8 13-13s-5.8-13-13-13-13 5.8-13 13 5.8 13 13 13zm5-13h-6v-6c0-0.6-0.4-1-1-1s-1 0.4-1 1v7c0 0.6 0.4 1 1 1h7c0.6 0 1-0.4 1-1s-0.4-1-1-1z"/>
+            </svg>
+            <time class="meta__text" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+              {{ .Date.Format "02/01/2006" }}
+            </time>
+          </div>
+          {{ if .Params.categories }}
+          <div class="meta__item-categories meta__item">
+            <svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16">
+              <path d="m7 2l1 2h8v11h-16v-13z"/>
+            </svg>
+            <span class="meta__text">
+              {{ range $i, $category := .Params.categories }}
+                {{ if $i }}, {{ end }}
+                <a class="meta__link" href="{{ "/categories/" | relURL }}{{ $category | urlize }}" rel="category">{{ $category }}</a>
+              {{ end }}
+            </span>
+          </div>
+          {{ end }}
+          {{ if .Params.tags }}
+          <div class="meta__item-tags meta__item">
+            <svg class="meta__icon icon icon-tag" width="16" height="16" viewBox="0 0 32 32">
+              <path d="m17.5 1.969l12.5 12.5-15 15-12.5-12.5v-12.5z"/>
+              <path d="m23 8c0 1.105-0.895 2-2 2s-2-0.895-2-2 0.895-2 2-2 2 0.895 2 2z"/>
+            </svg>
+            <span class="meta__text">{{ delimit .Params.tags ", " }}</span>
+          </div>
+          {{ end }}
+        </div>
+      </header>
+      
+      {{ if .Params.description }}
+      <div class="list__excerpt post__content clearfix">
+        <p>{{ .Params.description }}</p>
+      </div>
+      {{ else if .Summary }}
+      <div class="list__excerpt post__content clearfix">
+        {{ .Summary }}
+      </div>
+      {{ end }}
+      
+      <div class="list__footer">
+        <a class="list__footer-readmore btn" href="{{ .RelPermalink }}" rel="bookmark">Đọc tiếp</a>
+      </div>
+    </article>
+    {{ end }}
+  </div>
+
+  <!-- Pagination -->
+  {{ if or .Paginator.HasPrev .Paginator.HasNext }}
+  <nav class="list__pagination pagination">
+    {{ if .Paginator.HasPrev }}
+    <a class="pagination__item pagination__item--prev btn btn--disabled" href="{{ .Paginator.Prev.URL }}">
+      <span class="pagination__label">Trang trước</span>
+      <span class="pagination__post-title">← Bài viết mới hơn</span>
+    </a>
+    {{ end }}
+    {{ if .Paginator.HasNext }}
+    <a class="pagination__item pagination__item--next btn" href="{{ .Paginator.Next.URL }}">
+      <span class="pagination__label">Trang tiếp</span>
+      <span class="pagination__post-title">Bài viết cũ hơn →</span>
+    </a>
+    {{ end }}
   </nav>
+  {{ end }}
+  {{ end }}
+</main>
 {{ end }}
