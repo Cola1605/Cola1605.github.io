@@ -165,20 +165,20 @@ body {
 /* ===== LAYOUT ===== */
 .wrapper {
   display: flex;
-  max-width: 1200px;
+  max-width: 1400px; /* Tăng max-width cho desktop */
   margin: 32px auto;
-  gap: 32px;
-  padding: 0 24px;
+  gap: 40px; /* Tăng gap để có nhiều space hơn */
+  padding: 0 32px;
   align-items: flex-start;
-  width: 100%; /* Đảm bảo wrapper sử dụng full width */
+  width: 100%;
   box-sizing: border-box;
 }
 
 .primary {
   flex: 1;
   min-width: 0;
-  max-width: calc(100% - 340px); /* Tăng space cho sidebar */
-  overflow: hidden; /* Prevent overflow */
+  max-width: calc(100% - 400px); /* Tăng space cho sidebar lớn hơn */
+  overflow: hidden;
 }
 
 /* ===== MAIN CONTENT ===== */
@@ -437,17 +437,17 @@ body {
 
 /* ===== SIDEBAR STYLES ===== */
 .sidebar {
-  flex: 0 0 320px; /* Tăng width từ 300px lên 320px */
+  flex: 0 0 360px; /* Tăng width lên 360px cho desktop */
   display: flex;
   flex-direction: column;
   gap: 24px;
   position: sticky;
-  top: 100px; /* Offset for header */
+  top: 100px;
   align-self: flex-start;
   max-height: calc(100vh - 120px);
   overflow-y: auto;
-  overflow-x: visible; /* Đảm bảo content không bị clip */
-  min-width: 320px; /* Đảm bảo min-width */
+  overflow-x: visible;
+  min-width: 360px; /* Đảm bảo min-width lớn hơn */
 }
 
 .widget {
@@ -534,20 +534,20 @@ body {
 
 /* ===== SEARCH WIDGET ===== */
 .widget-search .widget__form {
-  padding: 16px 20px; /* Giảm padding để có nhiều space hơn */
+  padding: 24px 28px; /* Tăng padding cho desktop */
   display: flex;
-  gap: 6px; /* Giảm gap */
-  flex-wrap: nowrap; /* Đảm bảo không wrap xuống dòng */
-  align-items: stretch; /* Đảm bảo cả input và button có cùng height */
+  gap: 12px; /* Tăng gap cho thoải mái hơn */
+  flex-wrap: nowrap;
+  align-items: stretch;
 }
 
 .widget__field {
   flex: 1;
-  min-width: 0; /* Cho phép shrink */
-  padding: 10px 16px;
+  min-width: 0;
+  padding: 12px 18px; /* Tăng padding */
   border: 1px solid var(--border-color);
   border-radius: var(--radius-sm);
-  font-size: 14px;
+  font-size: 15px; /* Tăng font size */
   background: var(--bg-secondary);
   color: var(--text-primary);
   transition: border-color 0.2s ease, box-shadow 0.2s ease;
@@ -561,22 +561,19 @@ body {
 }
 
 .widget__submit {
-  flex-shrink: 0; /* Không cho button bị shrink */
-  flex-grow: 0; /* Không cho button grow */
-  padding: 10px 12px; /* Giảm horizontal padding */
+  flex-shrink: 0;
+  flex-grow: 0;
+  padding: 12px 20px; /* Tăng padding cho button */
   background: var(--primary-color);
   color: var(--text-white);
   border: none;
   border-radius: var(--radius-sm);
-  font-size: 13px; /* Giảm font size một chút */
+  font-size: 14px; /* Font size bình thường */
   font-weight: 500;
   cursor: pointer;
   transition: background 0.2s ease;
-  white-space: nowrap; /* Không cho text wrap */
-  min-width: 50px; /* Giảm min-width vì text ngắn hơn */
-  max-width: 60px; /* Giảm max-width */
-  overflow: hidden;
-  text-overflow: ellipsis;
+  white-space: nowrap;
+  min-width: 100px; /* Tăng min-width cho text "Tìm kiếm" */
   box-sizing: border-box;
 }
 
