@@ -43,3 +43,18 @@ googleAnalytics = ""
 canonifyURLs = true
 relativeURLs = false
 uglyURLs = false
+
+[[menu.main]]
+  name = "Trang chủ"
+  url = "/"
+  weight = 10
+
+[[menu.main]]
+  name = "Bài viết"
+  url = "/posts/"
+  weight = 20
+
+[[menu.main]]
+  name = "Giới thiệu"
+  url = "/about/"
+  weight = 30
