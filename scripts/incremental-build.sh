@@ -6,6 +6,7 @@
 set -e
 
 CONTENT_DIR="content/posts"
+CONTENT_DIR_JA="content/ja/posts"
 CACHE_FILE=".build-cache"
 BUILD_LOG="build.log"
 
@@ -29,7 +30,7 @@ get_mod_time() {
 }
 
 # Find new or modified files
-echo "🔍 Checking for new or modified files in $CONTENT_DIR..."
+echo "🔍 Checking for new or modified files in $CONTENT_DIR and $CONTENT_DIR_JA..."
 
 NEW_FILES=()
 MODIFIED_FILES=()
@@ -46,6 +47,23 @@ for file in "$CONTENT_DIR"/*.md; do
             NEW_FILES+=("$file")
         elif [ "$current_time" -gt "$cached_time" ]; then
             echo "📝 Modified file detected: $filename"
+            MODIFIED_FILES+=("$file")
+        fi
+    fi
+done
+
+# Check all markdown files in content/ja/posts
+for file in "$CONTENT_DIR_JA"/*.md; do
+    if [ -f "$file" ]; then
+        filename="ja/$(basename "$file")"
+        current_time=$(get_mod_time "$file")
+        cached_time=$(grep "^$filename:" "$CACHE_FILE" | cut -d: -f2)
+        
+        if [ -z "$cached_time" ]; then
+            echo "✅ New Japanese file detected: $filename"
+            NEW_FILES+=("$file")
+        elif [ "$current_time" -gt "$cached_time" ]; then
+            echo "📝 Modified Japanese file detected: $filename"
             MODIFIED_FILES+=("$file")
         fi
     fi
@@ -77,7 +95,11 @@ if hugo --gc --minify --quiet; then
     
     # Update timestamps for all processed files
     for file in "${NEW_FILES[@]}" "${MODIFIED_FILES[@]}"; do
-        filename=$(basename "$file")
+        if [[ "$file" == *"$CONTENT_DIR_JA"* ]]; then
+            filename="ja/$(basename "$file")"
+        else
+            filename=$(basename "$file")
+        fi
         new_time=$(get_mod_time "$file")
         
         # Remove old entry if exists
@@ -103,7 +125,13 @@ fi
 echo "🧹 Cleaning up cache..."
 temp_cache=$(mktemp)
 while IFS=: read -r filename timestamp; do
-    if [ -f "$CONTENT_DIR/$filename" ]; then
+    if [[ "$filename" == ja/* ]]; then
+        actual_file="$CONTENT_DIR_JA/${filename#ja/}"
+    else
+        actual_file="$CONTENT_DIR/$filename"
+    fi
+    
+    if [ -f "$actual_file" ]; then
         echo "$filename:$timestamp" >> "$temp_cache"
     fi
 done < "$CACHE_FILE"

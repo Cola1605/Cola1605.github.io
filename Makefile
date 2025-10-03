@@ -14,6 +14,7 @@ help:
 	@echo "🚀 deploy       - Build and deploy to GitHub Pages"
 	@echo "📊 status       - Show build status and file counts"
 	@echo "📝 new          - Create new blog post (usage: make new TITLE='Post Title')"
+	@echo "🇯🇵 new-ja       - Create new Japanese blog post (usage: make new-ja TITLE='Post Title')"
 	@echo "💡 help         - Show this help message"
 
 # Full build
@@ -82,6 +83,29 @@ new:
 	echo "Nội dung bài viết..." >> $$FILENAME; \
 	echo "✅ Created: $$FILENAME"
 
+# Create new Japanese blog post
+new-ja:
+	@if [ -z "$(TITLE)" ]; then \
+		echo "❌ Please provide a title: make new-ja TITLE='Your Post Title'"; \
+		exit 1; \
+	fi
+	@echo "📝 Creating new Japanese blog post: $(TITLE)"
+	@SLUG=$$(echo "$(TITLE)" | tr '[:upper:]' '[:lower:]' | sed 's/[^a-z0-9]/_/g' | sed 's/__*/_/g' | sed 's/^_\|_$$//g'); \
+	FILENAME="content/ja/posts/$${SLUG}_$(shell date +%Y%m%d).md"; \
+	echo "---" > $$FILENAME; \
+	echo "title: \"$(TITLE)\"" >> $$FILENAME; \
+	echo "date: $(shell date +%Y-%m-%d)" >> $$FILENAME; \
+	echo "draft: false" >> $$FILENAME; \
+	echo "categories: []" >> $$FILENAME; \
+	echo "tags: []" >> $$FILENAME; \
+	echo "description: \"\"" >> $$FILENAME; \
+	echo "---" >> $$FILENAME; \
+	echo "" >> $$FILENAME; \
+	echo "# $(TITLE)" >> $$FILENAME; \
+	echo "" >> $$FILENAME; \
+	echo "記事の内容..." >> $$FILENAME; \
+	echo "✅ Created: $$FILENAME"
+
 # Development server with auto-reload
 serve:
 	@echo "🌐 Starting Hugo development server..."
@@ -90,6 +114,8 @@ serve:
 # Quick stats
 stats:
 	@echo "📈 Quick Stats:"
-	@echo "Posts: $(shell find content/posts -name '*.md' | wc -l | tr -d ' ')"
-	@echo "Words: $(shell find content/posts -name '*.md' -exec wc -w {} + 2>/dev/null | tail -1 | awk '{print $$1}' || echo '0')"
-	@echo "Size: $(shell du -sh content/posts 2>/dev/null | cut -f1 || echo 'N/A')"
+	@echo "Posts (Vietnamese): $(shell find content/posts -name '*.md' | wc -l | tr -d ' ')"
+	@echo "Posts (Japanese): $(shell find content/ja/posts -name '*.md' 2>/dev/null | wc -l | tr -d ' ')"
+	@echo "Total Posts: $(shell find content/posts content/ja/posts -name '*.md' 2>/dev/null | wc -l | tr -d ' ')"
+	@echo "Words: $(shell find content/posts content/ja/posts -name '*.md' -exec wc -w {} + 2>/dev/null | tail -1 | awk '{print $$1}' || echo '0')"
+	@echo "Size: $(shell du -sh content/ 2>/dev/null | cut -f1 || echo 'N/A')"

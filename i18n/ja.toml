@@ -1,0 +1,41 @@
+[search]
+other = "検索"
+
+[recent_posts]
+other = "最新記事"
+
+[categories]
+other = "カテゴリ"
+
+[tags]
+other = "タグ"
+
+[language]
+other = "言語"
+
+[read_more]
+other = "続きを読む"
+
+[home]
+other = "ホーム"
+
+[posts]
+other = "記事"
+
+[about]
+other = "について"
+
+[page_not_found]
+other = "ページが見つかりません"
+
+[search_placeholder]
+other = "検索..."
+
+[search_button]
+other = "検索"
+
+[no_results]
+other = "結果が見つかりません"
+
+[results_for]
+other = "検索結果"
