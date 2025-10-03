@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hugo Blog Skeleton (Vietnamese)
 
 Một skeleton **Hugo** tối giản (không phụ thuộc theme ngoài) — chỉ cần copy/paste, viết bài và deploy GitHub Pages.
@@ -58,3 +59,7 @@ Mở file trong `content/posts/`. Đổi `draft: false` để hiển thị.
 
 Chúc bạn viết blog thật vui! ✨
 # System_News
+=======
+# Cola1605.github.io
+Personal GitHub Pages Blog
+>>>>>>> 708a7c8075c6e7dfb5cbdf81f6c7bbea04f6a622
