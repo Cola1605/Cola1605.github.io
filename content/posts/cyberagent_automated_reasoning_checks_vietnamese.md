@@ -1,6 +1,6 @@
 ---
 title: "Kiểm soát Hallucination của AI bằng Phương pháp Hình thức: Trải nghiệm AWS Automated Reasoning Checks"
-date: 2025-10-03T16:30:00+07:00
+date: 2025-10-02T11:00:00+07:00
 draft: false
 tags: ["AWS", "Automated Reasoning", "AI Hallucination", "CyberAgent", "ABEMA", "AI Safety"]
 categories: ["AI", "AWS", "Technology"]

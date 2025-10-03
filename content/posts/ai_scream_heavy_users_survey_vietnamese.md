@@ -1,6 +1,6 @@
 ---
 title: "Học hỏi kinh nghiệm sử dụng AI SCREAM từ 35 Heavy User!"
-date: 2025-10-03T16:00:00+07:00
+date: 2025-10-02T12:00:00+07:00
 draft: false
 tags: ["AI SCREAM", "AI Tools", "Survey", "Heavy Users", "Design", "Productivity"]
 categories: ["AI", "Design", "Survey"]

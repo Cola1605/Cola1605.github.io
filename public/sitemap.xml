@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cola1605.github.io/</loc>
-    <lastmod>2025-10-03T16:30:00+07:00</lastmod>
-  </url><url>
-    <loc>https://cola1605.github.io/posts/</loc>
-    <lastmod>2025-10-03T16:30:00+07:00</lastmod>
-  </url><url>
     <loc>https://cola1605.github.io/tags/ai/</loc>
     <lastmod>2025-10-02T18:00:00+09:00</lastmod>
   </url><url>
@@ -17,10 +11,16 @@
     <loc>https://cola1605.github.io/tags/automation/</loc>
     <lastmod>2025-10-02T18:00:00+09:00</lastmod>
   </url><url>
+    <loc>https://cola1605.github.io/</loc>
+    <lastmod>2025-10-02T18:00:00+09:00</lastmod>
+  </url><url>
     <loc>https://cola1605.github.io/tags/coding/</loc>
     <lastmod>2025-10-02T18:00:00+09:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/development-tools/</loc>
+    <lastmod>2025-10-02T18:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/posts/</loc>
     <lastmod>2025-10-02T18:00:00+09:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/productivity/</loc>
@@ -29,9 +29,107 @@
     <loc>https://cola1605.github.io/tags/</loc>
     <lastmod>2025-10-02T18:00:00+09:00</lastmod>
   </url><url>
-    <loc>https://cola1605.github.io/posts/qiita_claude_vs_codex_comparison_2025_vietnamese/</loc>
-  </url><url>
     <loc>https://cola1605.github.io/categories/</loc>
+    <lastmod>2025-10-02T13:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/chrome-devtools/</loc>
+    <lastmod>2025-10-02T13:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/posts/qiita_chrome_devtools_mcp_vietnamese/</loc>
+    <lastmod>2025-10-02T13:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/claude/</loc>
+    <lastmod>2025-10-02T13:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/categories/development-tools/</loc>
+    <lastmod>2025-10-02T13:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/mcp/</loc>
+    <lastmod>2025-10-02T13:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/playwright/</loc>
+    <lastmod>2025-10-02T13:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/categories/technology/</loc>
+    <lastmod>2025-10-02T13:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/web-development/</loc>
+    <lastmod>2025-10-02T13:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/categories/ai/</loc>
+    <lastmod>2025-10-02T12:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/ai-scream/</loc>
+    <lastmod>2025-10-02T12:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/ai-tools/</loc>
+    <lastmod>2025-10-02T12:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/categories/design/</loc>
+    <lastmod>2025-10-02T12:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/design/</loc>
+    <lastmod>2025-10-02T12:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/heavy-users/</loc>
+    <lastmod>2025-10-02T12:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/posts/ai_scream_heavy_users_survey_vietnamese/</loc>
+    <lastmod>2025-10-02T12:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/categories/survey/</loc>
+    <lastmod>2025-10-02T12:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/survey/</loc>
+    <lastmod>2025-10-02T12:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/abema/</loc>
+    <lastmod>2025-10-02T11:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/ai-hallucination/</loc>
+    <lastmod>2025-10-02T11:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/ai-safety/</loc>
+    <lastmod>2025-10-02T11:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/automated-reasoning/</loc>
+    <lastmod>2025-10-02T11:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/categories/aws/</loc>
+    <lastmod>2025-10-02T11:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/aws/</loc>
+    <lastmod>2025-10-02T11:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/cyberagent/</loc>
+    <lastmod>2025-10-02T11:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/posts/cyberagent_automated_reasoning_checks_vietnamese/</loc>
+    <lastmod>2025-10-02T11:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/ai-coding/</loc>
+    <lastmod>2025-10-02T10:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/claude-code/</loc>
+    <lastmod>2025-10-02T10:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/posts/qiita_claude_vs_codex_comparison_2025_vietnamese/</loc>
+    <lastmod>2025-10-02T10:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/codex-cli/</loc>
+    <lastmod>2025-10-02T10:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/categories/coding-tools/</loc>
+    <lastmod>2025-10-02T10:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/comparison/</loc>
+    <lastmod>2025-10-02T10:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/openai/</loc>
+    <lastmod>2025-10-02T10:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/review/</loc>
+    <lastmod>2025-10-02T10:00:00+07:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/about/</loc>
   </url>

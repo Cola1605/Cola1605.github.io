@@ -6,6 +6,56 @@
     <description>Recent content in Categories on Blog của Khoa</description>
     <generator>Hugo</generator>
     <language>vi</language>
+    <lastBuildDate>Thu, 02 Oct 2025 13:00:00 +0700</lastBuildDate>
     <atom:link href="https://cola1605.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Development Tools</title>
+      <link>https://cola1605.github.io/categories/development-tools/</link>
+      <pubDate>Thu, 02 Oct 2025 13:00:00 +0700</pubDate>
+      <guid>https://cola1605.github.io/categories/development-tools/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>https://cola1605.github.io/categories/technology/</link>
+      <pubDate>Thu, 02 Oct 2025 13:00:00 +0700</pubDate>
+      <guid>https://cola1605.github.io/categories/technology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI</title>
+      <link>https://cola1605.github.io/categories/ai/</link>
+      <pubDate>Thu, 02 Oct 2025 12:00:00 +0700</pubDate>
+      <guid>https://cola1605.github.io/categories/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Design</title>
+      <link>https://cola1605.github.io/categories/design/</link>
+      <pubDate>Thu, 02 Oct 2025 12:00:00 +0700</pubDate>
+      <guid>https://cola1605.github.io/categories/design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Survey</title>
+      <link>https://cola1605.github.io/categories/survey/</link>
+      <pubDate>Thu, 02 Oct 2025 12:00:00 +0700</pubDate>
+      <guid>https://cola1605.github.io/categories/survey/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AWS</title>
+      <link>https://cola1605.github.io/categories/aws/</link>
+      <pubDate>Thu, 02 Oct 2025 11:00:00 +0700</pubDate>
+      <guid>https://cola1605.github.io/categories/aws/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Coding Tools</title>
+      <link>https://cola1605.github.io/categories/coding-tools/</link>
+      <pubDate>Thu, 02 Oct 2025 10:00:00 +0700</pubDate>
+      <guid>https://cola1605.github.io/categories/coding-tools/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

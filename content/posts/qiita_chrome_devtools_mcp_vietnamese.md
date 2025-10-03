@@ -1,6 +1,6 @@
 ---
 title: "Chrome DevTools MCP tự động hóa kiểm tra phát triển Web! Khác gì với Playwright MCP?"
-date: 2025-10-03T15:00:00+07:00
+date: 2025-10-02T13:00:00+07:00
 draft: false
 tags: ["MCP", "Chrome DevTools", "Playwright", "Claude", "Web Development", "Automation"]
 categories: ["Technology", "Development Tools"]
