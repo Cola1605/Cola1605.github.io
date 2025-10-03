@@ -1,0 +1,7 @@
+{{- $.Scratch.Add "index" slice -}}
+{{- range $index, $page := .Site.RegularPages -}}
+    {{- if and (ne $page.Params.draft true) (ne $page.Params.search false) -}}
+        {{- $.Scratch.Add "index" (dict "title" $page.Title "href" $page.Permalink "body" ($page.Plain) "summary" ($page.Summary | plainify) "date" ($page.Date.Format "2006-01-02")) -}}
+    {{- end -}}
+{{- end -}}
+{{- $.Scratch.Get "index" | jsonify -}}

@@ -6,6 +6,9 @@ theme = ""
 disqusShortname = ""
 googleAnalytics = ""
 
+[outputs]
+  home = ["HTML", "JSON"]
+  
 [Author]
   name = "Cola1605"
   bio = "Chuyên gia về AI, lập trình và công nghệ. Chia sẻ kiến thức và kinh nghiệm thực tế."
