@@ -437,7 +437,7 @@ body {
 
 /* ===== SIDEBAR STYLES ===== */
 .sidebar {
-  flex: 0 0 360px; /* Tăng width lên 360px cho desktop */
+  flex: 0 0 360px; /* Tăng width từ 300px lên 320px */
   display: flex;
   flex-direction: column;
   gap: 24px;
@@ -447,15 +447,19 @@ body {
   max-height: calc(100vh - 120px);
   overflow-y: auto;
   overflow-x: visible;
-  min-width: 360px; /* Đảm bảo min-width lớn hơn */
+  min-width: 360px; /* Đảm bảo min-width */
+  width: 360px; /* Force width cụ thể */
+  box-sizing: border-box;
 }
 
 .widget {
   background: var(--bg-primary);
   border-radius: var(--radius-lg);
   box-shadow: var(--shadow-md);
-  overflow: hidden;
+  overflow: visible; /* Thay vì hidden */
   transition: transform 0.2s ease, box-shadow 0.2s ease;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .widget:hover {
@@ -534,24 +538,25 @@ body {
 
 /* ===== SEARCH WIDGET ===== */
 .widget-search .widget__form {
-  padding: 24px 28px; /* Tăng padding cho desktop */
-  display: flex;
-  gap: 12px; /* Tăng gap cho thoải mái hơn */
-  flex-wrap: nowrap;
-  align-items: stretch;
+  padding: 20px 24px;
+  display: grid;
+  grid-template-columns: 1fr auto; /* Input takes remaining space, button auto */
+  gap: 10px;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .widget__field {
-  flex: 1;
-  min-width: 0;
-  padding: 12px 18px; /* Tăng padding */
+  grid-column: 1;
+  padding: 10px 14px;
   border: 1px solid var(--border-color);
   border-radius: var(--radius-sm);
-  font-size: 15px; /* Tăng font size */
+  font-size: 14px;
   background: var(--bg-secondary);
   color: var(--text-primary);
   transition: border-color 0.2s ease, box-shadow 0.2s ease;
   box-sizing: border-box;
+  min-width: 0;
 }
 
 .widget__field:focus {
@@ -561,20 +566,19 @@ body {
 }
 
 .widget__submit {
-  flex-shrink: 0;
-  flex-grow: 0;
-  padding: 12px 20px; /* Tăng padding cho button */
+  grid-column: 2;
+  padding: 10px 16px;
   background: var(--primary-color);
   color: var(--text-white);
   border: none;
   border-radius: var(--radius-sm);
-  font-size: 14px; /* Font size bình thường */
+  font-size: 14px;
   font-weight: 500;
   cursor: pointer;
   transition: background 0.2s ease;
   white-space: nowrap;
-  min-width: 100px; /* Tăng min-width cho text "Tìm kiếm" */
   box-sizing: border-box;
+  text-align: center;
 }
 
 .widget__submit:hover {
