@@ -1,3 +1,11 @@
+---
+title: "Kỹ sư cần biết về chiến lược kinh doanh"
+date: 2025-10-03T18:00:00+07:00
+categories: ["Business", "Technology", "Strategy"]
+tags: ["Business Strategy", "Engineer", "Career", "Management", "Leadership", "AI"]
+description: "Những kiến thức về chiến lược kinh doanh mà kỹ sư cần nắm vững để phát triển sự nghiệp"
+---
+
 # Kỹ sư cần biết về chiến lược kinh doanh
 
 ## Thông tin bài viết

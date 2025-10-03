@@ -1,3 +1,11 @@
+---
+title: "CyberAgent AI Studio: Tips và công nghệ Virtual Production để quảng cáo hiệu quả"
+date: 2025-10-03T13:00:00+07:00
+categories: ["AI", "Technology", "Business"]
+tags: ["CyberAgent", "AI Studio", "Virtual Production", "Advertising", "Commercial", "AI"]
+description: "Khám phá Extreme AI Odaiba Studio Tips và công nghệ Virtual Production từ CyberAgent"
+---
+
 # "Extreme AI Odaiba Studio Tips" #3 Kết Hợp Công Nghệ Studio và AI Sinh Tạo để Đạt Được Hiệu Quả Quảng Cáo và Chất Lượng Cao ~ Phần "Promise" ~
 
 ## Thông Tin Bài Viết

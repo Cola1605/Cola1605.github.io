@@ -1,3 +1,11 @@
+---
+title: "Prompt Giáo Dục Nâng Cao Trình Độ 'Hướng Dẫn' Cho AI Agent (Cursor/Claude Code và các công cụ khác)"
+date: 2025-10-03T09:00:00+07:00
+categories: ["AI", "Development Tools", "Productivity"]
+tags: ["AI Agent", "Prompt Engineering", "Cursor", "Claude Code", "AI Programming", "Development"]
+description: "Framework đánh giá và cải thiện prompt cho AI Agent, từ hướng dẫn mơ hồ đến chỉ dẫn chính xác giúp tăng hiệu quả lập trình"
+---
+
 # Prompt Giáo Dục Nâng Cao Trình Độ "Hướng Dẫn" Cho AI Agent (Cursor/Claude Code và các công cụ khác)
 
 **Tác giả**: @WdknWdkn (Kentaro Wada)  

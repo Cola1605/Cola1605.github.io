@@ -1,3 +1,11 @@
+---
+title: "Báo cáo Hoạt động Developers Desk #7: Chiến lược nội dung và phát triển blog"
+date: 2025-10-03T14:00:00+07:00
+categories: ["Technology", "Development", "Content Strategy"]
+tags: ["CyberAgent", "Developers Desk", "Tech Blog", "Content Strategy", "Developer Experience"]
+description: "Báo cáo hoạt động của Developers Desk về chiến lược nội dung và cải thiện chất lượng blog"
+---
+
 # Báo cáo Hoạt động Developers Desk #7
 
 **Nguồn**: CA Tech Portal  
