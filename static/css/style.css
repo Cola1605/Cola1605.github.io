@@ -44,6 +44,34 @@
   box-sizing: border-box;
 }
 
+/* Responsive Images */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+/* Ensure images in content don't overflow */
+.content img,
+.post__content img,
+.list__excerpt img,
+article img {
+  max-width: 100%;
+  height: auto;
+  border-radius: var(--radius-sm);
+  box-shadow: var(--shadow-sm);
+  margin: 1rem auto;
+  display: block;
+}
+
+/* Specific handling for very large images */
+img[width], img[height] {
+  width: auto !important;
+  height: auto !important;
+  max-width: 100% !important;
+}
+
 /* Base Styles */
 body {
   margin: 0;
@@ -1024,6 +1052,62 @@ a:focus,
 button:focus {
   outline: 2px solid var(--primary-color);
   outline-offset: 2px;
+}
+
+/* ===== ANIMATIONS ===== */
+/* ===== RESPONSIVE IMAGE ENHANCEMENTS ===== */
+
+/* Prevent layout shift from images */
+.content, .post__content, .list__excerpt {
+  overflow: hidden;
+}
+
+/* Handle images in different contexts */
+figure {
+  margin: 1.5rem auto;
+  text-align: center;
+}
+
+figure img {
+  margin-bottom: 0.5rem;
+}
+
+figcaption {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  font-style: italic;
+}
+
+/* Ensure iframe and video responsiveness too */
+iframe, video, embed {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Background images should not overflow */
+.post, .list__item {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* Additional responsive breakpoints for images */
+@media (max-width: 768px) {
+  .content img,
+  .post__content img,
+  .list__excerpt img {
+    margin: 0.75rem auto;
+    border-radius: var(--radius-sm);
+  }
+}
+
+@media (max-width: 480px) {
+  .content img,
+  .post__content img,
+  .list__excerpt img {
+    margin: 0.5rem auto;
+    max-width: calc(100vw - 2rem);
+  }
 }
 
 /* ===== ANIMATIONS ===== */
