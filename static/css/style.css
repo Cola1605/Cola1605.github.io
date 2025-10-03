@@ -532,10 +532,12 @@ body {
   padding: 20px 24px;
   display: flex;
   gap: 8px;
+  flex-wrap: nowrap; /* Đảm bảo không wrap xuống dòng */
 }
 
 .widget__field {
   flex: 1;
+  min-width: 0; /* Cho phép shrink */
   padding: 10px 16px;
   border: 1px solid var(--border-color);
   border-radius: var(--radius-sm);
@@ -552,6 +554,7 @@ body {
 }
 
 .widget__submit {
+  flex-shrink: 0; /* Không cho button bị shrink */
   padding: 10px 16px;
   background: var(--primary-color);
   color: var(--text-white);
@@ -561,6 +564,8 @@ body {
   font-weight: 500;
   cursor: pointer;
   transition: background 0.2s ease;
+  white-space: nowrap; /* Không cho text wrap */
+  min-width: auto;
 }
 
 .widget__submit:hover {
@@ -1033,6 +1038,37 @@ body {
   
   .widget-search .widget__form {
     padding: 16px 20px;
+    gap: 6px; /* Giảm gap trên mobile */
+  }
+  
+  .widget__field {
+    padding: 8px 12px;
+    font-size: 14px;
+  }
+  
+  .widget__submit {
+    padding: 8px 12px;
+    font-size: 13px;
+    min-width: 70px; /* Đảm bảo button có width tối thiểu */
+  }
+}
+
+/* Extra small devices */
+@media (max-width: 480px) {
+  .widget-search .widget__form {
+    padding: 12px 16px;
+    gap: 4px;
+  }
+  
+  .widget__field {
+    padding: 8px 10px;
+    font-size: 13px;
+  }
+  
+  .widget__submit {
+    padding: 8px 10px;
+    font-size: 12px;
+    min-width: 60px;
   }
 }
 
