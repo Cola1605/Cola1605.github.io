@@ -1,9 +1,73 @@
 {{ define "main" }}
+<main class="main" role="main">
   <article class="post">
-    <h1>{{ .Title }}</h1>
-    <p class="meta">{{ .Date.Format "02/01/2006" }} {{ with .Params.tags }}• Tags: {{ delimit . ", " }}{{ end }}</p>
-    <div class="content">
+    <header class="post__header">
+      <h1 class="post__title">{{ .Title }}</h1>
+      
+      {{ if not .Params.hideDate }}
+      <div class="post__meta meta">
+        <div class="meta__item-datetime meta__item">
+          <svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28">
+            <path d="m15 0c8.3 0 15 6.7 15 15s-6.7 15-15 15-15-6.7-15-15 6.7-15 15-15zm0 28c7.2 0 13-5.8 13-13s-5.8-13-13-13-13 5.8-13 13 5.8 13 13 13zm5-13h-6v-6c0-0.6-0.4-1-1-1s-1 0.4-1 1v7c0 0.6 0.4 1 1 1h7c0.6 0 1-0.4 1-1s-0.4-1-1-1z"/>
+          </svg>
+          <time class="meta__text" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+            {{ .Date.Format "02/01/2006" }}
+          </time>
+        </div>
+        
+        {{ if .Params.categories }}
+        <div class="meta__item-categories meta__item">
+          <svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16">
+            <path d="m7 2l1 2h8v11h-16v-13z"/>
+          </svg>
+          <span class="meta__text">
+            {{ range $i, $category := .Params.categories }}
+              {{ if $i }}, {{ end }}
+              <a class="meta__link" href="{{ "/categories/" | relURL }}{{ $category | urlize }}" rel="category">{{ $category }}</a>
+            {{ end }}
+          </span>
+        </div>
+        {{ end }}
+        
+        {{ if .Params.tags }}
+        <div class="meta__item-tags meta__item">
+          <svg class="meta__icon icon icon-tag" width="16" height="16" viewBox="0 0 32 32">
+            <path d="m17.5 1.969l12.5 12.5-15 15-12.5-12.5v-12.5z"/>
+            <path d="m23 8c0 1.105-0.895 2-2 2s-2-0.895-2-2 0.895-2 2-2 2 0.895 2 2z"/>
+          </svg>
+          <span class="meta__text">{{ delimit .Params.tags ", " }}</span>
+        </div>
+        {{ end }}
+      </div>
+      {{ end }}
+    </header>
+    
+    <div class="post__content content">
       {{ .Content }}
     </div>
+    
+    {{ if .Params.showRelated | default true }}
+    {{ $related := .Site.RegularPages.Related . | first 3 }}
+    {{ if $related }}
+    <footer class="post__footer">
+      <section class="related-posts">
+        <h3 class="related-posts__title">Bài viết liên quan</h3>
+        <div class="related-posts__list">
+          {{ range $related }}
+          <article class="related-post">
+            <h4 class="related-post__title">
+              <a href="{{ .RelPermalink }}" rel="bookmark">{{ .Title }}</a>
+            </h4>
+            <time class="related-post__date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+              {{ .Date.Format "02/01/2006" }}
+            </time>
+          </article>
+          {{ end }}
+        </div>
+      </section>
+    </footer>
+    {{ end }}
+    {{ end }}
   </article>
+</main>
 {{ end }}

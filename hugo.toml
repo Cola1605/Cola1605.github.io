@@ -2,7 +2,7 @@ baseURL = "https://cola1605.github.io"
 title = "Blog của Khoa"
 languageCode = "vi"
 
-theme = "Mainroad"
+theme = ""
 disqusShortname = ""
 googleAnalytics = ""
 
@@ -26,7 +26,7 @@ googleAnalytics = ""
 
 [Params.sidebar]
   home = "right"
-  list = "right"
+  list = "right"  
   single = "right"
   widgets = ["search", "recent", "categories", "taglist"]
 
@@ -38,11 +38,20 @@ googleAnalytics = ""
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+      
+[markup.highlight]
+  style = "github"
+  lineNos = true
+  lineNumbersInTable = false
+  
 [pagination]
   pagerSize = 10
+  
 canonifyURLs = true
 relativeURLs = false
 uglyURLs = false
+enableEmoji = true
+summaryLength = 70
 
 [[menu.main]]
   name = "Trang chủ"
