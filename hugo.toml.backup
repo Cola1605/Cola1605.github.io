@@ -1,16 +1,45 @@
-baseURL = "https://Cola1605.github.io/System_News/"
-languageCode = "vi"
+baseURL = "https://Cola1605.github.io/System_News"
 title = "Blog của Khoa"
-enableRobotsTXT = true
+languageCode = "vi"
 
-[pagination]
-  pagerSize = 10
+theme = "Mainroad"
+disqusShortname = ""
+googleAnalytics = ""
 
-[params]
+[Author]
+  name = "Cola1605"
+  bio = "Chuyên gia về AI, lập trình và công nghệ. Chia sẻ kiến thức và kinh nghiệm thực tế."
+  avatar = "img/avatar.png"
+
+[Params]
   description = "Blog cá nhân chia sẻ kiến thức về lập trình, AI và công nghệ."
-  author = "Cola1605"
+  opengraph = true
+  twitter_cards = false
+  readmore = true
+  authorbox = true
+  pager = true
+  post_meta = ["date", "categories"]
+  mainSections = ["posts"]
+
+[Params.logo]
+  subtitle = "AI & Technology Blog"
+
+[Params.sidebar]
+  home = "right"
+  list = "right"
+  single = "right"
+  widgets = ["search", "recent", "categories", "taglist"]
+
+[Params.widgets]
+  recent_num = 5
+  tags_counter = true
 
 [markup]
-  [markup.goldmark.renderer]
-    unsafe = true
-theme = "Mainroad"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+[pagination]
+  pagerSize = 10
+canonifyURLs = true
+relativeURLs = false
+uglyURLs = false

@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Blog của Khoa</title>
-    <link>https://Cola1605.github.io/System_News/tags/</link>
+    <link>https://cola1605.github.io/tags/</link>
     <description>Recent content in Tags on Blog của Khoa</description>
     <generator>Hugo</generator>
     <language>vi</language>
     <lastBuildDate>Thu, 02 Oct 2025 18:00:00 +0900</lastBuildDate>
-    <atom:link href="https://Cola1605.github.io/System_News/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cola1605.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
-      <link>https://Cola1605.github.io/System_News/tags/ai/</link>
+      <link>https://cola1605.github.io/tags/ai/</link>
       <pubDate>Thu, 02 Oct 2025 18:00:00 +0900</pubDate>
-      <guid>https://Cola1605.github.io/System_News/tags/ai/</guid>
+      <guid>https://cola1605.github.io/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Automation</title>
-      <link>https://Cola1605.github.io/System_News/tags/automation/</link>
+      <link>https://cola1605.github.io/tags/automation/</link>
       <pubDate>Thu, 02 Oct 2025 18:00:00 +0900</pubDate>
-      <guid>https://Cola1605.github.io/System_News/tags/automation/</guid>
+      <guid>https://cola1605.github.io/tags/automation/</guid>
       <description></description>
     </item>
     <item>
       <title>Coding</title>
-      <link>https://Cola1605.github.io/System_News/tags/coding/</link>
+      <link>https://cola1605.github.io/tags/coding/</link>
       <pubDate>Thu, 02 Oct 2025 18:00:00 +0900</pubDate>
-      <guid>https://Cola1605.github.io/System_News/tags/coding/</guid>
+      <guid>https://cola1605.github.io/tags/coding/</guid>
       <description></description>
     </item>
     <item>
       <title>Development Tools</title>
-      <link>https://Cola1605.github.io/System_News/tags/development-tools/</link>
+      <link>https://cola1605.github.io/tags/development-tools/</link>
       <pubDate>Thu, 02 Oct 2025 18:00:00 +0900</pubDate>
-      <guid>https://Cola1605.github.io/System_News/tags/development-tools/</guid>
+      <guid>https://cola1605.github.io/tags/development-tools/</guid>
       <description></description>
     </item>
     <item>
       <title>Productivity</title>
-      <link>https://Cola1605.github.io/System_News/tags/productivity/</link>
+      <link>https://cola1605.github.io/tags/productivity/</link>
       <pubDate>Thu, 02 Oct 2025 18:00:00 +0900</pubDate>
-      <guid>https://Cola1605.github.io/System_News/tags/productivity/</guid>
+      <guid>https://cola1605.github.io/tags/productivity/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>https://Cola1605.github.io/System_News/tags/hugo/</link>
+      <link>https://cola1605.github.io/tags/hugo/</link>
       <pubDate>Thu, 02 Oct 2025 17:30:00 +0900</pubDate>
-      <guid>https://Cola1605.github.io/System_News/tags/hugo/</guid>
+      <guid>https://cola1605.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Static Site</title>
-      <link>https://Cola1605.github.io/System_News/tags/static-site/</link>
+      <link>https://cola1605.github.io/tags/static-site/</link>
       <pubDate>Thu, 02 Oct 2025 17:30:00 +0900</pubDate>
-      <guid>https://Cola1605.github.io/System_News/tags/static-site/</guid>
+      <guid>https://cola1605.github.io/tags/static-site/</guid>
       <description></description>
     </item>
     <item>
       <title>Tutorial</title>
-      <link>https://Cola1605.github.io/System_News/tags/tutorial/</link>
+      <link>https://cola1605.github.io/tags/tutorial/</link>
       <pubDate>Thu, 02 Oct 2025 17:30:00 +0900</pubDate>
-      <guid>https://Cola1605.github.io/System_News/tags/tutorial/</guid>
+      <guid>https://cola1605.github.io/tags/tutorial/</guid>
       <description></description>
     </item>
     <item>
       <title>Web Development</title>
-      <link>https://Cola1605.github.io/System_News/tags/web-development/</link>
+      <link>https://cola1605.github.io/tags/web-development/</link>
       <pubDate>Thu, 02 Oct 2025 17:30:00 +0900</pubDate>
-      <guid>https://Cola1605.github.io/System_News/tags/web-development/</guid>
+      <guid>https://cola1605.github.io/tags/web-development/</guid>
       <description></description>
     </item>
     <item>
       <title>Machine Learning</title>
-      <link>https://Cola1605.github.io/System_News/tags/machine-learning/</link>
+      <link>https://cola1605.github.io/tags/machine-learning/</link>
       <pubDate>Thu, 02 Oct 2025 16:56:15 +0900</pubDate>
-      <guid>https://Cola1605.github.io/System_News/tags/machine-learning/</guid>
+      <guid>https://cola1605.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Programming</title>
-      <link>https://Cola1605.github.io/System_News/tags/programming/</link>
+      <link>https://cola1605.github.io/tags/programming/</link>
       <pubDate>Thu, 02 Oct 2025 16:56:15 +0900</pubDate>
-      <guid>https://Cola1605.github.io/System_News/tags/programming/</guid>
+      <guid>https://cola1605.github.io/tags/programming/</guid>
       <description></description>
     </item>
     <item>
       <title>Technology</title>
-      <link>https://Cola1605.github.io/System_News/tags/technology/</link>
+      <link>https://cola1605.github.io/tags/technology/</link>
       <pubDate>Thu, 02 Oct 2025 16:56:15 +0900</pubDate>
-      <guid>https://Cola1605.github.io/System_News/tags/technology/</guid>
+      <guid>https://cola1605.github.io/tags/technology/</guid>
       <description></description>
     </item>
     <item>
       <title>Intro</title>
-      <link>https://Cola1605.github.io/System_News/tags/intro/</link>
+      <link>https://cola1605.github.io/tags/intro/</link>
       <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://Cola1605.github.io/System_News/tags/intro/</guid>
+      <guid>https://cola1605.github.io/tags/intro/</guid>
       <description></description>
     </item>
   </channel>
