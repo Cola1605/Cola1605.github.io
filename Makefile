@@ -15,6 +15,9 @@ help:
 	@echo "📊 status       - Show build status and file counts"
 	@echo "📝 new          - Create new blog post (usage: make new TITLE='Post Title')"
 	@echo "🇯🇵 new-ja       - Create new Japanese blog post (usage: make new-ja TITLE='Post Title')"
+	@echo "🌐 translate     - Auto-translate Vietnamese posts to Japanese"
+	@echo "🔄 translate-all - Force translate all Vietnamese posts to Japanese"
+	@echo "🧹 cleanup-ja    - Clean up Japanese translations to improve quality"
 	@echo "💡 help         - Show this help message"
 
 # Full build
@@ -105,6 +108,27 @@ new-ja:
 	echo "" >> $$FILENAME; \
 	echo "記事の内容..." >> $$FILENAME; \
 	echo "✅ Created: $$FILENAME"
+
+# Auto-translate Vietnamese posts to Japanese
+translate:
+	@echo "🌐 Auto-translating Vietnamese posts to Japanese..."
+	./scripts/auto-translate.sh
+
+# Force translate all Vietnamese posts
+translate-all:
+	@echo "🔄 Force translating ALL Vietnamese posts to Japanese..."
+	FORCE_TRANSLATE_ALL=true ./scripts/auto-translate.sh
+
+# Clean up Japanese translations
+cleanup-ja:
+	@echo "🧹 Cleaning up Japanese translations..."
+	@for file in content/ja/posts/*.md; do \
+		if [ -f "$$file" ]; then \
+			echo "🧹 Cleaning: $$file"; \
+			python3 scripts/cleanup_translation.py "$$file"; \
+		fi; \
+	done
+	@echo "✅ Japanese translation cleanup completed"
 
 # Development server with auto-reload
 serve:
