@@ -63,3 +63,4 @@ Chúc bạn viết blog thật vui! ✨
 # Cola1605.github.io
 Personal GitHub Pages Blog
 >>>>>>> 708a7c8075c6e7dfb5cbdf81f6c7bbea04f6a622
+<- link "役員へ紹介したサイバーエージェントの最先端AI技術を学ぼう！「CA SOTA」" [ref=e357] Force rebuild for pagination fix Fri Oct  3 16:46:31 JST 2025 -->
