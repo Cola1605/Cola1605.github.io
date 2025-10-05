@@ -97,20 +97,7 @@
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id="giới-thiệu"&gt;Giới thiệu&lt;/h2&gt;
-&lt;p&gt;Là một programmer đã bước vào năm thứ 5, tôi đã thực sự gặp khó khăn trong việc lựa chọn công cụ. Giữa việc các công cụ mới xuất hiện hàng ngày, tôi đã phải trăn trở với những câu hỏi như &amp;ldquo;Liệu công cụ này có thực sự hữu ích không?&amp;rdquo; và &amp;ldquo;Có đáng để dành thời gian học không?&amp;rdquo;.&lt;/p&gt;</description></item><item><title>Claude Code vs Codex CLI - Chọn cái nào? Phân tích từ kinh nghiệm thực tế</title><link>https://cola1605.github.io/posts/qiita_claude_vs_codex_comparison_2025_vietnamese/</link><pubDate>Thu, 02 Oct 2025 14:00:00 +0700</pubDate><guid>https://cola1605.github.io/posts/qiita_claude_vs_codex_comparison_2025_vietnamese/</guid><description>&lt;h1 id="claude-code-vs-codex-cli---chọn-cái-nào-phân-tích-từ-kinh-nghiệm-thực-tế-sử-dụng-cả-hai-công-cụ"&gt;Claude Code vs Codex CLI - Chọn cái nào? Phân tích từ kinh nghiệm thực tế sử dụng cả hai công cụ&lt;/h1&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Thông tin bài viết&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Tác giả&lt;/strong&gt;: @tomada (とまだ@AI駆動開発)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tổ chức&lt;/strong&gt;: Learning Next&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Ngày xuất bản&lt;/strong&gt;: 2025-09-23&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Ngày cập nhật&lt;/strong&gt;: 2025-09-23&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tags&lt;/strong&gt;: MCP, OpenAI, AI駆動開発, ClaudeCode, CodexCLI&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tương tác&lt;/strong&gt;: 👍 17 | 📚 9&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;URL&lt;/strong&gt;: &lt;a href="https://qiita.com/tomada/items/c369d5f28142a2599a36"&gt;https://qiita.com/tomada/items/c369d5f28142a2599a36&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/blockquote&gt;
-&lt;h2 id="tóm-tắt"&gt;Tóm tắt&lt;/h2&gt;
-&lt;p&gt;Bài viết so sánh thực tế giữa Claude Code và Codex CLI. Dựa trên kinh nghiệm sử dụng thực tế cả hai công cụ trong công việc, tác giả phân tích chi tiết từ 10 góc độ (giá cả, chất lượng code, khả năng tùy chỉnh, dễ học, phát triển nhóm, v.v.) và đưa ra các điểm đặc trưng cũng như cách sử dụng phù hợp cho từng công cụ.&lt;/p&gt;</description></item><item><title>Chrome DevTools MCP tự động hóa kiểm tra phát triển Web! Khác gì với Playwright MCP?</title><link>https://cola1605.github.io/posts/qiita_chrome_devtools_mcp_vietnamese/</link><pubDate>Thu, 02 Oct 2025 13:00:00 +0700</pubDate><guid>https://cola1605.github.io/posts/qiita_chrome_devtools_mcp_vietnamese/</guid><description>&lt;h1 id="chrome-devtools-mcp-tự-động-hóa-kiểm-tra-phát-triển-web-khác-gì-với-playwright-mcp"&gt;Chrome DevTools MCP tự động hóa kiểm tra phát triển Web! Khác gì với Playwright MCP?&lt;/h1&gt;
+&lt;p&gt;Là một programmer đã bước vào năm thứ 5, tôi đã thực sự gặp khó khăn trong việc lựa chọn công cụ. Giữa việc các công cụ mới xuất hiện hàng ngày, tôi đã phải trăn trở với những câu hỏi như &amp;ldquo;Liệu công cụ này có thực sự hữu ích không?&amp;rdquo; và &amp;ldquo;Có đáng để dành thời gian học không?&amp;rdquo;.&lt;/p&gt;</description></item><item><title>Chrome DevTools MCP tự động hóa kiểm tra phát triển Web! Khác gì với Playwright MCP?</title><link>https://cola1605.github.io/posts/qiita_chrome_devtools_mcp_vietnamese/</link><pubDate>Thu, 02 Oct 2025 13:00:00 +0700</pubDate><guid>https://cola1605.github.io/posts/qiita_chrome_devtools_mcp_vietnamese/</guid><description>&lt;h1 id="chrome-devtools-mcp-tự-động-hóa-kiểm-tra-phát-triển-web-khác-gì-với-playwright-mcp"&gt;Chrome DevTools MCP tự động hóa kiểm tra phát triển Web! Khác gì với Playwright MCP?&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Tác giả:&lt;/strong&gt; @tomada (とまだ@AI駆動開発)&lt;br&gt;
 &lt;strong&gt;Tổ chức:&lt;/strong&gt; Learning Next&lt;br&gt;
 &lt;strong&gt;Ngày đăng:&lt;/strong&gt; 2025-09-30&lt;br&gt;
@@ -133,7 +120,20 @@
 &lt;strong&gt;Thẻ:&lt;/strong&gt; #ABEMA #AWS #形式手法 #生成AI #設計&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id="giới-thiệu"&gt;Giới thiệu&lt;/h2&gt;
-&lt;p&gt;Xin chào, tôi là Toda Honoka, kỹ sư tốt nghiệp năm 2025 thuộc nhóm phát triển hệ thống phân phối quảng cáo ABEMA của CyberAgent.&lt;/p&gt;</description></item><item><title>Woman AI Meet Lounge: Tăng cường kết nối AI và phụ nữ trong công nghệ</title><link>https://cola1605.github.io/posts/woman_ai_meet_lounge_vietnamese/</link><pubDate>Thu, 02 Oct 2025 10:00:00 +0700</pubDate><guid>https://cola1605.github.io/posts/woman_ai_meet_lounge_vietnamese/</guid><description>&lt;h1 id="tăng-cường-kết-nối-ngang-giữa-các-mảng-kinh-doanh-liên-quan-đến-ai-để-củng-cố-năng-lực-ai-sinh-tạo-toàn-công-ty---sự-kiện-woman-ai-meet-lounge-với-chủ-đề-ai--phụ-nữ"&gt;Tăng cường kết nối ngang giữa các mảng kinh doanh liên quan đến AI để củng cố năng lực AI sinh tạo toàn công ty - Sự kiện &amp;ldquo;Woman AI Meet Lounge&amp;rdquo; với chủ đề AI × Phụ nữ&lt;/h1&gt;
+&lt;p&gt;Xin chào, tôi là Toda Honoka, kỹ sư tốt nghiệp năm 2025 thuộc nhóm phát triển hệ thống phân phối quảng cáo ABEMA của CyberAgent.&lt;/p&gt;</description></item><item><title>Claude Code vs Codex CLI - Chọn cái nào? Phân tích từ kinh nghiệm thực tế</title><link>https://cola1605.github.io/posts/qiita_claude_vs_codex_comparison_2025_vietnamese/</link><pubDate>Thu, 02 Oct 2025 10:00:00 +0700</pubDate><guid>https://cola1605.github.io/posts/qiita_claude_vs_codex_comparison_2025_vietnamese/</guid><description>&lt;h1 id="claude-code-vs-codex-cli---chọn-cái-nào-phân-tích-từ-kinh-nghiệm-thực-tế-sử-dụng-cả-hai-công-cụ"&gt;Claude Code vs Codex CLI - Chọn cái nào? Phân tích từ kinh nghiệm thực tế sử dụng cả hai công cụ&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Thông tin bài viết&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Tác giả&lt;/strong&gt;: @tomada (とまだ@AI駆動開発)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tổ chức&lt;/strong&gt;: Learning Next&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ngày xuất bản&lt;/strong&gt;: 2025-09-23&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ngày cập nhật&lt;/strong&gt;: 2025-09-23&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tags&lt;/strong&gt;: MCP, OpenAI, AI駆動開発, ClaudeCode, CodexCLI&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tương tác&lt;/strong&gt;: 👍 17 | 📚 9&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;URL&lt;/strong&gt;: &lt;a href="https://qiita.com/tomada/items/c369d5f28142a2599a36"&gt;https://qiita.com/tomada/items/c369d5f28142a2599a36&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/blockquote&gt;
+&lt;h2 id="tóm-tắt"&gt;Tóm tắt&lt;/h2&gt;
+&lt;p&gt;Bài viết so sánh thực tế giữa Claude Code và Codex CLI. Dựa trên kinh nghiệm sử dụng thực tế cả hai công cụ trong công việc, tác giả phân tích chi tiết từ 10 góc độ (giá cả, chất lượng code, khả năng tùy chỉnh, dễ học, phát triển nhóm, v.v.) và đưa ra các điểm đặc trưng cũng như cách sử dụng phù hợp cho từng công cụ.&lt;/p&gt;</description></item><item><title>Woman AI Meet Lounge: Tăng cường kết nối AI và phụ nữ trong công nghệ</title><link>https://cola1605.github.io/posts/woman_ai_meet_lounge_vietnamese/</link><pubDate>Thu, 02 Oct 2025 10:00:00 +0700</pubDate><guid>https://cola1605.github.io/posts/woman_ai_meet_lounge_vietnamese/</guid><description>&lt;h1 id="tăng-cường-kết-nối-ngang-giữa-các-mảng-kinh-doanh-liên-quan-đến-ai-để-củng-cố-năng-lực-ai-sinh-tạo-toàn-công-ty---sự-kiện-woman-ai-meet-lounge-với-chủ-đề-ai--phụ-nữ"&gt;Tăng cường kết nối ngang giữa các mảng kinh doanh liên quan đến AI để củng cố năng lực AI sinh tạo toàn công ty - Sự kiện &amp;ldquo;Woman AI Meet Lounge&amp;rdquo; với chủ đề AI × Phụ nữ&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Ngày xuất bản:&lt;/strong&gt; 4 tháng 4, 2025&lt;br&gt;
 &lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://cybar.cag.isca.jp/?p=125055"&gt;https://cybar.cag.isca.jp/?p=125055&lt;/a&gt;&lt;br&gt;
 &lt;strong&gt;Thể loại:&lt;/strong&gt; AI sinh tạo&lt;/p&gt;
@@ -210,4 +210,10 @@
 &lt;li&gt;Kết nối với Bedrock service&lt;/li&gt;
 &lt;li&gt;Bắt đầu sử dụng AI assistant&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Để xem hướng dẫn chi tiết, vui lòng tham khảo &lt;a href="https://cola1605.github.io/posts/qiita_strands_agents_guide_vi/"&gt;bài viết đầy đủ&lt;/a&gt;.&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;Để xem hướng dẫn chi tiết, vui lòng tham khảo &lt;a href="https://cola1605.github.io/posts/qiita_strands_agents_guide_vi/"&gt;bài viết đầy đủ&lt;/a&gt;.&lt;/p&gt;</description></item><item><title/><link>https://cola1605.github.io/posts/qiita_aws_ai_agent_strandsagentcore_vietnamese/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/qiita_aws_ai_agent_strandsagentcore_vietnamese/</guid><description>&lt;h1 id="bắt-đầu-xây-dựng-ai-agent-trên-aws-triển-khai-strands-lên-agentcore"&gt;Bắt đầu xây dựng AI Agent trên AWS! Triển khai Strands lên AgentCore&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Tác giả:&lt;/strong&gt; minorun365&lt;br&gt;
+&lt;strong&gt;Ngày xuất bản:&lt;/strong&gt; 2025-10-04&lt;br&gt;
+&lt;strong&gt;Nguồn:&lt;/strong&gt; &lt;a href="https://qiita.com/minorun365/items/deb10c8e7a6b1219e595"&gt;Qiita&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Tags:&lt;/strong&gt; Python, AWS, AI, StrandsAgents, BedrockAgentCore&lt;/p&gt;
+&lt;h2 id="tóm-tắt"&gt;Tóm tắt&lt;/h2&gt;
+&lt;p&gt;Hướng dẫn thực hành xây dựng và triển khai AI Agent bằng framework Strands và AWS AgentCore. Từ việc tạo AI agent đơn giản 3 dòng code, đến tích hợp công cụ, sử dụng MCP server, cấu trúc multi-agent, và cuối cùng là triển khai trên môi trường serverless.&lt;/p&gt;</description></item></channel></rss>
