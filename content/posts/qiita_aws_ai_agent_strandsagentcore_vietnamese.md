@@ -1,3 +1,12 @@
+---
+title: "Bắt đầu xây dựng AI Agent trên AWS! Triển khai Strands lên AgentCore"
+date: 2025-10-04
+draft: false
+categories: ["AWS", "AI", "Development"]
+tags: ["Python", "AWS", "AI", "StrandsAgents", "BedrockAgentCore", "MCP", "AI-Agent"]
+description: "Hướng dẫn thực hành xây dựng và triển khai AI Agent bằng framework Strands và AWS AgentCore. Từ việc tạo AI agent đơn giản 3 dòng code, đến tích hợp công cụ, sử dụng MCP server, cấu trúc multi-agent, và cuối cùng là triển khai trên môi trường serverless."
+---
+
 # Bắt đầu xây dựng AI Agent trên AWS! Triển khai Strands lên AgentCore
 
 **Tác giả:** minorun365  

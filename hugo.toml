@@ -1,47 +1,6 @@
 baseURL = "https://cola1605.github.io"
 title = "SYSTEM_NEWS"
 languageCode = "vi"
-defaultContentLanguage = "vi"
-defaultContentLanguageInSubdir = false
-
-[languages]
-  [languages.vi]
-    title = "SYSTEM_NEWS"
-    languageName = "Tiếng Việt"
-    weight = 1
-    [languages.vi.params]
-      description = "Blog công nghệ chia sẻ kiến thức về lập trình, AI và công nghệ."
-    [[languages.vi.menu.main]]
-      name = "Trang chủ"
-      url = "/"
-      weight = 10
-    [[languages.vi.menu.main]]
-      name = "Bài viết"
-      url = "/posts/"
-      weight = 20
-    [[languages.vi.menu.main]]
-      name = "Giới thiệu"
-      url = "/about/"
-      weight = 30
-
-  [languages.ja]
-    title = "SYSTEM_NEWS"
-    languageName = "日本語"
-    weight = 2
-    [languages.ja.params]
-      description = "プログラミング、AI、テクノロジーに関する知識を共有するテックブログ。"
-    [[languages.ja.menu.main]]
-      name = "ホーム"
-      url = "/ja/"
-      weight = 10
-    [[languages.ja.menu.main]]
-      name = "記事"
-      url = "/ja/posts/"
-      weight = 20
-    [[languages.ja.menu.main]]
-      name = "について"
-      url = "/ja/about/"
-      weight = 30
 
 theme = ""
 disqusShortname = ""
@@ -72,7 +31,7 @@ googleAnalytics = ""
   home = "right"
   list = "right"  
   single = "right"
-  widgets = ["search", "recent", "categories", "taglist", "language-switcher"]
+  widgets = ["search", "recent", "categories", "taglist"]
 
 [Params.widgets]
   recent_num = 5
@@ -96,3 +55,18 @@ relativeURLs = false
 uglyURLs = false
 enableEmoji = true
 summaryLength = 70
+
+[[menu.main]]
+  name = "Trang chủ"
+  url = "/"
+  weight = 10
+
+[[menu.main]]
+  name = "Bài viết"
+  url = "/posts/"
+  weight = 20
+
+[[menu.main]]
+  name = "Giới thiệu"
+  url = "/about/"
+  weight = 30
