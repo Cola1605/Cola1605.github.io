@@ -401,13 +401,14 @@ body {
 .content pre,
 .list__excerpt pre,
 .post__content pre {
-  background: var(--bg-dark);
-  color: var(--text-white);
+  background: #2d333b;
+  color: #adbac7;
   padding: 20px;
   border-radius: var(--radius-md);
   overflow-x: auto;
   margin: 24px 0;
   box-shadow: var(--shadow-sm);
+  line-height: 1.6;
 }
 
 .content pre code,
@@ -416,8 +417,12 @@ body {
   background: none;
   padding: 0;
   border: none;
-  color: inherit;
+  color: #adbac7 !important;
   font-size: 14px;
+  font-family: var(--font-mono);
+  display: block;
+  white-space: pre;
+  word-wrap: normal;
 }
 
 .content hr,
@@ -1307,4 +1312,99 @@ iframe, video, embed {
   border-color: var(--primary-color);
   box-shadow: 0 0 0 2px rgba(3, 102, 214, 0.1);
   outline: none;
+}
+
+/* ===== CODE SYNTAX HIGHLIGHTING ===== */
+/* Ensure all text in code blocks is visible */
+pre, pre code, pre code * {
+  color: #adbac7 !important;
+}
+
+/* Syntax highlighting colors for code blocks */
+pre .hljs-comment,
+pre .hljs-quote {
+  color: #768390 !important;
+}
+
+pre .hljs-keyword,
+pre .hljs-selector-tag,
+pre .hljs-addition {
+  color: #f47067 !important;
+}
+
+pre .hljs-number,
+pre .hljs-string,
+pre .hljs-meta .hljs-string,
+pre .hljs-literal,
+pre .hljs-doctag,
+pre .hljs-regexp {
+  color: #96d0ff !important;
+}
+
+pre .hljs-title,
+pre .hljs-section,
+pre .hljs-name,
+pre .hljs-selector-id,
+pre .hljs-selector-class {
+  color: #dcbdfb !important;
+}
+
+pre .hljs-attribute,
+pre .hljs-attr,
+pre .hljs-variable,
+pre .hljs-template-variable,
+pre .hljs-class .hljs-title,
+pre .hljs-type {
+  color: #f69d50 !important;
+}
+
+pre .hljs-symbol,
+pre .hljs-bullet,
+pre .hljs-subst,
+pre .hljs-meta,
+pre .hljs-meta .hljs-keyword,
+pre .hljs-selector-attr,
+pre .hljs-selector-pseudo,
+pre .hljs-link {
+  color: #6cb6ff !important;
+}
+
+pre .hljs-built_in,
+pre .hljs-deletion {
+  color: #f47067 !important;
+}
+
+pre .hljs-formula {
+  color: #96d0ff !important;
+}
+
+pre .hljs-emphasis {
+  font-style: italic;
+}
+
+pre .hljs-strong {
+  font-weight: bold;
+}
+
+/* Fix for command line examples */
+pre .command,
+pre .bash,
+pre .shell,
+pre .zsh {
+  color: #adbac7 !important;
+}
+
+/* Ensure line numbers are visible if present */
+pre .line-number {
+  color: #636e7b !important;
+  user-select: none;
+}
+
+/* PowerShell specific */
+pre .hljs-selector-class {
+  color: #6cb6ff !important;
+}
+
+pre .hljs-function {
+  color: #dcbdfb !important;
 }
