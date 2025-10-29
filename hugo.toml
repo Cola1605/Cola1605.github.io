@@ -8,6 +8,10 @@ googleAnalytics = ""
 
 [outputs]
   home = ["HTML", "JSON"]
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
   
 [Author]
   name = "Cola1605"
@@ -31,7 +35,7 @@ googleAnalytics = ""
   home = "right"
   list = "right"  
   single = "right"
-  widgets = ["search", "recent", "categories", "taglist"]
+  widgets = ["search", "recent", "categories", "taglist", "archive"]
 
 [Params.widgets]
   recent_num = 5

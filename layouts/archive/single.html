@@ -1,0 +1,63 @@
+{{- define "main" }}
+{{- $month := .Params.month }}
+{{- $year := substr $month 0 4 }}
+{{- $monthNum := substr $month 5 2 }}
+{{- $monthNames := slice "Tháng 1" "Tháng 2" "Tháng 3" "Tháng 4" "Tháng 5" "Tháng 6" "Tháng 7" "Tháng 8" "Tháng 9" "Tháng 10" "Tháng 11" "Tháng 12" }}
+{{- $monthName := index $monthNames (sub (int $monthNum) 1) }}
+
+<main class="main">
+  <div class="main__header">
+    <h1 class="main__title">📅 {{ $monthName }} {{ $year }}</h1>
+    <p class="main__lead">Danh sách bài viết được đăng trong tháng này</p>
+  </div>
+
+  {{- $pages := where .Site.RegularPages "Type" "posts" }}
+  {{- $filteredPages := slice }}
+  {{- range $pages }}
+    {{- if eq (.Date.Format "2006-01") $month }}
+      {{- $filteredPages = $filteredPages | append . }}
+    {{- end }}
+  {{- end }}
+
+  {{- if $filteredPages }}
+    <div class="main__content">
+      <p><strong>Tổng cộng: {{ len $filteredPages }} bài viết</strong></p>
+      
+      {{- range $filteredPages }}
+      <article class="post">
+        <header class="post__header">
+          <h2 class="post__title">
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          </h2>
+          <div class="post__meta">
+            <time class="post__meta-date" datetime="{{ .Date.Format "2006-01-02" }}">
+              📅 {{ .Date.Format "02/01/2006" }}
+            </time>
+            {{- if .Params.categories }}
+            <span class="post__meta-categories">
+              {{- range $i, $cat := .Params.categories }}
+                {{- if $i }}, {{ end }}
+                <a href="/categories/{{ $cat | urlize }}/">{{ $cat }}</a>
+              {{- end }}
+            </span>
+            {{- end }}
+          </div>
+        </header>
+        {{- if .Params.description }}
+        <div class="post__content">
+          <p>{{ .Params.description }}</p>
+        </div>
+        {{- end }}
+        <footer class="post__footer">
+          <a href="{{ .RelPermalink }}" class="btn">Đọc tiếp →</a>
+        </footer>
+      </article>
+      {{- end }}
+    </div>
+  {{- else }}
+    <div class="main__content">
+      <p>Không có bài viết nào trong tháng này.</p>
+    </div>
+  {{- end }}
+</main>
+{{- end }}

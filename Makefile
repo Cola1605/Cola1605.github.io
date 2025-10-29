@@ -19,12 +19,14 @@ help:
 # Full build
 build:
 	@echo "🔨 Running full Hugo build..."
+	./scripts/generate-archives.sh
 	hugo --gc --minify
 	@echo "✅ Full build completed"
 
 # Incremental build
 incremental:
 	@echo "⚡ Running incremental build..."
+	./scripts/generate-archives.sh
 	./scripts/incremental-build.sh
 
 # Watch for changes
