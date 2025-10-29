@@ -52,7 +52,7 @@ googleAnalytics = ""
   lineNumbersInTable = false
   
 [pagination]
-  pagerSize = 20
+  pagerSize = 10
   
 canonifyURLs = true
 relativeURLs = false
