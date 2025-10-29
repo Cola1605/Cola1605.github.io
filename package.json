@@ -1,0 +1,16 @@
+{
+  "name": "cola1605-github-io",
+  "version": "1.0.0",
+  "description": "Hugo static site with vector search",
+  "scripts": {
+    "generate-embeddings": "node scripts/generate-embeddings.js",
+    "build": "npm run generate-embeddings && hugo --gc --minify"
+  },
+  "dependencies": {
+    "@xenova/transformers": "^2.17.1"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

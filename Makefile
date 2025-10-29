@@ -19,6 +19,8 @@ help:
 # Full build
 build:
 	@echo "🔨 Running full Hugo build..."
+	@echo "📊 Generating embeddings..."
+	npm run generate-embeddings
 	./scripts/generate-archives.sh
 	hugo --gc --minify
 	@echo "✅ Full build completed"
@@ -26,6 +28,8 @@ build:
 # Incremental build
 incremental:
 	@echo "⚡ Running incremental build..."
+	@echo "📊 Generating embeddings..."
+	npm run generate-embeddings
 	./scripts/generate-archives.sh
 	./scripts/incremental-build.sh
 

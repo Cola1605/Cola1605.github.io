@@ -5,4 +5,5 @@
 <link rel="stylesheet" href="{{ "css/style.css" | resources.Get | resources.Minify | resources.Fingerprint | relURL }}">
 <link rel="canonical" href="{{ .Permalink }}">
 {{ if .IsHome }}<meta name="robots" content="index,follow">{{ end }}
+<script src="{{ "js/vector-search.js" | relURL }}" defer></script>
 <script src="{{ "js/search.js" | relURL }}" defer></script>
