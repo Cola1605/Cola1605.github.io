@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Test Archive Widget</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; }
+        .info { background: #f0f0f0; padding: 15px; border-radius: 8px; margin: 20px 0; }
+        .widget-archive { border: 2px solid #0366d6; padding: 15px; border-radius: 8px; background: white; }
+        .widget__title { color: #0366d6; font-size: 1.2rem; font-weight: bold; margin-bottom: 10px; }
+        .widget__list { list-style: none; padding: 0; }
+        .widget__item { margin: 8px 0; }
+        .widget__link { color: #333; text-decoration: none; display: flex; justify-content: space-between; padding: 8px; }
+        .widget__link:hover { background: #f6f8fa; border-radius: 4px; }
+        .widget__counter { background: #e1e4e8; padding: 2px 8px; border-radius: 12px; font-size: 0.9rem; }
+    </style>
+</head>
+<body>
+    <h1>🔍 Test Archive Widget Display</h1>
+    
+    <div class="info">
+        <h2>Trạng thái:</h2>
+        <p>✅ Archive widget đã được thêm vào website</p>
+        <p>✅ Widget xuất hiện ở sidebar bên phải</p>
+        <p>✅ Link archive: <a href="https://cola1605.github.io/archive/2025-10/" target="_blank">https://cola1605.github.io/archive/2025-10/</a></p>
+    </div>
+
+    <div class="info">
+        <h2>📋 Hướng dẫn xem widget trên website:</h2>
+        <ol>
+            <li><strong>Clear browser cache:</strong>
+                <ul>
+                    <li>Chrome/Edge: Ctrl+Shift+Delete (Windows) hoặc Cmd+Shift+Delete (Mac)</li>
+                    <li>Hoặc Hard Refresh: Ctrl+F5 (Windows) hoặc Cmd+Shift+R (Mac)</li>
+                </ul>
+            </li>
+            <li><strong>Mở trang:</strong> <a href="https://cola1605.github.io" target="_blank">https://cola1605.github.io</a></li>
+            <li><strong>Scroll xuống sidebar bên phải</strong> (dưới phần "Thẻ")</li>
+            <li><strong>Tìm section:</strong> "📅 Lưu trữ theo tháng"</li>
+        </ol>
+    </div>
+
+    <div class="info">
+        <h2>🎨 Widget sẽ trông như thế này:</h2>
+    </div>
+
+    <div class="widget-archive widget">
+        <h4 class="widget__title">📅 Lưu trữ theo tháng</h4>
+        <div class="widget__content">
+            <ul class="widget__list">
+                <li class="widget__item">
+                    <a class="widget__link" href="https://cola1605.github.io/archive/2025-10/" target="_blank">
+                        Tháng 10 2025 <span class="widget__counter">(70)</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="info">
+        <h2>🔗 Test Links:</h2>
+        <ul>
+            <li><a href="https://cola1605.github.io" target="_blank">Homepage</a></li>
+            <li><a href="https://cola1605.github.io/archive/2025-10/" target="_blank">Archive Tháng 10 2025</a></li>
+            <li><a href="https://cola1605.github.io/posts/" target="_blank">All Posts</a></li>
+        </ul>
+    </div>
+
+    <div class="info" style="background: #fff3cd; border: 2px solid #ffc107;">
+        <h2>⚠️ Nếu vẫn không thấy:</h2>
+        <ol>
+            <li>Thử mở <strong>Incognito/Private browsing mode</strong></li>
+            <li>Hoặc thử browser khác (Chrome, Firefox, Safari)</li>
+            <li>Đợi 2-3 phút để GitHub Pages update (thường rất nhanh)</li>
+            <li>Check console browser (F12) xem có lỗi JavaScript không</li>
+        </ol>
+    </div>
+</body>
+</html>

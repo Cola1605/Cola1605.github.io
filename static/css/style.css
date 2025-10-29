@@ -1559,3 +1559,25 @@ pre .hljs-function {
   transform: translateY(-2px);
   box-shadow: var(--shadow-sm);
 }
+
+/* Make archive widget more visible */
+.widget-archive {
+  background: linear-gradient(135deg, #f6f8fa 0%, #ffffff 100%);
+  border: 2px solid #0366d6;
+  border-radius: 8px;
+  padding: 1.25rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 2px 8px rgba(3, 102, 214, 0.1);
+}
+
+.widget-archive .widget__title {
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin-bottom: 1.25rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 3px solid #0366d6;
+  color: #0366d6;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
