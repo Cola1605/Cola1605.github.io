@@ -1612,15 +1612,19 @@ pre .hljs-function {
 }
 
 .pagination__item {
-  padding: 0.4rem 0.75rem;
+  padding: 0;
   background-color: var(--primary-color);
   color: var(--text-white);
   text-decoration: none;
   border-radius: var(--radius-sm);
   font-weight: 500;
-  font-size: 0.8rem;
+  font-size: 0.75rem;
   transition: all 0.2s ease;
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 32px;
+  width: 70px;
 }
 
 .pagination__item:hover {
@@ -1631,9 +1635,9 @@ pre .hljs-function {
 
 .pagination__item--prev,
 .pagination__item--next {
-  min-width: auto;
+  width: 70px;
+  height: 32px;
   text-align: center;
-  padding: 0.4rem 0.6rem;
   font-size: 0.75rem;
 }
 
@@ -1649,9 +1653,9 @@ pre .hljs-function {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  min-width: 32px;
+  width: 32px;
   height: 32px;
-  padding: 0 0.5rem;
+  padding: 0;
   background-color: var(--bg-tertiary);
   color: var(--text-primary);
   text-decoration: none;
@@ -1697,14 +1701,21 @@ pre .hljs-function {
   }
   
   .pagination__item {
-    padding: 0.4rem 0.6rem;
-    font-size: 0.75rem;
+    width: 60px;
+    height: 28px;
+    font-size: 0.7rem;
+  }
+  
+  .pagination__item--prev,
+  .pagination__item--next {
+    width: 60px;
+    height: 28px;
   }
   
   .pagination__number {
-    min-width: 28px;
+    width: 28px;
     height: 28px;
-    font-size: 0.8rem;
+    font-size: 0.75rem;
   }
   
   .pagination__page-info {
