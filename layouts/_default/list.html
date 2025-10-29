@@ -69,20 +69,18 @@
   </div>
 
   <!-- Pagination -->
-  {{ if or .Paginator.HasPrev .Paginator.HasNext }}
+  {{ if gt .Paginator.TotalPages 1 }}
   <nav class="list__pagination pagination">
     <div class="pagination__info">
       <span class="pagination__page-info">
         Trang {{ .Paginator.PageNumber }} / {{ .Paginator.TotalPages }} 
-        ({{ len .Paginator.Pages }} bài viết / Tổng: {{ .Paginator.TotalNumberOfElements }} bài)
+        ({{ len .Paginator.Pages }} bài / Tổng: {{ .Paginator.TotalNumberOfElements }} bài)
       </span>
     </div>
     
     <div class="pagination__buttons">
       {{ if .Paginator.HasPrev }}
-      <a class="pagination__item pagination__item--prev btn" href="{{ .Paginator.Prev.URL }}">
-        <span class="pagination__label">← Trang trước</span>
-      </a>
+      <a class="pagination__item pagination__item--prev" href="{{ .Paginator.Prev.URL }}">← Trước</a>
       {{ end }}
       
       <!-- Page numbers -->
@@ -91,41 +89,37 @@
         {{ $currentPage := .Paginator.PageNumber }}
         {{ $totalPages := .Paginator.TotalPages }}
         
-        {{ if gt $totalPages 1 }}
-          <!-- First page -->
-          {{ if gt $currentPage 3 }}
-            <a class="pagination__number" href="{{ $paginator.First.URL }}">1</a>
-            {{ if gt $currentPage 4 }}
-              <span class="pagination__ellipsis">...</span>
+        <!-- First page -->
+        {{ if gt $currentPage 3 }}
+          <a class="pagination__number" href="{{ $paginator.First.URL }}">1</a>
+          {{ if gt $currentPage 4 }}
+            <span class="pagination__ellipsis">...</span>
+          {{ end }}
+        {{ end }}
+        
+        <!-- Pages around current -->
+        {{ range $paginator.Pagers }}
+          {{ $pageNum := .PageNumber }}
+          {{ if and (ge $pageNum (sub $currentPage 2)) (le $pageNum (add $currentPage 2)) }}
+            {{ if eq $pageNum $currentPage }}
+              <span class="pagination__number pagination__number--current">{{ $pageNum }}</span>
+            {{ else }}
+              <a class="pagination__number" href="{{ .URL }}">{{ $pageNum }}</a>
             {{ end }}
           {{ end }}
-          
-          <!-- Pages around current -->
-          {{ range $paginator.Pagers }}
-            {{ $pageNum := .PageNumber }}
-            {{ if and (ge $pageNum (sub $currentPage 2)) (le $pageNum (add $currentPage 2)) }}
-              {{ if eq $pageNum $currentPage }}
-                <span class="pagination__number pagination__number--current">{{ $pageNum }}</span>
-              {{ else }}
-                <a class="pagination__number" href="{{ .URL }}">{{ $pageNum }}</a>
-              {{ end }}
-            {{ end }}
+        {{ end }}
+        
+        <!-- Last page -->
+        {{ if lt $currentPage (sub $totalPages 2) }}
+          {{ if lt $currentPage (sub $totalPages 3) }}
+            <span class="pagination__ellipsis">...</span>
           {{ end }}
-          
-          <!-- Last page -->
-          {{ if lt $currentPage (sub $totalPages 2) }}
-            {{ if lt $currentPage (sub $totalPages 3) }}
-              <span class="pagination__ellipsis">...</span>
-            {{ end }}
-            <a class="pagination__number" href="{{ $paginator.Last.URL }}">{{ $totalPages }}</a>
-          {{ end }}
+          <a class="pagination__number" href="{{ $paginator.Last.URL }}">{{ $totalPages }}</a>
         {{ end }}
       </div>
       
       {{ if .Paginator.HasNext }}
-      <a class="pagination__item pagination__item--next btn" href="{{ .Paginator.Next.URL }}">
-        <span class="pagination__label">Trang tiếp →</span>
-      </a>
+      <a class="pagination__item pagination__item--next" href="{{ .Paginator.Next.URL }}">Tiếp →</a>
       {{ end }}
     </div>
   </nav>
