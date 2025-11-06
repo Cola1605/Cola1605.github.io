@@ -10,7 +10,27 @@
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id="tóm-tắt"&gt;Tóm tắt&lt;/h2&gt;
-&lt;p&gt;Trong môi trường cloud, việc kiểm soát outbound traffic (lưu lượng ra ngoài) có tầm quan trọng không kém gì kiểm soát inbound traffic. Bài viết này giải thích về tầm quan trọng của việc kiểm soát outbound communication và cách sử dụng &lt;strong&gt;AWS Network Firewall&lt;/strong&gt; để thực hiện các biện pháp bảo mật hiệu quả, ngăn chặn rò rỉ dữ liệu và truy cập trái phép.&lt;/p&gt;</description></item><item><title>Amazon CloudWatch Application Signals: Các Cải Tiến Mới Cho Giám Sát Ứng Dụng</title><link>https://cola1605.github.io/posts/aws_cloudwatch_application_signals_enhancements_vietnamese/</link><pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/aws_cloudwatch_application_signals_enhancements_vietnamese/</guid><description>&lt;h1 id="amazon-cloudwatch-application-signals-các-cải-tiến-mới-cho-giám-sát-ứng-dụng"&gt;Amazon CloudWatch Application Signals: Các Cải Tiến Mới Cho Giám Sát Ứng Dụng&lt;/h1&gt;
+&lt;p&gt;Trong môi trường cloud, việc kiểm soát outbound traffic (lưu lượng ra ngoài) có tầm quan trọng không kém gì kiểm soát inbound traffic. Bài viết này giải thích về tầm quan trọng của việc kiểm soát outbound communication và cách sử dụng &lt;strong&gt;AWS Network Firewall&lt;/strong&gt; để thực hiện các biện pháp bảo mật hiệu quả, ngăn chặn rò rỉ dữ liệu và truy cập trái phép.&lt;/p&gt;</description></item><item><title>Tăng tốc Phân tích SQL với Amazon Redshift MCP Server</title><link>https://cola1605.github.io/posts/aws_redshift_mcp_server_sql_analytics_vietnamese/</link><pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/aws_redshift_mcp_server_sql_analytics_vietnamese/</guid><description>&lt;h1 id="tăng-tốc-phân-tích-sql-với-amazon-redshift-mcp-server"&gt;Tăng tốc Phân tích SQL với Amazon Redshift MCP Server&lt;/h1&gt;
+&lt;h2 id="thông-tin-bài-viết"&gt;Thông tin Bài viết&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Tiêu đề gốc&lt;/strong&gt;: Amazon Redshift MCP サーバーを活用した SQL 分析の高速化&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tiêu đề tiếng Anh&lt;/strong&gt;: Accelerating SQL Analytics with Amazon Redshift MCP Server&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;URL (Tiếng Nhật)&lt;/strong&gt;: &lt;a href="https://aws.amazon.com/jp/blogs/news/accelerating-sql-analytics-with-amazon-redshift-mcp-server/"&gt;https://aws.amazon.com/jp/blogs/news/accelerating-sql-analytics-with-amazon-redshift-mcp-server/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;URL gốc (Tiếng Anh)&lt;/strong&gt;: &lt;a href="https://aws.amazon.com/blogs/big-data/accelerating-sql-analytics-with-amazon-redshift-mcp-server/"&gt;https://aws.amazon.com/blogs/big-data/accelerating-sql-analytics-with-amazon-redshift-mcp-server/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Người dịch&lt;/strong&gt;: 小役丸 (Tatsuya Koyakumaru) - Solution Architect&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tác giả&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Ramkumar Nottath - Principal Solutions Architect at AWS&lt;/li&gt;
+&lt;li&gt;Rohit Vashishtha - Senior Analytics Specialist Solutions Architect at AWS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ngày xuất bản&lt;/strong&gt;: 05 tháng 11 năm 2025&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Danh mục&lt;/strong&gt;: General&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tags&lt;/strong&gt;: Amazon Redshift, MCP, Model Context Protocol, SQL Analytics, Natural Language Processing, AI Agent, AWS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="tóm-tắt"&gt;Tóm tắt&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Amazon Redshift MCP Server&lt;/strong&gt; là một triển khai mã nguồn mở của &lt;strong&gt;Model Context Protocol (MCP)&lt;/strong&gt; cho phép các trợ lý AI (Amazon Q CLI, Claude Desktop, Kiro) truy cập an toàn và có cấu trúc vào tài nguyên Amazon Redshift. Công cụ này cho phép các nhà phân tích dữ liệu khám phá và phân tích dữ liệu bằng &lt;strong&gt;ngôn ngữ tự nhiên&lt;/strong&gt;, loại bỏ nhu cầu viết SQL thủ công hoặc hiểu rõ cấu trúc cơ sở dữ liệu phức tạp.&lt;/p&gt;</description></item><item><title>Amazon CloudWatch Application Signals: Các Cải Tiến Mới Cho Giám Sát Ứng Dụng</title><link>https://cola1605.github.io/posts/aws_cloudwatch_application_signals_enhancements_vietnamese/</link><pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/aws_cloudwatch_application_signals_enhancements_vietnamese/</guid><description>&lt;h1 id="amazon-cloudwatch-application-signals-các-cải-tiến-mới-cho-giám-sát-ứng-dụng"&gt;Amazon CloudWatch Application Signals: Các Cải Tiến Mới Cho Giám Sát Ứng Dụng&lt;/h1&gt;
 &lt;h2 id="metadata"&gt;Metadata&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Tiêu đề gốc&lt;/strong&gt;: アプリケーション監視における Amazon CloudWatch Application Signals の新しい機能強化&lt;/li&gt;
