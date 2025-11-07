@@ -1,10 +1,21 @@
-# AI Khen Quá Nhiều? Kỹ thuật Một Câu để Ngăn chặn Lời Khen Thái quá
-
-**Tác giả:** CAtalog公式  
-**Ngày xuất bản:** 07 Tháng 10, 2025  
-**Cập nhật:** 05 Tháng 11, 2025  
-**Danh mục:** Hiệu quả Công việc
-
+---
+title: "AI Khen Quá Nhiều? Kỹ thuật Một Câu để Ngăn chặn Lời Khen Thái quá"
+date: 2025-10-07
+lastmod: 2025-11-05
+draft: false
+categories:
+  - "Hiệu quả Công việc"
+tags:
+  - "Hỗ trợ Prompt"
+  - "Phản hồi"
+  - "Tạo Prompt"
+  - "Mẹo nhỏ"
+  - "Đối thoại"
+  - "Giọng điệu và Phong cách"
+  - "Tính cách"
+  - "Cá nhân hóa"
+author: "CAtalog公式"
+description: "Hướng dẫn cách ngăn chặn AI khen ngợi quá mức và nhận được phản hồi thẳng thắn, khách quan hơn"
 ---
 
 ## Giới thiệu
@@ -213,19 +224,6 @@ Khi lời khen biến mất, đôi khi có thể cảm thấy hơi lạnh lùng.
 Ví dụ, trong trò chuyện nhàn hoặc thảo luận, cố ý để được khen, và khi cần xác minh hoặc so sánh, thêm một câu "đừng khen ngợi quá mức". Chỉ cần sử dụng phù hợp với từng tình huống như vậy, phản hồi của AI sẽ phù hợp hơn với công việc thực tế.
 
 Hãy tìm cách diễn đạt phù hợp với công việc của bạn và thử áp dụng!
-
----
-
-## Thẻ
-
-- Hỗ trợ Prompt
-- Phản hồi
-- Tạo Prompt
-- Mẹo nhỏ
-- Đối thoại
-- Giọng điệu và Phong cách
-- Tính cách
-- Cá nhân hóa
 
 ---
 
