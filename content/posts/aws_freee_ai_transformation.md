@@ -1,8 +1,27 @@
-# [Bài Phỏng Vấn] "Khi Độ Chính Xác AI Tăng 1%, Giá Trị Khách Hàng Là Bao Nhiêu?" - freee Chia Sẻ về Lý Thuyết Tạo Giá Trị và Chuyển Đổi Tổ Chức AI Native
+---
+title: "[Phỏng Vấn] Khi Độ Chính Xác AI Tăng 1%, Giá Trị Khách Hàng Là Bao Nhiêu? - freee và Chuyển Đổi AI Native"
+date: 2025-11-11
+draft: false
+categories:
+  - "AWS"
+  - "AI/ML"
+  - "Case Study"
+tags:
+  - "AI"
+  - "Amazon Bedrock"
+  - "LLM"
+  - "Generative AI"
+  - "freee"
+  - "AI Native"
+  - "Machine Learning"
+author: "Keisuke Kisamori, Kensuke Fukumoto"
+translator: "日平"
+description: "Phỏng vấn freee về chuyển đổi AI Native: Framework 'Tiêu Chí Thành Công', tách biệt chi phí xác nhận và sửa chữa, cam kết ban lãnh đạo và ứng dụng Amazon Bedrock"
+---
 
-**Ngày đăng:** 11 tháng 11, 2025  
-**Tác giả:** Keisuke Kisamori (AI Product Manager, freee Inc.), Kensuke Fukumoto (AWS Solutions Architect)  
-**URL:** https://aws.amazon.com/jp/blogs/news/freee-ai-native-transformation/
+**Nguồn:** [AWS Blog](https://aws.amazon.com/jp/blogs/news/freee-ai-native-transformation/)
+
+---
 
 ## Tổng Quan
 
