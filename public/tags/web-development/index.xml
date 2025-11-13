@@ -1,26 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Web Development on SYSTEM_NEWS</title>
-    <link>https://cola1605.github.io/tags/web-development/</link>
-    <description>Recent content in Web Development on SYSTEM_NEWS</description>
-    <generator>Hugo</generator>
-    <language>vi</language>
-    <lastBuildDate>Thu, 02 Oct 2025 13:00:00 +0700</lastBuildDate>
-    <atom:link href="https://cola1605.github.io/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Chrome DevTools MCP tự động hóa kiểm tra phát triển Web! Khác gì với Playwright MCP?</title>
-      <link>https://cola1605.github.io/ja/posts/qiita_chrome_devtools_mcp_vietnamese/</link>
-      <pubDate>Thu, 02 Oct 2025 13:00:00 +0700</pubDate>
-      <guid>https://cola1605.github.io/ja/posts/qiita_chrome_devtools_mcp_vietnamese/</guid>
-      <description>&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới thiệu&lt;/h2&gt;&#xA;&lt;p&gt;Xin chào, tôi là とまだ.&lt;/p&gt;&#xA;&lt;p&gt;Việc sao chép từng lỗi console hay chụp screenshot để gửi cho AI trong phát triển frontend khá phiền phức, đúng không?&lt;/p&gt;&#xA;&lt;p&gt;Thực ra tôi cũng từng lặp đi lặp lại công việc này: mỗi khi có lỗi trong test môi trường local, tôi mở DevTools, copy thông báo lỗi, rồi paste vào Claude Code&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Sau đó &lt;a href=&#34;https://qiita.com/tomada/items/c386d6d173f4af32d0de&#34;&gt;Playwright MCP mà tôi đã giới thiệu trước đây&lt;/a&gt; đã giúp công việc dễ dàng hơn nhiều, nhưng giờ đây có một công cụ còn tiện lợi hơn nữa.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Chrome DevTools MCP tự động hóa kiểm tra phát triển Web! Khác gì với Playwright MCP?</title>
-      <link>https://cola1605.github.io/posts/qiita_chrome_devtools_mcp_vietnamese/</link>
-      <pubDate>Thu, 02 Oct 2025 13:00:00 +0700</pubDate>
-      <guid>https://cola1605.github.io/posts/qiita_chrome_devtools_mcp_vietnamese/</guid>
-      <description>&lt;h1 id=&#34;chrome-devtools-mcp-tự-động-hóa-kiểm-tra-phát-triển-web-khác-gì-với-playwright-mcp&#34;&gt;Chrome DevTools MCP tự động hóa kiểm tra phát triển Web! Khác gì với Playwright MCP?&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tác giả:&lt;/strong&gt; @tomada (とまだ@AI駆動開発)&lt;br&gt;&#xA;&lt;strong&gt;Tổ chức:&lt;/strong&gt; Learning Next&lt;br&gt;&#xA;&lt;strong&gt;Ngày đăng:&lt;/strong&gt; 2025-09-30&lt;br&gt;&#xA;&lt;strong&gt;Ngày cập nhật:&lt;/strong&gt; 2025-10-01&lt;br&gt;&#xA;&lt;strong&gt;Tags:&lt;/strong&gt; #MCP #cursor #Playwright #ClaudeCode #ChromeDevTools&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Thống kê:&lt;/strong&gt; 👍 59 Likes | 📚 41 Stocks | 💬 6 Comments&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới thiệu&lt;/h2&gt;&#xA;&lt;p&gt;Xin chào, tôi là とまだ.&lt;/p&gt;&#xA;&lt;p&gt;Việc sao chép từng lỗi console hay chụp screenshot để gửi cho AI trong phát triển frontend khá phiền phức, đúng không?&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Web Development on SYSTEM_NEWS</title><link>https://cola1605.github.io/tags/web-development/</link><description>Recent content in Web Development on SYSTEM_NEWS</description><generator>Hugo</generator><language>vi</language><lastBuildDate>Thu, 02 Oct 2025 13:00:00 +0700</lastBuildDate><atom:link href="https://cola1605.github.io/tags/web-development/index.xml" rel="self" type="application/rss+xml"/><item><title>Chrome DevTools MCP tự động hóa kiểm tra phát triển Web! Khác gì với Playwright MCP?</title><link>https://cola1605.github.io/ja/posts/qiita_chrome_devtools_mcp_vietnamese/</link><pubDate>Thu, 02 Oct 2025 13:00:00 +0700</pubDate><guid>https://cola1605.github.io/ja/posts/qiita_chrome_devtools_mcp_vietnamese/</guid><description>&lt;h2 id="giới-thiệu"&gt;Giới thiệu&lt;/h2&gt;
+&lt;p&gt;Xin chào, tôi là とまだ.&lt;/p&gt;
+&lt;p&gt;Việc sao chép từng lỗi console hay chụp screenshot để gửi cho AI trong phát triển frontend khá phiền phức, đúng không?&lt;/p&gt;
+&lt;p&gt;Thực ra tôi cũng từng lặp đi lặp lại công việc này: mỗi khi có lỗi trong test môi trường local, tôi mở DevTools, copy thông báo lỗi, rồi paste vào Claude Code&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Sau đó &lt;a href="https://qiita.com/tomada/items/c386d6d173f4af32d0de"&gt;Playwright MCP mà tôi đã giới thiệu trước đây&lt;/a&gt; đã giúp công việc dễ dàng hơn nhiều, nhưng giờ đây có một công cụ còn tiện lợi hơn nữa.&lt;/p&gt;</description></item><item><title>Chrome DevTools MCP tự động hóa kiểm tra phát triển Web! Khác gì với Playwright MCP?</title><link>https://cola1605.github.io/posts/qiita_chrome_devtools_mcp_vietnamese/</link><pubDate>Thu, 02 Oct 2025 13:00:00 +0700</pubDate><guid>https://cola1605.github.io/posts/qiita_chrome_devtools_mcp_vietnamese/</guid><description>&lt;h1 id="chrome-devtools-mcp-tự-động-hóa-kiểm-tra-phát-triển-web-khác-gì-với-playwright-mcp"&gt;Chrome DevTools MCP tự động hóa kiểm tra phát triển Web! Khác gì với Playwright MCP?&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Tác giả:&lt;/strong&gt; @tomada (とまだ@AI駆動開発)&lt;br&gt;
+&lt;strong&gt;Tổ chức:&lt;/strong&gt; Learning Next&lt;br&gt;
+&lt;strong&gt;Ngày đăng:&lt;/strong&gt; 2025-09-30&lt;br&gt;
+&lt;strong&gt;Ngày cập nhật:&lt;/strong&gt; 2025-10-01&lt;br&gt;
+&lt;strong&gt;Tags:&lt;/strong&gt; #MCP #cursor #Playwright #ClaudeCode #ChromeDevTools&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thống kê:&lt;/strong&gt; 👍 59 Likes | 📚 41 Stocks | 💬 6 Comments&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="giới-thiệu"&gt;Giới thiệu&lt;/h2&gt;
+&lt;p&gt;Xin chào, tôi là とまだ.&lt;/p&gt;
+&lt;p&gt;Việc sao chép từng lỗi console hay chụp screenshot để gửi cho AI trong phát triển frontend khá phiền phức, đúng không?&lt;/p&gt;</description></item></channel></rss>
