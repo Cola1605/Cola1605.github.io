@@ -29,15 +29,7 @@
         </div>
         {{ end }}
         
-        {{ if .Params.tags }}
-        <div class="meta__item-tags meta__item">
-          <svg class="meta__icon icon icon-tag" width="16" height="16" viewBox="0 0 32 32">
-            <path d="m17.5 1.969l12.5 12.5-15 15-12.5-12.5v-12.5z"/>
-            <path d="m23 8c0 1.105-0.895 2-2 2s-2-0.895-2-2 0.895-2 2-2 2 0.895 2 2z"/>
-          </svg>
-          <span class="meta__text">{{ delimit .Params.tags ", " }}</span>
-        </div>
-        {{ end }}
+        {{- /* Tags display removed - hiding tags on single post page */ -}}
       </div>
       {{ end }}
     </header>
