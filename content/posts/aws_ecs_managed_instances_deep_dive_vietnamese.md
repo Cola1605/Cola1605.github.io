@@ -85,24 +85,135 @@ Hoàn thành toàn bộ demo này mất khoảng 40 phút.
 
 ### Các bước thực hiện
 
-1. Tải xuống CloudFormation templates từ GitHub repository
-2. Tạo S3 bucket và đặt templates vào đó
-3. Tạo CloudFormation stack
-4. Xác nhận ECS cluster và ECS services
-5. Cập nhật số lượng task và quan sát tối ưu hóa instances
+**Bước 1:** Tải xuống CloudFormation templates từ GitHub repository
+
+Templates bao gồm: `vpc-stack.json`, `ecs-stack.json`, `nested-stack-coordinator.json`
+
+```bash
+git clone https://github.com/aws-samples/sample-amazon-ecs-managed-instances
+cd sample-amazon-ecs-managed-instances/cfn-templates
+```
+
+**Bước 2:** Tạo S3 bucket để lưu trữ CloudFormation templates
+
+```bash
+export AWS_REGION=us-west-2
+export BUCKET_NAME=ecs-managed-instances-templates-$(date +%s%N | sha256sum | head -c 6)
+aws s3 mb s3://$BUCKET_NAME --region $AWS_REGION
+```
+
+**Bước 3:** Tải templates lên S3 bucket
+
+```bash
+aws s3 cp vpc-stack.json s3://$BUCKET_NAME
+aws s3 cp ecs-stack.json s3://$BUCKET_NAME
+aws s3 cp nested-stack-coordinator.json s3://$BUCKET_NAME
+```
+
+**Bước 4:** Tạo CloudFormation stack bằng template `nested-stack-coordinator.json`
+
+Lệnh này sẽ tạo 3 CloudFormation stacks trong tài khoản của bạn (Coordinator Stack, VPC Stack và ECS Stack). Coordinator Stack tạo VPC Stack và ECS Stack. VPC Stack chứa tài nguyên VPC, ECS Stack chứa tài nguyên ECS.
+
+```bash
+aws cloudformation create-stack \
+  --stack-name managed-instances-coordinator \
+  --template-body file://nested-stack-coordinator.json \
+  --parameters \
+    ParameterKey=VpcStackTemplateUrl,ParameterValue=https://$BUCKET_NAME.s3.amazonaws.com/vpc-stack.json \
+    ParameterKey=EcsStackTemplateUrl,ParameterValue=https://$BUCKET_NAME.s3.amazonaws.com/ecs-stack.json \
+  --capabilities CAPABILITY_NAMED_IAM \
+  --region $AWS_REGION
+```
+
+**Bước 5:** CloudFormation sẽ tạo các tài nguyên sau:
+
+- 1 ECS cluster với managed instances capacity provider
+- 2 ECS services:
+  - **ManagedInstancesService1**: 1 vCPU, 5.5GB bộ nhớ mỗi task
+  - **ManagedInstancesService2**: 1 vCPU, 9.5GB bộ nhớ mỗi task
+- Tổng 4 tasks phân phối giữa các AZ (2 tasks mỗi service)
+- 2 managed instances trong managed instances capacity provider
+
+### ECS Cluster và ECS Services
+
+**Hình 4:** 1 cluster với 2 ECS services, mỗi service chạy 2 tasks
+
+### ECS Tasks
+
+Ứng dụng chạy 4 ECS tasks phân phối trên 2 AZ (us-west-2a và us-west-2b) để đạt high availability. Nếu 1 AZ gặp vấn đề, ứng dụng vẫn tiếp tục chạy từ AZ khác, loại bỏ single point of failure và đảm bảo tính khả dụng nhất quán của service.
+
+**Hình 5:** 4 ECS tasks cho 2 ECS services với cấu hình tài nguyên task khác nhau cho mỗi service
+
+### Amazon ECS Managed Instances Capacity Provider
+
+**Hình 6:** Managed instances capacity provider chạy trên 2 instances trải dài 2 AZ. Việc sử dụng tài nguyên được tối ưu hóa
+
+Managed instances capacity provider đã phân tích yêu cầu tài nguyên chính xác. Cần tổng 15GB bộ nhớ (9.5GB + 5.5GB) và 2 vCPU cho mỗi instance. ECS đã cấp phát 2 r5a.large instances tối ưu (2 vCPU, 16GB bộ nhớ) trong 2 AZ, đảm bảo high availability đồng thời tối đa hóa hiệu quả tài nguyên.
+
+Trên mỗi instance, cả 2 service tasks đều chạy hiệu quả. 15GB trong số 16GB bộ nhớ được sử dụng, và cả 2 vCPU đều được sử dụng tích cực. Kết quả là quản lý dung lượng thông minh loại bỏ công việc đoán mò thủ công, giảm chi phí thông qua phân bổ tài nguyên hiệu quả đồng thời duy trì hiệu năng cần thiết cho ứng dụng.
+
+**Bước 6:** Tiếp theo, chúng ta sẽ demo quản lý tài nguyên thông minh của ECS Managed Instances bằng cách đặt số lượng desired tasks của ManagedInstancesService1 về 0. Thao tác này sẽ dừng 2 tasks đang chạy trên 2 r5a.large instances (mỗi task 9.5GB bộ nhớ, 1 vCPU).
+
+Khi tasks của ManagedInstancesService1 bị xóa, mỗi instance chỉ chạy task còn lại của ManagedInstancesService2 (mỗi task 5.5GB bộ nhớ, 1 vCPU). Điều này tạo ra tình trạng sử dụng tài nguyên không hiệu quả: r5a.large instances (16GB, 2 vCPU) chạy 1 task 5.5GB duy nhất, dẫn đến dung lượng chưa sử dụng.
+
+```bash
+aws ecs update-service \
+  --cluster $(aws cloudformation describe-stacks \
+    --stack-name managed-instances-coordinator \
+    --query 'Stacks[0].Outputs[?OutputKey==`EcsClusterId`].OutputValue' \
+    --output text) \
+  --service ManagedInstancesService1 \
+  --desired-count 0 \
+  --region $AWS_REGION
+```
+
+**Hình 7:** Khi dừng ECS tasks, các instances trong managed instances capacity provider trở nên underutilized
+
+ECS Managed Instances capacity provider nhanh chóng phát hiện sự không hiệu quả tài nguyên này và xử lý bằng cách drain 1 trong các instances có tỷ lệ sử dụng thấp. Cả 2 instances đều không còn tối ưu cho workload hiện tại, nhưng hệ thống không drain đồng thời vì có rủi ro ảnh hưởng đến tính khả dụng của service. Thay vào đó, ECS áp dụng cách tiếp cận ưu tiên tính khả dụng, drain instances theo từng giai đoạn. Bằng cách duy trì đủ dung lượng hoạt động trong quá trình tối ưu hóa, luôn có dung lượng sẵn sàng cho việc đặt task mới hoặc các sự kiện scaling không mong đợi.
+
+**Hình 8:** Managed instances capacity provider drain các instances có tỷ lệ sử dụng thấp
+
+Khi quá trình drain hoàn tất, tasks bị loại bỏ sẽ chuyển sang instance còn lại ở us-west-2a. Instance này còn đủ tài nguyên. ECS Managed Instances ưu tiên dung lượng hiện có hơn là cấp phát mới để nhanh chóng ổn định service. Cả 2 tasks ManagedInstancesService2 chạy trên 1 instance duy nhất để tối đa hóa tận dụng tài nguyên. Trong khi đó, instance đã drain trở nên rỗng. ECS tự động hủy đăng ký instance rỗng này và terminate nó. Điều này làm hạ tầng co lại từ 2 instances xuống 1. Đây là minh chứng cho việc điều chỉnh liên tục dựa trên nhu cầu thực tế. ECS xử lý phân phối AZ trong các bước tối ưu hóa sau, cân bằng giữa hiệu quả và high availability.
+
+**Hình 9:** Managed instances capacity provider hủy đăng ký các instances ở trạng thái idle không có tasks
+
+Sau khi ECS cluster ổn định, ECS tự động phân phối lại workload giữa các AZ bằng cách bắt đầu thay thế task trong AZ mới đồng thời dừng tasks hiện có. Điều này cấp phát r7a.medium instance có kích thước phù hợp (1 vCPU, 8GB) trong AZ thứ 2 cho task 5.5GB, trong khi r5a.large instance ban đầu trở nên có tài nguyên quá mức để chạy 1 task. ECS Managed Instances capacity provider phát hiện sự không hiệu quả này và drain instance underutilized, đạt được tối ưu hóa liên tục cân bằng giữa high availability và cost-effectiveness giữa các AZ.
+
+**Hình 10:** AZ rebalancing và tối ưu hóa liên tục của managed instances capacity provider
+
+Cuối cùng, managed instances capacity provider đạt trạng thái tối ưu: chạy 2 r7a.medium instances (1 vCPU, 8GB) trải dài 2 AZ, mỗi instance chạy 1 task (1 vCPU, 5.5GB).
+
+**Hình 11:** Managed instances capacity provider chạy với dung lượng tối ưu sau khi tối ưu hóa hạ tầng
 
 ## Workload Chạy Dài hạn
 
-ECS Managed Instances capacity provider khớp tài nguyên với nhu cầu thực tế. Trong một kịch bản test khác, 2 ECS services lặp lại thay đổi workload mỗi 30 phút, scaling từ tổng 100 task xuống 70 task, sau đó xuống 2 task. Điều này được thực hiện trong 2 giờ và lấy dữ liệu theo chu kỳ 1 phút, cho phép xác nhận chi tiết cách capacity provider phản ứng với những thay đổi workload này.
+**Hình 12:** Test chạy dài hạn với scaling ECS tasks có thể dự đoán
 
-Insight quan trọng ở đây là ECS Managed Instances duy trì sự phù hợp mạnh mẽ giữa phân bổ tài nguyên và nhu cầu thực tế, với các metrics sử dụng vCPU và bộ nhớ phản ánh chính xác mẫu chu kỳ của ECS tasks. Metric DrainingContainerInstances cho thấy tối ưu hóa liên tục đang diễn ra ở background.
+**Hình 13:** Metrics của capacity provider với mẫu scaling theo chu kỳ
+
+ECS Managed Instances capacity provider khớp tài nguyên với nhu cầu thực tế. Trong một kịch bản test khác (Hình 12), 2 ECS services lặp lại thay đổi workload mỗi 30 phút, scaling từ tổng 100 tasks xuống 70 tasks, sau đó xuống 2 tasks. Điều này được thực hiện trong 2 giờ và lấy dữ liệu theo chu kỳ 1 phút, cho phép xác nhận chi tiết cách capacity provider phản ứng với những thay đổi workload này.
+
+Insight quan trọng ở đây là ECS Managed Instances duy trì sự phù hợp mạnh mẽ giữa phân bổ tài nguyên và nhu cầu thực tế, với các metrics sử dụng vCPU và bộ nhớ phản ánh chính xác mẫu chu kỳ của ECS tasks.
+
+Metric `DrainingContainerInstances` cho thấy tối ưu hóa liên tục đang diễn ra ở background. Thay vì chờ can thiệp thủ công, ECS Managed Instances liên tục giám sát hiệu quả tài nguyên trên toàn bộ cluster. Khi tasks scale down, hệ thống ngay lập tức drain các instances chưa được tận dụng và di chuyển workload còn lại một cách thích hợp để tối ưu hóa mật độ ECS cluster. Quy trình tự động này đảm bảo tài nguyên không ở trạng thái idle lâu hơn mức cần thiết.
 
 ## Dọn dẹp
 
-Sau khi hoàn thành hướng dẫn này, bạn cần dọn dẹp tất cả tài nguyên đã triển khai để ngăn việc tính phí liên tục và duy trì môi trường AWS sạch sẽ.
+Sau khi hoàn thành hướng dẫn này, bạn cần dọn dẹp tất cả tài nguyên đã triển khai để ngăn việc tính phí liên tục và duy trì môi trường AWS sạch sẽ. Bước này giúp ngăn chặn các khoản phí không mong đợi và giữ môi trường AWS của bạn gọn gàng bằng cách xóa các tài nguyên không sử dụng.
 
-1. Xóa CloudFormation stack
-2. Xóa CloudFormation templates và S3 bucket
+**Bước 1:** Xóa CloudFormation stack
+
+```bash
+aws cloudformation delete-stack \
+  --stack-name managed-instances-coordinator \
+  --region $AWS_REGION
+```
+
+**Bước 2:** Xóa CloudFormation templates và S3 bucket
+
+```bash
+aws s3 rb s3://$BUCKET_NAME --region $AWS_REGION --force
+```
 
 ## Tổng kết
 
