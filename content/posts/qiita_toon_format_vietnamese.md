@@ -1,12 +1,10 @@
 ---
 title: "【TOON】Kết Thúc Kỷ Nguyên JSON? Giải Thích Về TOON Đang Gây Chú Ý"
-author: "@shanks665"
 date: 2025-11-17
-url: https://qiita.com/shanks665/items/a5ec31706af9ffffc491
-tags: [JSON, AI, Toon, LLM, AIエージェント]
-source: qiita
-likes: 52
-stocks: 25
+draft: false
+categories: ["AI", "Data Format", "LLM"]
+tags: ["JSON", "AI", "TOON", "LLM", "AI-agent", "data-format"]
+description: "Giới thiệu về TOON (Token-Oriented Object Notation) - định dạng dữ liệu mới được tối ưu hóa cho LLM, giảm 30-60% token so với JSON, với cú pháp đơn giản hơn và khả năng xử lý hiệu quả hơn."
 ---
 
 # 【TOON】Kết Thúc Kỷ Nguyên JSON? Giải Thích Về TOON Đang Gây Chú Ý
@@ -16,7 +14,6 @@ stocks: 25
 **Nguồn:** https://qiita.com/shanks665/items/a5ec31706af9ffffc491  
 **Thẻ:** #JSON #AI #Toon #LLM #AIエージェント
 
----
 
 ## Giới thiệu
 
@@ -28,7 +25,6 @@ Một trong những nguyên nhân là JSON. JSON được thiết kế để con
 
 Trong bài viết này, tôi sẽ giải thích TOON có gì tuyệt vời và cách sử dụng nó thông qua các ví dụ cụ thể.
 
----
 
 ## Vấn đề của JSON là gì?
 
@@ -48,7 +44,6 @@ Vấn đề rất rõ ràng. Các tên khóa `"id":`, `"name":`, `"price":` bị
 
 Nếu có 100 sản phẩm, chỉ riêng các tên khóa này đã phải gửi cùng một chuỗi ký tự 300 lần. Đây chính là sự lãng phí token.
 
----
 
 ## Cách viết TOON
 
@@ -74,7 +69,6 @@ Chỉ có vậy thôi.
 
 Kết quả, có thể biểu diễn cùng thông tin với **khoảng 40% ít token hơn**.
 
----
 
 ## Một ví dụ khác: Danh sách người dùng
 
@@ -101,7 +95,6 @@ users{id,name,role}:
 
 Rõ ràng ngay, TOON ngắn gọn và dễ đọc hơn áp đảo.
 
----
 
 ## Ưu điểm của TOON
 
@@ -149,13 +142,11 @@ Chuyển đổi TOON ⇔ JSON không làm mất thông tin, thông tin kiểu nh
 
 Việc có thể triển khai từng bước cũng rất lớn. Không cần phải chuyển đổi tất cả cùng một lúc, có thể dần dần chuyển sang TOON từ phần có hiệu quả cao.
 
----
 
 ## Hiểu qua sơ đồ: Luồng dữ liệu
 
 JSON có nhiều công đoạn chuyển đổi, TOON có thể truyền ở định dạng hiệu quả ngay từ đầu. Sơ đồ đơn giản nhưng sự khác biệt này ảnh hưởng trực tiếp đến độ trễ và chi phí.
 
----
 
 ## Cách sử dụng thực tế
 
@@ -209,7 +200,6 @@ const result = parse(llmResponse);
    - So sánh độ chính xác và chi phí giữa JSON và TOON
    - Đo lường thực tế với dữ liệu của công ty mình
 
----
 
 ## Phù hợp và không phù hợp cùng điểm cần lưu ý
 
@@ -243,7 +233,6 @@ Cần thận trọng với các lĩnh vực ưu tiên độ chính xác cao nh�
 
 Bắt đầu nhỏ. Trước tiên so sánh JSON và TOON bằng kiểm thử quy mô nhỏ. Đo lường thực tế tỷ lệ giảm token và độ chính xác, chỉ chuyển sang TOON ở phần có hiệu quả. Từ đó dần mở rộng phạm vi. Để API và cơ sở dữ liệu hiện có vẫn dùng JSON, chỉ chuyển sang TOON ở ranh giới với LLM là thực tế nhất.
 
----
 
 ## Tóm tắt
 
@@ -255,6 +244,5 @@ Mặt khác, không phù hợp với cấu trúc lồng nhau sâu, tác vụ suy
 
 Kỷ nguyên JSON không kết thúc. TOON sẽ cùng tồn tại với JSON như một công cụ tối ưu hóa sử dụng ở ranh giới với LLM. Triển khai bắt đầu nhỏ, đo lường hiệu quả rồi mới mở rộng. Đây là cách sử dụng thông minh để giảm thiểu rủi ro và tối đa hóa lợi ích.
 
----
 
 *Bài viết này được lấy từ [Qiita](https://qiita.com/shanks665/items/a5ec31706af9ffffc491).*

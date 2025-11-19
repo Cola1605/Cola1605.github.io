@@ -1,11 +1,10 @@
 ---
 title: "Khởi động 'Bảng xếp hạng AI dành cho Engineer' nhằm hiển thị mức độ ứng dụng AI trong quy trình phát triển!"
 date: 2025-11-18
-author: "Ban biên tập CyBAR"
-source: "cybar"
-url: "https://cybar.cag.isca.jp/?p=137752"
-tags: ["AI", "Công nghệ"]
-categories: ["AI", "Công nghệ"]
+draft: false
+categories: ["AI", "Engineering", "CyberAgent"]
+tags: ["AI", "engineering", "ranking", "AI-adoption", "development-process", "cyberagent"]
+description: "CyberAgent khởi động Bảng xếp hạng AI dành cho Engineer để đánh giá mức độ ứng dụng AI trong quy trình phát triển, từ cấp độ cá nhân đến tổ chức với 7 hạng từ Yokozuna đến Makushita."
 ---
 
 # Khởi động 'Bảng xếp hạng AI dành cho Engineer' nhằm hiển thị mức độ ứng dụng AI trong quy trình phát triển!
@@ -263,7 +262,6 @@ Mục đích nhằm thúc đẩy triển khai ngang và chia sẻ kiến thức 
 
 ※Thành viên hội đồng thẩm định có thể thay đổi
 
----
 
 **Phụ trách**:
 - Nagase Yoshishige
