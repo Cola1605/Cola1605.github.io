@@ -12,7 +12,6 @@ description: "Hướng dẫn thực hành Amazon Bedrock AgentCore Gateway - chu
 **Cập nhật:** 26/10/2025  
 **Nguồn:** https://qiita.com/yakumo_09/items/d7b8aedc166ac19231eb
 
-**Tags:** #AWS #Người mới bắt đầu #Thực hành #Bedrock #AgentCore  
 **Likes:** 10 | **Stocks:** 3
 
 ---

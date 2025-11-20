@@ -10,7 +10,6 @@ description: "Hướng dẫn chi tiết cho người mới bắt đầu sử d�
 **Tác giả:** @Natsuhi-aruku (Natsuhi Aruku)  
 **Tổ chức:** GMOコネクト株式会社  
 **Ngày đăng:** 15 tháng 10, 2025  
-**Tags:** AWS, Cloud, 初心者向け, Terraform  
 **Nguồn:** https://qiita.com/Natsuhi-aruku/items/ab32e4bd91c02f0e8e16
 
 ---

@@ -13,7 +13,6 @@ description: "Câu chuyện về chương trình Generative AI Thorough Understa
 **Nguồn:** https://developers.cyberagent.co.jp/blog/archives/59240/
 
 **Category:** エンジニア  
-**Tags:** #AIエージェント #あした会議 #リスキリング #生成AI #研修  
 **Hatena Bookmarks:** 2
 
 ---

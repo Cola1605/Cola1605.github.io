@@ -11,7 +11,6 @@ description: "Hướng dẫn tối ưu hóa VSCode để giảm 1/3 memory usage
 **Tác giả:** nolanlover0527 (Yuuki) - エレクス株式会社  
 **Ngày đăng:** 28/10/2025  
 **Cập nhật:** 29/10/2025  
-**Tags:** #TypeScript #Memory #Optimization #VSCode #Extensions
 
 ---
 

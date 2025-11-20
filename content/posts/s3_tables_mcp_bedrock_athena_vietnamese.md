@@ -13,7 +13,6 @@ description: "Hướng dẫn xây dựng MCP Server cho phép query S3 Tables (I
 **Nguồn:** https://developers.cyberagent.co.jp/blog/archives/59292/
 
 **Category:** エンジニア (Engineer)  
-**Tags:** #MCP #データ分析 #データ基盤 #全社データ技術局 #生成AI  
 **Hatena Bookmarks:** 4
 
 ---

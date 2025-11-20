@@ -523,7 +523,6 @@ Matheus chịu trách nhiệm định hướng toàn cầu cho cộng đồng n�
 
 **Dịch giả:** Technical Account Manager 日平 (Hibira)
 
-**Tags:** [Amazon CloudWatch](https://aws.amazon.com/jp/blogs/news/tag/amazon-cloudwatch/)
 
 ---
 

@@ -13,7 +13,6 @@ description: "Phân tích chi tiết sự cố AWS quy mô lớn tại US-EAST-1
 **Cập nhật:** 26/10/2025  
 **Nguồn:** https://qiita.com/zhang_hang/items/e63468ec53a95bb605a3
 
-**Tags:** #AWS  
 **Likes:** 20 | **Stocks:** 6 | **Comments:** 0
 
 ---

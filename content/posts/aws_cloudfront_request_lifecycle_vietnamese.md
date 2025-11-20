@@ -14,7 +14,6 @@ description: "Khám phá lifecycle chi tiết của client request đến CloudF
 **Nguồn:** https://aws.amazon.com/jp/blogs/news/charting-the-life-of-an-amazon-cloudfront-request/
 
 **Categories:** Amazon CloudFront, AWS WAF, General, Lambda@Edge, Networking & Content Delivery  
-**Tags:** #AmazonCloudFront #AWSWAF #ContentDeliveryNetwork #NetworkingAndContentDelivery
 
 ---
 

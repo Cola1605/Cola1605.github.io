@@ -11,7 +11,6 @@ description: "Chia sẻ trải nghiệm thực tế về việc đạt được 
 **Ngày đăng:** 25/10/2025  
 **Nguồn:** https://qiita.com/infra365/items/bb75ab188dcf19398a9b
 
-**Tags:** #AWS #Well-ArchitectedFramework #FTR #BestPractices #SaaS  
 **Likes:** 13 | **Stocks:** 8
 
 ---

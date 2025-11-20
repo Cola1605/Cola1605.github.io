@@ -14,7 +14,6 @@ description: "Tìm hiểu về Chrome DevTools MCP và so sánh với Playwright
 **Tổ chức:** Learning Next  
 **Ngày đăng:** 2025-09-30  
 **Ngày cập nhật:** 2025-10-01  
-**Tags:** #MCP #cursor #Playwright #ClaudeCode #ChromeDevTools
 
 **Thống kê:** 👍 59 Likes | 📚 41 Stocks | 💬 6 Comments
 

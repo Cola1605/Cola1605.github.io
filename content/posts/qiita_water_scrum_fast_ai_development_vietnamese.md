@@ -12,7 +12,6 @@ description: "Tái đánh giá phương pháp phát triển trong thời đại 
 **Danh mục:** Phát triển Agile  
 **Tác giả:** @nogataka  
 **Ngày công bố:** 2025年10月12日  
-**Tags:** #アジャイル #プロジェクト管理 #AI #AI駆動開発 #VibeCoding  
 **Likes:** 18 | **Stocks:** 14 | **Comments:** 0
 
 **Bài viết gốc:** https://qiita.com/nogataka/items/b64870d8fd6b6c225d0c

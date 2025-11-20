@@ -12,7 +12,6 @@ description: "Hướng dẫn truy cập AWS từ Azure Functions không dùng ac
 **Tổ chức:** BIPROGY株式会社  
 **Ngày xuất bản:** 04/11/2025  
 **Nguồn:** [Qiita](https://qiita.com/YutoSekine/items/cbe78c96c18c289ab7a2)  
-**Tags:** #AWS #Azure #OIDC #AzureFunctions #マルチクラウド  
 **Likes:** 11 👍
 
 ---

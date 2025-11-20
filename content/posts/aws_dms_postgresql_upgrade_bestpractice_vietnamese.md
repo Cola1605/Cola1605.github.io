@@ -15,7 +15,6 @@ description: "Hướng dẫn chi tiết các best practices để xử lý AWS D
 **Bài gốc:** https://aws.amazon.com/jp/blogs/database/best-practices-to-handle-aws-dms-tasks-during-postgresql-upgrades/
 
 **Categories:** Advanced (300), AWS Database Migration Service, Best Practices  
-**Tags:** #AWS_DMS #PostgreSQL #Database_Migration #Database_Upgrade #Replication #CDC
 
 ---
 

@@ -11,7 +11,6 @@ description: "Hướng dẫn nhập môn StrandsAgents - công cụ AI mạnh m�
 **Tác giả:** @yakumo_09 (やくも)  
 **Xuất bản:** 2025-09-27  
 **Nguồn:** [Qiita](https://qiita.com/yakumo_09/items/f85a8a0634e30b0d756c)  
-**Tags:** AWS, VSCode, bedrock, 生成AI, StrandsAgents  
 **Likes:** 17 | **Stocks:** 13
 
 ---

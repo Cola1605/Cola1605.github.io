@@ -12,7 +12,6 @@ description: "Tìm hiểu nguyên nhân khiến lệnh ALTER TABLE ADD COLUMN b�
 **Ngày đăng:** 2025-10-14  
 **Nguồn:** https://qiita.com/take-yoda/items/8229d1b6b070ee690dd5
 
-**Tags:** SQL, PostgreSQL, RDBMS, Troubleshooting, DDL
 
 ---
 

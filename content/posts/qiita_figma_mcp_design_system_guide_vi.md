@@ -11,7 +11,6 @@ description: "Khám phá cách sử dụng components Design System với Figma 
 **Tác giả:** @itohisahideki (jp たろう)  
 **Xuất bản:** 2025-04-11  
 **Nguồn:** [Qiita](https://qiita.com/itohisahideki/items/10d88cfba173daae72dd)  
-**Tags:** MCP, Next.js, Figma  
 **Likes:** 5 | **Stocks:** 1
 
 ---

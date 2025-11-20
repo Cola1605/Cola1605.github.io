@@ -10,7 +10,6 @@ description: "Câu chuyện phát triển Table component bằng cách kết h�
 **Nguồn:** [CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/59564/)  
 **Tác giả:** yuuumin (湯本航基 / @yu_3in)  
 **Ngày đăng:** 27/10/2025  
-**Tags:** #AI #Ameba #MCP #Spindle #Frontend
 
 ---
 

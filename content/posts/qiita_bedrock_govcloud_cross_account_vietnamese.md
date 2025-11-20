@@ -10,7 +10,6 @@ description: "Hướng dẫn triển khai kiến trúc đa tài khoản để s�
 **Nguồn:** [Qiita - takeda_h](https://qiita.com/takeda_h/items/f2bc07154a74f00894e2)  
 **Tác giả:** takeda_h  
 **Ngày đăng:** 26/10/2025  
-**Tags:** #AWS #Bedrock #GovernmentCloud
 
 ---
 

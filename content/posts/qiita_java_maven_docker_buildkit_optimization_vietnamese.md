@@ -9,7 +9,6 @@ description: "Tối ưu hóa thời gian build Docker cho Java/Maven từ 39 gi�
 
 **Tác giả:** ntaka329 (永田) - GMOコネクト株式会社  
 **Ngày xuất bản:** 2025-10-28  
-**Tags:** Java, Maven, devops, Docker, BuildKit
 
 ---
 

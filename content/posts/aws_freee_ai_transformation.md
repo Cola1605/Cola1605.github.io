@@ -257,4 +257,3 @@ Chuyển đổi của freee sang AI native không chỉ là kỹ thuật, mà đ
 - Từ trái: Ông Kisamori của freee, AWS Solutions Architect Fukumoto, Account Manager Hattori, Technical Account Manager Funabashi
 - Bài blog này được viết bởi Solutions Architect Kensuke Fukumoto, chụp ảnh bởi Solutions Architect Takeru Ito
 
-**Tags:** AI, AI/ML, Generative AI, Amazon Bedrock, Case Study, Customer Solutions, SaaS

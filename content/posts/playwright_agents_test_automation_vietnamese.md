@@ -12,7 +12,6 @@ description: "Trải nghiệm Playwright Agents - tính năng mới từ Playwri
 **Ngày đăng:** 17/10/2025  
 **Nguồn:** https://qiita.com/resound/items/24f129a920b34677e7f3
 
-**Tags:** テスト自動化 (Test Automation), MCP, Playwright, 生成AI (Generative AI)  
 **Engagement:** 34 Likes, 18 Stocks
 
 ---

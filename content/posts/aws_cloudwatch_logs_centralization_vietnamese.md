@@ -295,7 +295,6 @@ Senior Product Manager – Technical tại Amazon CloudWatch team. Tập trung v
 
 ---
 
-**Tags:** Amazon CloudWatch, Best practices, Cloud Operations, Monitoring, Observability
 
 **Bài viết gốc:** [Simplifying Log Management using Amazon CloudWatch Logs Centralization](https://aws.amazon.com/jp/blogs/mt/simplifying-log-management-using-amazon-cloudwatch-logs-centralization/)  
 **Dịch bởi:** Technical Account Manager 日平

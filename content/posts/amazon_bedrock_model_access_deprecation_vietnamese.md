@@ -13,7 +13,6 @@ description: "Tìm hiểu về việc Amazon Bedrock ngừng tính năng Model A
 **Ngày cập nhật:** 19/10/2025  
 **Nguồn:** https://qiita.com/hayao_k/items/aaaf92e15a60bebd137a
 
-**Tags:** #AWS #bedrock #KnowledgeBaseForAmazonBedrock #AIエージェント  
 **Engagement:** 13 Likes, 4 Stocks
 
 ---

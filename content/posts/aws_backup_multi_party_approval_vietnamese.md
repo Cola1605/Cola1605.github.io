@@ -17,7 +17,6 @@ description: "Tìm hiểu AWS Backup Multi-party Approval - tính năng mới t�
 **Bản gốc tiếng Anh:** https://aws.amazon.com/jp/blogs/storage/improve-recovery-resilience-with-aws-backup-support-for-multi-party-approval/
 
 **Categories:** Advanced (300), AWS IAM Identity Center, AWS Organizations, Best Practices, General, Resource Access Manager (RAM), Storage  
-**Tags:** #AWS_Backup #AWS_Cloud_Storage #AWS_IAM #AWS_Organizations
 
 ---
 

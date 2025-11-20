@@ -13,7 +13,6 @@ description: "Khám phá Select AI Agent trong Oracle Autonomous AI Database 26a
 **Ngày cập nhật:** 20/10/2025  
 **Nguồn:** https://qiita.com/ssfujita/items/80454001845fa1493495
 
-**Tags:** #oracle #Database #LLM #AIエージェント #26ai  
 **Engagement:** 12 Likes, 6 Stocks
 
 ---

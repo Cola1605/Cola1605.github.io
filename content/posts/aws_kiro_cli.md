@@ -218,4 +218,3 @@ Dù bạn là người dùng Kiro IDE hiện tại hay mới làm quen với Kir
 ---
 
 **Danh mục:** Amazon Q Developer, Announcements, General  
-**Tags:** Kiro CLI, AI Agent, Terminal, MCP, Custom Agents, Developer Tools

@@ -11,7 +11,6 @@ description: "Tóm tắt ngắn gọn về StrandsAgents và cách sử dụng h
 **Tác giả:** @yakumo_09 (やくも)  
 **Xuất bản:** 2025-09-27  
 **Nguồn:** [Qiita](https://qiita.com/yakumo_09/items/f85a8a0634e30b0d756c)  
-**Tags:** AWS, VSCode, bedrock, AI, StrandsAgents  
 
 ## Tóm tắt chính
 

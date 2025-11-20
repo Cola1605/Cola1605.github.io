@@ -12,7 +12,6 @@ description: "Hướng dẫn sử dụng ChatGPT và Figma Layermate để tự 
 **Danh mục:** Know-how  
 **Tác giả:** Nhóm IT Hiệu Quả Hóa, PR Factory, Bộ Phận Thúc Đẩy IT  
 **Ngày công bố:** 2025年10月9日  
-**Tags:** #Know-how #Image Generation #Operational Efficiency #ChatGPT #Beginner-Friendly GenAI #Design
 
 **Bài viết gốc:** https://git-generative-ai.services.isca.jp/article/designer/de035/
 

@@ -13,7 +13,6 @@ description: "Tổng hợp 10 công cụ hiện đại và open source cho devel
 **Tác giả:** @itodaisuke99  
 **Ngày công bố:** 2025年10月13日  
 **Ngày cập nhật:** 2025年10月13日  
-**Tags:** #開発ツール #データ可視化 #オープンソース #API開発  
 **Likes:** 55 | **Stocks:** 40 | **Comments:** 0
 
 **Bài viết gốc:** https://qiita.com/itodaisuke99/items/d5b59d629d5620856a2a

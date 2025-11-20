@@ -12,7 +12,6 @@ description: "Hướng dẫn thực hành xây dựng và triển khai AI Agent 
 **Tác giả:** minorun365  
 **Ngày xuất bản:** 2025-10-04  
 **Nguồn:** [Qiita](https://qiita.com/minorun365/items/deb10c8e7a6b1219e595)  
-**Tags:** Python, AWS, AI, StrandsAgents, BedrockAgentCore
 
 ## Tóm tắt
 

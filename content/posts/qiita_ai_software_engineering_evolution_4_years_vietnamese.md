@@ -10,7 +10,6 @@ description: "Nhìn lại 4 năm tiến hóa của AI trong Software Engineering
 
 **Tác giả:** @hummer (Yuji Yamamoto)  
 **Ngày xuất bản:** 2025-10-27  
-**Tags:** cursor, ClaudeCode, VibeCoding, RooCode, SpecDrivenDevelopment
 
 ---
 

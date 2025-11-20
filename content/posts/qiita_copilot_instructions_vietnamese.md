@@ -14,7 +14,6 @@ description: "Hướng dẫn sử dụng copilot-instructions.md để customize
 **Nguồn:** https://qiita.com/TooMe/items/873540da84567733d16b
 
 **Event:** 生成AI開発の珍プレー好プレー大賞！（珍プレー多め）  
-**Tags:** #githubcopilot #copilot-instructions.md  
 **Likes:** 79 | **Stocks:** 83 | **Comments:** 0
 
 ---

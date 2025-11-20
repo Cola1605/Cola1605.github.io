@@ -616,7 +616,6 @@ Chia sẻ setup của bạn với hashtag **#codewithkiro** hoặc tag @kirodotd
 
 ---
 
-**Tags:** Amazon Q, Amazon Q Developer, Announcements, Developer Tools, General
 
 **Bài viết gốc:** [Stop Repeating Yourself - Kiro Blog](https://kiro.dev/blog/stop-repeating-yourself/)  
 **Dịch bởi:** 稲田大陸

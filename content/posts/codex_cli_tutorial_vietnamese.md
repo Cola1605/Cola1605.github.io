@@ -16,7 +16,6 @@ description: "Hướng dẫn chi tiết sử dụng Codex CLI - trợ lý lập 
 **Ngày đăng:** 2025-10-16  
 **Nguồn:** https://git-generative-ai.services.isca.jp/article/engineer/en021/
 
-**Tags:** Hỗ trợ lập trình, Code review, Phát triển, Hiệu quả công việc, AI Agent, Engineering
 
 ---
 

@@ -13,7 +13,6 @@ description: "Hướng dẫn chi tiết best practices để upgrade từ Amazon
 **Nguồn:** https://aws.amazon.com/jp/blogs/news/best-practices-for-upgrading-from-amazon-redshift-dc2-to-ra3-and-amazon-redshift-serverless/
 
 **Categories:** Amazon Redshift, Analytics, Best Practices  
-**Tags:** #AmazonRedshift #AWSAnalytics #BestPractices
 
 ---
 

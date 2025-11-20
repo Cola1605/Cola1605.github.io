@@ -12,7 +12,6 @@ description: "Hướng dẫn kết hợp Terraform và AWS SAM để xây dựng
 **Ngày xuất bản:** 30/10/2025  
 **Cập nhật lần cuối:** 30/10/2025  
 **Nguồn:** [Qiita](https://qiita.com/keitah/items/d41b0888cf7b8b01616d)  
-**Tags:** AWS, Terraform, #IaC  
 **👍 Lượt thích:** 29 | **📚 Bookmark:** 36
 
 ---

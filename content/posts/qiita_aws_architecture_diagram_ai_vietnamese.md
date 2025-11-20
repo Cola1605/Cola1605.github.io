@@ -10,7 +10,6 @@ description: "Hướng dẫn sử dụng AI để tạo sơ đồ kiến trúc A
 
 **Tác giả:** @im_yoneda (米田)  
 **Ngày:** 2025-09-17  
-**Tags:** AWS, AI, Draw.io, MCP, copilot  
 **Lượt thích:** 72  
 **Lượt lưu:** 78  
 **URL:** https://qiita.com/im_yoneda/items/f7624a0a25885f68616f

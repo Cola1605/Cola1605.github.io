@@ -242,7 +242,6 @@ Nếu có câu hỏi về nội dung kiểm chứng hoặc có nội dung muốn
 
 ---
 
-**Tags:** #社内開発サービス #画像生成 #AI SCREAM #デザイン  
 **Dữ liệu khảo sát:** Câu trả lời từ 35 Heavy User  
 **Insights chính:** Google Imagen3 được ủng hộ trên 80%, số lần thử 1-10 lần là chủ lưu, việc sử dụng Prompt Mode hiệu quả
 

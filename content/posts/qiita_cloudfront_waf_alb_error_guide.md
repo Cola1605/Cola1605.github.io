@@ -10,7 +10,6 @@ description: "Hướng dẫn toàn diện về xử lý lỗi trong kiến trúc
 
 **Tác giả:** @mkydk (Daiki Mukaiyama)  
 **Ngày:** 25/01/2024  
-**Tags:** AWS, EC2, waf, CloudFront, ALB  
 **Likes:** 0  
 **Stocks:** 0  
 **URL:** https://qiita.com/mkydk/items/afd4e2e91dbdb556aca5

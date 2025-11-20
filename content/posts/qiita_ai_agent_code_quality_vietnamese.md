@@ -12,7 +12,6 @@ description: "Hướng dẫn cài đặt quy tắc coding cho AI Agent như Clau
 **Tác giả:** @tomada (とまだ@AI駆動開発)  
 **Tổ chức:** Learning Next  
 **Ngày đăng:** 2025-10-09  
-**Tags:** cursor, codex, AI駆動開発, AIエージェント, ClaudeCode  
 **Phản ứng:** 👍 15 | 📚 6
 
 **Bài viết gốc:** https://qiita.com/tomada/items/df5d3e0f611860bc2740
