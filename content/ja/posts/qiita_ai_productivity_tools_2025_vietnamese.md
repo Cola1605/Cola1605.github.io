@@ -1,7 +1,7 @@
 ---
 title: "AI Thay Đổi Môi Trường Phát Triển! 14 Công Cụ Nâng Cao Năng Suất Đáng Chú Ý Năm 2025"
 date: 2025-10-02T15:00:00+07:00
-categories: ["AI", "Development Tools", "Productivity"]
+categories: ["AI & Machine Learning", "Development", "Business & Technology"]
 tags: ["AI Tools", "Productivity", "Development", "AI Assistant", "Programming", "Software Development"]
 description: "Khám phá 14 công cụ AI mạnh mẽ giúp nâng cao năng suất phát triển phần mềm trong năm 2025"
 ---

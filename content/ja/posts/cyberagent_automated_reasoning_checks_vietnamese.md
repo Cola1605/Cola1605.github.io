@@ -3,7 +3,7 @@ title: "Kiểm soát Hallucination của AI bằng Phương pháp Hình thức: 
 date: 2025-10-02T11:00:00+07:00
 draft: false
 tags: ["AWS", "Automated Reasoning", "AI Hallucination", "CyberAgent", "ABEMA", "AI Safety"]
-categories: ["AI", "AWS", "Technology"]
+categories: ["AI & Machine Learning", "AWS", "Business & Technology"]
 author: "Honoka Toda"
 description: "Trải nghiệm thực tế sử dụng AWS Automated Reasoning Checks để kiểm soát hallucination của AI tại CyberAgent"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Claude Code vs Codex CLI - Chọn cái nào? Phân tích từ kinh nghiệm thực tế"
 date: 2025-10-02T14:00:00+07:00
-categories: ["AI", "Development Tools", "Technology"]
+categories: ["AI & Machine Learning", "Development", "Business & Technology"]
 tags: ["Claude Code", "Codex CLI", "AI Programming", "Comparison", "MCP", "OpenAI"]
 description: "So sánh chi tiết Claude Code và Codex CLI từ kinh nghiệm thực tế sử dụng cả hai công cụ"
 ---
