@@ -11,6 +11,8 @@ description: "Khám phá Google Antigravity - IDE mới từ Google với 4 tr�
 **Ngày đăng**: 2025-11-19  
 **Nguồn**: https://qiita.com/rf_p/items/60be12914338447543d3
 
+> **📷 Lưu ý về Hình ảnh**: Do hạn chế bảo mật từ Qiita, các hình ảnh trong bài viết này không hiển thị trực tiếp. Vui lòng xem hình ảnh đầy đủ trên [bài viết gốc tại Qiita](https://qiita.com/rf_p/items/60be12914338447543d3).
+
 ## Giới thiệu
 
 Hôm nay 2025/11/19, Google đã công bố Gemini 3.0 đồng thời với việc ra mắt một IDE có tên là "Google Antigravity".
