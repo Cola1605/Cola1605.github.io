@@ -4,7 +4,7 @@ date: 2025-11-10
 draft: false
 categories:
   - "AWS"
-  - "Monitoring and Observability"
+  - "DevOps & Infrastructure"
 tags:
   - "AWS"
   - "CloudWatch"

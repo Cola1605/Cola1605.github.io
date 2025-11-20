@@ -4,7 +4,7 @@ date: 2025-11-11
 draft: false
 categories:
   - "AWS"
-  - "Tools"
+  - "Development"
 tags:
   - "AWS"
   - "Regions"

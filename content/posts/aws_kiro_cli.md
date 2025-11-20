@@ -5,7 +5,7 @@ draft: false
 categories:
   - "AWS"
   - "AI/ML"
-  - "Developer Tools"
+  - "Development"
 tags:
   - "Kiro CLI"
   - "AI Agent"

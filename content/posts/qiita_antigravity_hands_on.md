@@ -3,8 +3,8 @@ title: "Trải nghiệm Antigravity - Trình soạn thảo AI của Google: Từ
 date: 2025-11-19
 draft: false
 categories:
-  - "AI"
-  - "Development Tools"
+  - "AI & Machine Learning"
+  - "Development"
 tags:
   - "Gemini"
   - "AI Agent"

@@ -3,7 +3,7 @@ title: "Loại bỏ 'Nice Person Filter' của ChatGPT để nhận feedback th�
 date: 2025-11-09
 draft: false
 categories:
-  - "AI"
+  - "AI & Machine Learning"
   - "Development"
 tags:
   - "ChatGPT"

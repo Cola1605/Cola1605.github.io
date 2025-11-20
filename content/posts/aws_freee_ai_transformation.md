@@ -5,7 +5,7 @@ draft: false
 categories:
   - "AWS"
   - "AI/ML"
-  - "Case Study"
+  - "Business & Technology"
 tags:
   - "AI"
   - "Amazon Bedrock"

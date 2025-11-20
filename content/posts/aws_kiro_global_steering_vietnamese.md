@@ -4,7 +4,7 @@ date: 2025-11-11
 draft: false
 categories:
   - "Amazon Q"
-  - "Developer Tools"
+  - "Development"
 tags:
   - "AWS"
   - "Amazon Q Developer"

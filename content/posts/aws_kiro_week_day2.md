@@ -4,8 +4,8 @@ date: 2025-11-20
 draft: false
 categories:
   - "AWS"
-  - "Kiro"
-  - "IDE"
+  - "Business & Technology"
+  - "Development"
 tags:
   - "Amazon Q Developer"
   - "Migration"
