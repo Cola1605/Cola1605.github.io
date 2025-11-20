@@ -3,7 +3,7 @@ title: "Ngừng Lặp Lại: Lớp Context AI Bạn Đã Bỏ Lỡ - Global Stee
 date: 2025-11-11
 draft: false
 categories:
-  - "Amazon Q"
+  - "AWS"
   - "Development"
 tags:
   - "AWS"

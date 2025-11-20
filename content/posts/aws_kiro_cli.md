@@ -4,7 +4,7 @@ date: 2025-11-18
 draft: false
 categories:
   - "AWS"
-  - "AI/ML"
+  - "AI & Machine Learning"
   - "Development"
 tags:
   - "Kiro CLI"
