@@ -23,11 +23,15 @@ Bài viết này nhắm đến các quản trị viên và người ra quyết �
 
 AWS và Anthropic đã thiết lập quan hệ hợp tác chiến lược sâu rộng. Tính đến tháng 11 năm 2024, Amazon đã thực hiện khoản đầu tư lớn tổng cộng 8 tỷ đô la Mỹ, tương đương hơn 1 nghìn tỷ yên Nhật vào Anthropic. Không chỉ đầu tư, việc tích hợp ở cấp độ sản phẩm và dịch vụ thực tế cũng đang tiến triển vững chắc.
 
+![Quan hệ hợp tác AWS và Anthropic](/images/posts/claude_code_on_aws_patterns/6faad8479450-20251031.png)
+
 Trong Amazon Bedrock - dịch vụ AI tạo sinh của AWS, các mô hình Claude của Anthropic được cung cấp và tích hợp với các chức năng của Amazon Bedrock như fine-tuning, knowledge base, agent và guardrails. Mặc dù Claude là mô hình bên thứ ba, nhưng cơ chế sử dụng an toàn đã được thiết lập. Dữ liệu suy luận và dữ liệu huấn luyện của khách hàng sẽ không được lưu trữ trong AWS trừ khi được thiết lập rõ ràng, và vì mô hình Claude được host trên AWS nên Anthropic không thể xem dữ liệu khách hàng. Thông tin liên lạc được xử lý trong môi trường an toàn thông qua AWS backbone.
 
 Hơn nữa, các mô hình Claude được triển khai trên cơ sở hạ tầng toàn cầu của AWS và có thể sử dụng ở các region trên toàn thế giới bao gồm cả Tokyo và Osaka. Ngoài suy luận thời gian thực, còn hỗ trợ suy luận batch và có thể đặt trước throughput với hình thức trả trước. Claude được tối ưu hóa cho AWS Trainium - accelerator do AWS phát triển, có thể sử dụng với capacity cao và latency thấp.
 
 Repository **anthropic-on-aws** cũng được công bố, tập hợp các code sample và notebook tham khảo khi sử dụng mô hình Anthropic trên AWS. Ví dụ, có sample "Claude Code on Amazon Bedrock AgentCore".
+
+![Claude Code on Amazon Bedrock AgentCore](/images/posts/claude_code_on_aws_patterns/619102ebbfef-20251031.png)
 
 Đây là cơ chế deploy Claude Code lên Amazon Bedrock AgentCore Runtime và vận hành ở chế độ headless. Khi gửi request, mô hình Claude của Amazon Bedrock được gọi ở phía sau và lưu kết quả công việc vào Amazon S3, thực hiện cấu hình giống như Claude Code serverless.
 
@@ -78,9 +82,15 @@ Nếu muốn team sử dụng cùng thiết lập, có thể mô tả trong `set
 }
 ```
 
+![Thiết lập Claude Code với Bedrock](/images/posts/claude_code_on_aws_patterns/aaf5fb6dfe3f-20251031.png)
+
 Với thiết lập này, phần API provider sẽ tự động chuyển sang AWS Bedrock khi khởi động Claude Code.
 
 ### Các mô hình có sẵn
+
+Trên Amazon Bedrock, các mô hình Claude mới nhất có sẵn. Vì mỗi mô hình có đặc tính khác nhau nên việc sử dụng phù hợp theo use case là quan trọng.
+
+![So sánh mô hình Claude](/images/posts/claude_code_on_aws_patterns/fa28543fa4e9-20251031.png)
 
 Trên Amazon Bedrock, các mô hình Claude mới nhất có sẵn. Vì mỗi mô hình có đặc tính khác nhau nên việc sử dụng phù hợp theo use case là quan trọng.
 
@@ -102,13 +112,17 @@ Cả hai mô hình đều hỗ trợ đầu vào text và hình ảnh, chức n�
 
 ### Suy luận cross-region trong nước Nhật
 
+![Suy luận cross-region trong nước Nhật](/images/posts/claude_code_on_aws_patterns/45c9c53a3a23-20251031.png)
+
 Claude Sonnet/Haiku 4.5 cũng hỗ trợ suy luận cross-region giữa Tokyo và Osaka - các region trong nước Nhật. Mặc dù có thêm 10% phí premium so với tùy chọn suy luận phân tán toàn cầu, nhưng đây là chức năng được yêu cầu rất nhiều đặc biệt trong các ngành được quản lý.
 
 Về hình ảnh hoạt động, ví dụ khi gọi mô hình Claude Sonnet 4.5 đến Tokyo region, cơ bản sẽ được xử lý tại Tokyo region. Nếu region bận thì sẽ tự động routing đến Osaka region. Lúc này thông tin liên lạc luôn đi qua AWS backbone, an toàn và không ra ngoài Nhật Bản nên yên tâm. Sử dụng chức năng này, Claude Code cũng có thể được sử dụng trong hình thức đóng trong nước Nhật.
 
 ### Kiến trúc tham khảo cho triển khai tổ chức
 
-Kiến trúc tham khảo để dễ dàng triển khai trong tổ chức hình thức sử dụng Claude Code liên kết với Amazon Bedrock cũng được cung cấp. Cụ thể là giải pháp để cấp phát thông tin xác thực tạm thời ở hình thức tích hợp với cơ chế SSO nội bộ, liên kết với các OIDC provider nội bộ như Okta, Microsoft Entra ID (cũ là Azure AD), Auth0.
+Kiến trúc tham khảo để dễ dàng triển khai trong tổ chức hình thức sử dụng Claude Code liên kết với Amazon Bedrock cũng được cung cấp
+
+![Kiến trúc SSO với Bedrock](/images/posts/claude_code_on_aws_patterns/c87388388daf-20251031.png). Cụ thể là giải pháp để cấp phát thông tin xác thực tạm thời ở hình thức tích hợp với cơ chế SSO nội bộ, liên kết với các OIDC provider nội bộ như Okta, Microsoft Entra ID (cũ là Azure AD), Auth0.
 
 Khi người dùng muốn sử dụng Claude Code, đầu tiên xác thực với OIDC provider như Entra ID, truyền ID token cho Amazon Cognito. Nhận AWS credentials tạm thời từ Cognito và gọi mô hình Claude của Amazon Bedrock. Có thể xác nhận chi tiết từ trang "Guidance for Claude Code with Amazon Bedrock" và có thể deploy ngay bằng CloudFormation template.
 
@@ -118,7 +132,9 @@ Về phía developer, chỉ cần triển khai gói được phân phối lên m
 
 ### Dashboard giám sát tình hình sử dụng
 
-Không chỉ cơ chế SSO, còn có thể chuẩn bị dashboard để giám sát tình hình sử dụng. Ở đây có thể xác nhận một cách tổng quan insight về hiệu quả triển khai Claude Code on AWS và quản lý quota.
+Không chỉ cơ chế SSO, còn có thể chuẩn bị dashboard để giám sát tình hình sử dụng
+
+![Dashboard giám sát](/images/posts/claude_code_on_aws_patterns/4e95986615e9-20251031.png). Ở đây có thể xác nhận một cách tổng quan insight về hiệu quả triển khai Claude Code on AWS và quản lý quota.
 
 Trong dashboard, có thể xem các metric như lượng sử dụng token, số người dùng active, số API call, hiệu quả cache. Xem dữ liệu chuỗi thời gian như xu hướng số người dùng active, xu hướng số dòng chỉnh sửa, tổng lượng sử dụng token và giá trị theo từng mô hình để xác nhận khi nào, cái gì được sử dụng bao nhiêu.
 
@@ -127,6 +143,8 @@ Ngoài ra còn có mục xem ai là heavy user, mô hình nào được sử d�
 ### Ưu điểm của pattern Claude Code với Amazon Bedrock
 
 Ưu điểm khi kết hợp Claude Code và Amazon Bedrock rất đa dạng.
+
+![Ưu điểm Bedrock Pattern](/images/posts/claude_code_on_aws_patterns/969ee24dc8ca-20251031.png)
 
 **Mặt chi phí**
 
@@ -159,6 +177,8 @@ Ngoài ra còn có mục xem ai là heavy user, mô hình nào được sử d�
 
 ### Claude for Enterprise Plan
 
+![Claude for Enterprise Plan](/images/posts/claude_code_on_aws_patterns/95bb605ba3ee-20251031.png)
+
 Khi sử dụng Claude như SaaS của Anthropic, có các plan cá nhân Free, Pro, Max và các plan cho team và doanh nghiệp là Team plan và Enterprise plan. Với Enterprise plan này, nếu mua premium seat cho mỗi user thì Claude Code cũng có thể sử dụng được. Claude for Enterprise có thể subscribe trên AWS Marketplace - platform cho phép mua bán phần mềm.
 
 Trong Enterprise plan, ngoài chức năng có thể sử dụng trong plan cá nhân, còn được cung cấp các chức năng hướng đến team như quản lý tập trung user và thống nhất thanh toán. Hơn nữa, còn có thể sử dụng tích hợp với SSO công ty, đơn giản hóa quản lý account bằng SCIM (System for Cross-domain Identity Management), quản lý quyền hạn, chức năng audit log.
@@ -176,6 +196,8 @@ Nhìn toàn bộ vòng đời phát triển, ở định nghĩa yêu cầu sắp
 ### Ưu điểm của pattern Claude Code via AWS Marketplace
 
 Có nhiều ưu điểm khi mua Claude for Enterprise trên AWS Marketplace.
+
+![Ưu điểm AWS Marketplace Pattern](/images/posts/claude_code_on_aws_patterns/831972ac4cfb-20251031.png)
 
 **Mặt chi phí và quản lý ngân sách**
 
@@ -208,6 +230,8 @@ Có nhiều ưu điểm khi mua Claude for Enterprise trên AWS Marketplace.
 ## Tiêu chí lựa chọn
 
 Đã nói về việc sử dụng Claude Code trên AWS có 2 pattern lớn. Bây giờ sẽ sắp xếp từng pattern phù hợp với trường hợp nào.
+
+![So sánh tiêu chí lựa chọn](/images/posts/claude_code_on_aws_patterns/30bf7656d44d-20251031.png)
 
 ### Trường hợp phù hợp với pattern Amazon Bedrock
 
