@@ -2,7 +2,7 @@
 title: "Giải thích chi tiết vòng đời của một request đến Amazon CloudFront"
 date: 2025-10-22
 draft: false
-categories: ["AWS", "Security & Networking"]
+categories: ["AWS", "Security and Networking"]
 tags: ["Amazon-CloudFront", "AWS-WAF", "CDN", "Lambda-Edge", "Content-Delivery", "Edge-Computing"]
 description: "Khám phá lifecycle chi tiết của client request đến CloudFront distribution, bao gồm thứ tự thực thi các tính năng và cách tối ưu hóa web delivery."
 ---

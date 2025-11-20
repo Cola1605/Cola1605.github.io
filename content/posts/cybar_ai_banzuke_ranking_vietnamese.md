@@ -1,7 +1,7 @@
 ---
 title: "Khởi động Bảng Xếp Hạng AI - Hiển thị Mức Độ Sử Dụng AI Của Toàn Bộ Các Đơn Vị Kinh Doanh"
 date: 2025-10-30
-categories: ["AI & Machine Learning", "Business & Technology"]
+categories: ["AI and Machine Learning", "Business and Technology"]
 tags: ["AI-Banzuke", "AI-Usage", "Ranking", "CyberAgent", "AI-Adoption"]
 description: "CyberAgent khởi động Bảng Xếp Hạng AI (AI Banzuke) - hệ thống đánh giá mức độ sử dụng AI theo format đấu vật sumo, thúc đẩy adoption AI trong toàn công ty."
 ---

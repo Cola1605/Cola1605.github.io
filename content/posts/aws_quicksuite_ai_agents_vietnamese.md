@@ -2,7 +2,7 @@
 title: "Giới thiệu Amazon Quick Suite: Đồng đội AI thông minh giúp trả lời câu hỏi và thực hiện hành động"
 date: 2025-11-20
 tags: ["Amazon QuickSight", "AI", "Generative AI", "Business Intelligence", "AWS"]
-categories: ["AWS", "AI & Machine Learning"]
+categories: ["AWS", "AI and Machine Learning"]
 description: "Amazon Quick Suite tập hợp các chức năng nghiên cứu, business intelligence và tự động hóa được hỗ trợ bởi AI vào một môi trường làm việc duy nhất"
 ---
 

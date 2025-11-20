@@ -2,7 +2,7 @@
 title: "Claude Skills - Trang bị kiến thức chuyên môn cho AI để tự động hóa công việc"
 date: 2025-11-13
 draft: false
-categories: ["Business & Technology", "AI & Machine Learning"]
+categories: ["Business and Technology", "AI and Machine Learning"]
 tags: ["Claude", "Skills", "Tự động hóa", "Hiệu suất công việc", "AI", "Chia sẻ kiến thức"]
 author: "Lee Jun Ho (李 俊浩)"
 translator: "日平"

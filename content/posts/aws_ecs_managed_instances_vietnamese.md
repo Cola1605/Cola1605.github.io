@@ -2,7 +2,7 @@
 title: "Thông Báo Amazon ECS Managed Instances Cho Ứng Dụng Container Hóa"
 date: 2025-10-10
 draft: false
-categories: ["AWS", "DevOps & Infrastructure", "Cloud"]
+categories: ["AWS", "DevOps and Infrastructure", "Cloud"]
 tags: ["AWS", "ECS", "managed-instances", "EC2", "container", "serverless", "infrastructure", "DevOps"]
 description: "AWS giới thiệu Amazon ECS Managed Instances - tùy chọn compute mới kết hợp sự đơn giản của serverless với tính linh hoạt của EC2, giúp giảm TCO và tối ưu infrastructure management."
 ---

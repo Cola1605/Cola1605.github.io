@@ -2,7 +2,7 @@
 title: "Nguyên nhân và cách khắc phục tình trạng ALTER TABLE ADD COLUMN bị treo trong PostgreSQL"
 date: 2025-10-14
 draft: false
-categories: ["Data & Analytics", "DevOps & Infrastructure"]
+categories: ["Data and Analytics", "DevOps and Infrastructure"]
 tags: ["PostgreSQL", "SQL", "DDL", "ALTER-TABLE", "Database-Management", "RDBMS"]
 description: "Tìm hiểu nguyên nhân khiến lệnh ALTER TABLE ADD COLUMN bị treo trong PostgreSQL và các phương pháp khắc phục hiệu quả khi deploy database."
 ---

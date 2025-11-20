@@ -4,9 +4,9 @@ date: 2025-11-20
 draft: false
 categories:
   - "AWS"
-  - "AI & Machine Learning"
-  - "Business & Technology"
-  - "DevOps & Infrastructure"
+  - "AI and Machine Learning"
+  - "Business and Technology"
+  - "DevOps and Infrastructure"
 tags:
   - "Amazon QuickSight"
   - "Amazon Q"

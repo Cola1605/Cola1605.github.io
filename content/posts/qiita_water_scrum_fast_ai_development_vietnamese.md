@@ -2,7 +2,7 @@
 title: "Tái Xem Xét Phương Pháp Phát Triển Thời Đại AI Coding: Waterfall Phù Hợp Hơn Scrum?"
 date: 2025-10-14
 draft: false
-categories: ["Business & Technology", "AI & Machine Learning", "Development"]
+categories: ["Business and Technology", "AI and Machine Learning", "Development"]
 tags: ["agile", "scrum", "waterfall", "AI-driven-development", "project-management", "AI-coding", "vibe-coding", "methodology"]
 description: "Tái đánh giá phương pháp phát triển trong thời đại AI coding - liệu Water-Scrum-Fast có phải là giải pháp tốt hơn Scrum truyền thống cho AI-driven development? Phân tích chi tiết và đề xuất hybrid approach."
 ---

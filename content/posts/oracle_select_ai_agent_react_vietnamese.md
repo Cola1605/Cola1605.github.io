@@ -2,7 +2,7 @@
 title: "Thử triển khai Autonomous Workflow với AI Agent sử dụng ReAct chỉ bằng chức năng Oracle DB (26ai Select AI Agent)"
 date: 2025-10-20
 draft: false
-categories: ["Data & Analytics", "AI & Machine Learning"]
+categories: ["Data and Analytics", "AI and Machine Learning"]
 tags: ["Oracle-Database", "AI-Agent", "ReAct", "26ai", "Autonomous-Database", "LLM", "MCP"]
 description: "Khám phá Select AI Agent trong Oracle Autonomous AI Database 26ai - triển khai autonomous workflow processing với ReAct và MCP trực tiếp trên database."
 ---

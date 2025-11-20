@@ -2,7 +2,7 @@
 title: "Giải thích các Pattern Claude Code trên AWS – Amazon Bedrock / AWS Marketplace"
 date: 2025-11-20
 tags: ["Amazon Bedrock", "AI", "AWS Marketplace", "Generative AI", "Claude Code"]
-categories: ["AWS", "AI & Machine Learning"]
+categories: ["AWS", "AI and Machine Learning"]
 description: "Giải thích 2 pattern chính để sử dụng Claude Code trên AWS - Amazon Bedrock và AWS Marketplace"
 ---
 

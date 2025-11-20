@@ -1,7 +1,7 @@
 ---
 title: "Lý do tại sao nên sử dụng components Design System để thiết kế Figma trong thời đại có Figma MCP"
 date: 2025-10-03T07:00:00+07:00
-categories: ["Web & Frontend", "Development", "Business & Technology"]
+categories: ["Web and Frontend", "Development", "Business and Technology"]
 tags: ["Figma", "MCP", "Design System", "Next.js", "UI/UX", "Components"]
 description: "Khám phá cách sử dụng components Design System với Figma MCP để tối ưu hóa quy trình thiết kế và phát triển"
 ---

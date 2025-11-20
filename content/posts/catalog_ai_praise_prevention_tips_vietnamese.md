@@ -4,7 +4,7 @@ date: 2025-10-07
 lastmod: 2025-11-05
 draft: false
 categories:
-  - "AI & Machine Learning"
+  - "AI and Machine Learning"
   - "Development"
 tags:
   - "Hỗ trợ Prompt"

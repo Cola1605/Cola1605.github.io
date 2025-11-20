@@ -1,7 +1,7 @@
 ---
 title: "Amazon Nova Multimodal Embeddings: Mô hình embedding đa phương thức tối ưu cho RAG đại lý và tìm kiếm ngữ nghĩa"
 date: 2025-11-04
-categories: ["AWS", "AI & Machine Learning"]
+categories: ["AWS", "AI and Machine Learning"]
 tags: ["Amazon-Nova", "Embeddings", "Bedrock", "RAG", "Multimodal", "Semantic-Search"]
 description: "Amazon Nova Multimodal Embeddings trên Bedrock - mô hình embedding thống nhất hỗ trợ text, image, video, audio. Agentic RAG và semantic search với độ chính xác cao."
 ---

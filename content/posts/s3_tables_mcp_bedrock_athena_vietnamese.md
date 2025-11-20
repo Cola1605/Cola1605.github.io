@@ -2,7 +2,7 @@
 title: "Xây dựng MCP Server query S3 Tables (Iceberg) bằng ngôn ngữ tự nhiên với AWS Lambda + Bedrock + Athena"
 date: 2025-10-14
 draft: false
-categories: ["AWS", "Data & Analytics", "AI & Machine Learning"]
+categories: ["AWS", "Data and Analytics", "AI and Machine Learning"]
 tags: ["S3-Tables", "Iceberg", "MCP", "Bedrock", "Athena", "Lambda", "Data-Analysis", "Natural-Language-Query"]
 description: "Hướng dẫn xây dựng MCP Server cho phép query S3 Tables (Iceberg) bằng ngôn ngữ tự nhiên, tự động sinh SQL và trả về kết quả qua Claude."
 ---

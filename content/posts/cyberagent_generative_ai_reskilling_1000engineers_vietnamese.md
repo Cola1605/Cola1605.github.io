@@ -2,7 +2,7 @@
 title: "Câu chuyện tạo cơ hội học tập cho 1000 nhân viên để đào tạo Engineers có thể sử dụng thành thạo AI | Generative AI Thorough Understanding Reskilling dành cho Engineers"
 date: 2025-10-21
 draft: false
-categories: ["AI & Machine Learning", "Business & Technology"]
+categories: ["AI and Machine Learning", "Business and Technology"]
 tags: ["Generative-AI", "Reskilling", "AI-Training", "CyberAgent", "Engineer-Education", "AI-Agent", "Professional-Development"]
 description: "Câu chuyện về chương trình Generative AI Thorough Understanding Reskilling của CyberAgent - đào tạo 1000 engineers sử dụng thành thạo AI."
 ---

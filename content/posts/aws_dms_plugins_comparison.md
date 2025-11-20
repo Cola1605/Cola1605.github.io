@@ -4,8 +4,8 @@ date: 2025-11-20
 draft: false
 categories:
   - "AWS"
-  - "Data & Analytics"
-  - "DevOps & Infrastructure"
+  - "Data and Analytics"
+  - "DevOps and Infrastructure"
 tags:
   - "Aurora PostgreSQL"
   - "AWS DMS"

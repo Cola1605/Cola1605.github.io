@@ -2,7 +2,7 @@
 title: "Khởi động 'Bảng xếp hạng AI dành cho Engineer' nhằm hiển thị mức độ ứng dụng AI trong quy trình phát triển!"
 date: 2025-11-18
 draft: false
-categories: ["AI & Machine Learning", "Development", "Business & Technology"]
+categories: ["AI and Machine Learning", "Development", "Business and Technology"]
 tags: ["AI", "engineering", "ranking", "AI-adoption", "development-process", "cyberagent"]
 description: "CyberAgent khởi động Bảng xếp hạng AI dành cho Engineer để đánh giá mức độ ứng dụng AI trong quy trình phát triển, từ cấp độ cá nhân đến tổ chức với 7 hạng từ Yokozuna đến Makushita."
 ---

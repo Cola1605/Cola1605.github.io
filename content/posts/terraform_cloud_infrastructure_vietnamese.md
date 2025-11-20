@@ -2,7 +2,7 @@
 title: "Bắt đầu xây dựng môi trường Cloud với Terraform"
 date: 2025-10-15
 draft: false
-categories: ["Cloud", "DevOps & Infrastructure"]
+categories: ["Cloud", "DevOps and Infrastructure"]
 tags: ["Terraform", "AWS", "GCP", "IaC", "Infrastructure-as-Code", "Cloud-Infrastructure"]
 description: "Hướng dẫn chi tiết cho người mới bắt đầu sử dụng Terraform để xây dựng và quản lý môi trường cloud infrastructure trên AWS và GCP."
 ---

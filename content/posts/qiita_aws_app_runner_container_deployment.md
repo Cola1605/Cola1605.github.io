@@ -2,7 +2,7 @@
 title: "Deploy ứng dụng container dễ dàng với AWS App Runner"
 date: 2025-11-13
 draft: false
-categories: ["AWS", "DevOps & Infrastructure"]
+categories: ["AWS", "DevOps and Infrastructure"]
 tags: ["AWS", "Docker", "AppRunner", "Tutorial", "BIPROGY"]
 author: "YuNagura (Yu Nagura) - BIPROGY株式会社"
 translator: "日平"

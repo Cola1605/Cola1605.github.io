@@ -2,7 +2,7 @@
 title: "10 Công Cụ Hiện Đại Cho Developer Năm 2025 (Bao Gồm Open Source)"
 date: 2025-10-14
 draft: false
-categories: ["Development", "Business & Technology"]
+categories: ["Development", "Business and Technology"]
 tags: ["developer-tools", "data-visualization", "open-source", "API-development", "automation", "AI", "productivity", "modern-tools"]
 description: "Tổng hợp 10 công cụ hiện đại và open source cho developers năm 2025 - từ API design đến data visualization, giúp tăng tốc độ phát triển gấp 10 lần với automation và AI assistant."
 ---

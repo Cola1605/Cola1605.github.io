@@ -1,7 +1,7 @@
 ---
 title: "【AWS】Muốn Vẽ Sơ Đồ Kiến Trúc Một Cách Dễ Dàng!"
 date: 2025-10-03T08:00:00+07:00
-categories: ["AWS", "AI & Machine Learning", "Business & Technology"]
+categories: ["AWS", "AI and Machine Learning", "Business and Technology"]
 tags: ["AWS", "Architecture Diagram", "AI Tools", "Draw.io", "MCP", "Cloud Architecture"]
 description: "Hướng dẫn sử dụng AI để tạo sơ đồ kiến trúc AWS một cách dễ dàng, giúp hiểu rõ cách kết nối các dịch vụ AWS"
 ---

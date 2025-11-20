@@ -1,7 +1,7 @@
 ---
 title: "Cách dạy Kiro kỹ năng mới với Steering và MCP"
 date: 2025-10-30
-categories: ["AI & Machine Learning", "AWS", "Development"]
+categories: ["AI and Machine Learning", "AWS", "Development"]
 tags: ["Amazon-Q", "Kiro", "Agent-Steering", "MCP", "AI-Developer", "Custom-Tools"]
 description: "Hướng dẫn training Kiro AI agent với custom libraries và DSL. Sử dụng Agent Steering và Model Context Protocol (MCP) để mở rộng khả năng của AI coding assistant."
 ---

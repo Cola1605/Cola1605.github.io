@@ -2,7 +2,7 @@
 title: "Build Java/Maven Chỉ Trong 1 Giây! Giảm 98% Thời Gian Với Docker Multi-stage Build + BuildKit"
 date: 2025-10-28
 draft: false
-categories: ["DevOps & Infrastructure", "Development"]
+categories: ["DevOps and Infrastructure", "Development"]
 tags: ["Docker", "BuildKit", "Maven", "Java", "Multi-stage-Build", "Performance-Optimization", "Cache-Optimization"]
 description: "Tối ưu hóa thời gian build Docker cho Java/Maven từ 39 giây xuống 1 giây (cải thiện 98%) với Docker Multi-stage Build 3 tầng và BuildKit cache mount."
 ---

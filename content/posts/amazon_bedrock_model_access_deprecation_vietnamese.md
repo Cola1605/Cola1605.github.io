@@ -2,7 +2,7 @@
 title: "Những điều cần nắm về việc Amazon Bedrock ngừng tính năng Model Access"
 date: 2025-10-19
 draft: false
-categories: ["AWS", "AI & Machine Learning"]
+categories: ["AWS", "AI and Machine Learning"]
 tags: ["Amazon-Bedrock", "Model-Access", "Foundation-Models", "AI-Security", "AWS-Updates"]
 description: "Tìm hiểu về việc Amazon Bedrock ngừng tính năng Model Access từ 15/10/2025 và các thay đổi quan trọng trong cách truy cập foundation models."
 ---

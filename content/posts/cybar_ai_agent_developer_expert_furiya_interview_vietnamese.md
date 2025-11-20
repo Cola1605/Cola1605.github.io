@@ -1,7 +1,7 @@
 ---
 title: "Developer Expert Furiya về AI Agent: Phải thay đổi tư duy từ gốc rễ, nếu không sẽ bỏ lại phía sau hoàn toàn"
 date: 2025-10-29
-categories: ["AI & Machine Learning", "Development", "Business & Technology"]
+categories: ["AI and Machine Learning", "Development", "Business and Technology"]
 tags: ["AI-Agent", "CyberAgent", "Developer-Expert", "Flutter", "AI-Driven", "Interview"]
 description: "Phỏng vấn Developer Expert Furiya về cách CyberAgent ứng dụng AI Agent, thay đổi tư duy phát triển, và AI Driven Promotion Office. Kinh nghiệm từ lead engineer ABEMA."
 ---

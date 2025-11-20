@@ -1,7 +1,7 @@
 ---
 title: "Sự Tiến Hóa Của AI Agent Trong Software Engineering: Hành Trình 4 Năm Từ Gợi Ý Code Đến Tự Chủ Phát Triển"
 date: 2025-10-27
-categories: ["AI & Machine Learning", "Development"]
+categories: ["AI and Machine Learning", "Development"]
 tags: ["cursor", "ClaudeCode", "AI-Agent", "GitHub-Copilot", "AI-Coding", "Development"]
 description: "Nhìn lại 4 năm tiến hóa của AI trong Software Engineering: từ GitHub Copilot đến AI Agent tự chủ. Phân tích 8 giai đoạn phát triển và tương lai của AI coding."
 ---

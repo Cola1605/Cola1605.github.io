@@ -2,7 +2,7 @@
 title: "Trải nghiệm Intern: Xây dựng LLM Ops/Observability với Langfuse"
 date: 2025-11-12
 draft: false
-categories: ["Business & Technology", "DevOps & Infrastructure", "AI & Machine Learning"]
+categories: ["Business and Technology", "DevOps and Infrastructure", "AI and Machine Learning"]
 tags: ["Langfuse", "OpenTelemetry", "GCP", "AI POS", "GKE", "Observability"]
 author: "広瀬エイトル (Heitor Hirose) - CyberAgent"
 translator: "日平"

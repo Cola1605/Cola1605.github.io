@@ -1,7 +1,7 @@
 ---
 title: "Hướng Dẫn Xây Dựng Kiến Trúc AWS Hiện Đại với Terraform và SAM"
 date: 2025-10-30
-categories: ["AWS", "DevOps & Infrastructure"]
+categories: ["AWS", "DevOps and Infrastructure"]
 tags: ["Terraform", "AWS-SAM", "IaC", "Lambda", "Serverless", "Best-Practices"]
 description: "Hướng dẫn kết hợp Terraform và AWS SAM để xây dựng kiến trúc AWS. Phân tách trách nhiệm infrastructure và application, least privilege principle, secure IaC operations."
 ---

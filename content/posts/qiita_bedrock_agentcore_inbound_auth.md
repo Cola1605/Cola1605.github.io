@@ -2,7 +2,7 @@
 title: "Triển khai Authentication cho Amazon Bedrock AgentCore (Giải thích Inbound Auth)"
 date: 2025-11-15
 draft: false
-categories: ["AWS", "AI & Machine Learning", "Security & Networking"]
+categories: ["AWS", "AI and Machine Learning", "Security and Networking"]
 tags: ["Amazon Bedrock", "AgentCore", "Cognito", "Authentication", "Bearer Token"]
 author: "やくも (Yakumo)"
 translator: "日平"

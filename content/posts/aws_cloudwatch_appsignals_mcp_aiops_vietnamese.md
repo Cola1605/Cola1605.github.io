@@ -3,8 +3,8 @@ title: "Tăng cường AIOps – Giới thiệu Amazon CloudWatch và Applicatio
 date: 2025-11-07
 draft: false
 categories:
-  - "Business & Technology"
-  - "DevOps & Infrastructure"
+  - "Business and Technology"
+  - "DevOps and Infrastructure"
 tags:
   - "AWS"
   - "CloudWatch"

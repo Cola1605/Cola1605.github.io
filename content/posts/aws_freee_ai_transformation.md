@@ -4,8 +4,8 @@ date: 2025-11-11
 draft: false
 categories:
   - "AWS"
-  - "AI & Machine Learning"
-  - "Business & Technology"
+  - "AI and Machine Learning"
+  - "Business and Technology"
 tags:
   - "AI"
   - "Amazon Bedrock"

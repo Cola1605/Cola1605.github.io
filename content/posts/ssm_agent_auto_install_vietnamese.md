@@ -2,7 +2,7 @@
 title: "Tự động cài đặt AWS Systems Manager Agent trên các Amazon EC2 Node không được quản lý"
 date: 2025-10-16
 draft: false
-categories: ["AWS", "DevOps & Infrastructure"]
+categories: ["AWS", "DevOps and Infrastructure"]
 tags: ["AWS-Systems-Manager", "SSM-agent", "EC2", "CloudFormation", "AWS-Organizations", "automation", "fleet-management", "centralized-management"]
 description: "Hướng dẫn tự động cài đặt AWS Systems Manager agent trên EC2 instances không được quản lý sử dụng CloudFormation và AWS Organizations để quản lý fleet tài nguyên quy mô lớn."
 ---

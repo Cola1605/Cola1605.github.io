@@ -2,7 +2,7 @@
 title: "So sánh Codex SDK(TS) và codex-viewer - Phương thức thực thi"
 date: 2025-10-19
 draft: false
-categories: ["AI & Machine Learning", "Development"]
+categories: ["AI and Machine Learning", "Development"]
 tags: ["Codex", "AI駆動開発", "Technical Comparison", "SDK", "TypeScript"]
 author: "nogataka"
 translator: "日平"

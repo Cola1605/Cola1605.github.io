@@ -2,7 +2,7 @@
 title: "Amazon Bedrock AgentCore chính thức ra mắt tại Tokyo và các khu vực AWS: Đưa AI Agent vào thế giới thực"
 date: 2025-10-15
 draft: false
-categories: ["AWS", "AI & Machine Learning"]
+categories: ["AWS", "AI and Machine Learning"]
 tags: ["Amazon-Bedrock", "AgentCore", "AI-agent", "agentic-AI", "machine-learning", "enterprise-AI", "production-AI", "AWS-Tokyo"]
 description: "Amazon Bedrock AgentCore chính thức GA - nền tảng enterprise-grade để đưa AI Agent từ prototype vào production với security, scalability và reliability. Hỗ trợ hàng tỷ agents chạy đồng thời."
 ---

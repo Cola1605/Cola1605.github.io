@@ -2,7 +2,7 @@
 title: "Xây dựng Hybrid Network Connectivity cấp Enterprise cho SAP Cloud ERP Private trên AWS"
 date: 2025-11-14
 draft: false
-categories: ["AWS", "Business & Technology", "Security & Networking", "Development"]
+categories: ["AWS", "Business and Technology", "Security and Networking", "Development"]
 tags: ["SAP Cloud ERP Private", "RISE with SAP", "AWS Direct Connect", "Site-to-Site VPN", "Landing Zone", "Transit Gateway", "Network Architecture"]
 author: "AWS SAP Team"
 translator: "日平"

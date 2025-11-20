@@ -1,7 +1,7 @@
 ---
 title: "Tích hợp Bootstrap vào Angular để tạo trang web với thiết kế chuyên nghiệp một cách dễ dàng"
 date: 2025-10-30
-categories: ["Web & Frontend", "Development"]
+categories: ["Web and Frontend", "Development"]
 tags: ["Angular", "Bootstrap", "CSS", "HTML", "Web-Design", "Tutorial"]
 description: "Hướng dẫn tích hợp Bootstrap vào Angular project. Setup, responsive design, components và best practices cho người mới bắt đầu."
 ---

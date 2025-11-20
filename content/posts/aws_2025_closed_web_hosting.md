@@ -4,7 +4,7 @@ date: 2025-11-11
 draft: false
 categories:
   - "AWS"
-  - "Security & Networking"
+  - "Security and Networking"
 tags:
   - "ALB"
   - "S3"

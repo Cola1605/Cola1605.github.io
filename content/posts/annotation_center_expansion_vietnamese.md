@@ -1,7 +1,7 @@
 ---
 title: "Chiến lược mở rộng Annotation Center: Tương lai của AI và dữ liệu"
 date: 2025-10-03T12:00:00+07:00
-categories: ["AI & Machine Learning", "Business & Technology"]
+categories: ["AI and Machine Learning", "Business and Technology"]
 tags: ["Annotation", "AI", "Machine Learning", "Data", "Automation", "Training"]
 description: "Khám phá chiến lược mở rộng Annotation Center và tác động của nó đến tương lai AI"
 ---

@@ -2,7 +2,7 @@
 title: "Tạm biệt review mệt mỏi! Tùy chỉnh Copilot Agent với copilot-instructions.md"
 date: 2025-11-10
 draft: false
-categories: ["Development", "Business & Technology"]
+categories: ["Development", "Business and Technology"]
 tags: ["GitHub Copilot", "生成AI", "Development Efficiency", "VS Code", "Code Review"]
 author: "ntaka329 (永田) - GMOコネクト"
 translator: "日平"

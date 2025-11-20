@@ -2,7 +2,7 @@
 title: "Nâng cao User Experience và Security của Application Load Balancer cho SAP trên AWS"
 date: 2025-11-14
 draft: false
-categories: ["AWS", "Business & Technology", "Security & Networking"]
+categories: ["AWS", "Business and Technology", "Security and Networking"]
 tags: ["SAP on AWS", "Application Load Balancer", "mTLS", "Principal Propagation", "SSO", "Authentication", "RISE with SAP"]
 author: "Derek Ewell, Sreenath Middhi, Rajendra Narikimelli, Joachim Aumman, Arne Knoeller, Adam Hill"
 translator: "日平"

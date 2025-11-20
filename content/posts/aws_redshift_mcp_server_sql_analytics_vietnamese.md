@@ -1,7 +1,7 @@
 ---
 title: "Tăng tốc Phân tích SQL với Amazon Redshift MCP Server"
 date: 2025-11-05
-categories: ["AWS", "Data & Analytics"]
+categories: ["AWS", "Data and Analytics"]
 tags: ["Amazon-Redshift", "MCP", "Model-Context-Protocol", "SQL-Analytics", "AI-Agent", "Natural-Language-Processing"]
 description: "Hướng dẫn sử dụng Amazon Redshift MCP Server để tăng tốc phân tích SQL bằng ngôn ngữ tự nhiên với Model Context Protocol..."
 ---

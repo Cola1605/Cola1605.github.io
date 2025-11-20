@@ -2,7 +2,7 @@
 title: "Tất cả những người đang sử dụng GitHub Copilot hãy tạo file copilot-instructions.md"
 date: 2025-10-23
 draft: false
-categories: ["Development", "AI & Machine Learning"]
+categories: ["Development", "AI and Machine Learning"]
 tags: ["GitHub-Copilot", "AI-Assistant", "Developer-Tools", "Productivity", "Code-Generation", "Best-Practices"]
 description: "Hướng dẫn sử dụng copilot-instructions.md để customize GitHub Copilot cho project của bạn, làm cho Copilot thông minh và tiện lợi hơn."
 ---
