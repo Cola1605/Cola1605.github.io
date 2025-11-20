@@ -22,12 +22,10 @@ description: "Trải nghiệm thực tế với Antigravity, trình soạn thả
 ## Giới thiệu
 
 Google đã công bố trình soạn thảo AI "**Antigravity**" vào ngày 18/11/2025 (giờ Mỹ). Tôi đã thử sử dụng nó để phát triển một "ứng dụng chat AI" thực tế.
-
 Bài viết này tổng hợp ngắn gọn trải nghiệm của tôi, bao gồm cả việc sử dụng tiện ích mở rộng **Antigravity Browser Extension**.
 
-### Video demo sửa UI bằng tiện ích mở rộng Chrome
-
-[Demo video sẽ được nhúng tại đây]
+Video demo sửa UI bằng tiện ích mở rộng Chrome
+![Antigravity_UI_fix_1.gif](/images/qiita_antigravity_hands_on/qiita_2de41d50b309.gif)
 
 ## Antigravity là gì?
 
@@ -35,11 +33,9 @@ Bài viết này tổng hợp ngắn gọn trải nghiệm của tôi, bao gồm
 
 ### Đặc điểm chính
 
-**Trải nghiệm phát triển ưu tiên Agent**: Khi nhà phát triển đưa ra "chỉ thị" cấp cao, AI Agent sẽ tự động lập kế hoạch, viết mã, thực thi và xác minh hoạt động. Đặc điểm nổi bật là khả năng thực hiện tác vụ xuyên suốt trình soạn thảo, terminal và trình duyệt.
-
-**Manager View và Editor View**: Có thể chuyển đổi giữa "Manager View" để quản lý nhiều workspace và nhiều agent, và "Editor View" như màn hình phát triển thông thường.
-
-**Trực quan hóa công việc**: Tự động tạo ra "danh sách tác vụ", "kế hoạch triển khai", "ảnh chụp màn hình/video ghi hình (Artifacts)" như sản phẩm đầu ra, giúp trực quan hóa công việc của agent. Ghi lại lịch sử công việc và ảnh chụp màn hình từng bước, tổng hợp kết quả công việc một cách gọn gàng.
+*   **Trải nghiệm phát triển ưu tiên Agent**: Khi nhà phát triển đưa ra "chỉ thị" cấp cao, AI Agent sẽ tự động lập kế hoạch, viết mã, thực thi và xác minh hoạt động. Đặc điểm nổi bật là khả năng thực hiện tác vụ xuyên suốt trình soạn thảo, terminal và trình duyệt.
+*   **Manager View và Editor View**: Có thể chuyển đổi giữa "Manager View" để quản lý nhiều workspace và nhiều agent, và "Editor View" như màn hình phát triển thông thường.
+*   **Trực quan hóa công việc**: Tự động tạo ra "danh sách tác vụ", "kế hoạch triển khai", "ảnh chụp màn hình/video ghi hình (Artifacts)" như sản phẩm đầu ra, giúp trực quan hóa công việc của agent. Ghi lại lịch sử công việc và ảnh chụp màn hình từng bước, tổng hợp kết quả công việc một cách gọn gàng.
 
 Chi tiết xem tại "[Antigravity](https://antigravity.dev)".
 
@@ -49,36 +45,44 @@ Chi tiết xem tại "[Antigravity](https://antigravity.dev)".
 
 Antigravity có thể tải xuống từ [trang web chính thức](https://antigravity.dev). Sau khi thiết lập các cấu hình và khởi động, giao diện trông quen thuộc vì nó là một fork của VSCode.
 
+![screenshot_1](/images/qiita_antigravity_hands_on/qiita_50ad181aab1a.png)
+
 **Model** có thể chọn từ các tùy chọn sau. Tất nhiên, Gemini 3 cũng có sẵn.
+
+![screenshot_2](/images/qiita_antigravity_hands_on/qiita_f7b0a482f3a1.png)
 
 Trong **Conversation Mode**, có thể chuyển đổi giữa 2 chế độ sau:
 
-- **Planning**: Dành cho tác vụ phức tạp, nghiên cứu, hoặc cộng tác. Lập kế hoạch trước khi thực thi.
-- **Fast**: Dành cho tác vụ đơn giản. Thực thi trực tiếp và hoàn thành nhanh chóng.
+*   **Planning**: Dành cho tác vụ phức tạp, nghiên cứu, hoặc cộng tác. Lập kế hoạch trước khi thực thi.
+*   **Fast**: Dành cho tác vụ đơn giản. Thực thi trực tiếp và hoàn thành nhanh chóng.
+
+![screenshot_3](/images/qiita_antigravity_hands_on/qiita_146b3bc61ec0.png)
 
 ### 2. Khởi động "Agent Manager" từ "Open Agent Manager"
 
 Antigravity có "Agent Manager" cho phép quản lý tập trung nhiều agent và nhiều workspace.
-
 Từ đây có thể bắt đầu dự án mới hoặc xem danh sách trạng thái tác vụ của các workspace khác.
+
+![screenshot_4](/images/qiita_antigravity_hands_on/qiita_4dcf5aefe4a1.png)
 
 ### 3. Nhập chỉ thị
 
 Tôi chỉ nhập một câu duy nhất cho agent:
 
-**"Tạo một ứng dụng chat có thể trò chuyện với AI Hamster."**
+"Tạo một ứng dụng chat có thể trò chuyện với AI Hamster."
 
 Agent đã thực hiện các bước sau:
 
-- Khởi tạo dự án
-- Tạo cấu hình Next.js + Tailwind CSS
-- Tạo layout màn hình
-- Xây dựng component Chat UI
-- Tạo logic chat đơn giản qua API Route
-- Khởi động server phát triển cục bộ
+*   Khởi tạo dự án
+*   Tạo cấu hình Next.js + Tailwind CSS
+*   Tạo layout màn hình
+*   Xây dựng component Chat UI
+*   Tạo logic chat đơn giản qua API Route
+*   Khởi động server phát triển cục bộ
 
-Ngoài ra, bên trái có thể xem theo thời gian thực **"nội dung agent đang thực thi"**, và bên phải trong **Task panel** hiển thị **phân tách tác vụ** mà agent tự động tạo ra dưới dạng checklist.
+![screenshot_5](/images/qiita_antigravity_hands_on/qiita_e3f7a672cd25.png)
 
+Ngoài ra, bên trái có thể xem theo thời gian thực "nội dung agent đang thực thi", và bên phải trong **Task panel** hiển thị **phân tách tác vụ** mà agent tự động tạo ra dưới dạng checklist.
 Có thể thấy ngay đang thực hiện công đoạn nào.
 
 ### 4. Sau khi triển khai hoàn tất, ứng dụng khởi động trên Chrome
@@ -90,39 +94,46 @@ Về phản hồi trực quan và các trường hợp sử dụng, vui lòng th
 
 Khi thử chat thực tế, phản hồi được trả về đúng cách.
 
+![screenshot_6](/images/qiita_antigravity_hands_on/qiita_f3f920998ec3.png)
+
 ### 5. Nhập chỉ thị bổ sung
 
-**"Đổi tên nhân vật AI thành Ham-jiro. Ghi lại quá trình bằng screenshot."**
+"Đổi tên nhân vật AI thành Ham-jiro. Ghi lại quá trình bằng screenshot."
 
 Ứng dụng khởi động trên Chrome và có thể xem theo thời gian thực quá trình sửa đổi.
-
 Ngoài ra, khi thấy hiển thị "Playback available", tôi nhấp vào "View" và có thể xem ở bên phải quá trình test thực tế mà AI đang thực hiện.
 
+![screenshot_7](/images/qiita_antigravity_hands_on/qiita_b69548509358.png)
+
 Sau khi triển khai bổ sung hoàn tất, Walkthrough được tạo ra và lưu cả ảnh chụp như đã chỉ thị.
+
+![screenshot_8](/images/qiita_antigravity_hands_on/qiita_a3d57220ad99.png)
 
 ### 6. Yêu cầu sửa UI từ Artifact
 
 **Cập nhật 2025/11/19 19:58**
 
 Các Artifact đã tạo có thể hiển thị dạng danh sách ở bên phải màn hình.
-
 Nếu có phần UI muốn sửa, chọn ảnh chụp màn hình của Artifact đó, kéo chọn phần muốn thay đổi và comment, yêu cầu sẽ được phản ánh. (Thật ngạc nhiên!)
 
-#### ① Kéo chọn phần muốn thay đổi
+① Kéo chọn phần muốn thay đổi
+![screenshot_9](/images/qiita_antigravity_hands_on/qiita_c73857b7d819.png)
 
-#### ② Comment nội dung muốn thay đổi
-
+② Comment nội dung muốn thay đổi
 Comment về vị trí hiển thị emoji
+![screenshot_10](/images/qiita_antigravity_hands_on/qiita_58f3d16d298a.png)
 
 Cũng muốn đổi màu bong bóng chat nên comment
+![screenshot_11](/images/qiita_antigravity_hands_on/qiita_d1627a50ce70.png)
 
-#### ③ Triển khai đúng theo nội dung comment!
+③ Triển khai đúng theo nội dung comment!
+![screenshot_12](/images/qiita_antigravity_hands_on/qiita_4f616a05b2af.png)
 
 **Cập nhật 2025/11/19 23:50**
 
 Phương pháp kéo chọn để sửa UI cũng có thể sử dụng cho một hình ảnh đơn lẻ đã tạo, và sửa rất đẹp.
-
 Chọn phần cupcake, nhập comment và yêu cầu sửa đổi
+![screenshot_13](/images/qiita_antigravity_hands_on/qiita_ae1f4ac7c40e.png)
 
 ### 7. Về nơi lưu Task và Walkthrough
 
@@ -131,31 +142,30 @@ Trong Antigravity, các tác vụ mà agent thực hiện và Walkthrough đư�
 Cụ thể, tôi đã xác nhận được lưu tại đường dẫn sau:
 
 **Vị trí lưu**: `~/.gemini/antigravity/brain/<session_id>/`
-
-- `task.md`: Danh sách tác vụ và tiến độ
-- `walkthrough.md`: Ghi chép công việc (bao gồm link đến screenshot và video)
-- `implementation_plan.md`: Tài liệu kế hoạch triển khai
+*   `task.md`: Danh sách tác vụ và tiến độ
+*   `walkthrough.md`: Ghi chép công việc (bao gồm link đến screenshot và video)
+*   `implementation_plan.md`: Tài liệu kế hoạch triển khai
 
 Các tệp này được lưu dưới định dạng Markdown nên có thể xem như văn bản ngay cả ngoài trình soạn thảo, hoặc quản lý bằng Git.
 
+![screenshot_14](/images/qiita_antigravity_hands_on/qiita_0b178b2e819c.png)
+
 Các ảnh chụp nằm tại `~/.gemini/antigravity/browser_recordings/<session_id>/`.
+
+![screenshot_15](/images/qiita_antigravity_hands_on/qiita_ded08502363d.png)
 
 Tất nhiên, cũng có thể xem và quản lý chúng một cách trực quan từ **Task panel** hoặc **Agent Manager** trên Antigravity.
 
 ## Nhận xét và điểm tốt
 
-**Trực quan hóa tác vụ mượt mà**: Tiến độ của agent rõ ràng ngay từ cái nhìn đầu tiên. Task panel hiển thị phân tách tác vụ theo thời gian thực, rõ ràng đang thực hiện công đoạn nào.
-
-**Quy trình làm việc tự động hóa**: Các công đoạn thường phức tạp khi làm thủ công như thao tác trình duyệt, chụp ảnh màn hình, tạo Walkthrough được hỗ trợ. Agent tự động thực hiện cả test và xác minh.
-
-**Lưu lịch sử công việc**: Task và Walkthrough tự động được lưu và có thể xem lại sau. Có thể quản lý tập trung nhiều dự án và workspace qua Agent Manager.
-
-**Hoàn thành bằng chỉ thị đơn giản**: Chỉ với một câu chỉ thị, từ khởi tạo dự án đến khởi động server phát triển đều tự động thực hiện. Chỉ cần truyền đạt điều muốn làm mà không cần quan tâm chi tiết kỹ thuật.
+*   **Trực quan hóa tác vụ mượt mà**: Tiến độ của agent rõ ràng ngay từ cái nhìn đầu tiên. Task panel hiển thị phân tách tác vụ theo thời gian thực, rõ ràng đang thực hiện công đoạn nào.
+*   **Quy trình làm việc tự động hóa**: Các công đoạn thường phức tạp khi làm thủ công như thao tác trình duyệt, chụp ảnh màn hình, tạo Walkthrough được hỗ trợ. Agent tự động thực hiện cả test và xác minh.
+*   **Lưu lịch sử công việc**: Task và Walkthrough tự động được lưu và có thể xem lại sau. Có thể quản lý tập trung nhiều dự án và workspace qua Agent Manager.
+*   **Hoàn thành bằng chỉ thị đơn giản**: Chỉ với một câu chỉ thị, từ khởi tạo dự án đến khởi động server phát triển đều tự động thực hiện. Chỉ cần truyền đạt điều muốn làm mà không cần quan tâm chi tiết kỹ thuật.
 
 ## Kết luận
 
 Tôi cảm thấy việc xác nhận AI Agent đang làm gì đã trở nên dễ hiểu hơn rất nhiều.
-
 Việc phân tách tác vụ và trạng thái tiến độ được phản ánh theo thời gian thực thật thú vị khi theo dõi.
 
 Trong phát triển frontend, các công đoạn quan trọng về phản hồi trực quan như thao tác trình duyệt và chụp ảnh màn hình được tự động hóa, nên tôi cảm thấy có khả năng cải thiện hiệu suất phát triển.
@@ -166,8 +176,8 @@ Mọi người cũng hãy thử **Antigravity** một lần và kiểm chứng x
 
 ## Tài liệu tham khảo
 
-- [Antigravity - Trang web chính thức](https://antigravity.dev) - Nền tảng phát triển ưu tiên AI Agent của Google
-- [Why frontend developers choose Google Antigravity](https://antigravity.dev/frontend) - Các trường hợp sử dụng cho nhà phát triển frontend
-- [A new era of intelligence with Gemini 3 – Google Blog](https://blog.google/technology/ai/gemini-3-announcement/) - Công bố Gemini 3 và giới thiệu Antigravity
-- [Google Antigravity introduces agent-first architecture for asynchronous, verifiable coding workflows – VentureBeat](https://venturebeat.com/ai/google-antigravity-agent-first-architecture/) - Giải thích về kiến trúc của Antigravity
-- [Antigravity Is Google's New Agentic Development Platform – The New Stack](https://thenewstack.io/antigravity-google-agentic-development-platform/) - Chi tiết về Antigravity như một nền tảng
+*   [Antigravity - Trang web chính thức](https://antigravity.dev) - Nền tảng phát triển ưu tiên AI Agent của Google
+*   [Why frontend developers choose Google Antigravity](https://antigravity.dev/frontend) - Các trường hợp sử dụng cho nhà phát triển frontend
+*   [A new era of intelligence with Gemini 3 – Google Blog](https://blog.google/technology/ai/gemini-3-announcement/) - Công bố Gemini 3 và giới thiệu Antigravity
+*   [Google Antigravity introduces agent-first architecture for asynchronous, verifiable coding workflows – VentureBeat](https://venturebeat.com/ai/google-antigravity-agent-first-architecture/) - Giải thích về kiến trúc của Antigravity
+*   [Antigravity Is Google's New Agentic Development Platform – The New Stack](https://thenewstack.io/antigravity-google-agentic-development-platform/) - Chi tiết về Antigravity như một nền tảng
