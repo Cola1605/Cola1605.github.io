@@ -766,7 +766,21 @@ Bài viết này tổng hợp ngắn gọn trải nghiệm của tôi, bao gồm
 &lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://cybar.cag.isca.jp/?p=135542"&gt;https://cybar.cag.isca.jp/?p=135542&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id="bối-cảnh-dẫn-đến-việc-tổ-chức"&gt;Bối cảnh dẫn đến việc tổ chức&lt;/h2&gt;
-&lt;p&gt;Đã khoảng 2 năm kể từ khi toàn công ty bắt đầu ứng dụng AI thông qua các sáng kiến toàn công ty như cuộc thi ứng dụng triệt để AI sinh tạo và reskilling hiểu biết triệt để, cũng như các nỗ lực của từng bộ phận kinh doanh. Tôi nghĩ nhiều tổ chức đã đến giai đoạn mà việc sử dụng AI như một lựa chọn đã trở thành điều hiển nhiên, nhưng từ giờ trở đi, việc tận dụng AI như một thế mạnh của doanh nghiệp và dịch vụ sẽ dẫn đến việc cải thiện khả năng cạnh tranh của toàn bộ CyberAgent.&lt;/p&gt;</description></item><item><title>AI Khen Quá Nhiều? Kỹ thuật Một Câu để Ngăn chặn Lời Khen Thái quá</title><link>https://cola1605.github.io/posts/catalog_ai_praise_prevention_tips_vietnamese/</link><pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/catalog_ai_praise_prevention_tips_vietnamese/</guid><description>&lt;h2 id="giới-thiệu"&gt;Giới thiệu&lt;/h2&gt;
+&lt;p&gt;Đã khoảng 2 năm kể từ khi toàn công ty bắt đầu ứng dụng AI thông qua các sáng kiến toàn công ty như cuộc thi ứng dụng triệt để AI sinh tạo và reskilling hiểu biết triệt để, cũng như các nỗ lực của từng bộ phận kinh doanh. Tôi nghĩ nhiều tổ chức đã đến giai đoạn mà việc sử dụng AI như một lựa chọn đã trở thành điều hiển nhiên, nhưng từ giờ trở đi, việc tận dụng AI như một thế mạnh của doanh nghiệp và dịch vụ sẽ dẫn đến việc cải thiện khả năng cạnh tranh của toàn bộ CyberAgent.&lt;/p&gt;</description></item><item><title>Hosting Internal HTTPS Static Website với ALB, S3 và PrivateLink</title><link>https://cola1605.github.io/posts/aws_alb_s3_privatelink_static_websites/</link><pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/aws_alb_s3_privatelink_static_websites/</guid><description>&lt;h1 id="hosting-internal-https-static-website-với-alb-s3-và-privatelink"&gt;Hosting Internal HTTPS Static Website với ALB, S3 và PrivateLink&lt;/h1&gt;
+&lt;h2 id="tổng-quan"&gt;Tổng quan&lt;/h2&gt;
+&lt;p&gt;Solution này giới thiệu cách kết hợp Application Load Balancer (ALB), Amazon S3 và AWS PrivateLink để hosting static website với custom domain và HTTPS trong môi trường closed network không kết nối internet.&lt;/p&gt;
+&lt;h3 id="đặc-điểm-của-solution"&gt;Đặc điểm của Solution&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Môi trường closed network hoàn toàn&lt;/strong&gt;: Không cần kết nối internet&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hỗ trợ HTTPS&lt;/strong&gt;: Giao tiếp bảo mật với ACM certificate&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Custom domain&lt;/strong&gt;: Name resolution với Route53 Private Hosted Zone&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Khả năng mở rộng&lt;/strong&gt;: Kiến trúc serverless&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;High availability&lt;/strong&gt;: Độ tin cậy cao nhờ AWS managed services&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="các-thành-phần-của-architecture"&gt;Các thành phần của Architecture&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Application Load Balancer (Internal)&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>AI Khen Quá Nhiều? Kỹ thuật Một Câu để Ngăn chặn Lời Khen Thái quá</title><link>https://cola1605.github.io/posts/catalog_ai_praise_prevention_tips_vietnamese/</link><pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/catalog_ai_praise_prevention_tips_vietnamese/</guid><description>&lt;h2 id="giới-thiệu"&gt;Giới thiệu&lt;/h2&gt;
 &lt;p&gt;Có bao giờ bạn tư vấn với AI tạo sinh và nhận được những lời khen thái quá như &amp;ldquo;Ý tưởng rất tuyệt vời!&amp;rdquo; hay &amp;ldquo;Đề xuất xuất sắc!&amp;rdquo; không? Ban đầu, điều này khiến bạn cảm thấy tốt, nhưng khi nó tiếp diễn, bạn có thể bắt đầu tự hỏi &amp;ldquo;AI có thực sự nghĩ vậy không?&amp;rdquo; hoặc &amp;ldquo;Nó có khen bất kỳ điều gì tôi nói không?&amp;rdquo; dẫn đến sự không tin tưởng.&lt;/p&gt;</description></item><item><title>Bắt đầu xây dựng AI Agent trên AWS! Triển khai Strands lên AgentCore</title><link>https://cola1605.github.io/posts/qiita_aws_ai_agent_strandsagentcore_vietnamese/</link><pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/qiita_aws_ai_agent_strandsagentcore_vietnamese/</guid><description>&lt;h1 id="bắt-đầu-xây-dựng-ai-agent-trên-aws-triển-khai-strands-lên-agentcore"&gt;Bắt đầu xây dựng AI Agent trên AWS! Triển khai Strands lên AgentCore&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Tác giả:&lt;/strong&gt; minorun365&lt;br&gt;
 &lt;strong&gt;Ngày xuất bản:&lt;/strong&gt; 2025-10-04&lt;br&gt;
@@ -978,18 +992,4 @@ Bài viết này tổng hợp ngắn gọn trải nghiệm của tôi, bao gồm
 &lt;li&gt;Kết nối với Bedrock service&lt;/li&gt;
 &lt;li&gt;Bắt đầu sử dụng AI assistant&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Để xem hướng dẫn chi tiết, vui lòng tham khảo &lt;a href="https://cola1605.github.io/posts/qiita_strands_agents_guide_vi/"&gt;bài viết đầy đủ&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Hosting Internal HTTPS Static Website với ALB, S3 và PrivateLink</title><link>https://cola1605.github.io/posts/aws_alb_s3_privatelink_static_websites/</link><pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/aws_alb_s3_privatelink_static_websites/</guid><description>&lt;h1 id="hosting-internal-https-static-website-với-alb-s3-và-privatelink"&gt;Hosting Internal HTTPS Static Website với ALB, S3 và PrivateLink&lt;/h1&gt;
-&lt;h2 id="tổng-quan"&gt;Tổng quan&lt;/h2&gt;
-&lt;p&gt;Solution này giới thiệu cách kết hợp Application Load Balancer (ALB), Amazon S3 và AWS PrivateLink để hosting static website với custom domain và HTTPS trong môi trường closed network không kết nối internet.&lt;/p&gt;
-&lt;h3 id="đặc-điểm-của-solution"&gt;Đặc điểm của Solution&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Môi trường closed network hoàn toàn&lt;/strong&gt;: Không cần kết nối internet&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Hỗ trợ HTTPS&lt;/strong&gt;: Giao tiếp bảo mật với ACM certificate&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Custom domain&lt;/strong&gt;: Name resolution với Route53 Private Hosted Zone&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Khả năng mở rộng&lt;/strong&gt;: Kiến trúc serverless&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;High availability&lt;/strong&gt;: Độ tin cậy cao nhờ AWS managed services&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id="các-thành-phần-của-architecture"&gt;Các thành phần của Architecture&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Application Load Balancer (Internal)&lt;/strong&gt;&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;Để xem hướng dẫn chi tiết, vui lòng tham khảo &lt;a href="https://cola1605.github.io/posts/qiita_strands_agents_guide_vi/"&gt;bài viết đầy đủ&lt;/a&gt;.&lt;/p&gt;</description></item></channel></rss>

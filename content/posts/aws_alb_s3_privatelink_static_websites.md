@@ -1,6 +1,6 @@
 ---
 title: "Hosting Internal HTTPS Static Website với ALB, S3 và PrivateLink"
-date: 2023-11-08
+date: 2025-10-08
 draft: false
 categories:
   - "AWS"

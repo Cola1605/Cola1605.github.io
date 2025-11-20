@@ -5,9 +5,9 @@
     "url": "/posts/ai_scream_heavy_users_survey_vietnamese/",
     "date": "2025-10-02T12:00:00+07:00",
     "categories": [
-      "AI & Machine Learning",
-      "Web & Frontend",
-      "Business & Technology"
+      "AI and Machine Learning",
+      "Web and Frontend",
+      "Business and Technology"
     ],
     "tags": [
       "AI SCREAM",
@@ -411,7 +411,7 @@
     "date": "2025-10-15",
     "categories": [
       "AWS",
-      "AI & Machine Learning"
+      "AI and Machine Learning"
     ],
     "tags": [
       "Amazon-Bedrock",
@@ -817,7 +817,7 @@
     "date": "2025-10-19",
     "categories": [
       "AWS",
-      "AI & Machine Learning"
+      "AI and Machine Learning"
     ],
     "tags": [
       "Amazon-Bedrock",
@@ -1219,8 +1219,8 @@
     "url": "/posts/annotation_center_expansion_vietnamese/",
     "date": "2025-10-03T12:00:00+07:00",
     "categories": [
-      "AI & Machine Learning",
-      "Business & Technology"
+      "AI and Machine Learning",
+      "Business and Technology"
     ],
     "tags": [
       "Annotation",
@@ -2018,7 +2018,7 @@
     "date": "2025-11-13",
     "categories": [
       "AWS",
-      "AI & Machine Learning",
+      "AI and Machine Learning",
       "Development"
     ],
     "tags": [
@@ -2420,7 +2420,7 @@
     "title": "Hosting Internal HTTPS Static Website với ALB, S3 và PrivateLink",
     "description": "Hướng dẫn chi tiết cách hosting static website nội bộ với HTTPS sử dụng ALB, S3 và PrivateLink trong môi trường closed network",
     "url": "/posts/aws_alb_s3_privatelink_static_websites/",
-    "date": "2023-11-08",
+    "date": "2025-10-08",
     "categories": [],
     "tags": [],
     "embedding": [
@@ -2817,7 +2817,7 @@
     "date": "2025-11-04",
     "categories": [
       "AWS",
-      "AI & Machine Learning"
+      "AI and Machine Learning"
     ],
     "tags": [
       "Amazon-Nova",
@@ -3221,7 +3221,7 @@
     "date": "2025-11-14",
     "categories": [
       "AWS",
-      "DevOps & Infrastructure"
+      "DevOps and Infrastructure"
     ],
     "tags": [
       "Amazon EKS",
@@ -3626,8 +3626,8 @@
     "date": "2025-10-24",
     "categories": [
       "AWS",
-      "DevOps & Infrastructure",
-      "Security & Networking"
+      "DevOps and Infrastructure",
+      "Security and Networking"
     ],
     "tags": [
       "AWS-Backup",
@@ -4426,7 +4426,7 @@
     "date": "2025-10-22",
     "categories": [
       "AWS",
-      "Security & Networking"
+      "Security and Networking"
     ],
     "tags": [
       "Amazon-CloudFront",
@@ -4830,7 +4830,7 @@
     "date": "2025-11-04",
     "categories": [
       "AWS",
-      "DevOps & Infrastructure"
+      "DevOps and Infrastructure"
     ],
     "tags": [
       "CloudWatch",
@@ -6022,8 +6022,8 @@
     "date": "2025-10-30",
     "categories": [
       "AWS",
-      "Data & Analytics",
-      "DevOps & Infrastructure"
+      "Data and Analytics",
+      "DevOps and Infrastructure"
     ],
     "tags": [
       "AWS-DMS",
@@ -6426,8 +6426,8 @@
     "date": "2025-10-30",
     "categories": [
       "AWS",
-      "Data & Analytics",
-      "DevOps & Infrastructure"
+      "Data and Analytics",
+      "DevOps and Infrastructure"
     ],
     "tags": [
       "AWS-DMS",
@@ -7225,8 +7225,8 @@
     "date": "2025-10-21",
     "categories": [
       "AWS",
-      "Data & Analytics",
-      "DevOps & Infrastructure"
+      "Data and Analytics",
+      "DevOps and Infrastructure"
     ],
     "tags": [
       "AWS-DMS",
@@ -7631,7 +7631,7 @@
     "date": "2025-11-19",
     "categories": [
       "AWS",
-      "DevOps & Infrastructure"
+      "DevOps and Infrastructure"
     ],
     "tags": [
       "ECS",
@@ -8036,7 +8036,7 @@
     "date": "2025-10-10",
     "categories": [
       "AWS",
-      "DevOps & Infrastructure",
+      "DevOps and Infrastructure",
       "Cloud"
     ],
     "tags": [
@@ -8837,7 +8837,7 @@
     "date": "2025-10-14",
     "categories": [
       "AWS",
-      "DevOps & Infrastructure"
+      "DevOps and Infrastructure"
     ],
     "tags": [
       "AWS-IoT",
@@ -10819,7 +10819,7 @@
     "date": "2025-11-20",
     "categories": [
       "AWS",
-      "AI & Machine Learning"
+      "AI and Machine Learning"
     ],
     "tags": [
       "Amazon QuickSight",
@@ -11222,8 +11222,8 @@
     "date": "2025-11-07",
     "categories": [
       "AWS",
-      "Data & Analytics",
-      "DevOps & Infrastructure"
+      "Data and Analytics",
+      "DevOps and Infrastructure"
     ],
     "tags": [
       "Amazon-RDS",
@@ -11628,7 +11628,7 @@
     "date": "2025-10-22",
     "categories": [
       "AWS",
-      "Data & Analytics"
+      "Data and Analytics"
     ],
     "tags": [
       "Amazon-Redshift",
@@ -12033,7 +12033,7 @@
     "date": "2025-11-05",
     "categories": [
       "AWS",
-      "Data & Analytics"
+      "Data and Analytics"
     ],
     "tags": [
       "Amazon-Redshift",
@@ -12437,8 +12437,8 @@
     "date": "2025-10-09",
     "categories": [
       "AWS",
-      "Business & Technology",
-      "DevOps & Infrastructure"
+      "Business and Technology",
+      "DevOps and Infrastructure"
     ],
     "tags": [
       "AWS",
@@ -12844,8 +12844,8 @@
     "date": "2025-11-14",
     "categories": [
       "AWS",
-      "Business & Technology",
-      "Security & Networking"
+      "Business and Technology",
+      "Security and Networking"
     ],
     "tags": [
       "SAP on AWS",
@@ -13250,8 +13250,8 @@
     "date": "2025-11-14",
     "categories": [
       "AWS",
-      "Business & Technology",
-      "Security & Networking",
+      "Business and Technology",
+      "Security and Networking",
       "Development"
     ],
     "tags": [
@@ -14051,7 +14051,7 @@
     "date": "2025-11-20",
     "categories": [
       "AWS",
-      "AI & Machine Learning"
+      "AI and Machine Learning"
     ],
     "tags": [
       "Amazon Bedrock",
@@ -14453,7 +14453,7 @@
     "url": "/posts/codex_cli_tutorial_vietnamese/",
     "date": "2025-10-16",
     "categories": [
-      "AI & Machine Learning",
+      "AI and Machine Learning",
       "Development"
     ],
     "tags": [
@@ -14859,9 +14859,9 @@
     "url": "/posts/cybar_ai_agent_developer_expert_furiya_interview_vietnamese/",
     "date": "2025-10-29",
     "categories": [
-      "AI & Machine Learning",
+      "AI and Machine Learning",
       "Development",
-      "Business & Technology"
+      "Business and Technology"
     ],
     "tags": [
       "AI-Agent",
@@ -15264,8 +15264,8 @@
     "url": "/posts/cybar_ai_banzuke_ranking_vietnamese/",
     "date": "2025-10-30",
     "categories": [
-      "AI & Machine Learning",
-      "Business & Technology"
+      "AI and Machine Learning",
+      "Business and Technology"
     ],
     "tags": [
       "AI-Banzuke",
@@ -15667,9 +15667,9 @@
     "url": "/posts/cybar_engineer_ai_ranking_vietnamese/",
     "date": "2025-11-18",
     "categories": [
-      "AI & Machine Learning",
+      "AI and Machine Learning",
       "Development",
-      "Business & Technology"
+      "Business and Technology"
     ],
     "tags": [
       "AI",
@@ -16072,8 +16072,8 @@
     "url": "/posts/cyberagent_ai_ranking_system_vietnamese/",
     "date": "2025-10-08",
     "categories": [
-      "Business & Technology",
-      "AI & Machine Learning"
+      "Business and Technology",
+      "AI and Machine Learning"
     ],
     "tags": [
       "AI",
@@ -16476,8 +16476,8 @@
     "url": "/posts/cyberagent_ai_studio_tips_promise_commercial_vietnamese/",
     "date": "2025-10-03T13:00:00+07:00",
     "categories": [
-      "AI & Machine Learning",
-      "Business & Technology"
+      "AI and Machine Learning",
+      "Business and Technology"
     ],
     "tags": [
       "CyberAgent",
@@ -16880,9 +16880,9 @@
     "url": "/posts/cyberagent_automated_reasoning_checks_vietnamese/",
     "date": "2025-10-02T11:00:00+07:00",
     "categories": [
-      "AI & Machine Learning",
+      "AI and Machine Learning",
       "AWS",
-      "Business & Technology"
+      "Business and Technology"
     ],
     "tags": [
       "AWS",
@@ -17285,8 +17285,8 @@
     "url": "/posts/cyberagent_claude_skills/",
     "date": "2025-11-13",
     "categories": [
-      "Business & Technology",
-      "AI & Machine Learning"
+      "Business and Technology",
+      "AI and Machine Learning"
     ],
     "tags": [
       "Claude",
@@ -17689,9 +17689,9 @@
     "url": "/posts/cyberagent_figma_layermate_portfolio_vietnamese/",
     "date": "2025-10-10",
     "categories": [
-      "Web & Frontend",
-      "AI & Machine Learning",
-      "Business & Technology"
+      "Web and Frontend",
+      "AI and Machine Learning",
+      "Business and Technology"
     ],
     "tags": [
       "ChatGPT",
@@ -18097,8 +18097,8 @@
     "url": "/posts/cyberagent_flutterkaigi_2025/",
     "date": "2025-11-18",
     "categories": [
-      "Web & Frontend",
-      "Business & Technology"
+      "Web and Frontend",
+      "Business and Technology"
     ],
     "tags": [
       "Dart",
@@ -18500,8 +18500,8 @@
     "url": "/posts/cyberagent_generative_ai_reskilling_1000engineers_vietnamese/",
     "date": "2025-10-21",
     "categories": [
-      "AI & Machine Learning",
-      "Business & Technology"
+      "AI and Machine Learning",
+      "Business and Technology"
     ],
     "tags": [
       "Generative-AI",
@@ -18905,9 +18905,9 @@
     "url": "/posts/cyberagent_llm_observability_langfuse/",
     "date": "2025-11-12",
     "categories": [
-      "Business & Technology",
-      "DevOps & Infrastructure",
-      "AI & Machine Learning"
+      "Business and Technology",
+      "DevOps and Infrastructure",
+      "AI and Machine Learning"
     ],
     "tags": [
       "Langfuse",
@@ -19310,8 +19310,8 @@
     "url": "/posts/cyberagent_spindle_mcp_table_component_vietnamese/",
     "date": "2025-10-27",
     "categories": [
-      "Web & Frontend",
-      "AI & Machine Learning"
+      "Web and Frontend",
+      "AI and Machine Learning"
     ],
     "tags": [
       "Spindle",
@@ -19716,7 +19716,7 @@
     "url": "/posts/developers_desk_report_7_vietnamese/",
     "date": "2025-10-03T14:00:00+07:00",
     "categories": [
-      "Business & Technology",
+      "Business and Technology",
       "Development"
     ],
     "tags": [
@@ -20522,8 +20522,8 @@
     "url": "/posts/oracle_select_ai_agent_react_vietnamese/",
     "date": "2025-10-20",
     "categories": [
-      "Data & Analytics",
-      "AI & Machine Learning"
+      "Data and Analytics",
+      "AI and Machine Learning"
     ],
     "tags": [
       "Oracle-Database",
@@ -20928,8 +20928,8 @@
     "date": "2025-10-17",
     "categories": [
       "Development",
-      "DevOps & Infrastructure",
-      "AI & Machine Learning"
+      "DevOps and Infrastructure",
+      "AI and Machine Learning"
     ],
     "tags": [
       "Playwright",
@@ -21332,8 +21332,8 @@
     "url": "/posts/postgresql_alter_table_hang_vietnamese/",
     "date": "2025-10-14",
     "categories": [
-      "Data & Analytics",
-      "DevOps & Infrastructure"
+      "Data and Analytics",
+      "DevOps and Infrastructure"
     ],
     "tags": [
       "PostgreSQL",
@@ -21736,7 +21736,7 @@
     "url": "/posts/qiita_ai_agent_code_quality_vietnamese/",
     "date": "2025-10-10",
     "categories": [
-      "AI & Machine Learning",
+      "AI and Machine Learning",
       "Development"
     ],
     "tags": [
@@ -22141,9 +22141,9 @@
     "url": "/posts/qiita_ai_agent_instruction_prompts_2025_vietnamese/",
     "date": "2025-10-03T09:00:00+07:00",
     "categories": [
-      "AI & Machine Learning",
+      "AI and Machine Learning",
       "Development",
-      "Business & Technology"
+      "Business and Technology"
     ],
     "tags": [
       "AI Agent",
@@ -22546,9 +22546,9 @@
     "url": "/posts/qiita_ai_productivity_tools_2025_vietnamese/",
     "date": "2025-10-02T15:00:00+07:00",
     "categories": [
-      "AI & Machine Learning",
+      "AI and Machine Learning",
       "Development",
-      "Business & Technology"
+      "Business and Technology"
     ],
     "tags": [
       "AI Tools",
@@ -22951,7 +22951,7 @@
     "url": "/posts/qiita_ai_software_engineering_evolution_4_years_vietnamese/",
     "date": "2025-10-27",
     "categories": [
-      "AI & Machine Learning",
+      "AI and Machine Learning",
       "Development"
     ],
     "tags": [
@@ -23355,7 +23355,7 @@
     "url": "/posts/qiita_angular_bootstrap_guide_vietnamese/",
     "date": "2025-10-30",
     "categories": [
-      "Web & Frontend",
+      "Web and Frontend",
       "Development"
     ],
     "tags": [
@@ -24154,7 +24154,7 @@
     "date": "2025-10-04",
     "categories": [
       "AWS",
-      "AI & Machine Learning",
+      "AI and Machine Learning",
       "Development"
     ],
     "tags": [
@@ -24560,7 +24560,7 @@
     "date": "2025-11-13",
     "categories": [
       "AWS",
-      "DevOps & Infrastructure"
+      "DevOps and Infrastructure"
     ],
     "tags": [
       "AWS",
@@ -24963,8 +24963,8 @@
     "date": "2025-10-03T08:00:00+07:00",
     "categories": [
       "AWS",
-      "AI & Machine Learning",
-      "Business & Technology"
+      "AI and Machine Learning",
+      "Business and Technology"
     ],
     "tags": [
       "AWS",
@@ -25368,7 +25368,7 @@
     "date": "2025-11-04",
     "categories": [
       "AWS",
-      "DevOps & Infrastructure"
+      "DevOps and Infrastructure"
     ],
     "tags": [
       "AWS-CDK",
@@ -26177,7 +26177,7 @@
     "date": "2025-11-05",
     "categories": [
       "AWS",
-      "Security & Networking"
+      "Security and Networking"
     ],
     "tags": [
       "Network-Firewall",
@@ -26580,7 +26580,7 @@
     "date": "2025-10-25",
     "categories": [
       "AWS",
-      "DevOps & Infrastructure"
+      "DevOps and Infrastructure"
     ],
     "tags": [
       "AWS-Outage",
@@ -26984,9 +26984,9 @@
     "url": "/posts/qiita_azure_functions_aws_oidc_vietnamese/",
     "date": "2025-11-04",
     "categories": [
-      "DevOps & Infrastructure",
+      "DevOps and Infrastructure",
       "AWS",
-      "Security & Networking"
+      "Security and Networking"
     ],
     "tags": [
       "Azure-Functions",
@@ -27390,8 +27390,8 @@
     "date": "2025-10-30",
     "categories": [
       "AWS",
-      "AI & Machine Learning",
-      "Web & Frontend"
+      "AI and Machine Learning",
+      "Web and Frontend"
     ],
     "tags": [
       "Bedrock-AgentCore",
@@ -27795,8 +27795,8 @@
     "date": "2025-10-26",
     "categories": [
       "AWS",
-      "AI & Machine Learning",
-      "DevOps & Infrastructure"
+      "AI and Machine Learning",
+      "DevOps and Infrastructure"
     ],
     "tags": [
       "Amazon-Bedrock",
@@ -28201,8 +28201,8 @@
     "date": "2025-11-15",
     "categories": [
       "AWS",
-      "AI & Machine Learning",
-      "Security & Networking"
+      "AI and Machine Learning",
+      "Security and Networking"
     ],
     "tags": [
       "Amazon Bedrock",
@@ -28605,8 +28605,8 @@
     "date": "2025-10-26",
     "categories": [
       "AWS",
-      "AI & Machine Learning",
-      "Security & Networking"
+      "AI and Machine Learning",
+      "Security and Networking"
     ],
     "tags": [
       "Amazon-Bedrock",
@@ -29404,7 +29404,7 @@
     "url": "/posts/qiita_chrome_devtools_mcp_vietnamese/",
     "date": "2025-10-02T13:00:00+07:00",
     "categories": [
-      "Business & Technology",
+      "Business and Technology",
       "Development"
     ],
     "tags": [
@@ -29808,9 +29808,9 @@
     "url": "/posts/qiita_claude_vs_codex_comparison_2025_vietnamese/",
     "date": "2025-10-02T14:00:00+07:00",
     "categories": [
-      "AI & Machine Learning",
+      "AI and Machine Learning",
       "Development",
-      "Business & Technology"
+      "Business and Technology"
     ],
     "tags": [
       "Claude Code",
@@ -30214,8 +30214,8 @@
     "date": "2025-10-02T06:00:00+07:00",
     "categories": [
       "AWS",
-      "Business & Technology",
-      "DevOps & Infrastructure"
+      "Business and Technology",
+      "DevOps and Infrastructure"
     ],
     "tags": [
       "AWS",
@@ -30621,7 +30621,7 @@
     "date": "2025-11-03",
     "categories": [
       "AWS",
-      "DevOps & Infrastructure"
+      "DevOps and Infrastructure"
     ],
     "tags": [
       "CloudWatch",
@@ -31023,7 +31023,7 @@
     "url": "/posts/qiita_codex_sdk_viewer_comparison/",
     "date": "2025-10-19",
     "categories": [
-      "AI & Machine Learning",
+      "AI and Machine Learning",
       "Development"
     ],
     "tags": [
@@ -31427,7 +31427,7 @@
     "date": "2025-11-10",
     "categories": [
       "Development",
-      "Business & Technology"
+      "Business and Technology"
     ],
     "tags": [
       "GitHub Copilot",
@@ -31830,7 +31830,7 @@
     "date": "2025-10-23",
     "categories": [
       "Development",
-      "AI & Machine Learning"
+      "AI and Machine Learning"
     ],
     "tags": [
       "GitHub-Copilot",
@@ -32234,8 +32234,8 @@
     "date": "2025-11-03",
     "categories": [
       "AWS",
-      "DevOps & Infrastructure",
-      "Security & Networking"
+      "DevOps and Infrastructure",
+      "Security and Networking"
     ],
     "tags": [
       "API-Gateway",
@@ -32640,7 +32640,7 @@
     "date": "2025-10-10",
     "categories": [
       "AWS",
-      "DevOps & Infrastructure"
+      "DevOps and Infrastructure"
     ],
     "tags": [
       "AWS",
@@ -33045,7 +33045,7 @@
     "url": "/posts/qiita_engineer_business_strategy_2025_vietnamese/",
     "date": "2025-10-02T07:00:00+07:00",
     "categories": [
-      "Business & Technology"
+      "Business and Technology"
     ],
     "tags": [
       "Business Strategy",
@@ -33448,9 +33448,9 @@
     "url": "/posts/qiita_figma_mcp_design_system_guide_vi/",
     "date": "2025-10-03T07:00:00+07:00",
     "categories": [
-      "Web & Frontend",
+      "Web and Frontend",
       "Development",
-      "Business & Technology"
+      "Business and Technology"
     ],
     "tags": [
       "Figma",
@@ -33853,7 +33853,7 @@
     "url": "/posts/qiita_java_maven_docker_buildkit_optimization_vietnamese/",
     "date": "2025-10-28",
     "categories": [
-      "DevOps & Infrastructure",
+      "DevOps and Infrastructure",
       "Development"
     ],
     "tags": [
@@ -34259,7 +34259,7 @@
     "date": "2025-10-14",
     "categories": [
       "Development",
-      "Business & Technology"
+      "Business and Technology"
     ],
     "tags": [
       "developer-tools",
@@ -34664,7 +34664,7 @@
     "url": "/posts/qiita_prompt_engineering_evolution/",
     "date": "2025-11-16",
     "categories": [
-      "AI & Machine Learning"
+      "AI and Machine Learning"
     ],
     "tags": [
       "ChatGPT",
@@ -35066,7 +35066,7 @@
     "url": "/posts/qiita_rf_p_google_antigravity_vietnamese/",
     "date": "2025-11-19",
     "categories": [
-      "AI & Machine Learning",
+      "AI and Machine Learning",
       "Development"
     ],
     "tags": [
@@ -35872,7 +35872,7 @@
     "date": "2025-10-02T05:00:00+07:00",
     "categories": [
       "AWS",
-      "AI & Machine Learning",
+      "AI and Machine Learning",
       "Development"
     ],
     "tags": [
@@ -36277,7 +36277,7 @@
     "date": "2025-10-02T08:00:00+07:00",
     "categories": [
       "AWS",
-      "AI & Machine Learning",
+      "AI and Machine Learning",
       "Development"
     ],
     "tags": [
@@ -36682,7 +36682,7 @@
     "date": "2025-10-30",
     "categories": [
       "AWS",
-      "DevOps & Infrastructure"
+      "DevOps and Infrastructure"
     ],
     "tags": [
       "Terraform",
@@ -37085,8 +37085,8 @@
     "url": "/posts/qiita_toon_format_vietnamese/",
     "date": "2025-11-17",
     "categories": [
-      "AI & Machine Learning",
-      "Data & Analytics"
+      "AI and Machine Learning",
+      "Data and Analytics"
     ],
     "tags": [
       "JSON",
@@ -37490,7 +37490,7 @@
     "date": "2025-10-28",
     "categories": [
       "Development",
-      "DevOps & Infrastructure"
+      "DevOps and Infrastructure"
     ],
     "tags": [
       "VSCode",
@@ -37893,8 +37893,8 @@
     "url": "/posts/qiita_water_scrum_fast_ai_development_vietnamese/",
     "date": "2025-10-14",
     "categories": [
-      "Business & Technology",
-      "AI & Machine Learning",
+      "Business and Technology",
+      "AI and Machine Learning",
       "Development"
     ],
     "tags": [
@@ -38301,8 +38301,8 @@
     "date": "2025-10-14",
     "categories": [
       "AWS",
-      "Data & Analytics",
-      "AI & Machine Learning"
+      "Data and Analytics",
+      "AI and Machine Learning"
     ],
     "tags": [
       "S3-Tables",
@@ -38708,7 +38708,7 @@
     "date": "2025-10-16",
     "categories": [
       "AWS",
-      "DevOps & Infrastructure"
+      "DevOps and Infrastructure"
     ],
     "tags": [
       "AWS-Systems-Manager",
@@ -39113,8 +39113,8 @@
     "url": "/posts/tap_ai_era_market_understanding_vietnamese/",
     "date": "2025-10-02T09:00:00+07:00",
     "categories": [
-      "AI & Machine Learning",
-      "Business & Technology"
+      "AI and Machine Learning",
+      "Business and Technology"
     ],
     "tags": [
       "TAP",
@@ -39517,7 +39517,7 @@
     "url": "/posts/teaching_kiro_agent_steering_mcp_vietnamese/",
     "date": "2025-10-30",
     "categories": [
-      "AI & Machine Learning",
+      "AI and Machine Learning",
       "AWS",
       "Development"
     ],
@@ -39923,7 +39923,7 @@
     "date": "2025-10-15",
     "categories": [
       "Cloud",
-      "DevOps & Infrastructure"
+      "DevOps and Infrastructure"
     ],
     "tags": [
       "Terraform",
@@ -40725,7 +40725,7 @@
     "date": "2025-10-15",
     "categories": [
       "AWS",
-      "DevOps & Infrastructure"
+      "DevOps and Infrastructure"
     ],
     "tags": [
       "AWS-Transform",
@@ -41128,8 +41128,8 @@
     "url": "/posts/woman_ai_meet_lounge_vietnamese/",
     "date": "2025-10-02T10:00:00+07:00",
     "categories": [
-      "AI & Machine Learning",
-      "Business & Technology"
+      "AI and Machine Learning",
+      "Business and Technology"
     ],
     "tags": [
       "Woman in Tech",
