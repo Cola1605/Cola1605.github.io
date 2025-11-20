@@ -18,6 +18,8 @@ Bài viết này là bản dịch của [Announcing Amazon Quick Suite: your age
 
 Hôm nay, chúng tôi xin giới thiệu **Amazon Quick Suite**. Đây là trợ lý AI mới giúp trả lời nhanh chóng các câu hỏi trong công việc và chuyển đổi những hiểu biết đó thành hành động. Thay vì phải chuyển đổi giữa nhiều ứng dụng để thu thập dữ liệu, tìm kiếm các dấu hiệu và xu hướng quan trọng, và hoàn thành các tác vụ thủ công, Quick Suite tập hợp các chức năng nghiên cứu, business intelligence và tự động hóa được hỗ trợ bởi AI vào một môi trường làm việc duy nhất. Bạn có thể phân tích dữ liệu thông qua truy vấn bằng ngôn ngữ tự nhiên, tìm thông tin quan trọng từ các nguồn nội bộ và bên ngoài doanh nghiệp trong vài phút, và tự động hóa quy trình từ các tác vụ đơn giản đến các workflow phức tạp trải rộng trên nhiều phòng ban.
 
+![Tổng quan Amazon Quick Suite](/images/posts/aws_quicksuite_ai_agents/2025_quick-suite_1.png)
+
 ---
 
 ## Tổng quan về Quick Suite
@@ -66,9 +68,17 @@ Quick Research là công cụ mạnh mẽ điều tra toàn diện dữ liệu n
 
 Quick Research phân tách có hệ thống các câu hỏi phức tạp và tạo ra kế hoạch nghiên cứu có tổ chức. Bắt đầu từ một prompt đơn giản, nó tự động tạo ra một khung nghiên cứu chi tiết phác thảo phương pháp tiếp cận và nguồn dữ liệu cần thiết cho phân tích toàn diện.
 
-Sau khi Quick Research tạo ra kế hoạch, bạn có thể dễ dàng tinh chỉnh nó thông qua cuộc trò chuyện bằng ngôn ngữ tự nhiên. Khi hài lòng với kế hoạch, Quick Research thu thập thông tin từ nhiều nguồn ở chế độ nền. Nó sử dụng lý luận nâng cao để xác minh kết quả nghiên cứu và cung cấp phân tích chi tiết kèm trích dẫn.
+![Quick Research tạo kế hoạch nghiên cứu](/images/posts/aws_quicksuite_ai_agents/2025_quick-suite_research_1-1.png)
 
-Quick Research tích hợp với dữ liệu doanh nghiệp được kết nối với Quick Suite. Quick Suite là cơ sở tri thức tích hợp kết nối với dashboard, tài liệu, cơ sở dữ liệu và các nguồn bên ngoài như Amazon S3, Snowflake, Google Drive, Microsoft SharePoint. Quick Research cung cấp hiểu biết quan trọng dựa trên nguồn gốc và cho thấy lộ trình suy nghĩ rõ ràng, hỗ trợ xác minh độ chính xác, hiểu logic đằng sau khuyến nghị và trình bày kết quả với tự tin. Bạn có thể theo dõi kết quả nghiên cứu về nguồn gốc và xác minh kết luận thông qua trích dẫn nguồn. Điều này làm cho nó trở thành công cụ lý tưởng cho các chủ đề phức tạp đòi hỏi phân tích chi tiết.
+Sau khi Quick Research tạo ra kế hoạch, bạn có thể dễ dàng tinh chỉnh nó thông qua cuộc trò chuyện bằng ngôn ngữ tự nhiên.
+
+![Tinh chỉnh kế hoạch nghiên cứu](/images/posts/aws_quicksuite_ai_agents/2025_quick-suite_research_1-2.png) Khi hài lòng với kế hoạch, Quick Research thu thập thông tin từ nhiều nguồn ở chế độ nền. Nó sử dụng lý luận nâng cao để xác minh kết quả nghiên cứu và cung cấp phân tích chi tiết kèm trích dẫn.
+
+![Quick Research thực hiện nghiên cứu](/images/posts/aws_quicksuite_ai_agents/2025_quick-suite_research_1-3-1.png)
+
+Quick Research tích hợp với dữ liệu doanh nghiệp được kết nối với Quick Suite.
+
+![Trích dẫn nguồn từ Quick Research](/images/posts/aws_quicksuite_ai_agents/2025_quick-suite_research_5.png) Quick Suite là cơ sở tri thức tích hợp kết nối với dashboard, tài liệu, cơ sở dữ liệu và các nguồn bên ngoài như Amazon S3, Snowflake, Google Drive, Microsoft SharePoint. Quick Research cung cấp hiểu biết quan trọng dựa trên nguồn gốc và cho thấy lộ trình suy nghĩ rõ ràng, hỗ trợ xác minh độ chính xác, hiểu logic đằng sau khuyến nghị và trình bày kết quả với tự tin. Bạn có thể theo dõi kết quả nghiên cứu về nguồn gốc và xác minh kết luận thông qua trích dẫn nguồn. Điều này làm cho nó trở thành công cụ lý tưởng cho các chủ đề phức tạp đòi hỏi phân tích chi tiết.
 
 Chi tiết xem tại [trang tổng quan Quick Research](https://aws.amazon.com/jp/quicksuite/research/).
 
@@ -82,11 +92,21 @@ Quick Sight cung cấp chức năng business intelligence được hỗ trợ b�
 
 Bằng cách sử dụng prompt dạng đối thoại, bạn có thể tạo dashboard và tóm tắt. Điều này cho phép phân tích nâng cao mà không cần kỹ năng chuyên môn và cũng rút ngắn thời gian phát triển dashboard.
 
-Với Quick Sight, bạn có thể đặt câu hỏi về dữ liệu bằng ngôn ngữ tự nhiên và ngay lập tức nhận được trực quan hóa, tóm tắt và hiểu biết. Thông qua tích hợp với generative AI, bạn có thể nhận câu trả lời từ dashboard và bộ dữ liệu mà không cần chuyên môn kỹ thuật.
+![Quick Sight dashboard](/images/posts/aws_quicksuite_ai_agents/2025_quick-suite_quicksight-1.png)
+
+Với Quick Sight, bạn có thể đặt câu hỏi về dữ liệu bằng ngôn ngữ tự nhiên và ngay lập tức nhận được trực quan hóa, tóm tắt và hiểu biết.
+
+![Tạo trực quan hóa bằng ngôn ngữ tự nhiên](/images/posts/aws_quicksuite_ai_agents/2025_quicksuite_quicksight_0.gif) Thông qua tích hợp với generative AI, bạn có thể nhận câu trả lời từ dashboard và bộ dữ liệu mà không cần chuyên môn kỹ thuật.
+
+![Tương tác với dữ liệu bằng AI](/images/posts/aws_quicksuite_ai_agents/2025_quicksuite_quicksight_1-1.gif)
 
 Bằng cách sử dụng chức năng kịch bản, bạn có thể thực hiện phân tích giả thuyết bằng ngôn ngữ tự nhiên theo hướng dẫn từng bước, khám phá các tình huống kinh doanh phức tạp và tìm câu trả lời nhanh hơn bao giờ hết.
 
+![Phân tích kịch bản what-if](/images/posts/aws_quicksuite_ai_agents/2025_quicksuite_quicksight_2-1.gif)
+
 Hơn nữa, bạn có thể phản hồi với một cú nhấp chuột đối với những hiểu biết thu được mà không cần chuyển đổi ứng dụng.
+
+![Hành động một cú nhấp chuột](/images/posts/aws_quicksuite_ai_agents/2025_quicksuite_quicksight_3-1.gif)
 
 Chi tiết xem tại [trang tổng quan Quick Sight](https://aws.amazon.com/jp/quicksuite/quicksight/).
 
@@ -100,7 +120,13 @@ Với Quick Flows, bất kỳ ai cũng có thể tự động hóa các tác v�
 
 Bắt đầu từ yêu cầu kinh doanh đơn giản, nó tạo ra flow gồm nhiều bước bao gồm bước đầu vào để thu thập thông tin, nhóm xử lý cho xử lý AI và bước đầu ra để tạo và hiển thị kết quả.
 
-Sau khi thiết lập flow, bạn có thể chia sẻ với đồng nghiệp hoặc nhóm khác chỉ bằng một cú nhấp chuột. Để chạy flow, người dùng mở từ thư viện hoặc gọi trong chat, cung cấp đầu vào cần thiết, điều chỉnh đầu ra trong khi trò chuyện với agent và tùy chỉnh thêm kết quả.
+![Quick Flows tạo workflow](/images/posts/aws_quicksuite_ai_agents/2025_quick-suite_flows_3.png)
+
+![Cấu hình flow nhiều bước](/images/posts/aws_quicksuite_ai_agents/2025_quick-suite_flows_4.png)
+
+Sau khi thiết lập flow, bạn có thể chia sẻ với đồng nghiệp hoặc nhóm khác chỉ bằng một cú nhấp chuột.
+
+![Thực thi và chia sẻ flow](/images/posts/aws_quicksuite_ai_agents/2025_quick-suite_flows_5.png) Để chạy flow, người dùng mở từ thư viện hoặc gọi trong chat, cung cấp đầu vào cần thiết, điều chỉnh đầu ra trong khi trò chuyện với agent và tùy chỉnh thêm kết quả.
 
 Chi tiết xem tại [trang tổng quan Quick Flows](https://aws.amazon.com/jp/quicksuite/flows/).
 
@@ -118,7 +144,13 @@ Trong khi Quick Flows xử lý các workflow đơn giản, Quick Automate đư�
 
 Quick Automate tạo ra kế hoạch tự động hóa toàn diện bao gồm các bước và hành động chi tiết. Nó có thể sử dụng UI agent hiểu hướng dẫn ngôn ngữ tự nhiên, điều hướng tự động trang web, hoàn thành đầu vào form, trích xuất dữ liệu và tạo đầu ra có cấu trúc cho các bước tự động hóa tiếp theo.
 
-Hơn nữa, bằng cách sử dụng môi trường vận hành trực quan, bạn có thể định nghĩa các agent tùy chỉnh với hướng dẫn, kiến thức và công cụ để hoàn thành các tác vụ liên quan đến quy trình cụ thể. Không cần viết code.
+![Quick Automate kế hoạch tự động hóa](/images/posts/aws_quicksuite_ai_agents/2025_quick-suite_automate_1.png)
+
+![UI agent tự động điều hướng](/images/posts/aws_quicksuite_ai_agents/2025_quicksuite_quickautomate-1-1.gif)
+
+Hơn nữa, bằng cách sử dụng môi trường vận hành trực quan, bạn có thể định nghĩa các agent tùy chỉnh với hướng dẫn, kiến thức và công cụ để hoàn thành các tác vụ liên quan đến quy trình cụ thể.
+
+![Tạo agent tùy chỉnh](/images/posts/aws_quicksuite_ai_agents/2025_quick-suite_automate_4.png) Không cần viết code.
 
 Quick Automate bao gồm các chức năng cấp độ doanh nghiệp như quản lý vai trò người dùng và chức năng human-in-the-loop để chuyển các tác vụ cụ thể cho người dùng hoặc nhóm để xem xét và phê duyệt của con người trước khi tiếp tục workflow. Dịch vụ này cung cấp khả năng quan sát toàn diện với giám sát thời gian thực, theo dõi tỷ lệ thành công và nhật ký kiểm toán cho tuân thủ và quản trị.
 
@@ -136,9 +168,13 @@ Spaces cung cấp cách dễ dàng cho tất cả người dùng doanh nghiệp 
 
 Ví dụ, bạn có thể tạo Space cho kế hoạch quý bao gồm bảng tính ngân sách, báo cáo nghiên cứu thị trường và tài liệu kế hoạch chiến lược. Bạn cũng có thể thiết lập Space cho ra mắt sản phẩm kết nối với hệ thống quản lý dự án và cơ sở dữ liệu phản hồi khách hàng. Spaces có thể mở rộng từ sử dụng cá nhân đến triển khai toàn doanh nghiệp trong khi duy trì quyền truy cập và tích hợp trơn tru với các chức năng của Quick Suite.
 
+![Spaces tổ chức dữ liệu theo ngữ cảnh](/images/posts/aws_quicksuite_ai_agents/2025_quick-suite_space-1.png)
+
 ### Chat Agent
 
 Quick Suite bao gồm các agent hỗ trợ phân tích có thể tương tác với dữ liệu và workflow thông qua ngôn ngữ tự nhiên. Quick Suite bao gồm agent tích hợp có thể trả lời câu hỏi về tất cả dữ liệu và các agent chat tùy chỉnh có thể được cấu hình với chuyên môn cụ thể và ngữ cảnh kinh doanh.
+
+![Chat Agent tùy chỉnh](/images/posts/aws_quicksuite_ai_agents/2025_quick-suite_chat-agent-2.png)
 
 Các agent chat tùy chỉnh có thể được tùy chỉnh theo phòng ban hoặc mục đích sử dụng cụ thể. Ví dụ, agent bán hàng được kết nối với dữ liệu catalog sản phẩm và thông tin giá được lưu trữ trong Spaces, hoặc agent tuân thủ được thiết lập với các yêu cầu quy định và hành động yêu cầu phê duyệt.
 
@@ -169,7 +205,11 @@ Chúc các bạn phát triển tốt đẹp!
 
 ## Về tác giả
 
+![Esra Kayabali](/images/posts/aws_quicksuite_ai_agents/esrakayabali11-400x400-1.jpg)
+
 **Esra Kayabali** là Senior Solutions Architect tại AWS, chuyên về analytics bao gồm data warehouse, data lake, phân tích big data, streaming dữ liệu batch và real-time, tích hợp dữ liệu. Có hơn 10 năm kinh nghiệm trong phát triển phần mềm và kiến trúc giải pháp. Đam mê học tập cộng tác với cộng đồng, chia sẻ kiến thức và hướng dẫn cộng đồng trong hành trình công nghệ đám mây.
+
+![Donnie Prakoso](/images/posts/aws_quicksuite_ai_agents/donnie_profile_400x400.jpeg)
 
 **Donnie Prakoso** là kỹ sư phần mềm, barista tự xưng và Principal Developer Advocate tại AWS. Có hơn 17 năm kinh nghiệm trong ngành công nghệ từ viễn thông, ngân hàng đến startup. Hiện tại tập trung vào việc hỗ trợ các nhà phát triển hiểu các công nghệ khác nhau để biến ý tưởng thành thực tế. Yêu thích cà phê và thích thảo luận về mọi chủ đề từ microservices đến AI/ML.
 
