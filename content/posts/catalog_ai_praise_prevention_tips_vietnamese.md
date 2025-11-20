@@ -4,7 +4,8 @@ date: 2025-10-07
 lastmod: 2025-11-05
 draft: false
 categories:
-  - "Hiệu quả Công việc"
+  - "AI & Machine Learning"
+  - "Development"
 tags:
   - "Hỗ trợ Prompt"
   - "Phản hồi"
