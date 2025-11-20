@@ -2,7 +2,7 @@
 title: "Thử nghiệm tự động tạo test với Playwright Agents"
 date: 2025-10-17
 draft: false
-categories: ["Testing", "Automation", "AI"]
+categories: ["Development", "DevOps & Infrastructure", "AI & Machine Learning"]
 tags: ["Playwright", "Test-Automation", "MCP", "Generative-AI", "E2E-Testing", "QA"]
 description: "Trải nghiệm Playwright Agents - tính năng mới từ Playwright v1.56 với 3 agents tự động hóa toàn bộ quy trình testing từ khám phá đến tạo test cases."
 ---

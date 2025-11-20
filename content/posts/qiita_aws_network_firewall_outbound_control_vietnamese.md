@@ -1,7 +1,7 @@
 ---
 title: "Tại sao Kiểm soát Outbound Traffic lại Quan trọng? Biện pháp Bảo mật với AWS Network Firewall"
 date: 2025-11-05
-categories: ["AWS", "Security", "Networking"]
+categories: ["AWS", "Security & Networking"]
 tags: ["Network-Firewall", "Outbound-Control", "VPC-Security", "AWS-Security", "Traffic-Control"]
 description: "Tầm quan trọng của outbound traffic control và cách triển khai AWS Network Firewall. Ngăn chặn data exfiltration, unauthorized access và security best practices."
 ---

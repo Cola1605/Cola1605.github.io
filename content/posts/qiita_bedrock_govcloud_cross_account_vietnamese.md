@@ -2,7 +2,7 @@
 title: "Truy cập Bedrock Third-Party Model từ VPC đóng của Government Cloud thông qua Cross-Account Access"
 date: 2025-10-26
 draft: false
-categories: ["AWS", "AI", "Security"]
+categories: ["AWS", "AI & Machine Learning", "Security & Networking"]
 tags: ["Amazon-Bedrock", "Government-Cloud", "Cross-Account", "VPC-Endpoint", "Claude", "AWS-Security", "Multi-Account"]
 description: "Hướng dẫn triển khai kiến trúc đa tài khoản để sử dụng Amazon Bedrock Third-Party Model từ môi trường VPC đóng của Government Cloud Nhật Bản."
 ---

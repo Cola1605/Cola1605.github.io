@@ -2,7 +2,7 @@
 title: "AWS IoT Greengrass nucleus lite – Cách mạng hóa điện toán biên trên các thiết bị bị hạn chế tài nguyên"
 date: 2025-10-14
 draft: false
-categories: ["AWS", "IoT", "Edge Computing"]
+categories: ["AWS", "DevOps & Infrastructure"]
 tags: ["AWS-IoT", "Greengrass", "edge-computing", "IoT-edge", "nucleus-lite", "resource-constrained", "embedded-systems", "smart-devices"]
 description: "AWS IoT Greengrass nucleus lite - edge runtime mã nguồn mở nhẹ viết bằng C, cách mạng hóa IoT edge computing trên thiết bị hạn chế tài nguyên như smart home hub, wearables và robotics với yêu cầu RAM chỉ từ 64MB."
 ---

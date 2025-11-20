@@ -2,7 +2,7 @@
 title: "Di chuyển và hiện đại hóa VMware workload với AWS Transform for VMware"
 date: 2025-10-15
 draft: false
-categories: ["AWS", "Cloud-Migration", "VMware"]
+categories: ["AWS", "DevOps & Infrastructure"]
 tags: ["AWS-Transform", "VMware", "Cloud-Migration", "Modernization", "Generative-AI", "AWS"]
 description: "Khám phá AWS Transform for VMware - giải pháp đột phá giúp di chuyển và hiện đại hóa VMware workload lên AWS Cloud một cách đơn giản và hiệu quả."
 ---

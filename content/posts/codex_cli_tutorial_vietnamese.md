@@ -2,7 +2,7 @@
 title: "Bắt đầu sử dụng Codex CLI - Trợ lý lập trình AI - Từ hôm nay!"
 date: 2025-10-16
 draft: false
-categories: ["AI", "Development", "Tools"]
+categories: ["AI & Machine Learning", "Development"]
 tags: ["Codex-CLI", "OpenAI", "AI-assistant", "code-review", "programming", "productivity", "AI-agent", "developer-tools"]
 description: "Hướng dẫn chi tiết sử dụng Codex CLI - trợ lý lập trình AI từ OpenAI. Từ thiết lập môi trường, cấu hình AGENTS.md đến các use case thực tế giúp tăng tốc công việc developer."
 ---

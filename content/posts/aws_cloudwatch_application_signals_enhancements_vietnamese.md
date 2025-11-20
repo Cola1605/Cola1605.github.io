@@ -1,7 +1,7 @@
 ---
 title: "Amazon CloudWatch Application Signals: Các Cải Tiến Mới Cho Giám Sát Ứng Dụng"
 date: 2025-11-04
-categories: ["AWS", "Monitoring", "DevOps"]
+categories: ["AWS", "DevOps & Infrastructure"]
 tags: ["CloudWatch", "Application-Signals", "APM", "Observability", "SLO", "SLI"]
 description: "Các tính năng mới của CloudWatch Application Signals: Service Map, Operations view, automatic dashboards, SLO monitoring và integration với Java/Python/NodeJS."
 ---

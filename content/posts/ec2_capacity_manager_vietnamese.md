@@ -2,7 +2,7 @@
 title: "Giám sát, phân tích và quản lý việc sử dụng capacity từ một giao diện duy nhất với Amazon EC2 Capacity Manager"
 date: 2025-10-19
 draft: false
-categories: ["AWS", "Cloud-Management", "Cost-Optimization"]
+categories: ["AWS"]
 tags: ["Amazon-EC2", "Capacity-Manager", "CloudWatch", "AWS-Cost-Management", "Resource-Optimization", "EC2-Instances"]
 description: "Khám phá Amazon EC2 Capacity Manager - giải pháp tập trung giúp giám sát, phân tích và quản lý capacity của EC2 instances từ một dashboard thống nhất."
 ---

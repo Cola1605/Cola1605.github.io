@@ -1,7 +1,7 @@
 ---
 title: "Tự Động Tạo Báo Cáo Sự Cố AWS! Trải Nghiệm Thực Tế CloudWatch Incident Reports"
 date: 2025-11-03
-categories: ["AWS", "DevOps", "Monitoring"]
+categories: ["AWS", "DevOps & Infrastructure"]
 tags: ["CloudWatch", "Incident-Reports", "AIOps", "Automation", "AWS-Observability"]
 description: "Hướng dẫn thực hành CloudWatch Incident Reports để tự động tạo báo cáo sự cố. AIOps, post-mortem automation, và tiết kiệm thời gian vận hành AWS."
 ---

@@ -3,7 +3,7 @@ title: "Học hỏi kinh nghiệm sử dụng AI SCREAM từ 35 Heavy User!"
 date: 2025-10-02T12:00:00+07:00
 draft: false
 tags: ["AI SCREAM", "AI Tools", "Survey", "Heavy Users", "Design", "Productivity"]
-categories: ["AI", "Design", "Survey"]
+categories: ["AI & Machine Learning", "Web & Frontend", "Business & Technology"]
 author: "YamadaAyaka (Design Factory)"
 description: "Khảo sát chuyên sâu về kinh nghiệm sử dụng AI SCREAM từ 35 heavy user, tiết lộ những tip và tricks thực tế"
 ---

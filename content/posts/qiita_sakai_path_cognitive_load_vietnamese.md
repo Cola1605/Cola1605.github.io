@@ -2,7 +2,7 @@
 title: "Khoảnh Khắc Bộ Não Kỹ Sư Sụp Đổ ─ Cơ Chế Phức Tạp, Tải Nhận Thức Và Độ Phức Tạp Tính Toán"
 date: 2025-11-18
 draft: false
-categories: ["Software Engineering", "Architecture", "Cognitive Load"]
+categories: ["Development"]
 tags: ["Design", "Architecture", "Engineering", "Cognitive Load", "Complexity"]
 description: "Khám phá lý do tại sao độ phức tạp phần mềm dẫn đến sụp đổ từ góc độ độ phức tạp tính toán và tải nhận thức. Hiểu cơ chế và cách kiểm soát độ phức tạp trong kiến trúc phần mềm."
 ---

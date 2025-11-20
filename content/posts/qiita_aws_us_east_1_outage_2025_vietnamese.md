@@ -2,7 +2,7 @@
 title: "Nhìn lại sự cố AWS quy mô lớn ngày 20/10/2025 - Chuyện gì đã xảy ra?"
 date: 2025-10-25
 draft: false
-categories: ["AWS", "Incident-Analysis", "DevOps"]
+categories: ["AWS", "DevOps & Infrastructure"]
 tags: ["AWS-Outage", "DynamoDB", "DNS", "Incident-Response", "US-EAST-1", "High-Availability", "Post-Mortem"]
 description: "Phân tích chi tiết sự cố AWS quy mô lớn tại US-EAST-1 ngày 20/10/2025 - từ DNS resolution failure đến DynamoDB outage và ảnh hưởng domino."
 ---

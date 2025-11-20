@@ -1,7 +1,7 @@
 ---
 title: "Hướng Dẫn Xử Lý Lỗi Toàn Diện cho Kiến Trúc CloudFront + WAF + ALB + EC2/ECS/EKS"
 date: 2025-10-02T06:00:00+07:00
-categories: ["AWS", "Technology", "DevOps"]
+categories: ["AWS", "Business & Technology", "DevOps & Infrastructure"]
 tags: ["AWS", "CloudFront", "WAF", "ALB", "EC2", "ECS", "EKS", "Error Handling"]
 description: "Hướng dẫn toàn diện về xử lý lỗi trong kiến trúc AWS CloudFront + WAF + ALB"
 ---

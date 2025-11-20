@@ -2,7 +2,7 @@
 title: "Cải thiện khả năng phục hồi với AWS Backup hỗ trợ Multi-party Approval"
 date: 2025-10-24
 draft: false
-categories: ["AWS", "Storage", "Security"]
+categories: ["AWS", "DevOps & Infrastructure", "Security & Networking"]
 tags: ["AWS-Backup", "Multi-party-Approval", "Disaster-Recovery", "AWS-IAM", "AWS-Organizations", "Best-Practices", "Cloud-Security"]
 description: "Tìm hiểu AWS Backup Multi-party Approval - tính năng mới tăng cường khả năng phục hồi với immutability, integrity verification và authentication isolation."
 ---

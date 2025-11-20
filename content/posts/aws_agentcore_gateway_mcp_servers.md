@@ -2,7 +2,7 @@
 title: "Biến đổi kiến trúc MCP với AgentCore Gateway - Tích hợp MCP servers"
 date: 2025-11-13
 draft: false
-categories: ["AWS", "AI", "Architecture"]
+categories: ["AWS", "AI & Machine Learning", "Development"]
 tags: ["Amazon Bedrock", "AgentCore Gateway", "MCP", "Model Context Protocol", "AI Agent", "Enterprise AI"]
 author: "Frank Dallezotte, Ganesh Thiyagarajan, Dhawal Patel"
 translator: "日平"

@@ -1,7 +1,7 @@
 ---
 title: "Thiết lập Giám sát Chủ động cho Amazon RDS SQL Server với Thông báo Slack Thời gian Thực"
 date: 2025-11-07
-categories: ["AWS", "Database", "Monitoring"]
+categories: ["AWS", "Data & Analytics", "DevOps & Infrastructure"]
 tags: ["Amazon-RDS", "SQL-Server", "Slack", "Real-time-Monitoring", "EventBridge", "Lambda", "Serverless"]
 description: "Hướng dẫn xây dựng hệ thống giám sát serverless cho RDS SQL Server với thông báo Slack real-time sử dụng EventBridge và Lambda..."
 ---

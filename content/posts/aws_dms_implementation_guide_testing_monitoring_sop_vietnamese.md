@@ -1,7 +1,7 @@
 ---
 title: "AWS DMS Implementation Guide: Xây dựng Database Migration có khả năng chống lỗi thông qua Testing, Monitoring và SOP"
 date: 2025-10-30
-categories: ["AWS", "Database", "DevOps"]
+categories: ["AWS", "Data & Analytics", "DevOps & Infrastructure"]
 tags: ["AWS-DMS", "Database-Migration", "Testing", "Monitoring", "SOP", "Best-Practices"]
 description: "Hướng dẫn triển khai AWS DMS với testing, monitoring và SOP. PoC planning, failure testing, standard procedures và best practices cho database migration đáng tin cậy."
 ---

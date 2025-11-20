@@ -1,7 +1,7 @@
 ---
 title: "Xây dựng Trợ lý AI với AI SDK + Next.js sử dụng Bedrock AgentCore và Amplify"
 date: 2025-10-30
-categories: ["AWS", "AI", "Web-Development"]
+categories: ["AWS", "AI & Machine Learning", "Web & Frontend"]
 tags: ["Bedrock-AgentCore", "AI-SDK", "Next.js", "Amplify", "AWS", "AI-Assistant"]
 description: "Hướng dẫn xây dựng AI assistant với streaming response và tool integration. Sử dụng AI SDK, Next.js, Bedrock AgentCore và deploy lên Amplify Hosting."
 ---

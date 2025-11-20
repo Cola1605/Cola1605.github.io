@@ -2,7 +2,7 @@
 title: "ChatGPT×Figma Layermate Hiệu Quả Hóa Tạo Portfolio: Từ Review Nửa Kỳ Đến Tự Động Tạo Layout"
 date: 2025-10-10
 draft: false
-categories: ["Design", "AI", "Productivity"]
+categories: ["Web & Frontend", "AI & Machine Learning", "Business & Technology"]
 tags: ["ChatGPT", "Figma", "Layermate", "portfolio", "design", "automation", "generative-ai", "UI-UX", "workflow"]
 description: "Hướng dẫn sử dụng ChatGPT và Figma Layermate để tự động hóa việc tạo portfolio - từ review dự án đến đề xuất layout, giúp tiết kiệm thời gian và công sức cho designers."
 ---

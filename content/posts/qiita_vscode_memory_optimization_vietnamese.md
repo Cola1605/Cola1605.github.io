@@ -2,7 +2,7 @@
 title: "VSCode chạy chậm! Tổng hợp cài đặt giảm 1/3 memory usage"
 date: 2025-10-28
 draft: false
-categories: ["Development-Tools", "Optimization", "VSCode"]
+categories: ["Development", "DevOps & Infrastructure"]
 tags: ["VSCode", "Memory-Optimization", "Performance", "Extensions", "TypeScript", "Developer-Tools"]
 description: "Hướng dẫn tối ưu hóa VSCode để giảm 1/3 memory usage - từ quản lý extensions, tắt file watching đến cấu hình TypeScript và IntelliSense."
 ---

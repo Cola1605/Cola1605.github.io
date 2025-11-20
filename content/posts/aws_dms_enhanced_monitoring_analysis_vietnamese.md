@@ -1,7 +1,7 @@
 ---
 title: "Hiểu về Phân bổ Tài nguyên và Phân tích Hiệu suất sử dụng AWS DMS Enhanced Monitoring"
 date: 2025-10-30
-categories: ["AWS", "Database", "Monitoring"]
+categories: ["AWS", "Data & Analytics", "DevOps & Infrastructure"]
 tags: ["AWS-DMS", "Enhanced-Monitoring", "CloudWatch", "Performance-Analysis", "Database-Migration"]
 description: "Hướng dẫn sử dụng AWS DMS Enhanced Monitoring Dashboard để phân tích resource allocation và performance. Task view, Replication Instance metrics và troubleshooting."
 ---

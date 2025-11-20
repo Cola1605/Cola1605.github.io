@@ -2,7 +2,7 @@
 title: "Prompt Engineering chưa thực sự bắt đầu"
 date: 2025-11-16
 draft: false
-categories: ["AI", "LLM"]
+categories: ["AI & Machine Learning"]
 tags: ["ChatGPT", "Prompt Engineering", "Context Engineering", "Cognitive Prompting", "ReAct"]
 author: "佐伯 真人 (Makoto Saeki)"
 translator: "日平"

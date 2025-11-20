@@ -2,7 +2,7 @@
 title: "Deep Dive: Cấp phát và Tối ưu hóa Amazon ECS Managed Instances"
 date: 2025-11-19
 draft: false
-categories: ["AWS", "Container", "ECS", "Cloud Computing"]
+categories: ["AWS", "DevOps & Infrastructure"]
 tags: ["ECS", "managed-instances", "EC2", "container", "cost-optimization", "high-availability", "aws"]
 description: "Tìm hiểu chi tiết về cách Amazon ECS Managed Instances tự động cấp phát và tối ưu hóa EC2 instances, cân bằng giữa tính khả dụng cao và hiệu quả chi phí cho workload container."
 ---

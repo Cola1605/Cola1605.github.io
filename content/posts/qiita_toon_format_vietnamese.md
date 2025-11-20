@@ -2,7 +2,7 @@
 title: "【TOON】Kết Thúc Kỷ Nguyên JSON? Giải Thích Về TOON Đang Gây Chú Ý"
 date: 2025-11-17
 draft: false
-categories: ["AI", "Data Format", "LLM"]
+categories: ["AI & Machine Learning", "Data & Analytics"]
 tags: ["JSON", "AI", "TOON", "LLM", "AI-agent", "data-format"]
 description: "Giới thiệu về TOON (Token-Oriented Object Notation) - định dạng dữ liệu mới được tối ưu hóa cho LLM, giảm 30-60% token so với JSON, với cú pháp đơn giản hơn và khả năng xử lý hiệu quả hơn."
 ---

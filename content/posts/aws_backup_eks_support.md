@@ -2,7 +2,7 @@
 title: "Bảo mật EKS Clusters với AWS Backup hỗ trợ Amazon EKS"
 date: 2025-11-14
 draft: false
-categories: ["AWS", "Compute", "Storage", "Kubernetes"]
+categories: ["AWS", "DevOps & Infrastructure"]
 tags: ["Amazon EKS", "AWS Backup", "Kubernetes", "Backup", "Disaster Recovery", "Container Security", "Data Protection"]
 author: "Veliswa Boya"
 translator: "日平"

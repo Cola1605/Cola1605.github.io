@@ -2,7 +2,7 @@
 title: "Best Practices để xử lý AWS DMS Tasks trong quá trình nâng cấp PostgreSQL"
 date: 2025-10-21
 draft: false
-categories: ["AWS", "Database", "Migration"]
+categories: ["AWS", "Data & Analytics", "DevOps & Infrastructure"]
 tags: ["AWS-DMS", "PostgreSQL", "Database-Migration", "Database-Upgrade", "Replication", "CDC", "Best-Practices"]
 description: "Hướng dẫn chi tiết các best practices để xử lý AWS DMS tasks khi nâng cấp minor version hoặc major version của PostgreSQL database."
 ---

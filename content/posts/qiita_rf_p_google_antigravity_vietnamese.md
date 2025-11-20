@@ -2,7 +2,7 @@
 title: "IDE Phát Triển Từ VSCode 'Google Antigravity' Đang Mở Ra Mô Hình Mới Cho Phát Triển Được Dẫn Dắt Bởi AI"
 date: 2025-11-19
 draft: false
-categories: ["AI", "IDE", "Development Tools"]
+categories: ["AI & Machine Learning", "Development"]
 tags: ["Gemini", "AI-driven development", "Antigravity", "VSCode", "Google"]
 description: "Khám phá Google Antigravity - IDE mới từ Google với 4 trụ cột: Tin cậy, Tự chủ, Phản hồi và Tự cải thiện. Trải nghiệm phát triển ứng dụng TODO với agent đa nhiệm và UI review tích hợp."
 ---

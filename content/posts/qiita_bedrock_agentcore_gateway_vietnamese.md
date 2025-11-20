@@ -2,7 +2,7 @@
 title: "Hiểu Amazon Bedrock AgentCore Gateway qua thực hành"
 date: 2025-10-26
 draft: false
-categories: ["AWS", "AI", "Serverless"]
+categories: ["AWS", "AI & Machine Learning", "DevOps & Infrastructure"]
 tags: ["Amazon-Bedrock", "AgentCore", "MCP", "Lambda", "AI-Agents", "OAuth", "API-Gateway"]
 description: "Hướng dẫn thực hành Amazon Bedrock AgentCore Gateway - chuyển đổi Lambda functions và external APIs thành MCP-compatible tools cho AI agents."
 ---

@@ -2,7 +2,7 @@
 title: "Kiểm chứng khả năng di chuyển container sản phẩm tự phát triển (HULFT10) từ ECS on EC2 sang ECS Managed Instance"
 date: 2025-10-10
 draft: false
-categories: ["AWS", "DevOps", "Container"]
+categories: ["AWS", "DevOps & Infrastructure"]
 tags: ["AWS", "ECS", "HULFT", "HULFT10", "container", "migration", "managed-instance", "CloudFormation"]
 description: "Kiểm chứng khả năng migration HULFT10 container từ ECS on EC2 sang ECS Managed Instances mới của AWS, giảm overhead quản lý hạ tầng trong khi vẫn truy cập được các tính năng EC2."
 ---

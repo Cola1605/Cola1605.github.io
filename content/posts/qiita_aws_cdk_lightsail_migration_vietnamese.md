@@ -1,7 +1,7 @@
 ---
 title: "AWS CDK Là Gì? Tôi Ước Biết Điều Này Sớm Hơn - Bài Học Từ Việc Di Chuyển Lightsail Sang EC2 + RDS"
 date: 2025-11-04
-categories: ["AWS", "Infrastructure", "DevOps"]
+categories: ["AWS", "DevOps & Infrastructure"]
 tags: ["AWS-CDK", "Lightsail", "EC2", "RDS", "IaC", "CloudFormation", "Migration"]
 description: "Kinh nghiệm migration từ Lightsail sang EC2 + RDS với AWS CDK. So sánh CDK vs CloudFormation vs SAM, benefits của IaC và lessons learned từ thực tế."
 ---

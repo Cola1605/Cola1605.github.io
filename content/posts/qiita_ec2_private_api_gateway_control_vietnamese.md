@@ -1,7 +1,7 @@
 ---
 title: "Điều Khiển EC2 từ Môi Trường On-Premise qua Private API Gateway cho Tài Khoản Government Cloud Dạng Shared"
 date: 2025-11-03
-categories: ["AWS", "Infrastructure", "Security"]
+categories: ["AWS", "DevOps & Infrastructure", "Security & Networking"]
 tags: ["API-Gateway", "EC2", "Government-Cloud", "Lambda", "VPC", "Private-Network", "FinOps"]
 description: "Hướng dẫn triển khai kiến trúc điều khiển EC2 từ on-premise qua Private API Gateway. Government Cloud setup, Lambda, Cognito authentication và VPC networking."
 ---

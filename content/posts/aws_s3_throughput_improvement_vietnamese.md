@@ -2,7 +2,7 @@
 title: "Tăng tốc thông lượng Amazon S3 với AWS Common Runtime"
 date: 2025-10-09
 draft: false
-categories: ["AWS", "Technology", "Performance"]
+categories: ["AWS", "Business & Technology", "DevOps & Infrastructure"]
 tags: ["AWS", "S3", "common-runtime", "throughput", "performance", "CLI", "boto3", "machine-learning"]
 description: "AWS CLI và Boto3 được tích hợp với AWS Common Runtime (CRT) S3 client để tự động tăng tốc truyền dữ liệu với Amazon S3, đặc biệt hiệu quả cho các pipeline machine learning trên EC2 instances."
 ---

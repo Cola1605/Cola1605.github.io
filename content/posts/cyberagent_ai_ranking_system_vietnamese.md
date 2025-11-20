@@ -2,7 +2,7 @@
 title: "Hiển thị mức độ ứng dụng AI của toàn bộ sự nghiệp, khởi động 'Bảng xếp hạng AI'!"
 date: 2025-10-08
 draft: false
-categories: ["Technology", "AI", "CyberAgent"]
+categories: ["Business & Technology", "AI & Machine Learning"]
 tags: ["AI", "ranking", "generative-ai", "cyberagent", "business-transformation", "ai-adoption"]
 description: "CyberAgent khởi động 'Bảng xếp hạng AI' để hiển thị mức độ ứng dụng AI của từng bộ phận kinh doanh theo định dạng bảng xếp hạng sumo, nhằm nâng cao khả năng cạnh tranh toàn công ty."
 ---

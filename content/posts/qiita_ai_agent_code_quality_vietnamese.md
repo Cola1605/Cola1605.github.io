@@ -2,7 +2,7 @@
 title: "【Copy-Paste OK】Viết Code Chất Lượng với AI Agent! Hướng Dẫn Cài Đặt Quy Tắc Cải Thiện Chất Lượng Cho Mọi Người"
 date: 2025-10-10
 draft: false
-categories: ["AI", "Programming", "Development"]
+categories: ["AI & Machine Learning", "Development"]
 tags: ["cursor", "codex", "AI-agent", "claude-code", "code-quality", "best-practices", "development-tools"]
 description: "Hướng dẫn cài đặt quy tắc coding cho AI Agent như Claude Code, Codex, Cursor để tự động cải thiện chất lượng code. Chỉ cần setup 1 lần, áp dụng cho tất cả dự án trong 5 phút."
 ---

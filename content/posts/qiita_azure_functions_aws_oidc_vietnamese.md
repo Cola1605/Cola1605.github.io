@@ -1,7 +1,7 @@
 ---
 title: "Thao tác AWS từ Azure Functions không cần khóa dài hạn - Truy cập S3 bằng OIDC + AssumeRoleWithWebIdentity"
 date: 2025-11-04
-categories: ["Azure", "AWS", "Security"]
+categories: ["DevOps & Infrastructure", "AWS", "Security & Networking"]
 tags: ["Azure-Functions", "OIDC", "AWS-S3", "AssumeRole", "Multi-Cloud", "Security"]
 description: "Hướng dẫn truy cập AWS từ Azure Functions không dùng access key. OIDC authentication với AssumeRoleWithWebIdentity, multi-cloud integration an toàn."
 ---

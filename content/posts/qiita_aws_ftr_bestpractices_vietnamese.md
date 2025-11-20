@@ -2,7 +2,7 @@
 title: "Đạt được AWS FTR và trở thành AWS Qualified Software"
 date: 2025-10-25
 draft: false
-categories: ["AWS", "Best-Practices", "Cloud-Architecture"]
+categories: ["AWS", "Development"]
 tags: ["AWS-FTR", "Well-Architected-Framework", "AWS-Partner", "SaaS", "Best-Practices", "Cloud-Certification"]
 description: "Chia sẻ trải nghiệm thực tế về việc đạt được AWS FTR (Foundational Technical Review) - quy trình 5 bước để trở thành AWS Qualified Software."
 ---

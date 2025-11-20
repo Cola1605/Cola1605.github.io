@@ -2,7 +2,7 @@
 title: "Phát triển Spindle Component trong thời đại AI với Spindle MCP"
 date: 2025-10-27
 draft: false
-categories: ["Frontend", "AI", "Design-System"]
+categories: ["Web & Frontend", "AI & Machine Learning"]
 tags: ["Spindle", "MCP", "Design-System", "Claude", "Cursor", "AI-Development", "Component-Library", "CyberAgent"]
 description: "Câu chuyện phát triển Table component bằng cách kết hợp AI (Claude Code/Cursor) với Spindle MCP để đạt được tốc độ phát triển và chất lượng cao."
 ---

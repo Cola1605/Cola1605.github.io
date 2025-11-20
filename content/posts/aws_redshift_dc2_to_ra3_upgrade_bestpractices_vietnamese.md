@@ -2,7 +2,7 @@
 title: "Best Practices để Upgrade từ Amazon Redshift DC2 sang RA3 và Amazon Redshift Serverless"
 date: 2025-10-22
 draft: false
-categories: ["AWS", "Analytics", "Data-Warehouse"]
+categories: ["AWS", "Data & Analytics"]
 tags: ["Amazon-Redshift", "Data-Warehouse", "Cloud-Migration", "Best-Practices", "RA3", "Serverless", "Analytics"]
 description: "Hướng dẫn chi tiết best practices để upgrade từ Amazon Redshift DC2 sang RA3 hoặc Serverless với independent scaling, data sharing và AI/ML support."
 ---

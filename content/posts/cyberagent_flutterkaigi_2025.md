@@ -2,7 +2,7 @@
 title: "Tham gia FlutterKaigi 2025"
 date: 2025-11-18
 draft: false
-categories: ["Flutter", "Conference", "CyberAgent"]
+categories: ["Web & Frontend", "Business & Technology"]
 tags: ["Dart", "Flutter", "FlutterKaigi", "Hot Reload", "Impeller"]
 author: "原田伶央 (Harada Reo)"
 translator: "日平"
