@@ -48,7 +48,7 @@ Nói cách khác, không giống như các công cụ dòng lệnh xuất toàn 
 
 Trong video chính thức của Google, màn hình được hiển thị như sau.
 
-![Ảnh chụp màn hình 2025-11-19 8.05.46.png](https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F199678%2Ff40d0888-3210-41dd-adad-463b7f941885.png)
+![Ảnh chụp màn hình 2025-11-19 8.05.46.png](/images/qiita_rf_p_google_antigravity_vietnamese/qiita_b8a0636e4771.png)
 
 ### 2. Tự chủ (Autonomy)
 
@@ -64,7 +64,7 @@ Nói cách khác, thay vì agent là một phần của giao diện người dù
 
 Trong video chính thức của Google, bạn có thể thấy nhiều agent được thực thi song song.
 
-![Ảnh chụp màn hình 2025-11-19 8.08.41.png](https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F199678%2F49a143b2-3c9d-43f6-9a5d-30938e86c548.png)
+![Ảnh chụp màn hình 2025-11-19 8.08.41.png](/images/qiita_rf_p_google_antigravity_vietnamese/qiita_db2d9efd3daa.png)
 
 ### 3. Phản hồi (Feedback)
 
@@ -74,7 +74,7 @@ Nói cách khác, khi con người đánh giá, dù là dựa trên mã nguồn 
 
 Trong video chính thức của Google, việc chọn sự khác biệt hoặc ảnh chụp màn hình và đánh giá sẽ được sửa đổi một cách trực quan được giải thích.
 
-![Ảnh chụp màn hình 2025-11-19 8.13.52.png](https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F199678%2Fa3e84a69-b9a7-47a7-b492-fd18e8e2e496.png)
+![Ảnh chụp màn hình 2025-11-19 8.13.52.png](/images/qiita_rf_p_google_antigravity_vietnamese/qiita_ed8fdfe23887.png)
 
 ### 4. Tự cải thiện (Self-improvement)
 
@@ -84,7 +84,7 @@ Nói cách khác, có thể gọi lại kiến thức từ các cuộc hội tho
 
 Trong video chính thức của Google, bạn có thể thấy việc lập chỉ thị mới dựa trên kiến thức khi tạo bằng Three.js.
 
-![Ảnh chụp màn hình 2025-11-19 8.16.14.png](https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F199678%2F8a4c75b2-e1be-4c58-893a-ebb162d5a3c9.png)
+![Ảnh chụp màn hình 2025-11-19 8.16.14.png](/images/qiita_rf_p_google_antigravity_vietnamese/qiita_b4af1294a53b.png)
 
 ## Trải nghiệm thực tế
 
@@ -103,19 +103,19 @@ Chọn phím tắt, tiện ích mở rộng, dòng lệnh. Cá nhân tôi, việ
 
 Đăng nhập bằng tài khoản Google để hoàn tất. Màn hình đồng ý xuất hiện. Nếu bạn không muốn được sử dụng cho việc học tập, hãy bỏ chọn.
 
-![Ảnh chụp màn hình 2025-11-19 7.23.08.png](https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F199678%2Ff779ae9f-f548-42bc-9b39-771a58df1218.png)
+![Ảnh chụp màn hình 2025-11-19 7.23.08.png](/images/qiita_rf_p_google_antigravity_vietnamese/qiita_3975aea6789a.png)
 
-![Ảnh chụp màn hình 2025-11-19 7.23.16.png](https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F199678%2F26ece7ed-2f44-46a0-b3ed-9f63fc94d7ea.png)
+![Ảnh chụp màn hình 2025-11-19 7.23.16.png](/images/qiita_rf_p_google_antigravity_vietnamese/qiita_5744ff3202cf.png)
 
-![Ảnh chụp màn hình 2025-11-19 7.23.26.png](https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F199678%2F96d1b803-7ba9-4938-8cf3-30b76377aa84.png)
+![Ảnh chụp màn hình 2025-11-19 7.23.26.png](/images/qiita_rf_p_google_antigravity_vietnamese/qiita_5c5214e89e32.png)
 
-![Ảnh chụp màn hình 2025-11-19 7.23.48.png](https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F199678%2F26b64b16-4b02-4e98-b0ad-da108395c42e.png)
+![Ảnh chụp màn hình 2025-11-19 7.23.48.png](/images/qiita_rf_p_google_antigravity_vietnamese/qiita_ba867fd37bd0.png)
 
-![Ảnh chụp màn hình 2025-11-19 7.24.19.png](https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F199678%2F09724f01-b6b6-4bda-9d85-74278ad9eb95.png)
+![Ảnh chụp màn hình 2025-11-19 7.24.19.png](/images/qiita_rf_p_google_antigravity_vietnamese/qiita_046b1fb717b9.png)
 
-![Ảnh chụp màn hình 2025-11-19 7.24.35.png](https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F199678%2F6e85391c-0c9f-4dcb-8787-c1dd396d4146.png)
+![Ảnh chụp màn hình 2025-11-19 7.24.35.png](/images/qiita_rf_p_google_antigravity_vietnamese/qiita_9b437cf10f58.png)
 
-![Ảnh chụp màn hình 2025-11-19 7.36.31.png](https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F199678%2F12c6130b-fbde-4484-a8ad-cedb32d287c0.png)
+![Ảnh chụp màn hình 2025-11-19 7.36.31.png](/images/qiita_rf_p_google_antigravity_vietnamese/qiita_0cb9bbfefa43.png)
 
 ## Tạo ứng dụng TODO đơn giản
 
@@ -123,7 +123,7 @@ Chọn phím tắt, tiện ích mở rộng, dòng lệnh. Cá nhân tôi, việ
 
 Trước tiên, tạo một kho lưu trữ trên GitHub chỉ với README.
 
-![Ảnh chụp màn hình 2025-11-19 8.41.53.png](https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F199678%2Fcab2a588-4f2b-4d56-9baa-09d42f3aaf68.png)
+![Ảnh chụp màn hình 2025-11-19 8.41.53.png](/images/qiita_rf_p_google_antigravity_vietnamese/qiita_453f8188962f.png)
 
 ### Mở bằng Antigravity
 
@@ -137,11 +137,11 @@ Nhân tiện, các mô hình có thể chọn như sau:
 - Claude Sonnet 4.5(Thinking)
 - GPT-OSS 120B(Medium)
 
-![Ảnh chụp màn hình 2025-11-19 8.43.15.png](https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F199678%2F23594f18-594c-427b-af0f-cc8149b54f20.png)
+![Ảnh chụp màn hình 2025-11-19 8.43.15.png](/images/qiita_rf_p_google_antigravity_vietnamese/qiita_e7d7ced7f76b.png)
 
 Ngoài ra, chọn "Open Agent Manager" ở góc trên bên phải, hoặc Cmd+e, để chuyển đổi màn hình quản lý agent.
 
-![Ảnh chụp màn hình 2025-11-19 8.47.55.png](https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F199678%2F1b74c088-be97-4d85-968d-28a2d34df9d1.png)
+![Ảnh chụp màn hình 2025-11-19 8.47.55.png](/images/qiita_rf_p_google_antigravity_vietnamese/qiita_ef78973f8f5a.png)
 
 ### Định nghĩa yêu cầu và thiết kế
 
@@ -149,7 +149,7 @@ Ngoài ra, chọn "Open Agent Manager" ở góc trên bên phải, hoặc Cmd+e,
 Tôi muốn tạo một ứng dụng TODO đơn giản bằng React. Tôi muốn tiến hành định nghĩa yêu cầu và thiết kế, vì vậy trước tiên hãy hỏi nhiều câu hỏi.
 ```
 
-![Ảnh chụp màn hình 2025-11-19 8.51.14.png](https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F199678%2F6ef2c9d0-adec-403e-a721-63a5e5e56f68.png)
+![Ảnh chụp màn hình 2025-11-19 8.51.14.png](/images/qiita_rf_p_google_antigravity_vietnamese/qiita_ab552a206c30.png)
 
 Danh sách tác vụ hiện tại được hiển thị. Như giải thích ở góc dưới bên phải, bạn cũng có thể chọn một phần văn bản để đưa ra chỉ thị.
 
@@ -162,15 +162,15 @@ Ngoài ra, hãy trò chuyện bằng tiếng Nhật cho tất cả danh sách t�
 
 Triển khai đang tiến hành.
 
-![Ảnh chụp màn hình 2025-11-19 8.55.50.png](https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F199678%2F5b7b9fce-8bcf-4729-bcb3-a1e43d4d99f9.png)
+![Ảnh chụp màn hình 2025-11-19 8.55.50.png](/images/qiita_rf_p_google_antigravity_vietnamese/qiita_c4dfc7f909ad.png)
 
 Nhân tiện, nếu mở editor thay vì quản lý agent, danh sách tác vụ và tài liệu kế hoạch triển khai đã được tạo ra.
 
-![Ảnh chụp màn hình 2025-11-19 9.02.07.png](https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F199678%2F5ac2f070-2230-4410-b932-31929f758a97.png)
+![Ảnh chụp màn hình 2025-11-19 9.02.07.png](/images/qiita_rf_p_google_antigravity_vietnamese/qiita_438652f001c0.png)
 
 Ví dụ, ở đây, hãy thử kéo phần muốn thay đổi. Bạn có thể bình luận, vì vậy có thể thay đổi kế hoạch.
 
-![Ảnh chụp màn hình 2025-11-19 9.04.20.png](https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F199678%2Fa2af0a7a-65d1-4b4e-bdc5-f07cc3cab63d.png)
+![Ảnh chụp màn hình 2025-11-19 9.04.20.png](/images/qiita_rf_p_google_antigravity_vietnamese/qiita_5eec2d765ee4.png)
 
 Khi triển khai hoàn tất, hướng dẫn chi tiết được tổng hợp.
 
@@ -180,47 +180,47 @@ Khi triển khai hoàn tất, hướng dẫn chi tiết được tổng hợp.
 
 được xuất ra như một bộ 3 cơ bản, trải nghiệm người dùng cực kỳ tốt...! Tôi muốn bạn trải nghiệm sự thoải mái này một lần.
 
-![Ảnh chụp màn hình 2025-11-19 9.05.26.png](https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F199678%2F1804bf23-10f9-46ca-b15b-e368d2776a40.png)
+![Ảnh chụp màn hình 2025-11-19 9.05.26.png](/images/qiita_rf_p_google_antigravity_vietnamese/qiita_7f4328eadb0b.png)
 
 ### Giai đoạn xác nhận
 
 Đã chạy lệnh và mở bằng trình duyệt. Ứng dụng TODO với giao diện bắt mắt theo chỉ thị đã hoàn thành!
 
-![Ảnh chụp màn hình 2025-11-19 9.09.22.png](https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F199678%2F5e89a4b5-d3fc-4063-bdc0-86917a4202ab.png)
+![Ảnh chụp màn hình 2025-11-19 9.09.22.png](/images/qiita_rf_p_google_antigravity_vietnamese/qiita_9d70d22afe6a.png)
 
 Đã xác nhận nhập văn bản và hoàn thành, cũng như khôi phục từ localStorage khi làm mới màn hình, xác nhận hoạt động đầy đủ.
 
-![Ảnh chụp màn hình 2025-11-19 9.10.20.png](https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F199678%2Fdcb4f669-f508-441e-95fb-2dc2f309b1a5.png)
+![Ảnh chụp màn hình 2025-11-19 9.10.20.png](/images/qiita_rf_p_google_antigravity_vietnamese/qiita_585e5daccbe1.png)
 
 Đánh giá mã cũng có thể thực hiện đánh giá từng dòng như GitHub. Trải nghiệm người dùng ở phần này cũng tuyệt vời.
 
-![Ảnh chụp màn hình 2025-11-19 9.20.07.png](https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F199678%2Fc7d8b249-9c81-4519-965e-d14a934a7ad8.png)
+![Ảnh chụp màn hình 2025-11-19 9.20.07.png](/images/qiita_rf_p_google_antigravity_vietnamese/qiita_b374d1b4398b.png)
 
 ### Phát triển song song
 
 Hãy thử phát triển song song. Ví dụ, trong khi phát triển chính, có thể chỉ thị cập nhật README hoặc thay đổi tên ứng dụng.
 
-![Ảnh chụp màn hình 2025-11-19 9.25.39.png](https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F199678%2F1fe7ba2e-d9eb-48c6-b568-960a298016dd.png)
+![Ảnh chụp màn hình 2025-11-19 9.25.39.png](/images/qiita_rf_p_google_antigravity_vietnamese/qiita_e38ab429082b.png)
 
 ### Đánh giá giao diện người dùng
 
 Trình duyệt cũng được tích hợp là đặc trưng của Antigravity. Nhấn Open Browser ở góc trên bên phải.
 
-![Ảnh chụp màn hình 2025-11-19 9.13.15.png](https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F199678%2Fd23ce8bc-5585-4472-9f63-c508668c7caa.png)
+![Ảnh chụp màn hình 2025-11-19 9.13.15.png](/images/qiita_rf_p_google_antigravity_vietnamese/qiita_842948dc3d35.png)
 
 Cài đặt tiện ích mở rộng Chrome.
 
-![Ảnh chụp màn hình 2025-11-19 9.14.08.png](https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F199678%2F65424d00-1e5c-45b8-b517-fd8454e91ac0.png)
+![Ảnh chụp màn hình 2025-11-19 9.14.08.png](/images/qiita_rf_p_google_antigravity_vietnamese/qiita_05716dc96a53.png)
 
 Sau đó, khởi động lại Antigravity và Chrome. (Trong trường hợp của tôi, cần khởi động lại thêm Mac mới hoạt động đúng)
 
 Sau khi chỉ thị `Viết lại thành thiết kế thanh lịch`, bằng cách `Cho xem thiết kế`, đã xem trước bằng video.
 
-![Ảnh chụp màn hình 2025-11-19 10.27.47.png](https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F199678%2F89a35111-7777-4f3d-8b22-3fb2b85df9e0.png)
+![Ảnh chụp màn hình 2025-11-19 10.27.47.png](/images/qiita_rf_p_google_antigravity_vietnamese/qiita_7bc7b070d3ca.png)
 
 Hơn nữa, ảnh chụp màn hình được tự động chụp và dán vào hướng dẫn chi tiết. Mở ảnh chụp màn hình đó, chỉ định vị trí và bình luận, có thể chỉ thị thay đổi giao diện người dùng trực tiếp.
 
-![Ảnh chụp màn hình 2025-11-19 10.32.12.png](https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F199678%2F29fb0478-cf72-4d9e-a098-5cbf1567196e.png)
+![Ảnh chụp màn hình 2025-11-19 10.32.12.png](/images/qiita_rf_p_google_antigravity_vietnamese/qiita_ab4ca0da58c1.png)
 
 ### Ngoài lề
 
