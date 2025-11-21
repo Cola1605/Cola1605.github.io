@@ -1,4 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on SYSTEM_NEWS</title><link>https://cola1605.github.io/posts/</link><description>Recent content in Posts on SYSTEM_NEWS</description><generator>Hugo</generator><language>vi</language><lastBuildDate>Thu, 20 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cola1605.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Chuẩn bị chuyển đổi từ Amazon Q Developer IDE Plugin sang Kiro</title><link>https://cola1605.github.io/posts/aws_kiro_week_day2/</link><pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/aws_kiro_week_day2/</guid><description>&lt;p&gt;&lt;strong&gt;Nguồn:&lt;/strong&gt; &lt;a href="https://aws.amazon.com/jp/blogs/news/kiroweeeeeeek-in-japan-day-2-q-dev-ide-to-kiro/"&gt;AWS Blog&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on SYSTEM_NEWS</title><link>https://cola1605.github.io/posts/</link><description>Recent content in Posts on SYSTEM_NEWS</description><generator>Hugo</generator><language>vi</language><lastBuildDate>Thu, 20 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cola1605.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>【Bản lưu trữ】Hướng dẫn toàn diện Google Antigravity - IDE thế hệ mới dạng Agent</title><link>https://cola1605.github.io/posts/qiita_google_antigravity_guide_vietnamese/</link><pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/qiita_google_antigravity_guide_vietnamese/</guid><description>&lt;p&gt;&lt;strong&gt;Tác giả&lt;/strong&gt;: あきらパパ (@akira_papa_AI)&lt;br&gt;
+&lt;strong&gt;Nguồn&lt;/strong&gt;: Qiita&lt;br&gt;
+&lt;strong&gt;Ngày xuất bản&lt;/strong&gt;: 2025-11-20&lt;br&gt;
+&lt;strong&gt;Ngày cập nhật&lt;/strong&gt;: 2025-11-20&lt;br&gt;
+&lt;strong&gt;Tags&lt;/strong&gt;: cursor, Gemini, 生成AI, Windsurf, Antigravity&lt;br&gt;
+&lt;strong&gt;Bài gốc&lt;/strong&gt;: &lt;a href="https://qiita.com/akira_papa_AI/items/0acf2679e4ce9f7fb153"&gt;https://qiita.com/akira_papa_AI/items/0acf2679e4ce9f7fb153&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;👍 96 Likes | 📚 73 Stocks&lt;/p&gt;
+&lt;h2 id="tổng-quan"&gt;Tổng quan&lt;/h2&gt;
+&lt;p&gt;Google Antigravity là nền tảng tiến hóa IDE (môi trường phát triển tích hợp) truyền thống vào kỷ nguyên &amp;ldquo;Agent First&amp;rdquo;. Trong khi có giao diện người dùng quen thuộc dựa trên VS Code, cốt lõi của nó là &amp;ldquo;Agent (エージェント)&amp;rdquo;. Agent không chỉ viết code đơn thuần, mà còn thực hiện tự chủ các thao tác terminal, kiểm tra trên browser, và thậm chí cả việc lập kế hoạch.&lt;/p&gt;</description></item><item><title>【保存版】Google Antigravity 完全攻略ガイド｜次世代エージェント型IDEのすべてを使い倒すチートシート</title><link>https://cola1605.github.io/posts/qiita_google_antigravity_guide/</link><pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/qiita_google_antigravity_guide/</guid><description>&lt;p&gt;&lt;strong&gt;著者&lt;/strong&gt;: あきらパパ (@akira_papa_AI)&lt;br&gt;
+&lt;strong&gt;出典&lt;/strong&gt;: Qiita&lt;br&gt;
+&lt;strong&gt;公開日&lt;/strong&gt;: 2025-11-20&lt;br&gt;
+&lt;strong&gt;更新日&lt;/strong&gt;: 2025-11-20&lt;br&gt;
+&lt;strong&gt;タグ&lt;/strong&gt;: cursor, Gemini, 生成AI, Windsurf, Antigravity&lt;br&gt;
+&lt;strong&gt;元記事&lt;/strong&gt;: &lt;a href="https://qiita.com/akira_papa_AI/items/0acf2679e4ce9f7fb153"&gt;https://qiita.com/akira_papa_AI/items/0acf2679e4ce9f7fb153&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;👍 96 Likes | 📚 73 Stocks&lt;/p&gt;
+&lt;h2 id="概要"&gt;概要&lt;/h2&gt;
+&lt;p&gt;Google Antigravityは、従来のIDE（統合開発環境）を「エージェントファースト」の時代へと進化させるプラットフォーム。VS Codeベースの親しみやすいUIを持ちながら、その核となるのは「Agent（エージェント）」。エージェントは単にコードを書くだけでなく、ターミナル操作、ブラウザでの検証、そしてプランニングまでを自律的に行う。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="はじめに"&gt;はじめに&lt;/h2&gt;
+&lt;p&gt;Google Antigravityがリリースされた。「Cursor, Windsurf&amp;hellip;またAI搭載エディタか」って思ったが、ドキュメント読み込んでいくうちに考えが変わった。Google Antigravityは単なる「AI補完付きエディタ」ではなく、「エージェント（自律思考AI）」が主役の開発環境。ブラウザ操作から複数リポジトリの同時開発まで、未来の機能がてんこ盛り。&lt;/p&gt;
+&lt;h2 id="antigravityとは何か"&gt;Antigravityとは何か？&lt;/h2&gt;
+&lt;p&gt;Google Antigravityは、従来のIDE（統合開発環境）を「エージェントファースト」の時代へと進化させるプラットフォーム。VS Codeベースの親しみやすいUIを持ちながら、その核となるのは「Agent（エージェント）」。エージェントは単にコードを書くだけじゃなくて、ターミナル操作、ブラウザでの検証、そしてプランニングまでを自律的に行う。今までのAIエディタは「ここ直して」って頼む感じだったが、Antigravityは「この機能実装しておいて」って頼んだら、計画立てて、コード書いて、ブラウザで動作確認までしてくれるイメージ。&lt;/p&gt;
+&lt;h3 id="主なコア機能"&gt;主なコア機能&lt;/h3&gt;
+&lt;p&gt;• Editor: AI搭載のVS Codeベースエディタ
+• Agent Manager: 複数のワークスペースやエージェントを一元管理する司令塔
+• Browser Agent: エージェントが自らブラウザを操作してタスクを実行
+• MCP (Model Context Protocol): 外部ツールやDBと接続する標準プロトコル&lt;/p&gt;
+&lt;h2 id="インストールと準備ここ超重要"&gt;インストールと準備（ここ超重要）&lt;/h2&gt;
+&lt;p&gt;使い始めるための要件がいくつかある。ここでつまずく人けっこういそうなので、しっかり確認しておく必要がある。&lt;/p&gt;
+&lt;h3 id="ダウンロード"&gt;ダウンロード&lt;/h3&gt;
+&lt;p&gt;Google Antigravity Download
+URL: &lt;a href="https://antigravity.google/download"&gt;https://antigravity.google/download&lt;/a&gt; から入手可能。&lt;/p&gt;
+&lt;h3 id="システム要件"&gt;システム要件&lt;/h3&gt;
+&lt;p&gt;macOS:
+• Appleのセキュリティアップデートがサポートされているバージョン（通常は現行+過去2バージョン）
+• 最低要件: macOS 12 (Monterey)
+• 注意：X86 (Intel Mac) はサポートされていない。Apple Silicon (M1/M2/M3/M4等) 必須&lt;/p&gt;</description></item><item><title>Chuẩn bị chuyển đổi từ Amazon Q Developer IDE Plugin sang Kiro</title><link>https://cola1605.github.io/posts/aws_kiro_week_day2/</link><pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/aws_kiro_week_day2/</guid><description>&lt;p&gt;&lt;strong&gt;Nguồn:&lt;/strong&gt; &lt;a href="https://aws.amazon.com/jp/blogs/news/kiroweeeeeeek-in-japan-day-2-q-dev-ide-to-kiro/"&gt;AWS Blog&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;Xin chào! Tôi là Sugawara, Solution Architect tại AWS.&lt;/p&gt;
 &lt;p&gt;Bài viết này là ngày thứ 2 của chuỗi &lt;strong&gt;Kiroweeeeeeek&lt;/strong&gt; (X: #kiroweeeeeeek). Bài viết hôm qua là của Inariku với nội dung &amp;ldquo;Hướng dẫn giới thiệu Kiro: Tất cả những điều cần biết trước khi bắt đầu&amp;rdquo;.&lt;/p&gt;
@@ -27,7 +63,54 @@
 &lt;li&gt;Kiến thức về các dịch vụ AWS như &lt;a href="https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/working_with_metrics.html"&gt;Amazon CloudWatch&lt;/a&gt; và &lt;a href="https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Aurora.AuroraPostgreSQL.html"&gt;Amazon Aurora PostgreSQL-Compatible Edition&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="tổng-quan"&gt;Tổng quan&lt;/h2&gt;
-&lt;p&gt;Trong quá trình thực thi tác vụ di chuyển CDC (tải đầy đủ và CDC, hoặc chỉ CDC), AWS DMS sử dụng khe sao chép logic (logical replication slot) để giữ lại các log WAL cho mục đích sao chép cho đến khi chúng được giải mã. Nó chủ yếu hỗ trợ hai plugin giải mã logic khác nhau:&lt;/p&gt;</description></item><item><title>Deep Dive: Cấp phát và Tối ưu hóa Amazon ECS Managed Instances</title><link>https://cola1605.github.io/posts/aws_ecs_managed_instances_deep_dive_vietnamese/</link><pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/aws_ecs_managed_instances_deep_dive_vietnamese/</guid><description>&lt;h1 id="deep-dive-cấp-phát-và-tối-ưu-hóa-amazon-ecs-managed-instances"&gt;Deep Dive: Cấp phát và Tối ưu hóa Amazon ECS Managed Instances&lt;/h1&gt;
+&lt;p&gt;Trong quá trình thực thi tác vụ di chuyển CDC (tải đầy đủ và CDC, hoặc chỉ CDC), AWS DMS sử dụng khe sao chép logic (logical replication slot) để giữ lại các log WAL cho mục đích sao chép cho đến khi chúng được giải mã. Nó chủ yếu hỗ trợ hai plugin giải mã logic khác nhau:&lt;/p&gt;</description></item><item><title>WINTICKETにおけるAI-Readyなデータ分析基盤の構築</title><link>https://cola1605.github.io/posts/cyberagent_winticket_ai_ready_data_platform/</link><pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/cyberagent_winticket_ai_ready_data_platform/</guid><description>&lt;p&gt;&lt;strong&gt;著者&lt;/strong&gt;: 山田 瑠奈 (Runa Yamada) (@___ryamaaa)&lt;br&gt;
+&lt;strong&gt;所属&lt;/strong&gt;: 株式会社 WinTicket / CyberAgent&lt;br&gt;
+&lt;strong&gt;公開日&lt;/strong&gt;: 2025-11-20&lt;br&gt;
+&lt;strong&gt;元記事&lt;/strong&gt;: &lt;a href="https://developers.cyberagent.co.jp/blog/archives/59626/"&gt;https://developers.cyberagent.co.jp/blog/archives/59626/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="概要"&gt;概要&lt;/h2&gt;
+&lt;p&gt;WINTICKETにおけるAI-Readyなデータ分析基盤の構築事例。Protocol BuffersとDataformによるスキーマ駆動開発、Dataplexによるデータ品質管理、そしてDevin AIエージェントとの連携による分析自動化の取り組みを紹介。導入後2ヶ月で100件近い分析依頼を処理し、データ活用のボトルネックを解消。&lt;/p&gt;
+&lt;h2 id="この記事で学べること"&gt;この記事で学べること&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;AI エージェントが自律的に分析できるデータ分析基盤の設計思想&lt;/li&gt;
+&lt;li&gt;Protocol Buffers を起点としたスキーマ駆動開発&lt;/li&gt;
+&lt;li&gt;Dataform によるパイプライン管理と Dataplex によるデータ品質の担保&lt;/li&gt;
+&lt;li&gt;Devin を活用した分析自動化の実装方法&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="想定読者"&gt;想定読者&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;データ分析業務の効率化に興味があるエンジニア・データアナリスト&lt;/li&gt;
+&lt;li&gt;AI エージェントの実務活用を検討している方&lt;/li&gt;
+&lt;li&gt;データ分析基盤の設計・運用に携わっている方&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="はじめに"&gt;はじめに&lt;/h2&gt;
+&lt;p&gt;WINTICKETでは競輪・オートレースのインターネット投票サービスを提供し、日々膨大なデータが蓄積されている。データマネジメントチームではAI-Readyなデータ分析基盤を整備し、AIによるデータ分析業務の効率化を目指している。本記事では、どんな設計思想でデータ分析基盤を構築し、どのようにAIエージェントを実装しているのか、現在の取り組みを紹介する。&lt;/p&gt;
+&lt;h2 id="データ分析の課題"&gt;データ分析の課題&lt;/h2&gt;
+&lt;h3 id="現状の課題"&gt;現状の課題&lt;/h3&gt;
+&lt;p&gt;WINTICKETではデータを活用した意思決定が日常的に行われているが、分析に必要なドメイン知識が個々のメンバーに属人化しており、事業部メンバーで分析を完結できるのは3〜4名に限られていた。データ分析への依頼が多く発生し、回答までに数日かかることも多く、データ活用のスピードがボトルネックになっていた。&lt;/p&gt;
+&lt;h3 id="取り組みsql研修"&gt;取り組み：SQL研修&lt;/h3&gt;
+&lt;p&gt;2025年3月に事業部内で2日間のSQL研修を実施。事前にProgateでSQLの基礎を学習し、研修ではBigQueryの使い方やデータマートの構造を説明。実際のビジネス課題を題材にした問題集も作成し、データの説明やSQLのノウハウも整備した。&lt;/p&gt;
+&lt;p&gt;研修によってSQLを書けるメンバーは増えたが、自力で分析を完結できるメンバーは依然として限られていた。&lt;/p&gt;
+&lt;p&gt;【研修参加者からの声】&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;「SQLは書けるようになったが、どこにどんなデータがあるのかわからない」&lt;/li&gt;
+&lt;li&gt;「このカラムが具体的に何を意味しているのか、誰に聞けばいいのかわからない」&lt;/li&gt;
+&lt;li&gt;「どのテーブルをJOINすればいいか、どんな集計が適切かわからない」&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;これらの声から、SQLの構文を学ぶだけでなく、メタデータやドメイン知識へのアクセスが重要だと実感。&lt;/p&gt;
+&lt;h3 id="解決策ai-readyなデータ分析基盤の構築"&gt;解決策：AI-Readyなデータ分析基盤の構築&lt;/h3&gt;
+&lt;p&gt;この状況を打破するため、AIエージェントを活用したアプローチに着目。AIが理解しやすい形でメタデータやドメイン知識を集約し、AIが自律的に情報を参照しながら分析できる環境を構築すれば、「詳しいメンバー」の役割をAIが担えるようになる。AIが必要な情報を自動で収集して分析できれば、データサイエンティストやビジネスメンバーはより戦略的な業務に集中できる。&lt;/p&gt;
+&lt;h2 id="データ分析基盤システム全体像"&gt;データ分析基盤システム全体像&lt;/h2&gt;
+&lt;h3 id="データパイプラインの構成"&gt;データパイプラインの構成&lt;/h3&gt;
+&lt;p&gt;WINTICKETでは、以下のようなデータパイプラインでデータを処理:&lt;/p&gt;
+&lt;p&gt;アプリケーションから送信されたイベントデータやRDBのマスターデータは、Data Lake → Data Warehouse → Data Martの3層構造で段階的に変換・集計され、最終的に様々な用途で活用できる形になる。このパイプライン全体を支えているのが、Protocol Buffersによるスキーマ管理。&lt;/p&gt;
+&lt;h3 id="protocol-buffersによるスキーマ管理"&gt;Protocol Buffersによるスキーマ管理&lt;/h3&gt;
+&lt;p&gt;WINTICKETでは、Protocol Buffersでイベントスキーマを定義し、スキーマレジストリで一元管理。Protocol BuffersをSingle Source of Truthとして、以下のコンポーネントを自動生成:&lt;/p&gt;</description></item><item><title>Xây dựng nền tảng phân tích dữ liệu AI-Ready tại WINTICKET</title><link>https://cola1605.github.io/posts/cyberagent_winticket_ai_ready_data_platform_vietnamese/</link><pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/cyberagent_winticket_ai_ready_data_platform_vietnamese/</guid><description>&lt;p&gt;&lt;strong&gt;Tác giả&lt;/strong&gt;: 山田 瑠奈 (Runa Yamada) (@___ryamaaa)&lt;br&gt;
+&lt;strong&gt;Công ty&lt;/strong&gt;: 株式会社 WinTicket / CyberAgent&lt;br&gt;
+&lt;strong&gt;Ngày xuất bản&lt;/strong&gt;: 2025-11-20&lt;br&gt;
+&lt;strong&gt;Bài gốc&lt;/strong&gt;: &lt;a href="https://developers.cyberagent.co.jp/blog/archives/59626/"&gt;https://developers.cyberagent.co.jp/blog/archives/59626/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="tổng-quan"&gt;Tổng quan&lt;/h2&gt;
+&lt;p&gt;Nghiên cứu điển hình về xây dựng nền tảng phân tích dữ liệu AI-Ready tại WINTICKET. Giới thiệu về phát triển hướng schema với Protocol Buffers và Dataform, quản lý chất lượng dữ liệu bằng Dataplex, và tự động hóa phân tích thông qua kết nối với Devin AI Agent. Sau 2 tháng triển khai, đã xử lý gần 100 yêu cầu phân tích và giải quyết được nút thắt trong việc tận dụng dữ liệu.&lt;/p&gt;</description></item><item><title>Deep Dive: Cấp phát và Tối ưu hóa Amazon ECS Managed Instances</title><link>https://cola1605.github.io/posts/aws_ecs_managed_instances_deep_dive_vietnamese/</link><pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/aws_ecs_managed_instances_deep_dive_vietnamese/</guid><description>&lt;h1 id="deep-dive-cấp-phát-và-tối-ưu-hóa-amazon-ecs-managed-instances"&gt;Deep Dive: Cấp phát và Tối ưu hóa Amazon ECS Managed Instances&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Tác giả:&lt;/strong&gt; Hiroaki Kaji&lt;br&gt;
 &lt;strong&gt;Ngày công bố:&lt;/strong&gt; 19 tháng 11 năm 2025&lt;br&gt;
 &lt;strong&gt;Ngày công bố bài gốc:&lt;/strong&gt; 4 tháng 11 năm 2025&lt;br&gt;
