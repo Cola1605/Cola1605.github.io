@@ -6,7 +6,7 @@
     <description>Recent content in Posts on SYSTEM_NEWS</description>
     <generator>Hugo</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 21 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://cola1605.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cách Tùy Chỉnh Chính Sách Lưu Trữ Bản Ghi Cuộc Gọi Trong Amazon Connect</title>
@@ -14,6 +14,13 @@
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://cola1605.github.io/posts/aws_amazon_connect_recording_retention_vietnamese/</guid>
       <description>&lt;p&gt;📷 &lt;strong&gt;Lưu ý về Hình ảnh&lt;/strong&gt;: Bài viết gốc có &lt;strong&gt;21 hình ảnh&lt;/strong&gt; minh họa chi tiết về:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Sơ đồ kiến trúc tổng quan&lt;/li&gt;&#xA;&lt;li&gt;Giao diện CloudFormation template&lt;/li&gt;&#xA;&lt;li&gt;Các bước cấu hình trong Amazon Connect Console&lt;/li&gt;&#xA;&lt;li&gt;Cấu hình Lambda function và Contact Flow&lt;/li&gt;&#xA;&lt;li&gt;Xác thực object tags trong Amazon S3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Vui lòng xem hình ảnh đầy đủ tại bài viết gốc: &lt;a href=&#34;https://aws.amazon.com/jp/blogs/news/customize-retention-policies-for-contact-recordings-in-amazon-connect/&#34;&gt;https://aws.amazon.com/jp/blogs/news/customize-retention-policies-for-contact-recordings-in-amazon-connect/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới Thiệu&lt;/h2&gt;&#xA;&lt;p&gt;Các trung tâm liên hệ (contact center), đặc biệt là các công ty thuê ngoài quy trình kinh doanh (BPO), thường vận hành nhiều bộ phận kinh doanh (LOB - Line of Business) khác nhau, mỗi bộ phận có các yêu cầu quy định và hợp đồng riêng biệt về việc lưu trữ bản ghi cuộc gọi.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Giới thiệu Amazon MWAA Serverless</title>
+      <link>https://cola1605.github.io/posts/aws_mwaa_serverless_vietnamese/</link>
+      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/posts/aws_mwaa_serverless_vietnamese/</guid>
+      <description>&lt;h1 id=&#34;giới-thiệu-amazon-mwaa-serverless&#34;&gt;Giới thiệu Amazon MWAA Serverless&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tác giả:&lt;/strong&gt; Kazushi Yamamoto&lt;br&gt;&#xA;&lt;strong&gt;Ngày xuất bản:&lt;/strong&gt; 21/11/2025&lt;br&gt;&#xA;&lt;strong&gt;URL gốc:&lt;/strong&gt; &lt;a href=&#34;https://aws.amazon.com/jp/blogs/news/introducing-amazon-mwaa-serverless/&#34;&gt;Introducing Amazon MWAA Serverless&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;tổng-quan&#34;&gt;Tổng quan&lt;/h2&gt;&#xA;&lt;p&gt;Hôm nay, AWS công bố cung cấp &lt;a href=&#34;https://aws.amazon.com/jp/managed-workflows-for-apache-airflow/&#34;&gt;Amazon Managed Workflows for Apache Airflow&lt;/a&gt; (MWAA) Serverless. Đây là tùy chọn triển khai mới của MWAA, giúp loại bỏ chi phí vận hành môi trường &lt;a href=&#34;https://airflow.apache.org/&#34;&gt;Apache Airflow&lt;/a&gt; đồng thời tối ưu hóa chi phí thông qua khả năng mở rộng serverless. Dịch vụ mới này giải quyết các thách thức chính mà các kỹ sư dữ liệu và nhóm DevOps gặp phải trong việc điều phối workflow: khả năng mở rộng vận hành, tối ưu chi phí và quản lý truy cập.&lt;/p&gt;</description>
     </item>
     <item>
       <title>【Bản lưu trữ】Hướng dẫn toàn diện Google Antigravity - IDE thế hệ mới dạng Agent</title>
@@ -763,13 +770,6 @@
       <pubDate>Thu, 02 Oct 2025 05:00:00 +0700</pubDate>
       <guid>https://cola1605.github.io/posts/qiita_strands_agents_guide_summary_vi/</guid>
       <description>&lt;h1 id=&#34;tóm-tắt-hướng-dẫn-strandsagents-công-cụ-ai-mạnh-mẽ-cho-developers&#34;&gt;Tóm tắt hướng dẫn StrandsAgents: Công cụ AI mạnh mẽ cho developers&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tác giả:&lt;/strong&gt; @yakumo_09 (やくも)&lt;br&gt;&#xA;&lt;strong&gt;Xuất bản:&lt;/strong&gt; 2025-09-27&lt;br&gt;&#xA;&lt;strong&gt;Nguồn:&lt;/strong&gt; &lt;a href=&#34;https://qiita.com/yakumo_09/items/f85a8a0634e30b0d756c&#34;&gt;Qiita&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;tóm-tắt-chính&#34;&gt;Tóm tắt chính&lt;/h2&gt;&#xA;&lt;p&gt;StrandsAgents là một công cụ AI mạnh mẽ được xây dựng trên AWS Bedrock, giúp developers tăng cường hiệu quả trong quá trình phát triển phần mềm.&lt;/p&gt;&#xA;&lt;h3 id=&#34;điểm-nổi-bật&#34;&gt;Điểm nổi bật:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tích hợp seamless với VS Code&lt;/li&gt;&#xA;&lt;li&gt;Sử dụng AWS Bedrock để xử lý AI&lt;/li&gt;&#xA;&lt;li&gt;Hỗ trợ multiple programming languages&lt;/li&gt;&#xA;&lt;li&gt;Interface thân thiện với developer&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;cách-sử-dụng-cơ-bản&#34;&gt;Cách sử dụng cơ bản:&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Cài đặt extension trong VS Code&lt;/li&gt;&#xA;&lt;li&gt;Cấu hình AWS credentials&lt;/li&gt;&#xA;&lt;li&gt;Kết nối với Bedrock service&lt;/li&gt;&#xA;&lt;li&gt;Bắt đầu sử dụng AI assistant&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Để xem hướng dẫn chi tiết, vui lòng tham khảo &lt;a href=&#34;https://cola1605.github.io/posts/qiita_strands_agents_guide_vi/&#34;&gt;bài viết đầy đủ&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://cola1605.github.io/posts/aws_mwaa_serverless_vietnamese/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/posts/aws_mwaa_serverless_vietnamese/</guid>
-      <description>&lt;h1 id=&#34;giới-thiệu-amazon-mwaa-serverless&#34;&gt;Giới thiệu Amazon MWAA Serverless&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tác giả:&lt;/strong&gt; Kazushi Yamamoto&lt;br&gt;&#xA;&lt;strong&gt;Ngày xuất bản:&lt;/strong&gt; 21/11/2025&lt;br&gt;&#xA;&lt;strong&gt;URL gốc:&lt;/strong&gt; &lt;a href=&#34;https://aws.amazon.com/jp/blogs/news/introducing-amazon-mwaa-serverless/&#34;&gt;Introducing Amazon MWAA Serverless&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;tổng-quan&#34;&gt;Tổng quan&lt;/h2&gt;&#xA;&lt;p&gt;Hôm nay, AWS công bố cung cấp &lt;a href=&#34;https://aws.amazon.com/jp/managed-workflows-for-apache-airflow/&#34;&gt;Amazon Managed Workflows for Apache Airflow&lt;/a&gt; (MWAA) Serverless. Đây là tùy chọn triển khai mới của MWAA, giúp loại bỏ chi phí vận hành môi trường &lt;a href=&#34;https://airflow.apache.org/&#34;&gt;Apache Airflow&lt;/a&gt; đồng thời tối ưu hóa chi phí thông qua khả năng mở rộng serverless. Dịch vụ mới này giải quyết các thách thức chính mà các kỹ sư dữ liệu và nhóm DevOps gặp phải trong việc điều phối workflow: khả năng mở rộng vận hành, tối ưu chi phí và quản lý truy cập.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>

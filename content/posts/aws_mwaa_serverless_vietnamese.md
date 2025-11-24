@@ -1,3 +1,15 @@
+---
+title: "Giới thiệu Amazon MWAA Serverless"
+date: 2025-11-21
+lastmod: 2025-11-24
+draft: false
+author: "Kazushi Yamamoto"
+translator: "日平"
+categories: ["AWS", "DevOps and Infrastructure", "Data and Analytics"]
+tags: ["Amazon MWAA", "Apache Airflow", "Serverless", "Workflow Orchestration", "AWS", "Data Engineering"]
+description: "Khám phá Amazon MWAA Serverless - tùy chọn triển khai mới giúp loại bỏ chi phí vận hành Apache Airflow và tối ưu chi phí thông qua khả năng mở rộng serverless với kiểm soát bảo mật chi tiết qua IAM."
+---
+
 # Giới thiệu Amazon MWAA Serverless
 
 **Tác giả:** Kazushi Yamamoto  
