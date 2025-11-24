@@ -6,7 +6,7 @@
     <description>Recent content in Posts on SYSTEM_NEWS</description>
     <generator>Hugo</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 21 Nov 2025 15:41:44 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://cola1605.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cách Tùy Chỉnh Chính Sách Lưu Trữ Bản Ghi Cuộc Gọi Trong Amazon Connect</title>
@@ -770,6 +770,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://cola1605.github.io/posts/aws_mwaa_serverless_vietnamese/</guid>
       <description>&lt;h1 id=&#34;giới-thiệu-amazon-mwaa-serverless&#34;&gt;Giới thiệu Amazon MWAA Serverless&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tác giả:&lt;/strong&gt; Kazushi Yamamoto&lt;br&gt;&#xA;&lt;strong&gt;Ngày xuất bản:&lt;/strong&gt; 21/11/2025&lt;br&gt;&#xA;&lt;strong&gt;URL gốc:&lt;/strong&gt; &lt;a href=&#34;https://aws.amazon.com/jp/blogs/news/introducing-amazon-mwaa-serverless/&#34;&gt;Introducing Amazon MWAA Serverless&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;tổng-quan&#34;&gt;Tổng quan&lt;/h2&gt;&#xA;&lt;p&gt;Hôm nay, AWS công bố cung cấp &lt;a href=&#34;https://aws.amazon.com/jp/managed-workflows-for-apache-airflow/&#34;&gt;Amazon Managed Workflows for Apache Airflow&lt;/a&gt; (MWAA) Serverless. Đây là tùy chọn triển khai mới của MWAA, giúp loại bỏ chi phí vận hành môi trường &lt;a href=&#34;https://airflow.apache.org/&#34;&gt;Apache Airflow&lt;/a&gt; đồng thời tối ưu hóa chi phí thông qua khả năng mở rộng serverless. Dịch vụ mới này giải quyết các thách thức chính mà các kỹ sư dữ liệu và nhóm DevOps gặp phải trong việc điều phối workflow: khả năng mở rộng vận hành, tối ưu chi phí và quản lý truy cập.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://cola1605.github.io/posts/qiita_apology_technique_vietnamese/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/posts/qiita_apology_technique_vietnamese/</guid>
+      <description>&lt;h1 id=&#34;kỹ-thuật-không-xin-lỗi-quá-nhiều&#34;&gt;Kỹ Thuật &amp;ldquo;Không Xin Lỗi Quá Nhiều&amp;rdquo;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tác giả:&lt;/strong&gt; y_o_28&lt;br&gt;&#xA;&lt;strong&gt;Ngày xuất bản:&lt;/strong&gt; 21/11/2025&lt;br&gt;&#xA;&lt;strong&gt;Ngày cập nhật:&lt;/strong&gt; 22/11/2025&lt;br&gt;&#xA;&lt;strong&gt;URL gốc:&lt;/strong&gt; &lt;a href=&#34;https://qiita.com/y_o_28/items/4f3bd30f1f0a8fe4c21e&#34;&gt;「謝罪」しすぎない技術&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-mở-đầu-tại-sao-kỹ-sư-lại-xin-lỗi-quá-nhiều&#34;&gt;1. Mở đầu: Tại sao kỹ sư lại &amp;ldquo;xin lỗi&amp;rdquo; quá nhiều?&lt;/h2&gt;&#xA;&lt;p&gt;Ở hiện trường phát triển, câu &amp;ldquo;xin lỗi&amp;rdquo; (sumimasen) thường thoát ra vô thức như một thói quen nói.&lt;br&gt;&#xA;Bạn có cảm thấy quen thuộc không? Tôi thì có&amp;hellip; haha&lt;/p&gt;&#xA;&lt;p&gt;Khi nộp tài liệu chậm một chút, khi bắt đầu cuộc họp, khi nhận phản hồi từ đối phương, hoặc khi nhờ vả các team khác.&lt;br&gt;&#xA;&lt;strong&gt;&amp;ldquo;Lời xin lỗi phản xạ&amp;rdquo;&lt;/strong&gt; này, liệu có thực sự xuất phát từ sự khiêm tốn?&lt;br&gt;&#xA;Hay nó đã trở thành một công cụ tiện lợi để tự bảo vệ mình?&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
