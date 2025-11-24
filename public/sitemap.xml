@@ -17,8 +17,14 @@
     <loc>https://cola1605.github.io/categories/cloud/</loc>
     <lastmod>2025-11-24T00:00:00+07:00</lastmod>
   </url><url>
+    <loc>https://cola1605.github.io/categories/development/</loc>
+    <lastmod>2025-11-24T00:00:00+07:00</lastmod>
+  </url><url>
     <loc>https://cola1605.github.io/categories/devops-and-infrastructure/</loc>
     <lastmod>2025-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/javascript/</loc>
+    <lastmod>2025-11-24T00:00:00+07:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/posts/zenn_lambda_tenant_isolation_vietnamese/</loc>
     <lastmod>2025-11-24T00:00:00+07:00</lastmod>
@@ -28,6 +34,9 @@
   </url><url>
     <loc>https://cola1605.github.io/posts/</loc>
     <lastmod>2025-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/programming/</loc>
+    <lastmod>2025-11-24T00:00:00+07:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/saas/</loc>
     <lastmod>2025-11-24T00:00:00+07:00</lastmod>
@@ -40,6 +49,18 @@
   </url><url>
     <loc>https://cola1605.github.io/tags/</loc>
     <lastmod>2025-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/type-system/</loc>
+    <lastmod>2025-11-24T00:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/typescript/</loc>
+    <lastmod>2025-11-24T00:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/posts/zenn_typescript_type_system_vietnamese/</loc>
+    <lastmod>2025-11-24T00:00:00+07:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/categories/web-and-frontend/</loc>
+    <lastmod>2025-11-24T00:00:00+07:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/categories/ai-and-machine-learning/</loc>
     <lastmod>2025-11-21T00:00:00+00:00</lastmod>
@@ -162,9 +183,6 @@
     <lastmod>2025-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/dataplex/</loc>
-    <lastmod>2025-11-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cola1605.github.io/categories/development/</loc>
     <lastmod>2025-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/devin/</loc>
@@ -318,9 +336,6 @@
     <lastmod>2025-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/posts/cyberagent_flutterkaigi_2025/</loc>
-    <lastmod>2025-11-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cola1605.github.io/categories/web-and-frontend/</loc>
     <lastmod>2025-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/posts/qiita_toon_format_vietnamese/</loc>
@@ -896,9 +911,6 @@
     <loc>https://cola1605.github.io/tags/performance-optimization/</loc>
     <lastmod>2025-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cola1605.github.io/tags/typescript/</loc>
-    <lastmod>2025-10-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://cola1605.github.io/posts/qiita_vscode_memory_optimization_vietnamese/</loc>
     <lastmod>2025-10-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -1155,9 +1167,6 @@
     <lastmod>2025-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/openai/</loc>
-    <lastmod>2025-10-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cola1605.github.io/tags/programming/</loc>
     <lastmod>2025-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/ssm-agent/</loc>
