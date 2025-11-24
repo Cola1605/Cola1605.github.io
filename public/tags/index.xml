@@ -9,6 +9,41 @@
     <lastBuildDate>Mon, 24 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://cola1605.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>AWS</title>
+      <link>https://cola1605.github.io/tags/aws/</link>
+      <pubDate>Sun, 23 Nov 2025 00:00:00 +0700</pubDate>
+      <guid>https://cola1605.github.io/tags/aws/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AWS Lambda</title>
+      <link>https://cola1605.github.io/tags/aws-lambda/</link>
+      <pubDate>Sun, 23 Nov 2025 00:00:00 +0700</pubDate>
+      <guid>https://cola1605.github.io/tags/aws-lambda/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Multi-Tenant</title>
+      <link>https://cola1605.github.io/tags/multi-tenant/</link>
+      <pubDate>Sun, 23 Nov 2025 00:00:00 +0700</pubDate>
+      <guid>https://cola1605.github.io/tags/multi-tenant/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SaaS</title>
+      <link>https://cola1605.github.io/tags/saas/</link>
+      <pubDate>Sun, 23 Nov 2025 00:00:00 +0700</pubDate>
+      <guid>https://cola1605.github.io/tags/saas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Serverless</title>
+      <link>https://cola1605.github.io/tags/serverless/</link>
+      <pubDate>Sun, 23 Nov 2025 00:00:00 +0700</pubDate>
+      <guid>https://cola1605.github.io/tags/serverless/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Amazon Connect</title>
       <link>https://cola1605.github.io/tags/amazon-connect/</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
@@ -34,20 +69,6 @@
       <link>https://cola1605.github.io/tags/apache-airflow/</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://cola1605.github.io/tags/apache-airflow/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>AWS</title>
-      <link>https://cola1605.github.io/tags/aws/</link>
-      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/tags/aws/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>AWS Lambda</title>
-      <link>https://cola1605.github.io/tags/aws-lambda/</link>
-      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/tags/aws-lambda/</guid>
       <description></description>
     </item>
     <item>
@@ -90,13 +111,6 @@
       <link>https://cola1605.github.io/tags/kinesis/</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://cola1605.github.io/tags/kinesis/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Serverless</title>
-      <link>https://cola1605.github.io/tags/serverless/</link>
-      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/tags/serverless/</guid>
       <description></description>
     </item>
     <item>
@@ -1735,13 +1749,6 @@
       <link>https://cola1605.github.io/tags/post-mortem/</link>
       <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://cola1605.github.io/tags/post-mortem/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>SaaS</title>
-      <link>https://cola1605.github.io/tags/saas/</link>
-      <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/tags/saas/</guid>
       <description></description>
     </item>
     <item>

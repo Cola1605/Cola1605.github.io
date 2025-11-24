@@ -9,6 +9,13 @@
     <lastBuildDate>Mon, 24 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://cola1605.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Lambda Tenant Isolation Mode (Chế độ phân tách Tenant)</title>
+      <link>https://cola1605.github.io/posts/zenn_lambda_tenant_isolation_vietnamese/</link>
+      <pubDate>Sun, 23 Nov 2025 00:00:00 +0700</pubDate>
+      <guid>https://cola1605.github.io/posts/zenn_lambda_tenant_isolation_vietnamese/</guid>
+      <description>&lt;h1 id=&#34;lambda-tenant-isolation-mode-chế-độ-phân-tách-tenant&#34;&gt;Lambda Tenant Isolation Mode (Chế độ phân tách Tenant)&lt;/h1&gt;&#xA;&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới thiệu&lt;/h2&gt;&#xA;&lt;p&gt;Xin chào, tôi là かとりょー.&lt;/p&gt;&#xA;&lt;p&gt;Ngày 19 tháng 11 năm 2025, AWS Lambda đã ra mắt tính năng mới có tên &amp;ldquo;Tenant Isolation Mode (Chế độ phân tách Tenant)&amp;rdquo;. Đây là tính năng dành cho các ứng dụng SaaS đa tenant, cho phép chia sẻ một Lambda function duy nhất giữa nhiều tenant, đồng thời phân tách hoàn toàn môi trường thực thi cho từng tenant bằng cách chỉ định tenant ID khi thực thi.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Cách Tùy Chỉnh Chính Sách Lưu Trữ Bản Ghi Cuộc Gọi Trong Amazon Connect</title>
       <link>https://cola1605.github.io/posts/aws_amazon_connect_recording_retention_vietnamese/</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>

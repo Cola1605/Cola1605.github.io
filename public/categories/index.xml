@@ -9,6 +9,27 @@
     <lastBuildDate>Mon, 24 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://cola1605.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>AWS</title>
+      <link>https://cola1605.github.io/categories/aws/</link>
+      <pubDate>Sun, 23 Nov 2025 00:00:00 +0700</pubDate>
+      <guid>https://cola1605.github.io/categories/aws/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cloud</title>
+      <link>https://cola1605.github.io/categories/cloud/</link>
+      <pubDate>Sun, 23 Nov 2025 00:00:00 +0700</pubDate>
+      <guid>https://cola1605.github.io/categories/cloud/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DevOps and Infrastructure</title>
+      <link>https://cola1605.github.io/categories/devops-and-infrastructure/</link>
+      <pubDate>Sun, 23 Nov 2025 00:00:00 +0700</pubDate>
+      <guid>https://cola1605.github.io/categories/devops-and-infrastructure/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>AI and Machine Learning</title>
       <link>https://cola1605.github.io/categories/ai-and-machine-learning/</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
@@ -16,24 +37,10 @@
       <description></description>
     </item>
     <item>
-      <title>AWS</title>
-      <link>https://cola1605.github.io/categories/aws/</link>
-      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/categories/aws/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Data and Analytics</title>
       <link>https://cola1605.github.io/categories/data-and-analytics/</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://cola1605.github.io/categories/data-and-analytics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>DevOps and Infrastructure</title>
-      <link>https://cola1605.github.io/categories/devops-and-infrastructure/</link>
-      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/categories/devops-and-infrastructure/</guid>
       <description></description>
     </item>
     <item>
@@ -62,13 +69,6 @@
       <link>https://cola1605.github.io/categories/security-and-networking/</link>
       <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://cola1605.github.io/categories/security-and-networking/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cloud</title>
-      <link>https://cola1605.github.io/categories/cloud/</link>
-      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/categories/cloud/</guid>
       <description></description>
     </item>
   </channel>
