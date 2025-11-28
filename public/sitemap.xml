@@ -2,6 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cola1605.github.io/posts/aws-cisco-citrix-zero-days/</loc>
+    <lastmod>2025-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/posts/aws-route53-accelerated-recovery/</loc>
+    <lastmod>2025-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/apt/</loc>
+    <lastmod>2025-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/categories/aws/</loc>
+    <lastmod>2025-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/aws/</loc>
+    <lastmod>2025-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/categories/</loc>
+    <lastmod>2025-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/cisco/</loc>
+    <lastmod>2025-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/citrix/</loc>
+    <lastmod>2025-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/categories/devops-and-infrastructure/</loc>
+    <lastmod>2025-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/disaster-recovery/</loc>
+    <lastmod>2025-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/dns/</loc>
+    <lastmod>2025-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/high-availability/</loc>
+    <lastmod>2025-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/posts/</loc>
+    <lastmod>2025-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/route53/</loc>
+    <lastmod>2025-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/rto/</loc>
+    <lastmod>2025-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/security/</loc>
+    <lastmod>2025-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/categories/security-and-networking/</loc>
+    <lastmod>2025-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/</loc>
+    <lastmod>2025-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/</loc>
+    <lastmod>2025-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/threat-intelligence/</loc>
+    <lastmod>2025-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/zero-day/</loc>
+    <lastmod>2025-11-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://cola1605.github.io/tags/agentic-ai/</loc>
     <lastmod>2025-11-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -9,12 +72,6 @@
     <lastmod>2025-11-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/amazon-sagemaker/</loc>
-    <lastmod>2025-11-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cola1605.github.io/categories/aws/</loc>
-    <lastmod>2025-11-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cola1605.github.io/tags/aws/</loc>
     <lastmod>2025-11-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/aws-lambda/</loc>
@@ -30,9 +87,6 @@
     <lastmod>2025-11-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/posts/aws_sagemaker_catalog_metadata_vietnamese/</loc>
-    <lastmod>2025-11-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cola1605.github.io/categories/</loc>
     <lastmod>2025-11-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/categories/cloud/</loc>
@@ -54,9 +108,6 @@
     <lastmod>2025-11-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/data-governance/</loc>
-    <lastmod>2025-11-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cola1605.github.io/categories/devops-and-infrastructure/</loc>
     <lastmod>2025-11-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/direct-connect/</loc>
@@ -92,28 +143,13 @@
     <loc>https://cola1605.github.io/tags/ntt-docomo/</loc>
     <lastmod>2025-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cola1605.github.io/posts/</loc>
-    <lastmod>2025-11-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://cola1605.github.io/tags/rca/</loc>
     <lastmod>2025-11-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/saas/</loc>
     <lastmod>2025-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cola1605.github.io/tags/security/</loc>
-    <lastmod>2025-11-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cola1605.github.io/categories/security-and-networking/</loc>
-    <lastmod>2025-11-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://cola1605.github.io/tags/serverless/</loc>
-    <lastmod>2025-11-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cola1605.github.io/</loc>
-    <lastmod>2025-11-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cola1605.github.io/tags/</loc>
     <lastmod>2025-11-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/posts/aws_vmware_migration_evs_hcx_vietnamese/</loc>
@@ -473,9 +509,6 @@
     <loc>https://cola1605.github.io/tags/google/</loc>
     <lastmod>2025-11-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cola1605.github.io/tags/high-availability/</loc>
-    <lastmod>2025-11-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://cola1605.github.io/posts/qiita_rf_p_google_antigravity_vietnamese/</loc>
     <lastmod>2025-11-19T00:00:00+00:00</lastmod>
   </url><url>
@@ -612,9 +645,6 @@
     <lastmod>2025-11-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/data-protection/</loc>
-    <lastmod>2025-11-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cola1605.github.io/tags/disaster-recovery/</loc>
     <lastmod>2025-11-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/landing-zone/</loc>
@@ -1137,9 +1167,6 @@
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/posts/qiita_aws_ftr_bestpractices_vietnamese/</loc>
-    <lastmod>2025-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cola1605.github.io/tags/dns/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/dynamodb/</loc>

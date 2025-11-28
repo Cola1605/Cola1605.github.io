@@ -6,8 +6,22 @@
     <description>Recent content in Posts on SYSTEM_NEWS</description>
     <generator>Hugo</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 27 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://cola1605.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amazon phát hiện APT khai thác zero-day của Cisco và Citrix</title>
+      <link>https://cola1605.github.io/posts/aws-cisco-citrix-zero-days/</link>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/posts/aws-cisco-citrix-zero-days/</guid>
+      <description>&lt;h2 id=&#34;thông-tin-bài-viết&#34;&gt;Thông tin bài viết&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tác giả&lt;/strong&gt;: Akihiro Nakajima (translated)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ngày xuất bản&lt;/strong&gt;: 28/11/2025&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tags&lt;/strong&gt;: AWS, Security, Zero-Day, APT, Cisco, Citrix&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Nguồn&lt;/strong&gt;: &lt;a href=&#34;https://aws.amazon.com/jp/blogs/news/amazon-discovers-apt-exploiting-cisco-and-citrix-zero-days/&#34;&gt;AWS Security Blog&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;tóm-tắt&#34;&gt;Tóm tắt&lt;/h2&gt;&#xA;&lt;p&gt;MadPot honeypot và Threat Intelligence team của Amazon phát hiện APT (Advanced Persistent Threat) khai thác lỗ hổng zero-day của Cisco ISE và Citrix. Hai lỗ hổng CVE-2025-20337 và CVE-2025-5777 bị khai thác ở môi trường thực, custom webshell được deploy với khả năng detection evasion cao cấp.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Amazon Route 53 ra mắt Accelerated Recovery cho quản lý public DNS records</title>
+      <link>https://cola1605.github.io/posts/aws-route53-accelerated-recovery/</link>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/posts/aws-route53-accelerated-recovery/</guid>
+      <description>&lt;h2 id=&#34;thông-tin-bài-viết&#34;&gt;Thông tin bài viết&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tác giả&lt;/strong&gt;: Micah Walter&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ngày xuất bản&lt;/strong&gt;: 28/11/2025&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tags&lt;/strong&gt;: Route53, DNS, High Availability, Disaster Recovery, RTO&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Nguồn&lt;/strong&gt;: &lt;a href=&#34;https://aws.amazon.com/jp/blogs/news/amazon-route-53-launches-accelerated-recovery-for-managing-public-dns-records/&#34;&gt;AWS Blog&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;tóm-tắt&#34;&gt;Tóm tắt&lt;/h2&gt;&#xA;&lt;p&gt;Ngày 26/11/2025, Amazon Route 53 công bố tính năng Accelerated Recovery đạt RTO (Recovery Time Objective) 60 phút khi US East (N. Virginia) region gặp service interruption. Tương thích hoàn toàn với existing Route 53 API, không cần học thêm, tăng cường DNS resilience cho mission-critical application.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>AWS VPC Encryption Controls: Bắt buộc mã hóa traffic trong và giữa các VPC</title>
       <link>https://cola1605.github.io/posts/aws-vpc-encryption-controls/</link>

@@ -6,8 +6,92 @@
     <description>Recent content in Tags on SYSTEM_NEWS</description>
     <generator>Hugo</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 27 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://cola1605.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>APT</title>
+      <link>https://cola1605.github.io/tags/apt/</link>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/tags/apt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AWS</title>
+      <link>https://cola1605.github.io/tags/aws/</link>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/tags/aws/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cisco</title>
+      <link>https://cola1605.github.io/tags/cisco/</link>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/tags/cisco/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Citrix</title>
+      <link>https://cola1605.github.io/tags/citrix/</link>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/tags/citrix/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Disaster-Recovery</title>
+      <link>https://cola1605.github.io/tags/disaster-recovery/</link>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/tags/disaster-recovery/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DNS</title>
+      <link>https://cola1605.github.io/tags/dns/</link>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/tags/dns/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>High-Availability</title>
+      <link>https://cola1605.github.io/tags/high-availability/</link>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/tags/high-availability/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Route53</title>
+      <link>https://cola1605.github.io/tags/route53/</link>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/tags/route53/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RTO</title>
+      <link>https://cola1605.github.io/tags/rto/</link>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/tags/rto/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Security</title>
+      <link>https://cola1605.github.io/tags/security/</link>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/tags/security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Threat Intelligence</title>
+      <link>https://cola1605.github.io/tags/threat-intelligence/</link>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/tags/threat-intelligence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zero-Day</title>
+      <link>https://cola1605.github.io/tags/zero-day/</link>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/tags/zero-day/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Agentic AI</title>
       <link>https://cola1605.github.io/tags/agentic-ai/</link>
@@ -20,13 +104,6 @@
       <link>https://cola1605.github.io/tags/amazon-sagemaker/</link>
       <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://cola1605.github.io/tags/amazon-sagemaker/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>AWS</title>
-      <link>https://cola1605.github.io/tags/aws/</link>
-      <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/tags/aws/</guid>
       <description></description>
     </item>
     <item>
@@ -174,13 +251,6 @@
       <link>https://cola1605.github.io/tags/saas/</link>
       <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://cola1605.github.io/tags/saas/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Security</title>
-      <link>https://cola1605.github.io/tags/security/</link>
-      <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/tags/security/</guid>
       <description></description>
     </item>
     <item>
@@ -821,13 +891,6 @@
       <description></description>
     </item>
     <item>
-      <title>High-Availability</title>
-      <link>https://cola1605.github.io/tags/high-availability/</link>
-      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/tags/high-availability/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Managed-Instances</title>
       <link>https://cola1605.github.io/tags/managed-instances/</link>
       <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
@@ -1077,13 +1140,6 @@
       <link>https://cola1605.github.io/tags/data-protection/</link>
       <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://cola1605.github.io/tags/data-protection/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Disaster-Recovery</title>
-      <link>https://cola1605.github.io/tags/disaster-recovery/</link>
-      <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/tags/disaster-recovery/</guid>
       <description></description>
     </item>
     <item>
@@ -2036,13 +2092,6 @@
       <link>https://cola1605.github.io/tags/cloud-certification/</link>
       <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://cola1605.github.io/tags/cloud-certification/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>DNS</title>
-      <link>https://cola1605.github.io/tags/dns/</link>
-      <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/tags/dns/</guid>
       <description></description>
     </item>
     <item>
