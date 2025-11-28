@@ -1,57 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Machine-Learning on SYSTEM_NEWS</title><link>https://cola1605.github.io/tags/machine-learning/</link><description>Recent content in Machine-Learning on SYSTEM_NEWS</description><generator>Hugo</generator><language>vi</language><lastBuildDate>Tue, 25 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cola1605.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml"/><item><title>Amazon Bedrock Service Tiers mới giúp khớp hiệu năng với chi phí cho workload AI</title><link>https://cola1605.github.io/posts/aws_bedrock_service_tiers_vietnamese/</link><pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/aws_bedrock_service_tiers_vietnamese/</guid><description>&lt;h2 id="mục-lục"&gt;Mục lục&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="#gi%E1%BB%9Bi-thi%E1%BB%87u"&gt;Giới thiệu&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#3-service-tier"&gt;3 Service Tier&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#ch%E1%BB%8Dn-tier-ph%C3%B9-h%E1%BB%A3p-cho-workload"&gt;Chọn tier phù hợp cho workload&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#%C6%B0%E1%BB%9Bc-t%C3%ADnh-chi-ph%C3%AD-v%C3%A0-gi%C3%A1m-s%C3%A1t"&gt;Ước tính chi phí và giám sát&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#c%C3%A1ch-s%E1%BB%AD-d%E1%BB%A5ng"&gt;Cách sử dụng&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#t%E1%BB%95ng-k%E1%BA%BFt"&gt;Tổng kết&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id="giới-thiệu"&gt;Giới thiệu&lt;/h2&gt;
-&lt;p&gt;Ngày 18 tháng 11 năm 2025, &lt;strong&gt;Amazon Bedrock&lt;/strong&gt; đã giới thiệu &lt;strong&gt;các service tier mới&lt;/strong&gt; giúp kiểm soát chi phí workload AI một cách chi tiết hơn trong khi vẫn duy trì mức hiệu năng cần thiết cho ứng dụng.&lt;/p&gt;
-&lt;p&gt;Nhiều tổ chức chạy workload AI đối mặt với thách thức &lt;strong&gt;cân bằng giữa yêu cầu hiệu năng và tối ưu hóa chi phí&lt;/strong&gt;. Một số ứng dụng cần thời gian phản hồi nhanh cho tương tác thời gian thực, trong khi những ứng dụng khác có thể xử lý dữ liệu theo từng giai đoạn.&lt;/p&gt;</description></item><item><title>Tăng tốc ứng dụng AI quy mô lớn với Amazon EC2 P6-B300 instances mới</title><link>https://cola1605.github.io/posts/aws_ec2_p6b300_instances_vietnamese/</link><pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/aws_ec2_p6b300_instances_vietnamese/</guid><description>&lt;h2 id="mục-lục"&gt;Mục lục&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="#gi%E1%BB%9Bi-thi%E1%BB%87u"&gt;Giới thiệu&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#h%E1%BB%97-tr%E1%BB%A3-c%C3%A1c-m%C3%B4-h%C3%ACnh-ai-quy-m%C3%B4-l%E1%BB%9Bn"&gt;Hỗ trợ các mô hình AI quy mô lớn&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#nh%E1%BB%AFng-c%E1%BA%A3i-ti%E1%BA%BFn-so-v%E1%BB%9Bi-th%E1%BA%BF-h%E1%BB%87-tr%C6%B0%E1%BB%9Bc"&gt;Những cải tiến so với thế hệ trước&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#th%C3%B4ng-s%E1%BB%91-k%E1%BB%B9-thu%E1%BA%ADt"&gt;Thông số kỹ thuật&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#th%C3%B4ng-tin-h%E1%BB%AFu-%C3%ADch"&gt;Thông tin hữu ích&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#hi%E1%BB%87n-%C4%91%C3%A3-c%C3%B3-s%E1%BA%B5n"&gt;Hiện đã có sẵn&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="#t%E1%BB%95ng-k%E1%BA%BFt"&gt;Tổng kết&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id="giới-thiệu"&gt;Giới thiệu&lt;/h2&gt;
-&lt;p&gt;Ngày 18 tháng 11 năm 2025, AWS đã công bố &lt;strong&gt;Amazon Elastic Compute Cloud (Amazon EC2) P6-B300 instances&lt;/strong&gt; - nền tảng GPU thế hệ tiếp theo được tăng tốc bởi &lt;strong&gt;NVIDIA Blackwell Ultra GPU&lt;/strong&gt;. Các instance này cung cấp &lt;strong&gt;băng thông mạng gấp 2 lần&lt;/strong&gt; và &lt;strong&gt;bộ nhớ GPU gấp 1.5 lần&lt;/strong&gt; so với thế hệ trước, tạo nên một nền tảng cân bằng cho các ứng dụng AI quy mô lớn.&lt;/p&gt;</description></item><item><title>[Phỏng Vấn] Khi Độ Chính Xác AI Tăng 1%, Giá Trị Khách Hàng Là Bao Nhiêu? - freee và Chuyển Đổi AI Native</title><link>https://cola1605.github.io/posts/aws_freee_ai_transformation/</link><pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/aws_freee_ai_transformation/</guid><description>&lt;p&gt;&lt;strong&gt;Nguồn:&lt;/strong&gt; &lt;a href="https://aws.amazon.com/jp/blogs/news/freee-ai-native-transformation/"&gt;AWS Blog&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="tổng-quan"&gt;Tổng Quan&lt;/h2&gt;
-&lt;p&gt;Với sứ mệnh &amp;ldquo;Biến Doanh Nghiệp Nhỏ Thành Nhân Vật Chính của Thế Giới&amp;rdquo;, freee Inc. đã vẽ ra tầm nhìn &amp;ldquo;AI CFO&amp;rdquo; ngay từ khi thành lập. Với sự xuất hiện của LLM (Large Language Models - Mô hình Ngôn ngữ Lớn), công ty đã bắt đầu chuyển đổi toàn diện sang tổ chức AI native sử dụng AI sinh tạo. Bằng cách lựa chọn công nghệ, xây dựng cấu trúc tổ chức và đặc biệt là thiết lập framework độc đáo &amp;ldquo;Tiêu Chí Thành Công&amp;rdquo;, freee đã thúc đẩy việc ứng dụng AI trong toàn công ty. Công ty đã đạt được những thành tựu vững chắc như cải thiện tỷ lệ giải quyết hỗ trợ chat khoảng 50%, cải thiện hiệu suất bán hàng đáng kể, và cải cách cấu trúc trong dịch vụ BPaaS (Business Process as a Service). Chúng tôi đã phỏng vấn ông Kisamori, AI Product Manager, về toàn bộ quá trình chuyển đổi này.&lt;/p&gt;</description></item><item><title>Amazon Bedrock AgentCore chính thức ra mắt tại Tokyo và các khu vực AWS: Đưa AI Agent vào thế giới thực</title><link>https://cola1605.github.io/posts/amazon_bedrock_agentcore_ga_vietnamese/</link><pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/amazon_bedrock_agentcore_ga_vietnamese/</guid><description>&lt;h1 id="amazon-bedrock-agentcore-chính-thức-ra-mắt-tại-tokyo-và-các-khu-vực-aws-đưa-ai-agent-vào-thế-giới-thực"&gt;Amazon Bedrock AgentCore chính thức ra mắt tại Tokyo và các khu vực AWS: Đưa AI Agent vào thế giới thực&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;Tác giả:&lt;/strong&gt; AWS Japan (Người dịch), Swami Sivasubramanian (Tác giả gốc)&lt;br&gt;
-&lt;strong&gt;Chức vụ:&lt;/strong&gt; Phó Chủ tịch AWS Agentic AI&lt;br&gt;
-&lt;strong&gt;Ngày xuất bản:&lt;/strong&gt; 15 tháng 10 năm 2025&lt;br&gt;
-&lt;strong&gt;Ngày xuất bản bản gốc:&lt;/strong&gt; 13 tháng 10 năm 2025&lt;br&gt;
-&lt;strong&gt;Danh mục:&lt;/strong&gt; Amazon Bedrock, Amazon Machine Learning, Announcements, General&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="tổng-quan"&gt;Tổng quan&lt;/h2&gt;
-&lt;p&gt;Bài viết này là bản dịch tiếng Nhật của blog có chữ ký của Swami Sivasubramanian, Phó Chủ tịch AWS Agentic AI, được xuất bản vào ngày 13 tháng 10 theo giờ Mỹ &amp;ldquo;&lt;a href="https://aws.amazon.com/jp/blogs/machine-learning/amazon-bedrock-agentcore-is-now-generally-available/"&gt;Make agents a reality with Amazon Bedrock AgentCore: Now generally available&lt;/a&gt;&amp;rdquo;.&lt;/p&gt;</description></item><item><title>Tăng tốc thông lượng Amazon S3 với AWS Common Runtime</title><link>https://cola1605.github.io/posts/aws_s3_throughput_improvement_vietnamese/</link><pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/aws_s3_throughput_improvement_vietnamese/</guid><description>&lt;h1 id="tăng-tốc-thông-lượng-amazon-s3-với-aws-common-runtime"&gt;Tăng tốc thông lượng Amazon S3 với AWS Common Runtime&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;Tác giả:&lt;/strong&gt; Naomichi Sakakibara&lt;br&gt;
-&lt;strong&gt;Ngày xuất bản:&lt;/strong&gt; 8 tháng 10, 2025&lt;br&gt;
-&lt;strong&gt;Tác giả gốc:&lt;/strong&gt; James Bornholt, Abhinav Goyal, Jonathan Henson, Andrew Kutsy&lt;br&gt;
-&lt;strong&gt;Ngày xuất bản gốc:&lt;/strong&gt; 27 tháng 11, 2023&lt;br&gt;
-&lt;strong&gt;Nguồn:&lt;/strong&gt; &lt;a href="https://aws.amazon.com/jp/blogs/news/improving-amazon-s3-throughput-for-the-aws-cli-and-boto3-with-the-aws-common-runtime/"&gt;AWS Japan Official Blog&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id="tổng-quan"&gt;Tổng quan&lt;/h2&gt;
-&lt;p&gt;Bài blog này là bản tiếng Nhật của nội dung được viết bởi James Bornholt, Abhinav Goyal, Jonathan Henson, Andrew Kutsy vào ngày 27 tháng 11, 2023. Vui lòng tham khảo &lt;a href="https://aws.amazon.com/jp/blogs/storage/improving-amazon-s3-throughput-for-the-aws-cli-and-boto3-with-the-aws-common-runtime/"&gt;bài viết gốc&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Chiến lược mở rộng Annotation Center: Tương lai của AI và dữ liệu</title><link>https://cola1605.github.io/ja/posts/annotation_center_expansion_vietnamese/</link><pubDate>Fri, 03 Oct 2025 12:00:00 +0700</pubDate><guid>https://cola1605.github.io/ja/posts/annotation_center_expansion_vietnamese/</guid><description>&lt;p&gt;&lt;strong&gt;Metadata Bài viết:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;ID Nguồn: p=115507&lt;/li&gt;
-&lt;li&gt;Ngày Crawl: 18 tháng 1, 2025&lt;/li&gt;
-&lt;li&gt;Số từ Ước tính: 2.500 từ&lt;/li&gt;
-&lt;li&gt;Thời gian Đọc Ước tính: 10 phút&lt;/li&gt;
-&lt;li&gt;Loại Nội dung: Phỏng vấn Nhiều người tham gia&lt;/li&gt;
-&lt;li&gt;Trọng tâm Chính: Hạ tầng Dữ liệu AI, Dịch vụ Chú thích, Chiến lược AI Toàn công ty&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Thẻ:&lt;/strong&gt; AI Tạo sinh, Chú thích Dữ liệu, Chất lượng Dữ liệu, Học máy, Ứng dụng AI Toàn công ty, Phỏng vấn Kỹ thuật, CyberAgent, Khoa học Dữ liệu, Kinh doanh AI, Chuyển đổi Số&lt;/p&gt;</description></item><item><title>Chiến lược mở rộng Annotation Center: Tương lai của AI và dữ liệu</title><link>https://cola1605.github.io/posts/annotation_center_expansion_vietnamese/</link><pubDate>Fri, 03 Oct 2025 12:00:00 +0700</pubDate><guid>https://cola1605.github.io/posts/annotation_center_expansion_vietnamese/</guid><description>&lt;h1 id="chiến-lược-mở-rộng-annotation-center-tương-lai-của-ai-và-dữ-liệu"&gt;Chiến lược mở rộng Annotation Center: Tương lai của AI và dữ liệu&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;Nguồn:&lt;/strong&gt; Tin tức công nghệ&lt;br&gt;
-&lt;strong&gt;Xuất bản:&lt;/strong&gt; 2025-04-11&lt;br&gt;
-&lt;strong&gt;Chủ đề:&lt;/strong&gt; AI, Annotation, Machine Learning&lt;/p&gt;
-&lt;h2 id="tóm-tắt"&gt;Tóm tắt&lt;/h2&gt;
-&lt;p&gt;&amp;ldquo;Trung tâm Chú thích&amp;rdquo; tại CyberAgent nâng cao chất lượng dữ liệu qua các đơn vị kinh doanh khác nhau để thúc đẩy việc ứng dụng AI toàn công ty. Takuma Kobayashi (Giám đốc Trung tâm Chú thích) phỏng vấn Ryuma Sunagawa (Quản lý Trung tâm Chú thích) và Sora Inagaki (Cố vấn Chuyên gia Đa phương thức) về tầm quan trọng và tiềm năng của công việc chú thích. Bài viết này bao gồm bối cảnh quyết định mở rộng Trung tâm Chú thích, triển vọng tương lai và tác động kinh doanh được tạo ra thông qua việc chú thích.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine-Learning on SYSTEM_NEWS</title>
+    <link>https://cola1605.github.io/tags/machine-learning/</link>
+    <description>Recent content in Machine-Learning on SYSTEM_NEWS</description>
+    <generator>Hugo</generator>
+    <language>vi</language>
+    <lastBuildDate>Tue, 25 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://cola1605.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amazon Bedrock Service Tiers mới giúp khớp hiệu năng với chi phí cho workload AI</title>
+      <link>https://cola1605.github.io/posts/aws_bedrock_service_tiers_vietnamese/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/posts/aws_bedrock_service_tiers_vietnamese/</guid>
+      <description>&lt;h2 id=&#34;mục-lục&#34;&gt;Mục lục&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#gi%E1%BB%9Bi-thi%E1%BB%87u&#34;&gt;Giới thiệu&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#3-service-tier&#34;&gt;3 Service Tier&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#ch%E1%BB%8Dn-tier-ph%C3%B9-h%E1%BB%A3p-cho-workload&#34;&gt;Chọn tier phù hợp cho workload&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#%C6%B0%E1%BB%9Bc-t%C3%ADnh-chi-ph%C3%AD-v%C3%A0-gi%C3%A1m-s%C3%A1t&#34;&gt;Ước tính chi phí và giám sát&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#c%C3%A1ch-s%E1%BB%AD-d%E1%BB%A5ng&#34;&gt;Cách sử dụng&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#t%E1%BB%95ng-k%E1%BA%BFt&#34;&gt;Tổng kết&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới thiệu&lt;/h2&gt;&#xA;&lt;p&gt;Ngày 18 tháng 11 năm 2025, &lt;strong&gt;Amazon Bedrock&lt;/strong&gt; đã giới thiệu &lt;strong&gt;các service tier mới&lt;/strong&gt; giúp kiểm soát chi phí workload AI một cách chi tiết hơn trong khi vẫn duy trì mức hiệu năng cần thiết cho ứng dụng.&lt;/p&gt;&#xA;&lt;p&gt;Nhiều tổ chức chạy workload AI đối mặt với thách thức &lt;strong&gt;cân bằng giữa yêu cầu hiệu năng và tối ưu hóa chi phí&lt;/strong&gt;. Một số ứng dụng cần thời gian phản hồi nhanh cho tương tác thời gian thực, trong khi những ứng dụng khác có thể xử lý dữ liệu theo từng giai đoạn.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tăng tốc ứng dụng AI quy mô lớn với Amazon EC2 P6-B300 instances mới</title>
+      <link>https://cola1605.github.io/posts/aws_ec2_p6b300_instances_vietnamese/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/posts/aws_ec2_p6b300_instances_vietnamese/</guid>
+      <description>&lt;h2 id=&#34;mục-lục&#34;&gt;Mục lục&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#gi%E1%BB%9Bi-thi%E1%BB%87u&#34;&gt;Giới thiệu&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#h%E1%BB%97-tr%E1%BB%A3-c%C3%A1c-m%C3%B4-h%C3%ACnh-ai-quy-m%C3%B4-l%E1%BB%9Bn&#34;&gt;Hỗ trợ các mô hình AI quy mô lớn&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#nh%E1%BB%AFng-c%E1%BA%A3i-ti%E1%BA%BFn-so-v%E1%BB%9Bi-th%E1%BA%BF-h%E1%BB%87-tr%C6%B0%E1%BB%9Bc&#34;&gt;Những cải tiến so với thế hệ trước&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#th%C3%B4ng-s%E1%BB%91-k%E1%BB%B9-thu%E1%BA%ADt&#34;&gt;Thông số kỹ thuật&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#th%C3%B4ng-tin-h%E1%BB%AFu-%C3%ADch&#34;&gt;Thông tin hữu ích&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#hi%E1%BB%87n-%C4%91%C3%A3-c%C3%B3-s%E1%BA%B5n&#34;&gt;Hiện đã có sẵn&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#t%E1%BB%95ng-k%E1%BA%BFt&#34;&gt;Tổng kết&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới thiệu&lt;/h2&gt;&#xA;&lt;p&gt;Ngày 18 tháng 11 năm 2025, AWS đã công bố &lt;strong&gt;Amazon Elastic Compute Cloud (Amazon EC2) P6-B300 instances&lt;/strong&gt; - nền tảng GPU thế hệ tiếp theo được tăng tốc bởi &lt;strong&gt;NVIDIA Blackwell Ultra GPU&lt;/strong&gt;. Các instance này cung cấp &lt;strong&gt;băng thông mạng gấp 2 lần&lt;/strong&gt; và &lt;strong&gt;bộ nhớ GPU gấp 1.5 lần&lt;/strong&gt; so với thế hệ trước, tạo nên một nền tảng cân bằng cho các ứng dụng AI quy mô lớn.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>[Phỏng Vấn] Khi Độ Chính Xác AI Tăng 1%, Giá Trị Khách Hàng Là Bao Nhiêu? - freee và Chuyển Đổi AI Native</title>
+      <link>https://cola1605.github.io/posts/aws_freee_ai_transformation/</link>
+      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/posts/aws_freee_ai_transformation/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Nguồn:&lt;/strong&gt; &lt;a href=&#34;https://aws.amazon.com/jp/blogs/news/freee-ai-native-transformation/&#34;&gt;AWS Blog&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;tổng-quan&#34;&gt;Tổng Quan&lt;/h2&gt;&#xA;&lt;p&gt;Với sứ mệnh &amp;ldquo;Biến Doanh Nghiệp Nhỏ Thành Nhân Vật Chính của Thế Giới&amp;rdquo;, freee Inc. đã vẽ ra tầm nhìn &amp;ldquo;AI CFO&amp;rdquo; ngay từ khi thành lập. Với sự xuất hiện của LLM (Large Language Models - Mô hình Ngôn ngữ Lớn), công ty đã bắt đầu chuyển đổi toàn diện sang tổ chức AI native sử dụng AI sinh tạo. Bằng cách lựa chọn công nghệ, xây dựng cấu trúc tổ chức và đặc biệt là thiết lập framework độc đáo &amp;ldquo;Tiêu Chí Thành Công&amp;rdquo;, freee đã thúc đẩy việc ứng dụng AI trong toàn công ty. Công ty đã đạt được những thành tựu vững chắc như cải thiện tỷ lệ giải quyết hỗ trợ chat khoảng 50%, cải thiện hiệu suất bán hàng đáng kể, và cải cách cấu trúc trong dịch vụ BPaaS (Business Process as a Service). Chúng tôi đã phỏng vấn ông Kisamori, AI Product Manager, về toàn bộ quá trình chuyển đổi này.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Amazon Bedrock AgentCore chính thức ra mắt tại Tokyo và các khu vực AWS: Đưa AI Agent vào thế giới thực</title>
+      <link>https://cola1605.github.io/posts/amazon_bedrock_agentcore_ga_vietnamese/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/posts/amazon_bedrock_agentcore_ga_vietnamese/</guid>
+      <description>&lt;h1 id=&#34;amazon-bedrock-agentcore-chính-thức-ra-mắt-tại-tokyo-và-các-khu-vực-aws-đưa-ai-agent-vào-thế-giới-thực&#34;&gt;Amazon Bedrock AgentCore chính thức ra mắt tại Tokyo và các khu vực AWS: Đưa AI Agent vào thế giới thực&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tác giả:&lt;/strong&gt; AWS Japan (Người dịch), Swami Sivasubramanian (Tác giả gốc)&lt;br&gt;&#xA;&lt;strong&gt;Chức vụ:&lt;/strong&gt; Phó Chủ tịch AWS Agentic AI&lt;br&gt;&#xA;&lt;strong&gt;Ngày xuất bản:&lt;/strong&gt; 15 tháng 10 năm 2025&lt;br&gt;&#xA;&lt;strong&gt;Ngày xuất bản bản gốc:&lt;/strong&gt; 13 tháng 10 năm 2025&lt;br&gt;&#xA;&lt;strong&gt;Danh mục:&lt;/strong&gt; Amazon Bedrock, Amazon Machine Learning, Announcements, General&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;tổng-quan&#34;&gt;Tổng quan&lt;/h2&gt;&#xA;&lt;p&gt;Bài viết này là bản dịch tiếng Nhật của blog có chữ ký của Swami Sivasubramanian, Phó Chủ tịch AWS Agentic AI, được xuất bản vào ngày 13 tháng 10 theo giờ Mỹ &amp;ldquo;&lt;a href=&#34;https://aws.amazon.com/jp/blogs/machine-learning/amazon-bedrock-agentcore-is-now-generally-available/&#34;&gt;Make agents a reality with Amazon Bedrock AgentCore: Now generally available&lt;/a&gt;&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tăng tốc thông lượng Amazon S3 với AWS Common Runtime</title>
+      <link>https://cola1605.github.io/posts/aws_s3_throughput_improvement_vietnamese/</link>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/posts/aws_s3_throughput_improvement_vietnamese/</guid>
+      <description>&lt;h1 id=&#34;tăng-tốc-thông-lượng-amazon-s3-với-aws-common-runtime&#34;&gt;Tăng tốc thông lượng Amazon S3 với AWS Common Runtime&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tác giả:&lt;/strong&gt; Naomichi Sakakibara&lt;br&gt;&#xA;&lt;strong&gt;Ngày xuất bản:&lt;/strong&gt; 8 tháng 10, 2025&lt;br&gt;&#xA;&lt;strong&gt;Tác giả gốc:&lt;/strong&gt; James Bornholt, Abhinav Goyal, Jonathan Henson, Andrew Kutsy&lt;br&gt;&#xA;&lt;strong&gt;Ngày xuất bản gốc:&lt;/strong&gt; 27 tháng 11, 2023&lt;br&gt;&#xA;&lt;strong&gt;Nguồn:&lt;/strong&gt; &lt;a href=&#34;https://aws.amazon.com/jp/blogs/news/improving-amazon-s3-throughput-for-the-aws-cli-and-boto3-with-the-aws-common-runtime/&#34;&gt;AWS Japan Official Blog&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;tổng-quan&#34;&gt;Tổng quan&lt;/h2&gt;&#xA;&lt;p&gt;Bài blog này là bản tiếng Nhật của nội dung được viết bởi James Bornholt, Abhinav Goyal, Jonathan Henson, Andrew Kutsy vào ngày 27 tháng 11, 2023. Vui lòng tham khảo &lt;a href=&#34;https://aws.amazon.com/jp/blogs/storage/improving-amazon-s3-throughput-for-the-aws-cli-and-boto3-with-the-aws-common-runtime/&#34;&gt;bài viết gốc&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Chiến lược mở rộng Annotation Center: Tương lai của AI và dữ liệu</title>
+      <link>https://cola1605.github.io/ja/posts/annotation_center_expansion_vietnamese/</link>
+      <pubDate>Fri, 03 Oct 2025 12:00:00 +0700</pubDate>
+      <guid>https://cola1605.github.io/ja/posts/annotation_center_expansion_vietnamese/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Metadata Bài viết:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Nguồn: p=115507&lt;/li&gt;&#xA;&lt;li&gt;Ngày Crawl: 18 tháng 1, 2025&lt;/li&gt;&#xA;&lt;li&gt;Số từ Ước tính: 2.500 từ&lt;/li&gt;&#xA;&lt;li&gt;Thời gian Đọc Ước tính: 10 phút&lt;/li&gt;&#xA;&lt;li&gt;Loại Nội dung: Phỏng vấn Nhiều người tham gia&lt;/li&gt;&#xA;&lt;li&gt;Trọng tâm Chính: Hạ tầng Dữ liệu AI, Dịch vụ Chú thích, Chiến lược AI Toàn công ty&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Thẻ:&lt;/strong&gt; AI Tạo sinh, Chú thích Dữ liệu, Chất lượng Dữ liệu, Học máy, Ứng dụng AI Toàn công ty, Phỏng vấn Kỹ thuật, CyberAgent, Khoa học Dữ liệu, Kinh doanh AI, Chuyển đổi Số&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Chiến lược mở rộng Annotation Center: Tương lai của AI và dữ liệu</title>
+      <link>https://cola1605.github.io/posts/annotation_center_expansion_vietnamese/</link>
+      <pubDate>Fri, 03 Oct 2025 12:00:00 +0700</pubDate>
+      <guid>https://cola1605.github.io/posts/annotation_center_expansion_vietnamese/</guid>
+      <description>&lt;h1 id=&#34;chiến-lược-mở-rộng-annotation-center-tương-lai-của-ai-và-dữ-liệu&#34;&gt;Chiến lược mở rộng Annotation Center: Tương lai của AI và dữ liệu&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nguồn:&lt;/strong&gt; Tin tức công nghệ&lt;br&gt;&#xA;&lt;strong&gt;Xuất bản:&lt;/strong&gt; 2025-04-11&lt;br&gt;&#xA;&lt;strong&gt;Chủ đề:&lt;/strong&gt; AI, Annotation, Machine Learning&lt;/p&gt;&#xA;&lt;h2 id=&#34;tóm-tắt&#34;&gt;Tóm tắt&lt;/h2&gt;&#xA;&lt;p&gt;&amp;ldquo;Trung tâm Chú thích&amp;rdquo; tại CyberAgent nâng cao chất lượng dữ liệu qua các đơn vị kinh doanh khác nhau để thúc đẩy việc ứng dụng AI toàn công ty. Takuma Kobayashi (Giám đốc Trung tâm Chú thích) phỏng vấn Ryuma Sunagawa (Quản lý Trung tâm Chú thích) và Sora Inagaki (Cố vấn Chuyên gia Đa phương thức) về tầm quan trọng và tiềm năng của công việc chú thích. Bài viết này bao gồm bối cảnh quyết định mở rộng Trung tâm Chú thích, triển vọng tương lai và tác động kinh doanh được tạo ra thông qua việc chú thích.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
