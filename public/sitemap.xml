@@ -65,6 +65,12 @@
     <loc>https://cola1605.github.io/tags/zero-day/</loc>
     <lastmod>2025-11-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://cola1605.github.io/tags/%23tech_news/</loc>
+    <lastmod>2025-11-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/30-days-aws/</loc>
+    <lastmod>2025-11-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://cola1605.github.io/tags/agentic-ai/</loc>
     <lastmod>2025-11-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -74,6 +80,9 @@
     <loc>https://cola1605.github.io/tags/amazon-sagemaker/</loc>
     <lastmod>2025-11-27T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://cola1605.github.io/tags/aws-budgets/</loc>
+    <lastmod>2025-11-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://cola1605.github.io/tags/aws-lambda/</loc>
     <lastmod>2025-11-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -81,6 +90,9 @@
     <lastmod>2025-11-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/posts/aws-vpc-encryption-controls/</loc>
+    <lastmod>2025-11-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/posts/qiita-aws-budgets-day2/</loc>
     <lastmod>2025-11-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/business-metadata/</loc>
@@ -96,6 +108,9 @@
     <lastmod>2025-11-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/compliance/</loc>
+    <lastmod>2025-11-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/cost-management/</loc>
     <lastmod>2025-11-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/categories/data-and-analytics/</loc>
@@ -122,7 +137,13 @@
     <loc>https://cola1605.github.io/tags/graph-database/</loc>
     <lastmod>2025-11-27T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://cola1605.github.io/tags/hands-on/</loc>
+    <lastmod>2025-11-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://cola1605.github.io/tags/hcx/</loc>
+    <lastmod>2025-11-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/jr.champions/</loc>
     <lastmod>2025-11-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/local-testing/</loc>
@@ -179,9 +200,6 @@
     <loc>https://cola1605.github.io/tags/workflow-development/</loc>
     <lastmod>2025-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cola1605.github.io/tags/%23tech_news/</loc>
-    <lastmod>2025-11-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://cola1605.github.io/tags/ai/</loc>
     <lastmod>2025-11-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -231,9 +249,6 @@
     <lastmod>2025-11-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/container-network-observability/</loc>
-    <lastmod>2025-11-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cola1605.github.io/tags/cost-management/</loc>
     <lastmod>2025-11-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/cost-optimization/</loc>
