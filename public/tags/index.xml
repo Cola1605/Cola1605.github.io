@@ -6,8 +6,64 @@
     <description>Recent content in Tags on SYSTEM_NEWS</description>
     <generator>Hugo</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 29 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://cola1605.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>https://cola1605.github.io/tags/ai/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Automation</title>
+      <link>https://cola1605.github.io/tags/automation/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/tags/automation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Career</title>
+      <link>https://cola1605.github.io/tags/career/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/tags/career/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CyberAgent</title>
+      <link>https://cola1605.github.io/tags/cyberagent/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/tags/cyberagent/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Engineer</title>
+      <link>https://cola1605.github.io/tags/engineer/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/tags/engineer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Evaluation</title>
+      <link>https://cola1605.github.io/tags/evaluation/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/tags/evaluation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Organization</title>
+      <link>https://cola1605.github.io/tags/organization/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/tags/organization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech_News</title>
+      <link>https://cola1605.github.io/tags/tech_news/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/tags/tech_news/</guid>
+      <description></description>
+    </item>
     <item>
       <title>#Tech_News</title>
       <link>https://cola1605.github.io/tags/%23tech_news/</link>
@@ -401,13 +457,6 @@
       <description></description>
     </item>
     <item>
-      <title>AI</title>
-      <link>https://cola1605.github.io/tags/ai/</link>
-      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/tags/ai/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>API</title>
       <link>https://cola1605.github.io/tags/api/</link>
       <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
@@ -433,6 +482,13 @@
       <link>https://cola1605.github.io/tags/learning/</link>
       <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://cola1605.github.io/tags/learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI-Agent</title>
+      <link>https://cola1605.github.io/tags/ai-agent/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/tags/ai-agent/</guid>
       <description></description>
     </item>
     <item>
@@ -485,6 +541,13 @@
       <description></description>
     </item>
     <item>
+      <title>Chain-of-Thought</title>
+      <link>https://cola1605.github.io/tags/chain-of-thought/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/tags/chain-of-thought/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>CloudWatch</title>
       <link>https://cola1605.github.io/tags/cloudwatch/</link>
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
@@ -506,17 +569,17 @@
       <description></description>
     </item>
     <item>
-      <title>CyberAgent</title>
-      <link>https://cola1605.github.io/tags/cyberagent/</link>
-      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/tags/cyberagent/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Development</title>
       <link>https://cola1605.github.io/tags/development/</link>
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://cola1605.github.io/tags/development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Faithfulness</title>
+      <link>https://cola1605.github.io/tags/faithfulness/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/tags/faithfulness/</guid>
       <description></description>
     </item>
     <item>
@@ -545,6 +608,13 @@
       <link>https://cola1605.github.io/tags/kubernetes/</link>
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://cola1605.github.io/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LLM</title>
+      <link>https://cola1605.github.io/tags/llm/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/tags/llm/</guid>
       <description></description>
     </item>
     <item>
@@ -587,6 +657,20 @@
       <link>https://cola1605.github.io/tags/performance/</link>
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://cola1605.github.io/tags/performance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Post-Hoc Rationalization</title>
+      <link>https://cola1605.github.io/tags/post-hoc-rationalization/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/tags/post-hoc-rationalization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>https://cola1605.github.io/tags/research/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/tags/research/</guid>
       <description></description>
     </item>
     <item>
@@ -713,13 +797,6 @@
       <link>https://cola1605.github.io/tags/workflow-orchestration/</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://cola1605.github.io/tags/workflow-orchestration/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>AI-Agent</title>
-      <link>https://cola1605.github.io/tags/ai-agent/</link>
-      <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/tags/ai-agent/</guid>
       <description></description>
     </item>
     <item>
@@ -1091,13 +1168,6 @@
       <link>https://cola1605.github.io/tags/json/</link>
       <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://cola1605.github.io/tags/json/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>LLM</title>
-      <link>https://cola1605.github.io/tags/llm/</link>
-      <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/tags/llm/</guid>
       <description></description>
     </item>
     <item>
@@ -1791,13 +1861,6 @@
       <link>https://cola1605.github.io/tags/slo/</link>
       <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://cola1605.github.io/tags/slo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Automation</title>
-      <link>https://cola1605.github.io/tags/automation/</link>
-      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/tags/automation/</guid>
       <description></description>
     </item>
     <item>
@@ -3177,20 +3240,6 @@
       <link>https://cola1605.github.io/tags/user-research/</link>
       <pubDate>Thu, 02 Oct 2025 09:00:00 +0700</pubDate>
       <guid>https://cola1605.github.io/tags/user-research/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Career</title>
-      <link>https://cola1605.github.io/tags/career/</link>
-      <pubDate>Thu, 02 Oct 2025 07:00:00 +0700</pubDate>
-      <guid>https://cola1605.github.io/tags/career/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Engineer</title>
-      <link>https://cola1605.github.io/tags/engineer/</link>
-      <pubDate>Thu, 02 Oct 2025 07:00:00 +0700</pubDate>
-      <guid>https://cola1605.github.io/tags/engineer/</guid>
       <description></description>
     </item>
     <item>

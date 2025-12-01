@@ -6,8 +6,15 @@
     <description>Recent content in Posts on SYSTEM_NEWS</description>
     <generator>Hugo</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 29 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://cola1605.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cải Cách Cấu Trúc Tổ Chức Kỹ Sư Hướng Tới &#39;Tự Động Hóa Hoàn Toàn Quy Trình Phát Triển&#39; Năm 2028</title>
+      <link>https://cola1605.github.io/posts/cyberagent-ai-engineer-transformation-2028/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/posts/cyberagent-ai-engineer-transformation-2028/</guid>
+      <description>&lt;h1 id=&#34;cải-cách-cấu-trúc-tổ-chức-kỹ-sư-hướng-tới-tự-động-hóa-hoàn-toàn-quy-trình-phát-triển-năm-2028&#34;&gt;Cải Cách Cấu Trúc Tổ Chức Kỹ Sư Hướng Tới &amp;ldquo;Tự Động Hóa Hoàn Toàn Quy Trình Phát Triển&amp;rdquo; Năm 2028&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tác giả&lt;/strong&gt;: Norishige Nagase (長瀬)&lt;br&gt;&#xA;&lt;strong&gt;Chức vụ&lt;/strong&gt;: Chuyên Vụ Giám Đốc Điều Hành Phụ Trách Công Nghệ&lt;br&gt;&#xA;&lt;strong&gt;Ngày xuất bản&lt;/strong&gt;: 2025-12-01&lt;br&gt;&#xA;&lt;strong&gt;Nguồn&lt;/strong&gt;: &lt;a href=&#34;https://developers.cyberagent.co.jp/blog/archives/59886/&#34;&gt;CyberAgent Developers Blog&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;tóm-tắt&#34;&gt;Tóm Tắt&lt;/h2&gt;&#xA;&lt;p&gt;Giám đốc công nghệ CyberAgent - ông Nagase trình bày tầm nhìn đạt được tự động hóa hoàn toàn quy trình phát triển (AI Maturity Level 4) vào năm 2028 và cải cách cấu trúc tổ chức kỹ sư đi kèm. Đối mặt với 5 lo ngại thực tế của kỹ sư (mất nghề nghiệp, suy giảm kỹ năng, đánh giá công bằng, thay đổi giá trị, chênh lệch tổ chức), công ty đưa ra các giải pháp tổ chức: Đổi mới hệ thống đánh giá &amp;ldquo;JB Career Program&amp;rdquo;, xây dựng 4 career ladder mới (Tech Lead, Business Lead, Specialist, Engineering Manager), thành lập AI-Driven Promotion Office, và các biện pháp cụ thể khác.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Thử nghiệm tính năng Streaming của API Gateway</title>
       <link>https://cola1605.github.io/posts/qiita-api-gateway-streaming/</link>
@@ -119,6 +126,13 @@
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://cola1605.github.io/posts/qiita_aws_cost_optimization_vietnamese/</guid>
       <description>&lt;h1 id=&#34;phương-pháp-giảm-và-tối-ưu-chi-phí-aws-cũng-như-những-điểm-cần-lưu-ý-trong-quản-lý-chi-phí&#34;&gt;Phương pháp giảm và tối ưu chi phí AWS cũng như những điểm cần lưu ý trong quản lý chi phí&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tác giả:&lt;/strong&gt; kiwi-dev&lt;br&gt;&#xA;&lt;strong&gt;Ngày xuất bản:&lt;/strong&gt; 25 tháng 11, 2025&lt;br&gt;&#xA;&lt;strong&gt;Tags:&lt;/strong&gt; AWS, Giảm chi phí, Tối ưu chi phí, Quản lý chi phí&lt;br&gt;&#xA;&lt;strong&gt;Nguồn:&lt;/strong&gt; &lt;a href=&#34;https://qiita.com/kiwi-dev/items/df7e2923e0a723ccc345&#34;&gt;Qiita&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới thiệu&lt;/h2&gt;&#xA;&lt;p&gt;Bài viết này ghi lại các phương pháp giảm và tối ưu chi phí AWS mà tôi đã thực hiện, cũng như các vấn đề liên quan đến quản lý chi phí nói chung. Thông tin tại thời điểm viết (tháng 11/2025), vì vậy tùy thuộc vào ngày xem bài viết, có thể có dịch vụ mới hoặc cải tiến chức năng khiến nội dung bài viết không còn phù hợp, xin lưu ý điều này.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Post-hoc Rationalization: Suy Luận Của LLM Có Phải Là &#39;Lời Biện Minh&#39;?</title>
+      <link>https://cola1605.github.io/posts/aishift-llm-post-hoc-rationalization/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/posts/aishift-llm-post-hoc-rationalization/</guid>
+      <description>&lt;h1 id=&#34;post-hoc-rationalization-suy-luận-của-llm-có-phải-là-lời-biện-minh&#34;&gt;Post-hoc Rationalization: Suy Luận Của LLM Có Phải Là &amp;ldquo;Lời Biện Minh&amp;rdquo;?&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tác giả&lt;/strong&gt;: Toda (戸田)&lt;br&gt;&#xA;&lt;strong&gt;Thuộc&lt;/strong&gt;: AI Shift AI Team&lt;br&gt;&#xA;&lt;strong&gt;Ngày xuất bản&lt;/strong&gt;: 2025-11-25&lt;br&gt;&#xA;&lt;strong&gt;Nguồn&lt;/strong&gt;: &lt;a href=&#34;https://www.ai-shift.co.jp/techblog/6406&#34;&gt;AI Shift Tech Blog&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;tóm-tắt&#34;&gt;Tóm Tắt&lt;/h2&gt;&#xA;&lt;p&gt;Giải thích về hiện tượng Post-hoc Rationalization (sự hợp lý hóa sau) trong LLM. Trong tâm lý học, nó chỉ quá trình xây dựng lý do logic sau khi đưa ra quyết định bằng trực giác, nhưng hiện tượng tương tự cũng được chỉ ra trong LLM. Chain-of-Thought (CoT) có thể không phải là quá trình tính toán để dẫn đến câu trả lời, mà chỉ là &amp;ldquo;tiền đề hợp lý&amp;rdquo; sau khi xác định câu trả lời từ xác suất thống kê nội bộ. Phân biệt Plausibility (tính hợp lý) và Faithfulness (tính trung thực/chân thực) là quan trọng. Giới thiệu 3 nghiên cứu liên quan và đưa ra 3 điểm kỹ sư cần ý thức.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Quản lý tập trung thanh toán và chi phí AWS trên nhiều tổ chức với AWS Billing Transfer mới</title>
