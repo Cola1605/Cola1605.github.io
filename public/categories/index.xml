@@ -6,20 +6,27 @@
     <description>Recent content in Categories on SYSTEM_NEWS</description>
     <generator>Hugo</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 28 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://cola1605.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AWS</title>
       <link>https://cola1605.github.io/categories/aws/</link>
-      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://cola1605.github.io/categories/aws/</guid>
       <description></description>
     </item>
     <item>
       <title>DevOps and Infrastructure</title>
       <link>https://cola1605.github.io/categories/devops-and-infrastructure/</link>
-      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://cola1605.github.io/categories/devops-and-infrastructure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development</title>
+      <link>https://cola1605.github.io/categories/development/</link>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/categories/development/</guid>
       <description></description>
     </item>
     <item>
@@ -27,6 +34,13 @@
       <link>https://cola1605.github.io/categories/security-and-networking/</link>
       <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://cola1605.github.io/categories/security-and-networking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web and Frontend</title>
+      <link>https://cola1605.github.io/categories/web-and-frontend/</link>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/categories/web-and-frontend/</guid>
       <description></description>
     </item>
     <item>
@@ -48,20 +62,6 @@
       <link>https://cola1605.github.io/categories/data-and-analytics/</link>
       <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://cola1605.github.io/categories/data-and-analytics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Development</title>
-      <link>https://cola1605.github.io/categories/development/</link>
-      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/categories/development/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Web and Frontend</title>
-      <link>https://cola1605.github.io/categories/web-and-frontend/</link>
-      <pubDate>Sun, 23 Nov 2025 00:00:00 +0700</pubDate>
-      <guid>https://cola1605.github.io/categories/web-and-frontend/</guid>
       <description></description>
     </item>
     <item>
