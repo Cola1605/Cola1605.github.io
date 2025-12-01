@@ -5,6 +5,9 @@
     <loc>https://cola1605.github.io/tags/ai/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://cola1605.github.io/categories/ai-and-machine-learning/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://cola1605.github.io/tags/automation/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -23,6 +26,9 @@
     <loc>https://cola1605.github.io/tags/cyberagent/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://cola1605.github.io/posts/cyberagent-geo-lab-genai-survey/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://cola1605.github.io/categories/development/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -32,10 +38,22 @@
     <loc>https://cola1605.github.io/tags/evaluation/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://cola1605.github.io/tags/genai/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://cola1605.github.io/tags/organization/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/posts/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/research/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/search/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/survey/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/</loc>
@@ -141,9 +159,6 @@
     <lastmod>2025-11-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/agentic-ai/</loc>
-    <lastmod>2025-11-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cola1605.github.io/categories/ai-and-machine-learning/</loc>
     <lastmod>2025-11-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/amazon-sagemaker/</loc>
@@ -378,9 +393,6 @@
     <lastmod>2025-11-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/posts/aws_billing_transfer_vietnamese/</loc>
-    <lastmod>2025-11-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cola1605.github.io/tags/research/</loc>
     <lastmod>2025-11-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/service-tiers/</loc>
@@ -1794,9 +1806,6 @@
     <lastmod>2025-10-02T12:00:00+07:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/posts/ai_scream_heavy_users_survey_vietnamese/</loc>
-    <lastmod>2025-10-02T12:00:00+07:00</lastmod>
-  </url><url>
-    <loc>https://cola1605.github.io/tags/survey/</loc>
     <lastmod>2025-10-02T12:00:00+07:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/abema/</loc>
