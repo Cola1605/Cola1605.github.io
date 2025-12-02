@@ -59,6 +59,9 @@ relativeURLs = false
 uglyURLs = false
 enableEmoji = true
 summaryLength = 70
+buildFuture = true
+buildDrafts = false
+buildExpired = true
 
 [[menu.main]]
   name = "Trang chủ"
