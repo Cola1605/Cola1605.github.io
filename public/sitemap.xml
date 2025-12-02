@@ -2,13 +2,175 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cola1605.github.io/tags/ai/</loc>
-    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+    <loc>https://cola1605.github.io/tags/aws-dms/</loc>
+    <lastmod>2025-12-02T11:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/posts/aws-dms-column-filter-performance/</loc>
+    <lastmod>2025-12-02T11:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/categories/</loc>
+    <lastmod>2025-12-02T11:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/cdc/</loc>
+    <lastmod>2025-12-02T11:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/categories/data-and-analytics/</loc>
+    <lastmod>2025-12-02T11:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/database-migration/</loc>
+    <lastmod>2025-12-02T11:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/categories/devops-and-infrastructure/</loc>
+    <lastmod>2025-12-02T11:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/oracle/</loc>
+    <lastmod>2025-12-02T11:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/parallel-processing/</loc>
+    <lastmod>2025-12-02T11:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/performance-optimization/</loc>
+    <lastmod>2025-12-02T11:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/postgresql/</loc>
+    <lastmod>2025-12-02T11:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/posts/</loc>
+    <lastmod>2025-12-02T11:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/</loc>
+    <lastmod>2025-12-02T11:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/</loc>
+    <lastmod>2025-12-02T11:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/access-control/</loc>
+    <lastmod>2025-12-02T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/agentcore-gateway/</loc>
+    <lastmod>2025-12-02T10:00:00+09:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/categories/ai-and-machine-learning/</loc>
+    <lastmod>2025-12-02T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/ai-agents/</loc>
+    <lastmod>2025-12-02T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/posts/bedrock-agentcore-gateway-interceptors/</loc>
+    <lastmod>2025-12-02T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/amazon-bedrock/</loc>
+    <lastmod>2025-12-02T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/categories/development/</loc>
+    <lastmod>2025-12-02T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/lambda/</loc>
+    <lastmod>2025-12-02T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/mcp/</loc>
+    <lastmod>2025-12-02T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/oauth/</loc>
+    <lastmod>2025-12-02T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/security/</loc>
+    <lastmod>2025-12-02T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/categories/security-and-networking/</loc>
+    <lastmod>2025-12-02T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/ai/</loc>
+    <lastmod>2025-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/amazon-eks/</loc>
+    <lastmod>2025-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/amazon-q/</loc>
+    <lastmod>2025-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/chatops/</loc>
+    <lastmod>2025-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/categories/cloud-computing/</loc>
+    <lastmod>2025-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/conversational-ai/</loc>
+    <lastmod>2025-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/distributed-systems/</loc>
+    <lastmod>2025-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/posts/aws-eks-mcp-server-preview/</loc>
+    <lastmod>2025-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/kiro-cli/</loc>
+    <lastmod>2025-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/kubernetes/</loc>
+    <lastmod>2025-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/mcp-server/</loc>
+    <lastmod>2025-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/message-broker/</loc>
+    <lastmod>2025-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/model-context-protocol/</loc>
+    <lastmod>2025-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/queue/</loc>
+    <lastmod>2025-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/redis/</loc>
+    <lastmod>2025-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/reliability/</loc>
+    <lastmod>2025-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/scalability/</loc>
+    <lastmod>2025-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/posts/cyberagent-queue-consumer-design/</loc>
+    <lastmod>2025-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/typescript/</loc>
+    <lastmod>2025-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/abac/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/amazon-s3/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/apache-iceberg/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/api-gateway/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/application-load-balancer/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/automation/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/aws-architecture/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/aws-cloudtrail/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/posts/aws-cloudtrail-event-aggregation-insights/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/aws-glue/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/aws-lake-formation/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/aws-lambda/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/categories/business-and-technology/</loc>
@@ -20,10 +182,13 @@
     <loc>https://cola1605.github.io/tags/career/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cola1605.github.io/categories/</loc>
+    <loc>https://cola1605.github.io/tags/chatgpt/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cola1605.github.io/tags/chatgpt/</loc>
+    <loc>https://cola1605.github.io/tags/cloudwatch-logs/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/cost-optimization/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/cyberagent/</loc>
@@ -32,7 +197,19 @@
     <loc>https://cola1605.github.io/posts/cyberagent-geo-lab-genai-survey/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cola1605.github.io/categories/development/</loc>
+    <loc>https://cola1605.github.io/tags/data-events/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/data-governance/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/categories/data-management/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/data-mesh/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/databricks/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/engineer/</loc>
@@ -41,40 +218,73 @@
     <loc>https://cola1605.github.io/tags/evaluation/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://cola1605.github.io/tags/event-aggregation/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/financial-services/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/firehose/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://cola1605.github.io/tags/genai/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/google/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cola1605.github.io/tags/organization/</loc>
+    <loc>https://cola1605.github.io/tags/insights/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cola1605.github.io/posts/</loc>
+    <loc>https://cola1605.github.io/tags/kinesis/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/microservices/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/organization/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/research/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://cola1605.github.io/tags/rest-api/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/sagemaker-unified-studio/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://cola1605.github.io/tags/search/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/security-monitoring/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/snowflake/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/survey/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cola1605.github.io/</loc>
-    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cola1605.github.io/tags/</loc>
+    <loc>https://cola1605.github.io/tags/tbac/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/tech_news/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cola1605.github.io/tags/%23tech_news/</loc>
-    <lastmod>2025-11-29T00:00:00+00:00</lastmod>
+    <loc>https://cola1605.github.io/tags/unity-catalog/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cola1605.github.io/tags/api-gateway/</loc>
+    <loc>https://cola1605.github.io/tags/vpc-link-v2/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/posts/aws-secure-data-mesh-partner-solutions/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/posts/aws-api-gateway-alb-private-integration/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cola1605.github.io/tags/%23tech_news/</loc>
     <lastmod>2025-11-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/categories/aws/</loc>
@@ -84,12 +294,6 @@
     <lastmod>2025-11-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/bedrock/</loc>
-    <lastmod>2025-11-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cola1605.github.io/categories/devops-and-infrastructure/</loc>
-    <lastmod>2025-11-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cola1605.github.io/tags/lambda/</loc>
     <lastmod>2025-11-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/streaming/</loc>
@@ -143,12 +347,6 @@
     <loc>https://cola1605.github.io/tags/rto/</loc>
     <lastmod>2025-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cola1605.github.io/tags/security/</loc>
-    <lastmod>2025-11-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cola1605.github.io/categories/security-and-networking/</loc>
-    <lastmod>2025-11-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://cola1605.github.io/tags/threat-intelligence/</loc>
     <lastmod>2025-11-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -171,9 +369,6 @@
     <lastmod>2025-11-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/aws-budgets/</loc>
-    <lastmod>2025-11-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cola1605.github.io/tags/aws-lambda/</loc>
     <lastmod>2025-11-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/aws-step-functions/</loc>
@@ -203,16 +398,10 @@
     <loc>https://cola1605.github.io/tags/cost-management/</loc>
     <lastmod>2025-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cola1605.github.io/categories/data-and-analytics/</loc>
-    <lastmod>2025-11-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://cola1605.github.io/tags/data-catalog/</loc>
     <lastmod>2025-11-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/data-discovery/</loc>
-    <lastmod>2025-11-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cola1605.github.io/tags/data-governance/</loc>
     <lastmod>2025-11-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/direct-connect/</loc>
@@ -314,12 +503,6 @@
     <loc>https://cola1605.github.io/posts/aws_bedrock_service_tiers_vietnamese/</loc>
     <lastmod>2025-11-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cola1605.github.io/tags/amazon-eks/</loc>
-    <lastmod>2025-11-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cola1605.github.io/tags/amazon-bedrock/</loc>
-    <lastmod>2025-11-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://cola1605.github.io/tags/amazon-ec2/</loc>
     <lastmod>2025-11-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -341,9 +524,6 @@
     <loc>https://cola1605.github.io/tags/container-network-observability/</loc>
     <lastmod>2025-11-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cola1605.github.io/tags/cost-optimization/</loc>
-    <lastmod>2025-11-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://cola1605.github.io/tags/development/</loc>
     <lastmod>2025-11-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -360,9 +540,6 @@
     <lastmod>2025-11-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/high-performance-computing/</loc>
-    <lastmod>2025-11-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cola1605.github.io/tags/kubernetes/</loc>
     <lastmod>2025-11-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/llm/</loc>
@@ -419,9 +596,6 @@
     <loc>https://cola1605.github.io/posts/qiita_clean_architecture_nextjs_vietnamese/</loc>
     <lastmod>2025-11-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cola1605.github.io/tags/typescript/</loc>
-    <lastmod>2025-11-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://cola1605.github.io/tags/javascript/</loc>
     <lastmod>2025-11-24T00:00:00+07:00</lastmod>
   </url><url>
@@ -442,9 +616,6 @@
   </url><url>
     <loc>https://cola1605.github.io/tags/amazon-mwaa/</loc>
     <lastmod>2025-11-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cola1605.github.io/tags/amazon-s3/</loc>
-    <lastmod>2025-11-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/apache-airflow/</loc>
     <lastmod>2025-11-24T00:00:00+00:00</lastmod>
@@ -467,9 +638,6 @@
     <loc>https://cola1605.github.io/posts/aws_mwaa_serverless_vietnamese/</loc>
     <lastmod>2025-11-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cola1605.github.io/tags/kinesis/</loc>
-    <lastmod>2025-11-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://cola1605.github.io/tags/workflow-orchestration/</loc>
     <lastmod>2025-11-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -477,9 +645,6 @@
     <lastmod>2025-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/posts/qiita_google_antigravity_guide/</loc>
-    <lastmod>2025-11-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cola1605.github.io/tags/ai-agents/</loc>
     <lastmod>2025-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/ai-coding/</loc>
@@ -491,16 +656,10 @@
     <loc>https://cola1605.github.io/tags/amazon-quicksight/</loc>
     <lastmod>2025-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cola1605.github.io/tags/amazon-q/</loc>
-    <lastmod>2025-11-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://cola1605.github.io/tags/aurora-postgresql/</loc>
     <lastmod>2025-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/aws-marketplace/</loc>
-    <lastmod>2025-11-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cola1605.github.io/tags/aws-dms/</loc>
     <lastmod>2025-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/bigquery/</loc>
@@ -557,13 +716,7 @@
     <loc>https://cola1605.github.io/tags/logical-replication/</loc>
     <lastmod>2025-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cola1605.github.io/tags/mcp/</loc>
-    <lastmod>2025-11-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://cola1605.github.io/tags/migration/</loc>
-    <lastmod>2025-11-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cola1605.github.io/tags/postgresql/</loc>
     <lastmod>2025-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/protocol-buffers/</loc>
@@ -659,9 +812,6 @@
     <loc>https://cola1605.github.io/posts/cybar_engineer_ai_ranking_vietnamese/</loc>
     <lastmod>2025-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cola1605.github.io/tags/kiro-cli/</loc>
-    <lastmod>2025-11-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://cola1605.github.io/tags/ranking/</loc>
     <lastmod>2025-11-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -709,9 +859,6 @@
   </url><url>
     <loc>https://cola1605.github.io/posts/qiita_bedrock_agentcore_inbound_auth/</loc>
     <lastmod>2025-11-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cola1605.github.io/tags/application-load-balancer/</loc>
-    <lastmod>2025-11-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/aws-direct-connect/</loc>
     <lastmod>2025-11-14T00:00:00+00:00</lastmod>
@@ -767,9 +914,6 @@
     <loc>https://cola1605.github.io/posts/aws_sap_cloud_erp_private_network_connectivity/</loc>
     <lastmod>2025-11-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cola1605.github.io/tags/agentcore-gateway/</loc>
-    <lastmod>2025-11-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://cola1605.github.io/tags/apprunner/</loc>
     <lastmod>2025-11-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -795,9 +939,6 @@
     <lastmod>2025-11-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/hi%E1%BB%87u-su%E1%BA%A5t-c%C3%B4ng-vi%E1%BB%87c/</loc>
-    <lastmod>2025-11-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cola1605.github.io/tags/model-context-protocol/</loc>
     <lastmod>2025-11-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/skills/</loc>
@@ -1106,9 +1247,6 @@
     <loc>https://cola1605.github.io/tags/custom-tools/</loc>
     <lastmod>2025-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cola1605.github.io/tags/database-migration/</loc>
-    <lastmod>2025-10-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://cola1605.github.io/tags/enhanced-monitoring/</loc>
     <lastmod>2025-10-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -1181,9 +1319,6 @@
     <loc>https://cola1605.github.io/tags/multi-stage-build/</loc>
     <lastmod>2025-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cola1605.github.io/tags/performance-optimization/</loc>
-    <lastmod>2025-10-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://cola1605.github.io/posts/qiita_vscode_memory_optimization_vietnamese/</loc>
     <lastmod>2025-10-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -1215,9 +1350,6 @@
     <lastmod>2025-10-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/posts/qiita_bedrock_agentcore_gateway_vietnamese/</loc>
-    <lastmod>2025-10-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cola1605.github.io/tags/oauth/</loc>
     <lastmod>2025-10-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/posts/qiita_bedrock_govcloud_cross_account_vietnamese/</loc>
@@ -1320,9 +1452,6 @@
     <lastmod>2025-10-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/posts/cyberagent_generative_ai_reskilling_1000engineers_vietnamese/</loc>
-    <lastmod>2025-10-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cola1605.github.io/tags/cdc/</loc>
     <lastmod>2025-10-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cola1605.github.io/tags/database-upgrade/</loc>

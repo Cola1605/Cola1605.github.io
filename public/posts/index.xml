@@ -6,8 +6,43 @@
     <description>Recent content in Posts on SYSTEM_NEWS</description>
     <generator>Hugo</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 11:00:00 +0900</lastBuildDate>
     <atom:link href="https://cola1605.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cải thiện hiệu suất AWS DMS CDC bằng Column Filter để song song hóa bảng lớn</title>
+      <link>https://cola1605.github.io/posts/aws-dms-column-filter-performance/</link>
+      <pubDate>Tue, 02 Dec 2025 11:00:00 +0900</pubDate>
+      <guid>https://cola1605.github.io/posts/aws-dms-column-filter-performance/</guid>
+      <description>&lt;h2 id=&#34;tổng-quan&#34;&gt;Tổng quan&lt;/h2&gt;&#xA;&lt;p&gt;Trong các AWS DMS Continuous Data Replication (CDC) task, việc capture incremental change có thể gặp phải latency cao. Bài viết này giới thiệu cách giảm đáng kể latency khi sử dụng AWS DMS CDC trong migration từ Oracle sang PostgreSQL.&lt;/p&gt;&#xA;&lt;p&gt;Với AWS DMS, bạn có thể sử dụng &lt;strong&gt;transformation rule và Column Filter feature&lt;/strong&gt; để phân chia logic table data và tạo nhiều CDC task với parallelize filtering rule.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Amazon Bedrock AgentCore Gateway Interceptors: Kiểm soát quyền truy cập chi tiết cho AI Agent</title>
+      <link>https://cola1605.github.io/posts/bedrock-agentcore-gateway-interceptors/</link>
+      <pubDate>Tue, 02 Dec 2025 10:00:00 +0900</pubDate>
+      <guid>https://cola1605.github.io/posts/bedrock-agentcore-gateway-interceptors/</guid>
+      <description>&lt;h2 id=&#34;tổng-quan&#34;&gt;Tổng quan&lt;/h2&gt;&#xA;&lt;p&gt;Khi các tổ chức triển khai AI agent với tốc độ chóng mặt, họ đối mặt với thách thức lớn: quản lý quyền truy cập an toàn đến hàng nghìn công cụ trên toàn tổ chức. Trong các ứng dụng AI hiện đại, hàng trăm agent, ứng dụng AI tiêu dùng và workflow tự động cần truy cập hàng nghìn công cụ MCP (Model Context Protocol) trải rộng trên các team, tổ chức và bộ phận khác nhau.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Giới Thiệu Fully Managed Amazon EKS MCP Server (Preview)</title>
+      <link>https://cola1605.github.io/posts/aws-eks-mcp-server-preview/</link>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/posts/aws-eks-mcp-server-preview/</guid>
+      <description>&lt;p&gt;Thay vì sử dụng kubectl command phức tạp hay chuyên môn sâu về Kubernetes, hãy học cách quản lý Amazon Elastic Kubernetes Service (Amazon EKS) cluster thông qua simple conversation. Bài viết này giới thiệu fully managed EKS Model Context Protocol (MCP) Server (preview) mới, cho phép deploy ứng dụng, troubleshoot vấn đề và upgrade cluster bằng natural language mà không cần chuyên môn sâu về Kubernetes.&lt;/p&gt;&#xA;&lt;h2 id=&#34;bối-cảnh-và-thách-thức&#34;&gt;Bối Cảnh và Thách Thức&lt;/h2&gt;&#xA;&lt;h3 id=&#34;độ-phức-tạp-của-kubernetes-management&#34;&gt;Độ Phức Tạp Của Kubernetes Management&lt;/h3&gt;&#xA;&lt;p&gt;Team quản lý Kubernetes workload cần chuyên môn về container orchestration, infrastructure, networking và security. Large language model (LLM) giúp developer viết code và quản lý workload, nhưng bị giới hạn nếu không có real-time cluster access. Các recommendation chung dựa trên training data cũ không đáp ứng nhu cầu thực tế.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Thiết Kế Queue Consumer Không Chết Trong Production</title>
+      <link>https://cola1605.github.io/posts/cyberagent-queue-consumer-design/</link>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/posts/cyberagent-queue-consumer-design/</guid>
+      <description>&lt;p&gt;Bài viết này chia sẻ kiến thức thực tế về việc xây dựng queue consumer đáng tin cậy cho môi trường production, dựa trên kinh nghiệm phát triển hệ thống tại AI Shift (CyberAgent).&lt;/p&gt;&#xA;&lt;h2 id=&#34;tại-sao-cần-queue-consumer&#34;&gt;Tại Sao Cần Queue Consumer?&lt;/h2&gt;&#xA;&lt;p&gt;Trong phát triển ứng dụng web, chúng ta thường cần xử lý các tác vụ tốn thời gian mà không muốn block request của người dùng:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ví dụ&lt;/strong&gt;: Khi người dùng mua hàng trên online shop&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AWS CloudTrail: Tính Năng Event Aggregation và Insights cho Data Events</title>
+      <link>https://cola1605.github.io/posts/aws-cloudtrail-event-aggregation-insights/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/posts/aws-cloudtrail-event-aggregation-insights/</guid>
+      <description>&lt;p&gt;AWS CloudTrail vừa công bố 2 tính năng mới quan trọng cho data events: &lt;strong&gt;Event Aggregation&lt;/strong&gt; và &lt;strong&gt;Insights&lt;/strong&gt;. Event Aggregation tổng hợp data events thành bản tóm tắt 5 phút, giảm đáng kể lượng dữ liệu gửi đến hệ thống downstream. Insights tự động phát hiện các mẫu hoạt động API bất thường. Bài viết hướng dẫn chi tiết cấu hình, phân tích với CloudWatch Logs Insights/Athena, sử dụng subscription filters và tạo alerts với CloudWatch Metrics filters/EventBridge.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Cải Cách Cấu Trúc Tổ Chức Kỹ Sư Hướng Tới &#39;Tự Động Hóa Hoàn Toàn Quy Trình Phát Triển&#39; Năm 2028</title>
       <link>https://cola1605.github.io/posts/cyberagent-ai-engineer-transformation-2028/</link>
@@ -21,6 +56,20 @@
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://cola1605.github.io/posts/cyberagent-geo-lab-genai-survey/</guid>
       <description>&lt;h1 id=&#34;cyberagent-geo-lab-nghiên-cứu-thực-trạng-sử-dụng-gen-ai-đợt-2&#34;&gt;CyberAgent GEO Lab: Nghiên Cứu Thực Trạng Sử Dụng Gen AI Đợt 2&lt;/h1&gt;&#xA;&lt;h2 id=&#34;gen-ai-shift-trong-tìm-kiếm-tăng-tốc---tỷ-lệ-tăng-15-lần-lên-311-trong-6-tháng&#34;&gt;&amp;ldquo;Gen AI Shift&amp;rdquo; Trong Tìm Kiếm Tăng Tốc - Tỷ Lệ Tăng 1.5 Lần Lên 31.1% Trong 6 Tháng&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tổ chức&lt;/strong&gt;: CyberAgent, Inc. (株式会社サイバーエージェント)&lt;br&gt;&#xA;&lt;strong&gt;Phòng ban&lt;/strong&gt;: GEO Lab. (GEOラボ)&lt;br&gt;&#xA;&lt;strong&gt;Danh mục&lt;/strong&gt;: Quảng cáo&lt;br&gt;&#xA;&lt;strong&gt;Ngày xuất bản&lt;/strong&gt;: 2025-12-01&lt;br&gt;&#xA;&lt;strong&gt;Nguồn&lt;/strong&gt;: &lt;a href=&#34;https://www.cyberagent.co.jp/news/detail/id=32766&#34;&gt;CyberAgent News&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;phụ-đề&#34;&gt;Phụ Đề&lt;/h2&gt;&#xA;&lt;p&gt;Tỷ lệ nhận biết &amp;ldquo;AI Mode&amp;rdquo; của Google Search ở thế hệ 10 tuổi vượt 70%, hơn 60% thanh thiếu niên sử dụng Gen AI làm phương tiện tìm kiếm - thực trạng thay thế công cụ tìm kiếm tiếp tục tiến triển&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Xây dựng Data Mesh Bảo mật với AWS và Partner Solutions</title>
+      <link>https://cola1605.github.io/posts/aws-secure-data-mesh-partner-solutions/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/posts/aws-secure-data-mesh-partner-solutions/</guid>
+      <description>&lt;p&gt;Hướng dẫn chi tiết xây dựng kiến trúc Data Mesh bảo mật cho tổ chức tài chính với AWS và partners (Databricks, Snowflake). Sử dụng Apache Iceberg open table format, AWS Lake Formation, Amazon SageMaker Unified Studio để triển khai 3 yêu cầu quan trọng: cross-catalog metadata federation, cross-account authentication/authorization, distributed policy reflection. Trình bày 2 implementation patterns: AWS làm data producer và AWS làm data consumer.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Xây dựng REST API Có Khả Năng Mở Rộng với Amazon API Gateway Private Integration và Application Load Balancer</title>
+      <link>https://cola1605.github.io/posts/aws-api-gateway-alb-private-integration/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://cola1605.github.io/posts/aws-api-gateway-alb-private-integration/</guid>
+      <description>&lt;p&gt;Hôm nay, Amazon API Gateway REST API công bố hỗ trợ tích hợp riêng tư (private integration) với Application Load Balancer (ALB). Tính năng mới này cho phép bạn public ứng dụng dựa trên VPC một cách an toàn thông qua REST API mà không cần expose ALB ra public internet.&lt;/p&gt;&#xA;&lt;h2 id=&#34;bối-cảnh&#34;&gt;Bối Cảnh&lt;/h2&gt;&#xA;&lt;p&gt;Trước đây, khi kết nối API Gateway với private ALB, bạn phải đặt một Network Load Balancer (NLB) ở giữa, điều này làm tăng chi phí và độ phức tạp. Hiện tại, bạn có thể tích hợp trực tiếp API Gateway với private ALB mà không cần NLB, giảm overhead vận hành và tối ưu hóa chi phí.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Thử nghiệm tính năng Streaming của API Gateway</title>
