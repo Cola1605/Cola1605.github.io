@@ -1,236 +1,224 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>AI on SYSTEM_NEWS</title>
-    <link>https://cola1605.github.io/tags/ai/</link>
-    <description>Recent content in AI on SYSTEM_NEWS</description>
-    <generator>Hugo</generator>
-    <language>vi</language>
-    <lastBuildDate>Tue, 02 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://cola1605.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Giới Thiệu Fully Managed Amazon EKS MCP Server (Preview)</title>
-      <link>https://cola1605.github.io/posts/aws-eks-mcp-server-preview/</link>
-      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/posts/aws-eks-mcp-server-preview/</guid>
-      <description>&lt;p&gt;Thay vì sử dụng kubectl command phức tạp hay chuyên môn sâu về Kubernetes, hãy học cách quản lý Amazon Elastic Kubernetes Service (Amazon EKS) cluster thông qua simple conversation. Bài viết này giới thiệu fully managed EKS Model Context Protocol (MCP) Server (preview) mới, cho phép deploy ứng dụng, troubleshoot vấn đề và upgrade cluster bằng natural language mà không cần chuyên môn sâu về Kubernetes.&lt;/p&gt;&#xA;&lt;h2 id=&#34;bối-cảnh-và-thách-thức&#34;&gt;Bối Cảnh và Thách Thức&lt;/h2&gt;&#xA;&lt;h3 id=&#34;độ-phức-tạp-của-kubernetes-management&#34;&gt;Độ Phức Tạp Của Kubernetes Management&lt;/h3&gt;&#xA;&lt;p&gt;Team quản lý Kubernetes workload cần chuyên môn về container orchestration, infrastructure, networking và security. Large language model (LLM) giúp developer viết code và quản lý workload, nhưng bị giới hạn nếu không có real-time cluster access. Các recommendation chung dựa trên training data cũ không đáp ứng nhu cầu thực tế.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cải Cách Cấu Trúc Tổ Chức Kỹ Sư Hướng Tới &#39;Tự Động Hóa Hoàn Toàn Quy Trình Phát Triển&#39; Năm 2028</title>
-      <link>https://cola1605.github.io/posts/cyberagent-ai-engineer-transformation-2028/</link>
-      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/posts/cyberagent-ai-engineer-transformation-2028/</guid>
-      <description>&lt;h1 id=&#34;cải-cách-cấu-trúc-tổ-chức-kỹ-sư-hướng-tới-tự-động-hóa-hoàn-toàn-quy-trình-phát-triển-năm-2028&#34;&gt;Cải Cách Cấu Trúc Tổ Chức Kỹ Sư Hướng Tới &amp;ldquo;Tự Động Hóa Hoàn Toàn Quy Trình Phát Triển&amp;rdquo; Năm 2028&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tác giả&lt;/strong&gt;: Norishige Nagase (長瀬)&lt;br&gt;&#xA;&lt;strong&gt;Chức vụ&lt;/strong&gt;: Chuyên Vụ Giám Đốc Điều Hành Phụ Trách Công Nghệ&lt;br&gt;&#xA;&lt;strong&gt;Ngày xuất bản&lt;/strong&gt;: 2025-12-01&lt;br&gt;&#xA;&lt;strong&gt;Nguồn&lt;/strong&gt;: &lt;a href=&#34;https://developers.cyberagent.co.jp/blog/archives/59886/&#34;&gt;CyberAgent Developers Blog&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;tóm-tắt&#34;&gt;Tóm Tắt&lt;/h2&gt;&#xA;&lt;p&gt;Giám đốc công nghệ CyberAgent - ông Nagase trình bày tầm nhìn đạt được tự động hóa hoàn toàn quy trình phát triển (AI Maturity Level 4) vào năm 2028 và cải cách cấu trúc tổ chức kỹ sư đi kèm. Đối mặt với 5 lo ngại thực tế của kỹ sư (mất nghề nghiệp, suy giảm kỹ năng, đánh giá công bằng, thay đổi giá trị, chênh lệch tổ chức), công ty đưa ra các giải pháp tổ chức: Đổi mới hệ thống đánh giá &amp;ldquo;JB Career Program&amp;rdquo;, xây dựng 4 career ladder mới (Tech Lead, Business Lead, Specialist, Engineering Manager), thành lập AI-Driven Promotion Office, và các biện pháp cụ thể khác.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>CyberAgent GEO Lab: Nghiên Cứu Thực Trạng Sử Dụng Gen AI Đợt 2 - &#39;Gen AI Shift&#39; Tăng Tốc, Tỷ Lệ Tăng 1.5 Lần Lên 31.1%</title>
-      <link>https://cola1605.github.io/posts/cyberagent-geo-lab-genai-survey/</link>
-      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/posts/cyberagent-geo-lab-genai-survey/</guid>
-      <description>&lt;h1 id=&#34;cyberagent-geo-lab-nghiên-cứu-thực-trạng-sử-dụng-gen-ai-đợt-2&#34;&gt;CyberAgent GEO Lab: Nghiên Cứu Thực Trạng Sử Dụng Gen AI Đợt 2&lt;/h1&gt;&#xA;&lt;h2 id=&#34;gen-ai-shift-trong-tìm-kiếm-tăng-tốc---tỷ-lệ-tăng-15-lần-lên-311-trong-6-tháng&#34;&gt;&amp;ldquo;Gen AI Shift&amp;rdquo; Trong Tìm Kiếm Tăng Tốc - Tỷ Lệ Tăng 1.5 Lần Lên 31.1% Trong 6 Tháng&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tổ chức&lt;/strong&gt;: CyberAgent, Inc. (株式会社サイバーエージェント)&lt;br&gt;&#xA;&lt;strong&gt;Phòng ban&lt;/strong&gt;: GEO Lab. (GEOラボ)&lt;br&gt;&#xA;&lt;strong&gt;Danh mục&lt;/strong&gt;: Quảng cáo&lt;br&gt;&#xA;&lt;strong&gt;Ngày xuất bản&lt;/strong&gt;: 2025-12-01&lt;br&gt;&#xA;&lt;strong&gt;Nguồn&lt;/strong&gt;: &lt;a href=&#34;https://www.cyberagent.co.jp/news/detail/id=32766&#34;&gt;CyberAgent News&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;phụ-đề&#34;&gt;Phụ Đề&lt;/h2&gt;&#xA;&lt;p&gt;Tỷ lệ nhận biết &amp;ldquo;AI Mode&amp;rdquo; của Google Search ở thế hệ 10 tuổi vượt 70%, hơn 60% thanh thiếu niên sử dụng Gen AI làm phương tiện tìm kiếm - thực trạng thay thế công cụ tìm kiếm tiếp tục tiến triển&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Từ Zero đến Hero: Con đường trở thành kỹ sư thực chiến chỉ trong 1 năm với AI</title>
-      <link>https://cola1605.github.io/posts/qiita-ai-engineer-learning-path/</link>
-      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/posts/qiita-ai-engineer-learning-path/</guid>
-      <description>&lt;h2 id=&#34;thông-tin-bài-viết&#34;&gt;Thông tin bài viết&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tác giả&lt;/strong&gt;: tomoya11&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ngày xuất bản&lt;/strong&gt;: 26/11/2025&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tags&lt;/strong&gt;: #Tech_News, AI, Learning, DevOps, API, Cloud&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Nguồn&lt;/strong&gt;: &lt;a href=&#34;https://qiita.com/tomoya11/items/0309c38c6c61781b1e9a&#34;&gt;Qiita&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;tóm-tắt&#34;&gt;Tóm tắt&lt;/h2&gt;&#xA;&lt;p&gt;Lộ trình học lập trình từ hoàn toàn không biết gì đến thực chiến chỉ trong 1 năm. Bài viết chia sẻ phương pháp học tập hiệu quả kết hợp AI với Linux, Python, Docker, Git, CI/CD, API development, Cloud và IaC - tất cả đều hướng đến thực chiến ngay lập tức.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Amazon Bedrock Service Tiers mới giúp khớp hiệu năng với chi phí cho workload AI</title>
-      <link>https://cola1605.github.io/posts/aws_bedrock_service_tiers_vietnamese/</link>
-      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/posts/aws_bedrock_service_tiers_vietnamese/</guid>
-      <description>&lt;h2 id=&#34;mục-lục&#34;&gt;Mục lục&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#gi%E1%BB%9Bi-thi%E1%BB%87u&#34;&gt;Giới thiệu&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#3-service-tier&#34;&gt;3 Service Tier&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#ch%E1%BB%8Dn-tier-ph%C3%B9-h%E1%BB%A3p-cho-workload&#34;&gt;Chọn tier phù hợp cho workload&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#%C6%B0%E1%BB%9Bc-t%C3%ADnh-chi-ph%C3%AD-v%C3%A0-gi%C3%A1m-s%C3%A1t&#34;&gt;Ước tính chi phí và giám sát&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#c%C3%A1ch-s%E1%BB%AD-d%E1%BB%A5ng&#34;&gt;Cách sử dụng&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#t%E1%BB%95ng-k%E1%BA%BFt&#34;&gt;Tổng kết&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới thiệu&lt;/h2&gt;&#xA;&lt;p&gt;Ngày 18 tháng 11 năm 2025, &lt;strong&gt;Amazon Bedrock&lt;/strong&gt; đã giới thiệu &lt;strong&gt;các service tier mới&lt;/strong&gt; giúp kiểm soát chi phí workload AI một cách chi tiết hơn trong khi vẫn duy trì mức hiệu năng cần thiết cho ứng dụng.&lt;/p&gt;&#xA;&lt;p&gt;Nhiều tổ chức chạy workload AI đối mặt với thách thức &lt;strong&gt;cân bằng giữa yêu cầu hiệu năng và tối ưu hóa chi phí&lt;/strong&gt;. Một số ứng dụng cần thời gian phản hồi nhanh cho tương tác thời gian thực, trong khi những ứng dụng khác có thể xử lý dữ liệu theo từng giai đoạn.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nhiệm vụ 1 tuần hoàn thành trong 3 giờ? Developer Experts Konishi giải thích cơ hội tăng trưởng bùng nổ cho kỹ sư nhờ AI Driven Development</title>
-      <link>https://cola1605.github.io/posts/cybar_ai_driven_development_konishi_vietnamese/</link>
-      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/posts/cybar_ai_driven_development_konishi_vietnamese/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Nguồn:&lt;/strong&gt; &lt;a href=&#34;https://cybar.cag.isca.jp/?p=138753&#34;&gt;CyBAR&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới thiệu&lt;/h2&gt;&#xA;&lt;p&gt;Lần này, chúng tôi đã được &lt;a href=&#34;https://carrot.services.isca.jp/telma/S06577&#34;&gt;Hiroki Konishi&lt;/a&gt; giải thích chi tiết về khái niệm AI Driven Development, các phương pháp cụ thể và ảnh hưởng đến sự phát triển của từng kỹ sư.&lt;/p&gt;&#xA;&lt;p&gt;Trong &amp;ldquo;Hội thảo chia sẻ kiến thức lần 2&amp;rdquo; sẽ được tổ chức vào ngày 4 và 11 tháng 12 bởi &amp;ldquo;&lt;a href=&#34;https://www.cyberagent.co.jp/news/detail/id=32271&#34;&gt;Phòng Xúc tiến AI Driven&lt;/a&gt;&amp;rdquo;, Konishi - người thuộc phòng AI Operations và đang thúc đẩy AI Driven Development (phát triển dựa trên AI) cho nhiều nhóm khác nhau trong công ty - sẽ là diễn giả chính.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Post-hoc Rationalization: Suy Luận Của LLM Có Phải Là &#39;Lời Biện Minh&#39;?</title>
-      <link>https://cola1605.github.io/posts/aishift-llm-post-hoc-rationalization/</link>
-      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/posts/aishift-llm-post-hoc-rationalization/</guid>
-      <description>&lt;h1 id=&#34;post-hoc-rationalization-suy-luận-của-llm-có-phải-là-lời-biện-minh&#34;&gt;Post-hoc Rationalization: Suy Luận Của LLM Có Phải Là &amp;ldquo;Lời Biện Minh&amp;rdquo;?&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tác giả&lt;/strong&gt;: Toda (戸田)&lt;br&gt;&#xA;&lt;strong&gt;Thuộc&lt;/strong&gt;: AI Shift AI Team&lt;br&gt;&#xA;&lt;strong&gt;Ngày xuất bản&lt;/strong&gt;: 2025-11-25&lt;br&gt;&#xA;&lt;strong&gt;Nguồn&lt;/strong&gt;: &lt;a href=&#34;https://www.ai-shift.co.jp/techblog/6406&#34;&gt;AI Shift Tech Blog&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;tóm-tắt&#34;&gt;Tóm Tắt&lt;/h2&gt;&#xA;&lt;p&gt;Giải thích về hiện tượng Post-hoc Rationalization (sự hợp lý hóa sau) trong LLM. Trong tâm lý học, nó chỉ quá trình xây dựng lý do logic sau khi đưa ra quyết định bằng trực giác, nhưng hiện tượng tương tự cũng được chỉ ra trong LLM. Chain-of-Thought (CoT) có thể không phải là quá trình tính toán để dẫn đến câu trả lời, mà chỉ là &amp;ldquo;tiền đề hợp lý&amp;rdquo; sau khi xác định câu trả lời từ xác suất thống kê nội bộ. Phân biệt Plausibility (tính hợp lý) và Faithfulness (tính trung thực/chân thực) là quan trọng. Giới thiệu 3 nghiên cứu liên quan và đưa ra 3 điểm kỹ sư cần ý thức.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tăng tốc ứng dụng AI quy mô lớn với Amazon EC2 P6-B300 instances mới</title>
-      <link>https://cola1605.github.io/posts/aws_ec2_p6b300_instances_vietnamese/</link>
-      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/posts/aws_ec2_p6b300_instances_vietnamese/</guid>
-      <description>&lt;h2 id=&#34;mục-lục&#34;&gt;Mục lục&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#gi%E1%BB%9Bi-thi%E1%BB%87u&#34;&gt;Giới thiệu&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#h%E1%BB%97-tr%E1%BB%A3-c%C3%A1c-m%C3%B4-h%C3%ACnh-ai-quy-m%C3%B4-l%E1%BB%9Bn&#34;&gt;Hỗ trợ các mô hình AI quy mô lớn&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#nh%E1%BB%AFng-c%E1%BA%A3i-ti%E1%BA%BFn-so-v%E1%BB%9Bi-th%E1%BA%BF-h%E1%BB%87-tr%C6%B0%E1%BB%9Bc&#34;&gt;Những cải tiến so với thế hệ trước&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#th%C3%B4ng-s%E1%BB%91-k%E1%BB%B9-thu%E1%BA%ADt&#34;&gt;Thông số kỹ thuật&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#th%C3%B4ng-tin-h%E1%BB%AFu-%C3%ADch&#34;&gt;Thông tin hữu ích&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#hi%E1%BB%87n-%C4%91%C3%A3-c%C3%B3-s%E1%BA%B5n&#34;&gt;Hiện đã có sẵn&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#t%E1%BB%95ng-k%E1%BA%BFt&#34;&gt;Tổng kết&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới thiệu&lt;/h2&gt;&#xA;&lt;p&gt;Ngày 18 tháng 11 năm 2025, AWS đã công bố &lt;strong&gt;Amazon Elastic Compute Cloud (Amazon EC2) P6-B300 instances&lt;/strong&gt; - nền tảng GPU thế hệ tiếp theo được tăng tốc bởi &lt;strong&gt;NVIDIA Blackwell Ultra GPU&lt;/strong&gt;. Các instance này cung cấp &lt;strong&gt;băng thông mạng gấp 2 lần&lt;/strong&gt; và &lt;strong&gt;bộ nhớ GPU gấp 1.5 lần&lt;/strong&gt; so với thế hệ trước, tạo nên một nền tảng cân bằng cho các ứng dụng AI quy mô lớn.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Series: Cấu trúc Thư mục Frontend (NextJS/ReactJS) trong Thời đại AI - Phần 2: Clean Architecture</title>
-      <link>https://cola1605.github.io/posts/qiita_clean_architecture_nextjs_vietnamese/</link>
-      <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/posts/qiita_clean_architecture_nextjs_vietnamese/</guid>
-      <description>&lt;h2 id=&#34;tóm-tắt&#34;&gt;Tóm tắt&lt;/h2&gt;&#xA;&lt;p&gt;Bài viết này giải thích chi tiết cách giải quyết vấn đề tổ chức code khi sử dụng AI assistants (Cursor, Claude, GitHub Copilot) trong các dự án Next.js/React quy mô lớn bằng Clean Architecture và file &lt;code&gt;.cursorrules&lt;/code&gt;. Tiếp cận thực tế trong môi trường có hơn 10 developer, hơn 1000 files, và review hơn 20 PRs mỗi ngày.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-giới-thiệu-vấn-đề-thực-tế-và-giải-pháp&#34;&gt;1. Giới thiệu: Vấn đề Thực tế và Giải pháp&lt;/h2&gt;&#xA;&lt;h3 id=&#34;bối-cảnh-dự-án&#34;&gt;Bối cảnh Dự án&lt;/h3&gt;&#xA;&lt;p&gt;Tôi đang làm việc trong một dự án frontend quy mô lớn:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Giải thích các Pattern Claude Code trên AWS – Amazon Bedrock / AWS Marketplace</title>
-      <link>https://cola1605.github.io/posts/claude_code_on_aws_patterns_vietnamese/</link>
-      <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/posts/claude_code_on_aws_patterns_vietnamese/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Ngày công bố&lt;/strong&gt;: 20 tháng 11 năm 2025&lt;br&gt;&#xA;&lt;strong&gt;Tác giả&lt;/strong&gt;: Kazuki Motohashi&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới thiệu&lt;/h2&gt;&#xA;&lt;p&gt;Dành cho những ai đang xem xét triển khai công cụ phát triển được hỗ trợ bởi AI, hoặc hiện đang sử dụng Claude Code nhưng gặp khó khăn về quản trị và quản lý chi phí, bài viết này sẽ giải thích 2 pattern chính để sử dụng Claude Code trên AWS.&lt;/p&gt;&#xA;&lt;p&gt;Bài viết này nhắm đến các quản trị viên và người ra quyết định muốn triển khai công cụ phát triển được hỗ trợ AI trong tổ chức, những người đang sử dụng Claude Code Max plan và cảm thấy có vấn đề về mặt quản trị, hoặc những người muốn thống nhất thanh toán AWS và giấy phép phần mềm. Bài viết tập trung vào các pattern triển khai trong môi trường enterprise và tiêu chí lựa chọn, chứ không phải cách sử dụng hoặc Tips về Claude Code.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Giới thiệu Amazon Quick Suite: Đồng đội AI thông minh giúp trả lời câu hỏi và thực hiện hành động</title>
-      <link>https://cola1605.github.io/posts/aws_quicksuite_ai_agents_vietnamese/</link>
-      <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/posts/aws_quicksuite_ai_agents_vietnamese/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Bài viết gốc&lt;/strong&gt;: &lt;a href=&#34;https://aws.amazon.com/jp/blogs/aws/reimagine-the-way-you-work-with-ai-agents-in-amazon-quick-suite/&#34;&gt;Announcing Amazon Quick Suite: your agentic teammate for answering questions and taking action&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;Ngày công bố&lt;/strong&gt;: 9 tháng 10 năm 2025 (Bản dịch: 20 tháng 11 năm 2025)&lt;br&gt;&#xA;&lt;strong&gt;Tác giả&lt;/strong&gt;: Satoshi Takebayashi (Dịch thuật), Esra Kayabali, Donnie Prakoso&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới thiệu&lt;/h2&gt;&#xA;&lt;p&gt;Bài viết này là bản dịch của &lt;a href=&#34;https://aws.amazon.com/jp/blogs/aws/reimagine-the-way-you-work-with-ai-agents-in-amazon-quick-suite/&#34;&gt;Announcing Amazon Quick Suite: your agentic teammate for answering questions and taking action&lt;/a&gt; được công bố ngày 9 tháng 10 năm 2025. Bản dịch tiếng Nhật được thực hiện bởi Technical Account Manager Satoshi Takebayashi.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Khởi động &#39;Bảng xếp hạng AI dành cho Engineer&#39; nhằm hiển thị mức độ ứng dụng AI trong quy trình phát triển!</title>
-      <link>https://cola1605.github.io/posts/cybar_engineer_ai_ranking_vietnamese/</link>
-      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/posts/cybar_engineer_ai_ranking_vietnamese/</guid>
-      <description>&lt;h1 id=&#34;khởi-động-bảng-xếp-hạng-ai-dành-cho-engineer-nhằm-hiển-thị-mức-độ-ứng-dụng-ai-trong-quy-trình-phát-triển&#34;&gt;Khởi động &amp;lsquo;Bảng xếp hạng AI dành cho Engineer&amp;rsquo; nhằm hiển thị mức độ ứng dụng AI trong quy trình phát triển!&lt;/h1&gt;&#xA;&lt;p&gt;&amp;ldquo;Bảng xếp hạng AI dành cho Engineer&amp;rdquo; nhằm hiển thị mức độ ứng dụng AI trong quy trình phát triển đã chính thức khởi động. Trong khi bảng xếp hạng toàn công ty tập trung đánh giá tác động kinh doanh và tạo giá trị doanh nghiệp, phiên bản dành cho Engineer sẽ đánh giá chủ yếu dựa trên chất lượng kỹ thuật và độ trưởng thành công nghệ.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>【TOON】Kết Thúc Kỷ Nguyên JSON? Giải Thích Về TOON Đang Gây Chú Ý</title>
-      <link>https://cola1605.github.io/posts/qiita_toon_format_vietnamese/</link>
-      <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/posts/qiita_toon_format_vietnamese/</guid>
-      <description>&lt;h1 id=&#34;toonkết-thúc-kỷ-nguyên-json-giải-thích-về-toon-đang-gây-chú-ý&#34;&gt;【TOON】Kết Thúc Kỷ Nguyên JSON? Giải Thích Về TOON Đang Gây Chú Ý&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tác giả:&lt;/strong&gt; @shanks665&lt;br&gt;&#xA;&lt;strong&gt;Ngày công khai:&lt;/strong&gt; 2025-11-17&lt;br&gt;&#xA;&lt;strong&gt;Nguồn:&lt;/strong&gt; &lt;a href=&#34;https://qiita.com/shanks665/items/a5ec31706af9ffffc491&#34;&gt;https://qiita.com/shanks665/items/a5ec31706af9ffffc491&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;Thẻ:&lt;/strong&gt; #JSON #AI #Toon #LLM #AIエージェント&lt;/p&gt;&#xA;&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới thiệu&lt;/h2&gt;&#xA;&lt;p&gt;Bạn có bao giờ lo lắng về chi phí API của LLM không? Khi truyền lượng lớn dữ liệu vào prompt, số lượng token tăng vọt khiến cả chi phí và thời gian phản hồi đều xấu đi.&lt;/p&gt;&#xA;&lt;p&gt;Một trong những nguyên nhân là JSON. JSON được thiết kế để con người dễ đọc, nên có nhiều ký hiệu và lặp lại. Đối với LLM, đây là định dạng có nhiều lãng phí.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Skills - Trang bị kiến thức chuyên môn cho AI để tự động hóa công việc</title>
-      <link>https://cola1605.github.io/posts/cyberagent_claude_skills/</link>
-      <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/posts/cyberagent_claude_skills/</guid>
-      <description>&lt;h1 id=&#34;claude-skills---trang-bị-kiến-thức-chuyên-môn-cho-ai-để-tự-động-hóa-công-việc&#34;&gt;Claude Skills - Trang bị kiến thức chuyên môn cho AI để tự động hóa công việc&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tác giả&lt;/strong&gt;: Lee Jun Ho (李 俊浩) - Phòng AI Operation&lt;br&gt;&#xA;&lt;strong&gt;Ngày xuất bản&lt;/strong&gt;: 13/11/2025&lt;br&gt;&#xA;&lt;strong&gt;Nguồn&lt;/strong&gt;: &lt;a href=&#34;https://git-generative-ai.services.isca.jp/article/business/bu034/&#34;&gt;Cổng thông tin AI tạo sinh - CyberAgent&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;tóm-tắt-3-dòng&#34;&gt;Tóm tắt 3 dòng&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tính năng mới &amp;ldquo;Skills&amp;rdquo; của Claude cho phép AI đọc động kiến thức và quy trình cần thiết cho từng tác vụ cụ thể&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Có thể &amp;ldquo;dạy&amp;rdquo; AI các quy trình công việc thường dùng và kiến thức chuyên môn, tự động hóa các công việc lặp đi lặp lại&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Không cần kinh nghiệm phát triển, có thể áp dụng cho cải thiện hiệu suất và chia sẻ kiến thức trong tổ chức&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới thiệu&lt;/h2&gt;&#xA;&lt;p&gt;Bài viết này giới thiệu tính năng mới &lt;strong&gt;&amp;ldquo;Skills&amp;rdquo;&lt;/strong&gt; của Claude - cho phép &amp;ldquo;dạy&amp;rdquo; AI kiến thức chuyên môn một cách động, tự động hóa các tác vụ lặp đi lặp lại và cải thiện hiệu suất công việc đáng kể.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[Phỏng Vấn] Khi Độ Chính Xác AI Tăng 1%, Giá Trị Khách Hàng Là Bao Nhiêu? - freee và Chuyển Đổi AI Native</title>
-      <link>https://cola1605.github.io/posts/aws_freee_ai_transformation/</link>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/posts/aws_freee_ai_transformation/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Nguồn:&lt;/strong&gt; &lt;a href=&#34;https://aws.amazon.com/jp/blogs/news/freee-ai-native-transformation/&#34;&gt;AWS Blog&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;tổng-quan&#34;&gt;Tổng Quan&lt;/h2&gt;&#xA;&lt;p&gt;Với sứ mệnh &amp;ldquo;Biến Doanh Nghiệp Nhỏ Thành Nhân Vật Chính của Thế Giới&amp;rdquo;, freee Inc. đã vẽ ra tầm nhìn &amp;ldquo;AI CFO&amp;rdquo; ngay từ khi thành lập. Với sự xuất hiện của LLM (Large Language Models - Mô hình Ngôn ngữ Lớn), công ty đã bắt đầu chuyển đổi toàn diện sang tổ chức AI native sử dụng AI sinh tạo. Bằng cách lựa chọn công nghệ, xây dựng cấu trúc tổ chức và đặc biệt là thiết lập framework độc đáo &amp;ldquo;Tiêu Chí Thành Công&amp;rdquo;, freee đã thúc đẩy việc ứng dụng AI trong toàn công ty. Công ty đã đạt được những thành tựu vững chắc như cải thiện tỷ lệ giải quyết hỗ trợ chat khoảng 50%, cải thiện hiệu suất bán hàng đáng kể, và cải cách cấu trúc trong dịch vụ BPaaS (Business Process as a Service). Chúng tôi đã phỏng vấn ông Kisamori, AI Product Manager, về toàn bộ quá trình chuyển đổi này.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ngừng Lặp Lại: Lớp Context AI Bạn Đã Bỏ Lỡ - Global Steering</title>
-      <link>https://cola1605.github.io/posts/aws_kiro_global_steering_vietnamese/</link>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/posts/aws_kiro_global_steering_vietnamese/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Nguồn:&lt;/strong&gt; &lt;a href=&#34;https://aws.amazon.com/jp/blogs/news/stop-repeating-yourself/&#34;&gt;AWS Blog&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;Bài gốc:&lt;/strong&gt; &lt;a href=&#34;https://kiro.dev/blog/stop-repeating-yourself/&#34;&gt;Kiro Blog - Stop Repeating Yourself&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;vấn-đề-lặp-đi-lặp-lại-cùng-một-điều&#34;&gt;Vấn đề: Lặp đi lặp lại cùng một điều&lt;/h2&gt;&#xA;&lt;p&gt;Bạn đã nói với AI assistant 47 lần rằng bạn muốn React component kiểu functional. 23 lần về việc sử dụng Prettier với semicolon. Và ít nhất 15 lần về việc test file phải đặt trong thư mục &lt;code&gt;__tests__&lt;/code&gt;, không đặt cạnh source code. Nghe quen không?&lt;/p&gt;&#xA;&lt;p&gt;Đây không chỉ là vấn đề gây khó chịu - nó đang làm giảm năng suất của bạn. Mỗi khi setup project mới, bạn tốn 10-15 phút để giải thích lại những prompt bạn đã nói hàng chục lần. Đối với developer làm việc với 20 project mỗi năm, đó là hơn 5 giờ chỉ để lặp lại. Với team 50 người? Đó là 250 giờ mỗi năm để copy &amp;amp; paste cùng một standard qua các workspace.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tăng cường AIOps – Giới thiệu Amazon CloudWatch và Application Signals MCP Servers</title>
-      <link>https://cola1605.github.io/posts/aws_cloudwatch_appsignals_mcp_aiops_vietnamese/</link>
-      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/posts/aws_cloudwatch_appsignals_mcp_aiops_vietnamese/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Tác giả bản gốc:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Raviteja Sunkavalli - Senior Worldwide Specialist Solutions Architect (AIOps &amp;amp; Generative AI Observability)&lt;/li&gt;&#xA;&lt;li&gt;Joe Alioto - Senior Specialist Solutions Architect (Cloud Operations)&lt;/li&gt;&#xA;&lt;li&gt;Matheus Arrais - WW Tech Leader (Cloud Operations)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Dịch giả:&lt;/strong&gt; 日平 (Hibira) - Technical Account Manager&lt;br&gt;&#xA;&lt;strong&gt;Nguồn:&lt;/strong&gt; AWS Blog (Japan)&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;tổng-quan&#34;&gt;Tổng quan&lt;/h2&gt;&#xA;&lt;p&gt;Trong các kiến trúc hiện đại, lượng dữ liệu observability khổng lồ được tạo ra trên các metrics, logs và traces. Khi vấn đề xảy ra, các team phải mất hàng giờ, thậm chí hàng ngày để liên kết thông tin thủ công trên nhiều dashboard nhằm xác định nguyên nhân gốc rễ, điều này ảnh hưởng trực tiếp đến thời gian sửa chữa trung bình (MTTR) và năng suất.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>10 Công Cụ Hiện Đại Cho Developer Năm 2025 (Bao Gồm Open Source)</title>
-      <link>https://cola1605.github.io/posts/qiita_modern_developer_tools_2025_vietnamese/</link>
-      <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/posts/qiita_modern_developer_tools_2025_vietnamese/</guid>
-      <description>&lt;h1 id=&#34;10-công-cụ-hiện-đại-cho-developer-năm-2025-bao-gồm-open-source&#34;&gt;10 Công Cụ Hiện Đại Cho Developer Năm 2025 (Bao Gồm Open Source)&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Danh mục:&lt;/strong&gt; Công cụ phát triển&lt;br&gt;&#xA;&lt;strong&gt;Tác giả:&lt;/strong&gt; @itodaisuke99&lt;br&gt;&#xA;&lt;strong&gt;Ngày công bố:&lt;/strong&gt; 2025年10月13日&lt;br&gt;&#xA;&lt;strong&gt;Ngày cập nhật:&lt;/strong&gt; 2025年10月13日&lt;br&gt;&#xA;&lt;strong&gt;Likes:&lt;/strong&gt; 55 | &lt;strong&gt;Stocks:&lt;/strong&gt; 40 | &lt;strong&gt;Comments:&lt;/strong&gt; 0&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Bài viết gốc:&lt;/strong&gt; &lt;a href=&#34;https://qiita.com/itodaisuke99/items/d5b59d629d5620856a2a&#34;&gt;https://qiita.com/itodaisuke99/items/d5b59d629d5620856a2a&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;mở-đầu&#34;&gt;Mở Đầu&lt;/h2&gt;&#xA;&lt;p&gt;Thành thật mà nói, trước đây tôi luôn nghĩ rằng &amp;ldquo;Mất thời gian chọn công cụ không bằng viết code cho nhanh&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;Nhưng đầu năm nay, khi tham gia một hackathon, nhìn thấy các công cụ mà đồng đội sử dụng, suy nghĩ của tôi đã thay đổi. Họ thực hiện từ thiết kế API đến trực quan hóa dữ liệu một cách cực kỳ mượt mà. &lt;strong&gt;Công việc tôi mất 30 phút làm thủ công, họ hoàn thành trong 5 phút.&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hiển thị mức độ ứng dụng AI của toàn bộ sự nghiệp, khởi động &#39;Bảng xếp hạng AI&#39;!</title>
-      <link>https://cola1605.github.io/posts/cyberagent_ai_ranking_system_vietnamese/</link>
-      <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/posts/cyberagent_ai_ranking_system_vietnamese/</guid>
-      <description>&lt;h1 id=&#34;hiển-thị-mức-độ-ứng-dụng-ai-của-toàn-bộ-sự-nghiệp-khởi-động-bảng-xếp-hạng-ai&#34;&gt;Hiển thị mức độ ứng dụng AI của toàn bộ sự nghiệp, khởi động &amp;ldquo;Bảng xếp hạng AI&amp;rdquo;!&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tác giả:&lt;/strong&gt; Đội biên tập Phòng Thúc đẩy Văn hóa&lt;br&gt;&#xA;&lt;strong&gt;Ngày đăng:&lt;/strong&gt; 8 tháng 10, 2025&lt;br&gt;&#xA;&lt;strong&gt;Danh mục:&lt;/strong&gt; Công nghệ, Generative AI&lt;br&gt;&#xA;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href=&#34;https://cybar.cag.isca.jp/?p=135542&#34;&gt;https://cybar.cag.isca.jp/?p=135542&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;bối-cảnh-dẫn-đến-việc-tổ-chức&#34;&gt;Bối cảnh dẫn đến việc tổ chức&lt;/h2&gt;&#xA;&lt;p&gt;Đã khoảng 2 năm kể từ khi toàn công ty bắt đầu ứng dụng AI thông qua các sáng kiến toàn công ty như cuộc thi ứng dụng triệt để AI sinh tạo và reskilling hiểu biết triệt để, cũng như các nỗ lực của từng bộ phận kinh doanh. Tôi nghĩ nhiều tổ chức đã đến giai đoạn mà việc sử dụng AI như một lựa chọn đã trở thành điều hiển nhiên, nhưng từ giờ trở đi, việc tận dụng AI như một thế mạnh của doanh nghiệp và dịch vụ sẽ dẫn đến việc cải thiện khả năng cạnh tranh của toàn bộ CyberAgent.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Bắt đầu xây dựng AI Agent trên AWS! Triển khai Strands lên AgentCore</title>
-      <link>https://cola1605.github.io/posts/qiita_aws_ai_agent_strandsagentcore_vietnamese/</link>
-      <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/posts/qiita_aws_ai_agent_strandsagentcore_vietnamese/</guid>
-      <description>&lt;h1 id=&#34;bắt-đầu-xây-dựng-ai-agent-trên-aws-triển-khai-strands-lên-agentcore&#34;&gt;Bắt đầu xây dựng AI Agent trên AWS! Triển khai Strands lên AgentCore&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tác giả:&lt;/strong&gt; minorun365&lt;br&gt;&#xA;&lt;strong&gt;Ngày xuất bản:&lt;/strong&gt; 2025-10-04&lt;br&gt;&#xA;&lt;strong&gt;Nguồn:&lt;/strong&gt; &lt;a href=&#34;https://qiita.com/minorun365/items/deb10c8e7a6b1219e595&#34;&gt;Qiita&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;tóm-tắt&#34;&gt;Tóm tắt&lt;/h2&gt;&#xA;&lt;p&gt;Hướng dẫn thực hành xây dựng và triển khai AI Agent bằng framework Strands và AWS AgentCore. Từ việc tạo AI agent đơn giản 3 dòng code, đến tích hợp công cụ, sử dụng MCP server, cấu trúc multi-agent, và cuối cùng là triển khai trên môi trường serverless.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>CyberAgent AI Studio: Tips và công nghệ Virtual Production để quảng cáo hiệu quả</title>
-      <link>https://cola1605.github.io/ja/posts/cyberagent_ai_studio_tips_promise_commercial_vietnamese/</link>
-      <pubDate>Fri, 03 Oct 2025 13:00:00 +0700</pubDate>
-      <guid>https://cola1605.github.io/ja/posts/cyberagent_ai_studio_tips_promise_commercial_vietnamese/</guid>
-      <description>&lt;h2 id=&#34;1-cpa-cải-thiện-15-tiktok-đạt-6000-lượt-thích--hiệu-quả-quay-phim-tại-studio&#34;&gt;1. CPA Cải Thiện 15%, TikTok Đạt 6,000 Lượt Thích ── Hiệu Quả Quay Phim Tại Studio&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Anh Kawakubo&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;p&gt;Trong series mới lần này, chúng tôi có phương châm sản xuất hàng loạt creative theo mục tiêu × cảnh quay và triển khai quảng cáo video được cá nhân hóa cho từng người dùng. Trong đó, chúng tôi đã đưa ra quyết định &amp;ldquo;&lt;strong&gt;Nếu là quay phim hàng loạt thì nên sử dụng Extreme AI Odaiba&lt;/strong&gt;&amp;rdquo;, và quyết định quay phim tại Extreme AI Odaiba Studio.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>CyberAgent AI Studio: Tips và công nghệ Virtual Production để quảng cáo hiệu quả</title>
-      <link>https://cola1605.github.io/posts/cyberagent_ai_studio_tips_promise_commercial_vietnamese/</link>
-      <pubDate>Fri, 03 Oct 2025 13:00:00 +0700</pubDate>
-      <guid>https://cola1605.github.io/posts/cyberagent_ai_studio_tips_promise_commercial_vietnamese/</guid>
-      <description>&lt;h1 id=&#34;extreme-ai-odaiba-studio-tips-3-kết-hợp-công-nghệ-studio-và-ai-sinh-tạo-để-đạt-được-hiệu-quả-quảng-cáo-và-chất-lượng-cao--phần-promise-&#34;&gt;&amp;ldquo;Extreme AI Odaiba Studio Tips&amp;rdquo; #3 Kết Hợp Công Nghệ Studio và AI Sinh Tạo để Đạt Được Hiệu Quả Quảng Cáo và Chất Lượng Cao ~ Phần &amp;ldquo;Promise&amp;rdquo; ~&lt;/h1&gt;&#xA;&lt;h2 id=&#34;thông-tin-bài-viết&#34;&gt;Thông Tin Bài Viết&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ngày&lt;/strong&gt;: 4 tháng 8, 2025&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Danh mục&lt;/strong&gt;: Bộ phận Kinh doanh Quảng cáo Internet, Kinh doanh, Công nghệ, AI Sinh tạo&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;URL&lt;/strong&gt;: &lt;a href=&#34;https://cybar.cag.isca.jp/?p=133799&#34;&gt;https://cybar.cag.isca.jp/?p=133799&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;tổng-quan&#34;&gt;Tổng Quan&lt;/h2&gt;&#xA;&lt;p&gt;&amp;ldquo;Extreme AI Odaiba Studio Tips&amp;rdquo; chia sẻ các công nghệ Virtual Production, thành quả quảng cáo video và hậu trường sản xuất thông qua các ví dụ thực tế từ Extreme AI Odaiba Studio, cùng với tiếng nói từ hiện trường.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Chiến lược mở rộng Annotation Center: Tương lai của AI và dữ liệu</title>
-      <link>https://cola1605.github.io/ja/posts/annotation_center_expansion_vietnamese/</link>
-      <pubDate>Fri, 03 Oct 2025 12:00:00 +0700</pubDate>
-      <guid>https://cola1605.github.io/ja/posts/annotation_center_expansion_vietnamese/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Metadata Bài viết:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ID Nguồn: p=115507&lt;/li&gt;&#xA;&lt;li&gt;Ngày Crawl: 18 tháng 1, 2025&lt;/li&gt;&#xA;&lt;li&gt;Số từ Ước tính: 2.500 từ&lt;/li&gt;&#xA;&lt;li&gt;Thời gian Đọc Ước tính: 10 phút&lt;/li&gt;&#xA;&lt;li&gt;Loại Nội dung: Phỏng vấn Nhiều người tham gia&lt;/li&gt;&#xA;&lt;li&gt;Trọng tâm Chính: Hạ tầng Dữ liệu AI, Dịch vụ Chú thích, Chiến lược AI Toàn công ty&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Thẻ:&lt;/strong&gt; AI Tạo sinh, Chú thích Dữ liệu, Chất lượng Dữ liệu, Học máy, Ứng dụng AI Toàn công ty, Phỏng vấn Kỹ thuật, CyberAgent, Khoa học Dữ liệu, Kinh doanh AI, Chuyển đổi Số&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Chiến lược mở rộng Annotation Center: Tương lai của AI và dữ liệu</title>
-      <link>https://cola1605.github.io/posts/annotation_center_expansion_vietnamese/</link>
-      <pubDate>Fri, 03 Oct 2025 12:00:00 +0700</pubDate>
-      <guid>https://cola1605.github.io/posts/annotation_center_expansion_vietnamese/</guid>
-      <description>&lt;h1 id=&#34;chiến-lược-mở-rộng-annotation-center-tương-lai-của-ai-và-dữ-liệu&#34;&gt;Chiến lược mở rộng Annotation Center: Tương lai của AI và dữ liệu&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nguồn:&lt;/strong&gt; Tin tức công nghệ&lt;br&gt;&#xA;&lt;strong&gt;Xuất bản:&lt;/strong&gt; 2025-04-11&lt;br&gt;&#xA;&lt;strong&gt;Chủ đề:&lt;/strong&gt; AI, Annotation, Machine Learning&lt;/p&gt;&#xA;&lt;h2 id=&#34;tóm-tắt&#34;&gt;Tóm tắt&lt;/h2&gt;&#xA;&lt;p&gt;&amp;ldquo;Trung tâm Chú thích&amp;rdquo; tại CyberAgent nâng cao chất lượng dữ liệu qua các đơn vị kinh doanh khác nhau để thúc đẩy việc ứng dụng AI toàn công ty. Takuma Kobayashi (Giám đốc Trung tâm Chú thích) phỏng vấn Ryuma Sunagawa (Quản lý Trung tâm Chú thích) và Sora Inagaki (Cố vấn Chuyên gia Đa phương thức) về tầm quan trọng và tiềm năng của công việc chú thích. Bài viết này bao gồm bối cảnh quyết định mở rộng Trung tâm Chú thích, triển vọng tương lai và tác động kinh doanh được tạo ra thông qua việc chú thích.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Woman AI Meet Lounge: Tăng cường kết nối AI và phụ nữ trong công nghệ</title>
-      <link>https://cola1605.github.io/ja/posts/woman_ai_meet_lounge_vietnamese/</link>
-      <pubDate>Thu, 02 Oct 2025 10:00:00 +0700</pubDate>
-      <guid>https://cola1605.github.io/ja/posts/woman_ai_meet_lounge_vietnamese/</guid>
-      <description>&lt;h2 id=&#34;thông-điệp-từ-ban-tổ-chức-sự-kiện-ueno-chihiro--giám-đốc-điều-hành-aiオペレーション室&#34;&gt;Thông điệp từ ban tổ chức sự kiện: Ueno Chihiro / Giám đốc điều hành AIオペレーション室&lt;/h2&gt;&#xA;&lt;p&gt;AI nghe có vẻ như là một rào cản cao, nhưng đối với các nhân viên CyberAgent - những người luôn tiếp tục thử thách mới trong mọi lĩnh vực để xây dựng công ty - đây thực sự là một mảng kinh doanh mới rất thú vị và đầy hứng khởi.&lt;/p&gt;&#xA;&lt;p&gt;Với tư cách là những đồng nghiệp đang đối mặt với AI trong thời điểm này, chúng tôi bắt đầu từ mong muốn có thể tích cực tạo dựng mối liên kết ngang giữa các nữ nhân viên trong các mảng kinh doanh liên quan đến AI, và đã tổ chức sự kiện &amp;ldquo;Woman AI Meet Lounge&amp;rdquo; với chủ đề AI × Phụ nữ vào ngày 22 tháng 1, 2025 (Thứ Tư). Tại sự kiện này, chúng tôi đã mời các nhân viên đang hoạt động tích cực trong các mảng kinh doanh liên quan đến AI lên sân khấu, và chia sẻ nội dung về việc cùng nhau sử dụng AI sinh tạo để tối ưu hóa công việc, từ đó tăng thêm thời gian mà 私たち có thể tạo ra.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Woman AI Meet Lounge: Tăng cường kết nối AI và phụ nữ trong công nghệ</title>
-      <link>https://cola1605.github.io/posts/woman_ai_meet_lounge_vietnamese/</link>
-      <pubDate>Thu, 02 Oct 2025 10:00:00 +0700</pubDate>
-      <guid>https://cola1605.github.io/posts/woman_ai_meet_lounge_vietnamese/</guid>
-      <description>&lt;h1 id=&#34;tăng-cường-kết-nối-ngang-giữa-các-mảng-kinh-doanh-liên-quan-đến-ai-để-củng-cố-năng-lực-ai-sinh-tạo-toàn-công-ty---sự-kiện-woman-ai-meet-lounge-với-chủ-đề-ai--phụ-nữ&#34;&gt;Tăng cường kết nối ngang giữa các mảng kinh doanh liên quan đến AI để củng cố năng lực AI sinh tạo toàn công ty - Sự kiện &amp;ldquo;Woman AI Meet Lounge&amp;rdquo; với chủ đề AI × Phụ nữ&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ngày xuất bản:&lt;/strong&gt; 4 tháng 4, 2025&lt;br&gt;&#xA;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href=&#34;https://cybar.cag.isca.jp/?p=125055&#34;&gt;https://cybar.cag.isca.jp/?p=125055&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;Thể loại:&lt;/strong&gt; AI sinh tạo&lt;/p&gt;&#xA;&lt;h2 id=&#34;tổng-quan-sự-kiện&#34;&gt;Tổng quan sự kiện&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tên sự kiện:&lt;/strong&gt; Woman AI Meet Lounge&lt;br&gt;&#xA;&lt;strong&gt;Ngày tổ chức:&lt;/strong&gt; 22 tháng 1, 2025 (Thứ Tư)&lt;br&gt;&#xA;&lt;strong&gt;Chủ đề:&lt;/strong&gt; AI × Phụ nữ&lt;br&gt;&#xA;&lt;strong&gt;Số lượng tham gia:&lt;/strong&gt; 68 người (bao gồm cả nhân viên nghỉ thai sản)&lt;br&gt;&#xA;&lt;strong&gt;Mục đích:&lt;/strong&gt; Tích cực tạo dựng mối liên kết ngang giữa các nữ nhân viên trong các mảng kinh doanh liên quan đến AI&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hướng dẫn nhập môn StrandsAgents</title>
-      <link>https://cola1605.github.io/ja/posts/qiita_strands_agents_guide_vi/</link>
-      <pubDate>Thu, 02 Oct 2025 08:00:00 +0700</pubDate>
-      <guid>https://cola1605.github.io/ja/posts/qiita_strands_agents_guide_vi/</guid>
-      <description>&lt;h2 id=&#34;mở-đầu&#34;&gt;Mở đầu&lt;/h2&gt;&#xA;&lt;p&gt;Gần đây, có rất nhiều framework dành cho agent được ra mắt, và trong số đó tôi bắt đầu thấy tên &amp;ldquo;StrandsAgents&amp;rdquo; xuất hiện và cảm thấy tò mò nên quyết định thử nghiệm. StrandsAgents là một lightweight framework cho phép định nghĩa agent với cấu trúc khá đơn giản. Trong 記事 này, tôi sẽ giới thiệu đầy đủ từ việc thiết lập môi trường cơ bản để bắt đầu sử dụng StrandsAgents, cách gọi model, đến cách tích hợp các tool (hàm bên ngoài).&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hướng dẫn nhập môn StrandsAgents</title>
-      <link>https://cola1605.github.io/posts/qiita_strands_agents_guide_vi/</link>
-      <pubDate>Thu, 02 Oct 2025 08:00:00 +0700</pubDate>
-      <guid>https://cola1605.github.io/posts/qiita_strands_agents_guide_vi/</guid>
-      <description>&lt;h1 id=&#34;hướng-dẫn-nhập-môn-strandsagents&#34;&gt;Hướng dẫn nhập môn StrandsAgents&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tác giả:&lt;/strong&gt; @yakumo_09 (やくも)&lt;br&gt;&#xA;&lt;strong&gt;Xuất bản:&lt;/strong&gt; 2025-09-27&lt;br&gt;&#xA;&lt;strong&gt;Nguồn:&lt;/strong&gt; &lt;a href=&#34;https://qiita.com/yakumo_09/items/f85a8a0634e30b0d756c&#34;&gt;Qiita&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;Likes:&lt;/strong&gt; 17 | &lt;strong&gt;Stocks:&lt;/strong&gt; 13&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;mở-đầu&#34;&gt;Mở đầu&lt;/h2&gt;&#xA;&lt;p&gt;Gần đây, có rất nhiều framework dành cho agent được ra mắt, và trong số đó tôi bắt đầu thấy tên &amp;ldquo;StrandsAgents&amp;rdquo; xuất hiện và cảm thấy tò mò nên quyết định thử nghiệm. StrandsAgents là một lightweight framework cho phép định nghĩa agent với cấu trúc khá đơn giản. Trong bài viết này, tôi sẽ giới thiệu đầy đủ từ việc thiết lập môi trường cơ bản để bắt đầu sử dụng StrandsAgents, cách gọi model, đến cách tích hợp các tool (hàm bên ngoài).&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Kỹ sư cần biết về chiến lược kinh doanh</title>
-      <link>https://cola1605.github.io/ja/posts/qiita_engineer_business_strategy_2025_vietnamese/</link>
-      <pubDate>Thu, 02 Oct 2025 07:00:00 +0700</pubDate>
-      <guid>https://cola1605.github.io/ja/posts/qiita_engineer_business_strategy_2025_vietnamese/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Tài liệu tham khảo:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Team Topologies - Thiết kế tổ chức thích ứng để cung cấp phần mềm có giá trị một cách nhanh chóng&lt;/li&gt;&#xA;&lt;li&gt;Lời mời đến lý thuyết tổ chức Engineering - Tư duy và refactoring tổ chức đối mặt với sự không chắc chắn&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Kỹ sư cần biết về chiến lược kinh doanh</title>
-      <link>https://cola1605.github.io/posts/qiita_engineer_business_strategy_2025_vietnamese/</link>
-      <pubDate>Thu, 02 Oct 2025 07:00:00 +0700</pubDate>
-      <guid>https://cola1605.github.io/posts/qiita_engineer_business_strategy_2025_vietnamese/</guid>
-      <description>&lt;h1 id=&#34;kỹ-sư-cần-biết-về-chiến-lược-kinh-doanh&#34;&gt;Kỹ sư cần biết về chiến lược kinh doanh&lt;/h1&gt;&#xA;&lt;h2 id=&#34;thông-tin-bài-viết&#34;&gt;Thông tin bài viết&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tác giả&lt;/strong&gt;: morry_48 (@morry_48)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ngày phát hành&lt;/strong&gt;: 2025-03-03&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ngày cập nhật&lt;/strong&gt;: 2025-03-11&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;URL&lt;/strong&gt;: &lt;a href=&#34;https://qiita.com/morry_48/items/274bdc42ac2e94f8ecdc&#34;&gt;https://qiita.com/morry_48/items/274bdc42ac2e94f8ecdc&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Thẻ&lt;/strong&gt;: Bài viết cảm nghĩ, AI, Tổ chức, Cảm nhận, Chiến lược&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Lượt thích&lt;/strong&gt;: 298&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Lượt stock&lt;/strong&gt;: 228&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bình luận&lt;/strong&gt;: 1&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;mục-lục&#34;&gt;Mục lục&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#gi%E1%BB%9Bi-thi%E1%BB%87u&#34;&gt;Giới thiệu&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#cursor&#34;&gt;Cursor&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#bill-one&#34;&gt;Bill One&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#t%E1%BB%95-ch%E1%BB%A9c-%C4%91%E1%BA%A1t-%C4%91%C6%B0%E1%BB%A3c-t%E1%BB%91c-%C4%91%E1%BB%99-t%C4%83ng-tr%C6%B0%E1%BB%9Fng-nhanh-nh%E1%BA%A5t-th%E1%BA%BF-gi%E1%BB%9Bi-v%C3%A0-k%E1%BA%BFt-qu%E1%BA%A3-s%E1%BB%91-1-nh%E1%BA%ADt-b%E1%BA%A3n&#34;&gt;Tổ chức đạt được tốc độ tăng trưởng nhanh nhất thế giới và kết quả số 1 Nhật Bản&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#n%C3%BAt-th%E1%BA%AFt-c%E1%BB%95-chai-trong-th%E1%BB%9Di-%C4%91%E1%BA%A1i-ai&#34;&gt;Nút thắt cổ chai trong thời đại AI&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#n%E1%BB%A3-k%E1%BB%B9-thu%E1%BA%ADt---k%E1%BA%BB-m%E1%BA%A1nh-%C4%91%C3%A1ng-g%E1%BB%9Dm&#34;&gt;Nợ kỹ thuật - kẻ mạnh đáng gờm&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#l%C3%A0m-th%E1%BA%BF-n%C3%A0o-%C4%91%E1%BB%83-ph%C3%A1t-tri%E1%BB%83n-nhanh-h%C6%A1n-ngo%C3%A0i-vi%E1%BB%87c-kh%E1%BB%9Fi-nghi%E1%BB%87p-m%E1%BB%9Bi&#34;&gt;Làm thế nào để phát triển nhanh hơn ngoài việc khởi nghiệp mới?&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới thiệu&lt;/h2&gt;&#xA;&lt;p&gt;Xin chào, tôi là chú chim munia muốn có ngực rộng.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tóm tắt hướng dẫn StrandsAgents: Công cụ AI mạnh mẽ cho developers</title>
-      <link>https://cola1605.github.io/ja/posts/qiita_strands_agents_guide_summary_vi/</link>
-      <pubDate>Thu, 02 Oct 2025 05:00:00 +0700</pubDate>
-      <guid>https://cola1605.github.io/ja/posts/qiita_strands_agents_guide_summary_vi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tóm tắt hướng dẫn StrandsAgents: Công cụ AI mạnh mẽ cho developers</title>
-      <link>https://cola1605.github.io/posts/qiita_strands_agents_guide_summary_vi/</link>
-      <pubDate>Thu, 02 Oct 2025 05:00:00 +0700</pubDate>
-      <guid>https://cola1605.github.io/posts/qiita_strands_agents_guide_summary_vi/</guid>
-      <description>&lt;h1 id=&#34;tóm-tắt-hướng-dẫn-strandsagents-công-cụ-ai-mạnh-mẽ-cho-developers&#34;&gt;Tóm tắt hướng dẫn StrandsAgents: Công cụ AI mạnh mẽ cho developers&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tác giả:&lt;/strong&gt; @yakumo_09 (やくも)&lt;br&gt;&#xA;&lt;strong&gt;Xuất bản:&lt;/strong&gt; 2025-09-27&lt;br&gt;&#xA;&lt;strong&gt;Nguồn:&lt;/strong&gt; &lt;a href=&#34;https://qiita.com/yakumo_09/items/f85a8a0634e30b0d756c&#34;&gt;Qiita&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;tóm-tắt-chính&#34;&gt;Tóm tắt chính&lt;/h2&gt;&#xA;&lt;p&gt;StrandsAgents là một công cụ AI mạnh mẽ được xây dựng trên AWS Bedrock, giúp developers tăng cường hiệu quả trong quá trình phát triển phần mềm.&lt;/p&gt;&#xA;&lt;h3 id=&#34;điểm-nổi-bật&#34;&gt;Điểm nổi bật:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tích hợp seamless với VS Code&lt;/li&gt;&#xA;&lt;li&gt;Sử dụng AWS Bedrock để xử lý AI&lt;/li&gt;&#xA;&lt;li&gt;Hỗ trợ multiple programming languages&lt;/li&gt;&#xA;&lt;li&gt;Interface thân thiện với developer&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;cách-sử-dụng-cơ-bản&#34;&gt;Cách sử dụng cơ bản:&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Cài đặt extension trong VS Code&lt;/li&gt;&#xA;&lt;li&gt;Cấu hình AWS credentials&lt;/li&gt;&#xA;&lt;li&gt;Kết nối với Bedrock service&lt;/li&gt;&#xA;&lt;li&gt;Bắt đầu sử dụng AI assistant&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Để xem hướng dẫn chi tiết, vui lòng tham khảo &lt;a href=&#34;https://cola1605.github.io/posts/qiita_strands_agents_guide_vi/&#34;&gt;bài viết đầy đủ&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI on SYSTEM_NEWS</title><link>https://cola1605.github.io/tags/ai/</link><description>Recent content in AI on SYSTEM_NEWS</description><generator>Hugo</generator><language>vi</language><lastBuildDate>Tue, 02 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cola1605.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml"/><item><title>Giới Thiệu Fully Managed Amazon EKS MCP Server (Preview)</title><link>https://cola1605.github.io/posts/aws-eks-mcp-server-preview/</link><pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/aws-eks-mcp-server-preview/</guid><description>&lt;p&gt;Thay vì sử dụng kubectl command phức tạp hay chuyên môn sâu về Kubernetes, hãy học cách quản lý Amazon Elastic Kubernetes Service (Amazon EKS) cluster thông qua simple conversation. Bài viết này giới thiệu fully managed EKS Model Context Protocol (MCP) Server (preview) mới, cho phép deploy ứng dụng, troubleshoot vấn đề và upgrade cluster bằng natural language mà không cần chuyên môn sâu về Kubernetes.&lt;/p&gt;
+&lt;h2 id="bối-cảnh-và-thách-thức"&gt;Bối Cảnh và Thách Thức&lt;/h2&gt;
+&lt;h3 id="độ-phức-tạp-của-kubernetes-management"&gt;Độ Phức Tạp Của Kubernetes Management&lt;/h3&gt;
+&lt;p&gt;Team quản lý Kubernetes workload cần chuyên môn về container orchestration, infrastructure, networking và security. Large language model (LLM) giúp developer viết code và quản lý workload, nhưng bị giới hạn nếu không có real-time cluster access. Các recommendation chung dựa trên training data cũ không đáp ứng nhu cầu thực tế.&lt;/p&gt;</description></item><item><title>Cải Cách Cấu Trúc Tổ Chức Kỹ Sư Hướng Tới 'Tự Động Hóa Hoàn Toàn Quy Trình Phát Triển' Năm 2028</title><link>https://cola1605.github.io/posts/cyberagent-ai-engineer-transformation-2028/</link><pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/cyberagent-ai-engineer-transformation-2028/</guid><description>&lt;h1 id="cải-cách-cấu-trúc-tổ-chức-kỹ-sư-hướng-tới-tự-động-hóa-hoàn-toàn-quy-trình-phát-triển-năm-2028"&gt;Cải Cách Cấu Trúc Tổ Chức Kỹ Sư Hướng Tới &amp;ldquo;Tự Động Hóa Hoàn Toàn Quy Trình Phát Triển&amp;rdquo; Năm 2028&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Tác giả&lt;/strong&gt;: Norishige Nagase (長瀬)&lt;br&gt;
+&lt;strong&gt;Chức vụ&lt;/strong&gt;: Chuyên Vụ Giám Đốc Điều Hành Phụ Trách Công Nghệ&lt;br&gt;
+&lt;strong&gt;Ngày xuất bản&lt;/strong&gt;: 2025-12-01&lt;br&gt;
+&lt;strong&gt;Nguồn&lt;/strong&gt;: &lt;a href="https://developers.cyberagent.co.jp/blog/archives/59886/"&gt;CyberAgent Developers Blog&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="tóm-tắt"&gt;Tóm Tắt&lt;/h2&gt;
+&lt;p&gt;Giám đốc công nghệ CyberAgent - ông Nagase trình bày tầm nhìn đạt được tự động hóa hoàn toàn quy trình phát triển (AI Maturity Level 4) vào năm 2028 và cải cách cấu trúc tổ chức kỹ sư đi kèm. Đối mặt với 5 lo ngại thực tế của kỹ sư (mất nghề nghiệp, suy giảm kỹ năng, đánh giá công bằng, thay đổi giá trị, chênh lệch tổ chức), công ty đưa ra các giải pháp tổ chức: Đổi mới hệ thống đánh giá &amp;ldquo;JB Career Program&amp;rdquo;, xây dựng 4 career ladder mới (Tech Lead, Business Lead, Specialist, Engineering Manager), thành lập AI-Driven Promotion Office, và các biện pháp cụ thể khác.&lt;/p&gt;</description></item><item><title>CyberAgent GEO Lab: Nghiên Cứu Thực Trạng Sử Dụng Gen AI Đợt 2 - 'Gen AI Shift' Tăng Tốc, Tỷ Lệ Tăng 1.5 Lần Lên 31.1%</title><link>https://cola1605.github.io/posts/cyberagent-geo-lab-genai-survey/</link><pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/cyberagent-geo-lab-genai-survey/</guid><description>&lt;h1 id="cyberagent-geo-lab-nghiên-cứu-thực-trạng-sử-dụng-gen-ai-đợt-2"&gt;CyberAgent GEO Lab: Nghiên Cứu Thực Trạng Sử Dụng Gen AI Đợt 2&lt;/h1&gt;
+&lt;h2 id="gen-ai-shift-trong-tìm-kiếm-tăng-tốc---tỷ-lệ-tăng-15-lần-lên-311-trong-6-tháng"&gt;&amp;ldquo;Gen AI Shift&amp;rdquo; Trong Tìm Kiếm Tăng Tốc - Tỷ Lệ Tăng 1.5 Lần Lên 31.1% Trong 6 Tháng&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Tổ chức&lt;/strong&gt;: CyberAgent, Inc. (株式会社サイバーエージェント)&lt;br&gt;
+&lt;strong&gt;Phòng ban&lt;/strong&gt;: GEO Lab. (GEOラボ)&lt;br&gt;
+&lt;strong&gt;Danh mục&lt;/strong&gt;: Quảng cáo&lt;br&gt;
+&lt;strong&gt;Ngày xuất bản&lt;/strong&gt;: 2025-12-01&lt;br&gt;
+&lt;strong&gt;Nguồn&lt;/strong&gt;: &lt;a href="https://www.cyberagent.co.jp/news/detail/id=32766"&gt;CyberAgent News&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="phụ-đề"&gt;Phụ Đề&lt;/h2&gt;
+&lt;p&gt;Tỷ lệ nhận biết &amp;ldquo;AI Mode&amp;rdquo; của Google Search ở thế hệ 10 tuổi vượt 70%, hơn 60% thanh thiếu niên sử dụng Gen AI làm phương tiện tìm kiếm - thực trạng thay thế công cụ tìm kiếm tiếp tục tiến triển&lt;/p&gt;</description></item><item><title>Từ Zero đến Hero: Con đường trở thành kỹ sư thực chiến chỉ trong 1 năm với AI</title><link>https://cola1605.github.io/posts/qiita-ai-engineer-learning-path/</link><pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/qiita-ai-engineer-learning-path/</guid><description>&lt;h2 id="thông-tin-bài-viết"&gt;Thông tin bài viết&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Tác giả&lt;/strong&gt;: tomoya11&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ngày xuất bản&lt;/strong&gt;: 26/11/2025&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tags&lt;/strong&gt;: #Tech_News, AI, Learning, DevOps, API, Cloud&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nguồn&lt;/strong&gt;: &lt;a href="https://qiita.com/tomoya11/items/0309c38c6c61781b1e9a"&gt;Qiita&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="tóm-tắt"&gt;Tóm tắt&lt;/h2&gt;
+&lt;p&gt;Lộ trình học lập trình từ hoàn toàn không biết gì đến thực chiến chỉ trong 1 năm. Bài viết chia sẻ phương pháp học tập hiệu quả kết hợp AI với Linux, Python, Docker, Git, CI/CD, API development, Cloud và IaC - tất cả đều hướng đến thực chiến ngay lập tức.&lt;/p&gt;</description></item><item><title>Amazon Bedrock Service Tiers mới giúp khớp hiệu năng với chi phí cho workload AI</title><link>https://cola1605.github.io/posts/aws_bedrock_service_tiers_vietnamese/</link><pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/aws_bedrock_service_tiers_vietnamese/</guid><description>&lt;h2 id="mục-lục"&gt;Mục lục&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="#gi%E1%BB%9Bi-thi%E1%BB%87u"&gt;Giới thiệu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#3-service-tier"&gt;3 Service Tier&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#ch%E1%BB%8Dn-tier-ph%C3%B9-h%E1%BB%A3p-cho-workload"&gt;Chọn tier phù hợp cho workload&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#%C6%B0%E1%BB%9Bc-t%C3%ADnh-chi-ph%C3%AD-v%C3%A0-gi%C3%A1m-s%C3%A1t"&gt;Ước tính chi phí và giám sát&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#c%C3%A1ch-s%E1%BB%AD-d%E1%BB%A5ng"&gt;Cách sử dụng&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#t%E1%BB%95ng-k%E1%BA%BFt"&gt;Tổng kết&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="giới-thiệu"&gt;Giới thiệu&lt;/h2&gt;
+&lt;p&gt;Ngày 18 tháng 11 năm 2025, &lt;strong&gt;Amazon Bedrock&lt;/strong&gt; đã giới thiệu &lt;strong&gt;các service tier mới&lt;/strong&gt; giúp kiểm soát chi phí workload AI một cách chi tiết hơn trong khi vẫn duy trì mức hiệu năng cần thiết cho ứng dụng.&lt;/p&gt;
+&lt;p&gt;Nhiều tổ chức chạy workload AI đối mặt với thách thức &lt;strong&gt;cân bằng giữa yêu cầu hiệu năng và tối ưu hóa chi phí&lt;/strong&gt;. Một số ứng dụng cần thời gian phản hồi nhanh cho tương tác thời gian thực, trong khi những ứng dụng khác có thể xử lý dữ liệu theo từng giai đoạn.&lt;/p&gt;</description></item><item><title>Nhiệm vụ 1 tuần hoàn thành trong 3 giờ? Developer Experts Konishi giải thích cơ hội tăng trưởng bùng nổ cho kỹ sư nhờ AI Driven Development</title><link>https://cola1605.github.io/posts/cybar_ai_driven_development_konishi_vietnamese/</link><pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/cybar_ai_driven_development_konishi_vietnamese/</guid><description>&lt;p&gt;&lt;strong&gt;Nguồn:&lt;/strong&gt; &lt;a href="https://cybar.cag.isca.jp/?p=138753"&gt;CyBAR&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="giới-thiệu"&gt;Giới thiệu&lt;/h2&gt;
+&lt;p&gt;Lần này, chúng tôi đã được &lt;a href="https://carrot.services.isca.jp/telma/S06577"&gt;Hiroki Konishi&lt;/a&gt; giải thích chi tiết về khái niệm AI Driven Development, các phương pháp cụ thể và ảnh hưởng đến sự phát triển của từng kỹ sư.&lt;/p&gt;
+&lt;p&gt;Trong &amp;ldquo;Hội thảo chia sẻ kiến thức lần 2&amp;rdquo; sẽ được tổ chức vào ngày 4 và 11 tháng 12 bởi &amp;ldquo;&lt;a href="https://www.cyberagent.co.jp/news/detail/id=32271"&gt;Phòng Xúc tiến AI Driven&lt;/a&gt;&amp;rdquo;, Konishi - người thuộc phòng AI Operations và đang thúc đẩy AI Driven Development (phát triển dựa trên AI) cho nhiều nhóm khác nhau trong công ty - sẽ là diễn giả chính.&lt;/p&gt;</description></item><item><title>Post-hoc Rationalization: Suy Luận Của LLM Có Phải Là 'Lời Biện Minh'?</title><link>https://cola1605.github.io/posts/aishift-llm-post-hoc-rationalization/</link><pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/aishift-llm-post-hoc-rationalization/</guid><description>&lt;h1 id="post-hoc-rationalization-suy-luận-của-llm-có-phải-là-lời-biện-minh"&gt;Post-hoc Rationalization: Suy Luận Của LLM Có Phải Là &amp;ldquo;Lời Biện Minh&amp;rdquo;?&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Tác giả&lt;/strong&gt;: Toda (戸田)&lt;br&gt;
+&lt;strong&gt;Thuộc&lt;/strong&gt;: AI Shift AI Team&lt;br&gt;
+&lt;strong&gt;Ngày xuất bản&lt;/strong&gt;: 2025-11-25&lt;br&gt;
+&lt;strong&gt;Nguồn&lt;/strong&gt;: &lt;a href="https://www.ai-shift.co.jp/techblog/6406"&gt;AI Shift Tech Blog&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="tóm-tắt"&gt;Tóm Tắt&lt;/h2&gt;
+&lt;p&gt;Giải thích về hiện tượng Post-hoc Rationalization (sự hợp lý hóa sau) trong LLM. Trong tâm lý học, nó chỉ quá trình xây dựng lý do logic sau khi đưa ra quyết định bằng trực giác, nhưng hiện tượng tương tự cũng được chỉ ra trong LLM. Chain-of-Thought (CoT) có thể không phải là quá trình tính toán để dẫn đến câu trả lời, mà chỉ là &amp;ldquo;tiền đề hợp lý&amp;rdquo; sau khi xác định câu trả lời từ xác suất thống kê nội bộ. Phân biệt Plausibility (tính hợp lý) và Faithfulness (tính trung thực/chân thực) là quan trọng. Giới thiệu 3 nghiên cứu liên quan và đưa ra 3 điểm kỹ sư cần ý thức.&lt;/p&gt;</description></item><item><title>Tăng tốc ứng dụng AI quy mô lớn với Amazon EC2 P6-B300 instances mới</title><link>https://cola1605.github.io/posts/aws_ec2_p6b300_instances_vietnamese/</link><pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/aws_ec2_p6b300_instances_vietnamese/</guid><description>&lt;h2 id="mục-lục"&gt;Mục lục&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="#gi%E1%BB%9Bi-thi%E1%BB%87u"&gt;Giới thiệu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#h%E1%BB%97-tr%E1%BB%A3-c%C3%A1c-m%C3%B4-h%C3%ACnh-ai-quy-m%C3%B4-l%E1%BB%9Bn"&gt;Hỗ trợ các mô hình AI quy mô lớn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#nh%E1%BB%AFng-c%E1%BA%A3i-ti%E1%BA%BFn-so-v%E1%BB%9Bi-th%E1%BA%BF-h%E1%BB%87-tr%C6%B0%E1%BB%9Bc"&gt;Những cải tiến so với thế hệ trước&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#th%C3%B4ng-s%E1%BB%91-k%E1%BB%B9-thu%E1%BA%ADt"&gt;Thông số kỹ thuật&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#th%C3%B4ng-tin-h%E1%BB%AFu-%C3%ADch"&gt;Thông tin hữu ích&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#hi%E1%BB%87n-%C4%91%C3%A3-c%C3%B3-s%E1%BA%B5n"&gt;Hiện đã có sẵn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#t%E1%BB%95ng-k%E1%BA%BFt"&gt;Tổng kết&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="giới-thiệu"&gt;Giới thiệu&lt;/h2&gt;
+&lt;p&gt;Ngày 18 tháng 11 năm 2025, AWS đã công bố &lt;strong&gt;Amazon Elastic Compute Cloud (Amazon EC2) P6-B300 instances&lt;/strong&gt; - nền tảng GPU thế hệ tiếp theo được tăng tốc bởi &lt;strong&gt;NVIDIA Blackwell Ultra GPU&lt;/strong&gt;. Các instance này cung cấp &lt;strong&gt;băng thông mạng gấp 2 lần&lt;/strong&gt; và &lt;strong&gt;bộ nhớ GPU gấp 1.5 lần&lt;/strong&gt; so với thế hệ trước, tạo nên một nền tảng cân bằng cho các ứng dụng AI quy mô lớn.&lt;/p&gt;</description></item><item><title>Series: Cấu trúc Thư mục Frontend (NextJS/ReactJS) trong Thời đại AI - Phần 2: Clean Architecture</title><link>https://cola1605.github.io/posts/qiita_clean_architecture_nextjs_vietnamese/</link><pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/qiita_clean_architecture_nextjs_vietnamese/</guid><description>&lt;h2 id="tóm-tắt"&gt;Tóm tắt&lt;/h2&gt;
+&lt;p&gt;Bài viết này giải thích chi tiết cách giải quyết vấn đề tổ chức code khi sử dụng AI assistants (Cursor, Claude, GitHub Copilot) trong các dự án Next.js/React quy mô lớn bằng Clean Architecture và file &lt;code&gt;.cursorrules&lt;/code&gt;. Tiếp cận thực tế trong môi trường có hơn 10 developer, hơn 1000 files, và review hơn 20 PRs mỗi ngày.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="1-giới-thiệu-vấn-đề-thực-tế-và-giải-pháp"&gt;1. Giới thiệu: Vấn đề Thực tế và Giải pháp&lt;/h2&gt;
+&lt;h3 id="bối-cảnh-dự-án"&gt;Bối cảnh Dự án&lt;/h3&gt;
+&lt;p&gt;Tôi đang làm việc trong một dự án frontend quy mô lớn:&lt;/p&gt;</description></item><item><title>Giải thích các Pattern Claude Code trên AWS – Amazon Bedrock / AWS Marketplace</title><link>https://cola1605.github.io/posts/claude_code_on_aws_patterns_vietnamese/</link><pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/claude_code_on_aws_patterns_vietnamese/</guid><description>&lt;p&gt;&lt;strong&gt;Ngày công bố&lt;/strong&gt;: 20 tháng 11 năm 2025&lt;br&gt;
+&lt;strong&gt;Tác giả&lt;/strong&gt;: Kazuki Motohashi&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="giới-thiệu"&gt;Giới thiệu&lt;/h2&gt;
+&lt;p&gt;Dành cho những ai đang xem xét triển khai công cụ phát triển được hỗ trợ bởi AI, hoặc hiện đang sử dụng Claude Code nhưng gặp khó khăn về quản trị và quản lý chi phí, bài viết này sẽ giải thích 2 pattern chính để sử dụng Claude Code trên AWS.&lt;/p&gt;
+&lt;p&gt;Bài viết này nhắm đến các quản trị viên và người ra quyết định muốn triển khai công cụ phát triển được hỗ trợ AI trong tổ chức, những người đang sử dụng Claude Code Max plan và cảm thấy có vấn đề về mặt quản trị, hoặc những người muốn thống nhất thanh toán AWS và giấy phép phần mềm. Bài viết tập trung vào các pattern triển khai trong môi trường enterprise và tiêu chí lựa chọn, chứ không phải cách sử dụng hoặc Tips về Claude Code.&lt;/p&gt;</description></item><item><title>Giới thiệu Amazon Quick Suite: Đồng đội AI thông minh giúp trả lời câu hỏi và thực hiện hành động</title><link>https://cola1605.github.io/posts/aws_quicksuite_ai_agents_vietnamese/</link><pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/aws_quicksuite_ai_agents_vietnamese/</guid><description>&lt;p&gt;&lt;strong&gt;Bài viết gốc&lt;/strong&gt;: &lt;a href="https://aws.amazon.com/jp/blogs/aws/reimagine-the-way-you-work-with-ai-agents-in-amazon-quick-suite/"&gt;Announcing Amazon Quick Suite: your agentic teammate for answering questions and taking action&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Ngày công bố&lt;/strong&gt;: 9 tháng 10 năm 2025 (Bản dịch: 20 tháng 11 năm 2025)&lt;br&gt;
+&lt;strong&gt;Tác giả&lt;/strong&gt;: Satoshi Takebayashi (Dịch thuật), Esra Kayabali, Donnie Prakoso&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="giới-thiệu"&gt;Giới thiệu&lt;/h2&gt;
+&lt;p&gt;Bài viết này là bản dịch của &lt;a href="https://aws.amazon.com/jp/blogs/aws/reimagine-the-way-you-work-with-ai-agents-in-amazon-quick-suite/"&gt;Announcing Amazon Quick Suite: your agentic teammate for answering questions and taking action&lt;/a&gt; được công bố ngày 9 tháng 10 năm 2025. Bản dịch tiếng Nhật được thực hiện bởi Technical Account Manager Satoshi Takebayashi.&lt;/p&gt;</description></item><item><title>Khởi động 'Bảng xếp hạng AI dành cho Engineer' nhằm hiển thị mức độ ứng dụng AI trong quy trình phát triển!</title><link>https://cola1605.github.io/posts/cybar_engineer_ai_ranking_vietnamese/</link><pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/cybar_engineer_ai_ranking_vietnamese/</guid><description>&lt;h1 id="khởi-động-bảng-xếp-hạng-ai-dành-cho-engineer-nhằm-hiển-thị-mức-độ-ứng-dụng-ai-trong-quy-trình-phát-triển"&gt;Khởi động &amp;lsquo;Bảng xếp hạng AI dành cho Engineer&amp;rsquo; nhằm hiển thị mức độ ứng dụng AI trong quy trình phát triển!&lt;/h1&gt;
+&lt;p&gt;&amp;ldquo;Bảng xếp hạng AI dành cho Engineer&amp;rdquo; nhằm hiển thị mức độ ứng dụng AI trong quy trình phát triển đã chính thức khởi động. Trong khi bảng xếp hạng toàn công ty tập trung đánh giá tác động kinh doanh và tạo giá trị doanh nghiệp, phiên bản dành cho Engineer sẽ đánh giá chủ yếu dựa trên chất lượng kỹ thuật và độ trưởng thành công nghệ.&lt;/p&gt;</description></item><item><title>【TOON】Kết Thúc Kỷ Nguyên JSON? Giải Thích Về TOON Đang Gây Chú Ý</title><link>https://cola1605.github.io/posts/qiita_toon_format_vietnamese/</link><pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/qiita_toon_format_vietnamese/</guid><description>&lt;h1 id="toonkết-thúc-kỷ-nguyên-json-giải-thích-về-toon-đang-gây-chú-ý"&gt;【TOON】Kết Thúc Kỷ Nguyên JSON? Giải Thích Về TOON Đang Gây Chú Ý&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Tác giả:&lt;/strong&gt; @shanks665&lt;br&gt;
+&lt;strong&gt;Ngày công khai:&lt;/strong&gt; 2025-11-17&lt;br&gt;
+&lt;strong&gt;Nguồn:&lt;/strong&gt; &lt;a href="https://qiita.com/shanks665/items/a5ec31706af9ffffc491"&gt;https://qiita.com/shanks665/items/a5ec31706af9ffffc491&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Thẻ:&lt;/strong&gt; #JSON #AI #Toon #LLM #AIエージェント&lt;/p&gt;
+&lt;h2 id="giới-thiệu"&gt;Giới thiệu&lt;/h2&gt;
+&lt;p&gt;Bạn có bao giờ lo lắng về chi phí API của LLM không? Khi truyền lượng lớn dữ liệu vào prompt, số lượng token tăng vọt khiến cả chi phí và thời gian phản hồi đều xấu đi.&lt;/p&gt;
+&lt;p&gt;Một trong những nguyên nhân là JSON. JSON được thiết kế để con người dễ đọc, nên có nhiều ký hiệu và lặp lại. Đối với LLM, đây là định dạng có nhiều lãng phí.&lt;/p&gt;</description></item><item><title>Claude Skills - Trang bị kiến thức chuyên môn cho AI để tự động hóa công việc</title><link>https://cola1605.github.io/posts/cyberagent_claude_skills/</link><pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/cyberagent_claude_skills/</guid><description>&lt;h1 id="claude-skills---trang-bị-kiến-thức-chuyên-môn-cho-ai-để-tự-động-hóa-công-việc"&gt;Claude Skills - Trang bị kiến thức chuyên môn cho AI để tự động hóa công việc&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Tác giả&lt;/strong&gt;: Lee Jun Ho (李 俊浩) - Phòng AI Operation&lt;br&gt;
+&lt;strong&gt;Ngày xuất bản&lt;/strong&gt;: 13/11/2025&lt;br&gt;
+&lt;strong&gt;Nguồn&lt;/strong&gt;: &lt;a href="https://git-generative-ai.services.isca.jp/article/business/bu034/"&gt;Cổng thông tin AI tạo sinh - CyberAgent&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="tóm-tắt-3-dòng"&gt;Tóm tắt 3 dòng&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Tính năng mới &amp;ldquo;Skills&amp;rdquo; của Claude cho phép AI đọc động kiến thức và quy trình cần thiết cho từng tác vụ cụ thể&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Có thể &amp;ldquo;dạy&amp;rdquo; AI các quy trình công việc thường dùng và kiến thức chuyên môn, tự động hóa các công việc lặp đi lặp lại&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Không cần kinh nghiệm phát triển, có thể áp dụng cho cải thiện hiệu suất và chia sẻ kiến thức trong tổ chức&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="giới-thiệu"&gt;Giới thiệu&lt;/h2&gt;
+&lt;p&gt;Bài viết này giới thiệu tính năng mới &lt;strong&gt;&amp;ldquo;Skills&amp;rdquo;&lt;/strong&gt; của Claude - cho phép &amp;ldquo;dạy&amp;rdquo; AI kiến thức chuyên môn một cách động, tự động hóa các tác vụ lặp đi lặp lại và cải thiện hiệu suất công việc đáng kể.&lt;/p&gt;</description></item><item><title>[Phỏng Vấn] Khi Độ Chính Xác AI Tăng 1%, Giá Trị Khách Hàng Là Bao Nhiêu? - freee và Chuyển Đổi AI Native</title><link>https://cola1605.github.io/posts/aws_freee_ai_transformation/</link><pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/aws_freee_ai_transformation/</guid><description>&lt;p&gt;&lt;strong&gt;Nguồn:&lt;/strong&gt; &lt;a href="https://aws.amazon.com/jp/blogs/news/freee-ai-native-transformation/"&gt;AWS Blog&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="tổng-quan"&gt;Tổng Quan&lt;/h2&gt;
+&lt;p&gt;Với sứ mệnh &amp;ldquo;Biến Doanh Nghiệp Nhỏ Thành Nhân Vật Chính của Thế Giới&amp;rdquo;, freee Inc. đã vẽ ra tầm nhìn &amp;ldquo;AI CFO&amp;rdquo; ngay từ khi thành lập. Với sự xuất hiện của LLM (Large Language Models - Mô hình Ngôn ngữ Lớn), công ty đã bắt đầu chuyển đổi toàn diện sang tổ chức AI native sử dụng AI sinh tạo. Bằng cách lựa chọn công nghệ, xây dựng cấu trúc tổ chức và đặc biệt là thiết lập framework độc đáo &amp;ldquo;Tiêu Chí Thành Công&amp;rdquo;, freee đã thúc đẩy việc ứng dụng AI trong toàn công ty. Công ty đã đạt được những thành tựu vững chắc như cải thiện tỷ lệ giải quyết hỗ trợ chat khoảng 50%, cải thiện hiệu suất bán hàng đáng kể, và cải cách cấu trúc trong dịch vụ BPaaS (Business Process as a Service). Chúng tôi đã phỏng vấn ông Kisamori, AI Product Manager, về toàn bộ quá trình chuyển đổi này.&lt;/p&gt;</description></item><item><title>Ngừng Lặp Lại: Lớp Context AI Bạn Đã Bỏ Lỡ - Global Steering</title><link>https://cola1605.github.io/posts/aws_kiro_global_steering_vietnamese/</link><pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/aws_kiro_global_steering_vietnamese/</guid><description>&lt;p&gt;&lt;strong&gt;Nguồn:&lt;/strong&gt; &lt;a href="https://aws.amazon.com/jp/blogs/news/stop-repeating-yourself/"&gt;AWS Blog&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Bài gốc:&lt;/strong&gt; &lt;a href="https://kiro.dev/blog/stop-repeating-yourself/"&gt;Kiro Blog - Stop Repeating Yourself&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="vấn-đề-lặp-đi-lặp-lại-cùng-một-điều"&gt;Vấn đề: Lặp đi lặp lại cùng một điều&lt;/h2&gt;
+&lt;p&gt;Bạn đã nói với AI assistant 47 lần rằng bạn muốn React component kiểu functional. 23 lần về việc sử dụng Prettier với semicolon. Và ít nhất 15 lần về việc test file phải đặt trong thư mục &lt;code&gt;__tests__&lt;/code&gt;, không đặt cạnh source code. Nghe quen không?&lt;/p&gt;
+&lt;p&gt;Đây không chỉ là vấn đề gây khó chịu - nó đang làm giảm năng suất của bạn. Mỗi khi setup project mới, bạn tốn 10-15 phút để giải thích lại những prompt bạn đã nói hàng chục lần. Đối với developer làm việc với 20 project mỗi năm, đó là hơn 5 giờ chỉ để lặp lại. Với team 50 người? Đó là 250 giờ mỗi năm để copy &amp;amp; paste cùng một standard qua các workspace.&lt;/p&gt;</description></item><item><title>Tăng cường AIOps – Giới thiệu Amazon CloudWatch và Application Signals MCP Servers</title><link>https://cola1605.github.io/posts/aws_cloudwatch_appsignals_mcp_aiops_vietnamese/</link><pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/aws_cloudwatch_appsignals_mcp_aiops_vietnamese/</guid><description>&lt;p&gt;&lt;strong&gt;Tác giả bản gốc:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Raviteja Sunkavalli - Senior Worldwide Specialist Solutions Architect (AIOps &amp;amp; Generative AI Observability)&lt;/li&gt;
+&lt;li&gt;Joe Alioto - Senior Specialist Solutions Architect (Cloud Operations)&lt;/li&gt;
+&lt;li&gt;Matheus Arrais - WW Tech Leader (Cloud Operations)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Dịch giả:&lt;/strong&gt; 日平 (Hibira) - Technical Account Manager&lt;br&gt;
+&lt;strong&gt;Nguồn:&lt;/strong&gt; AWS Blog (Japan)&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="tổng-quan"&gt;Tổng quan&lt;/h2&gt;
+&lt;p&gt;Trong các kiến trúc hiện đại, lượng dữ liệu observability khổng lồ được tạo ra trên các metrics, logs và traces. Khi vấn đề xảy ra, các team phải mất hàng giờ, thậm chí hàng ngày để liên kết thông tin thủ công trên nhiều dashboard nhằm xác định nguyên nhân gốc rễ, điều này ảnh hưởng trực tiếp đến thời gian sửa chữa trung bình (MTTR) và năng suất.&lt;/p&gt;</description></item><item><title>10 Công Cụ Hiện Đại Cho Developer Năm 2025 (Bao Gồm Open Source)</title><link>https://cola1605.github.io/posts/qiita_modern_developer_tools_2025_vietnamese/</link><pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/qiita_modern_developer_tools_2025_vietnamese/</guid><description>&lt;h1 id="10-công-cụ-hiện-đại-cho-developer-năm-2025-bao-gồm-open-source"&gt;10 Công Cụ Hiện Đại Cho Developer Năm 2025 (Bao Gồm Open Source)&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Danh mục:&lt;/strong&gt; Công cụ phát triển&lt;br&gt;
+&lt;strong&gt;Tác giả:&lt;/strong&gt; @itodaisuke99&lt;br&gt;
+&lt;strong&gt;Ngày công bố:&lt;/strong&gt; 2025年10月13日&lt;br&gt;
+&lt;strong&gt;Ngày cập nhật:&lt;/strong&gt; 2025年10月13日&lt;br&gt;
+&lt;strong&gt;Likes:&lt;/strong&gt; 55 | &lt;strong&gt;Stocks:&lt;/strong&gt; 40 | &lt;strong&gt;Comments:&lt;/strong&gt; 0&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bài viết gốc:&lt;/strong&gt; &lt;a href="https://qiita.com/itodaisuke99/items/d5b59d629d5620856a2a"&gt;https://qiita.com/itodaisuke99/items/d5b59d629d5620856a2a&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="mở-đầu"&gt;Mở Đầu&lt;/h2&gt;
+&lt;p&gt;Thành thật mà nói, trước đây tôi luôn nghĩ rằng &amp;ldquo;Mất thời gian chọn công cụ không bằng viết code cho nhanh&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Nhưng đầu năm nay, khi tham gia một hackathon, nhìn thấy các công cụ mà đồng đội sử dụng, suy nghĩ của tôi đã thay đổi. Họ thực hiện từ thiết kế API đến trực quan hóa dữ liệu một cách cực kỳ mượt mà. &lt;strong&gt;Công việc tôi mất 30 phút làm thủ công, họ hoàn thành trong 5 phút.&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Hiển thị mức độ ứng dụng AI của toàn bộ sự nghiệp, khởi động 'Bảng xếp hạng AI'!</title><link>https://cola1605.github.io/posts/cyberagent_ai_ranking_system_vietnamese/</link><pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/cyberagent_ai_ranking_system_vietnamese/</guid><description>&lt;h1 id="hiển-thị-mức-độ-ứng-dụng-ai-của-toàn-bộ-sự-nghiệp-khởi-động-bảng-xếp-hạng-ai"&gt;Hiển thị mức độ ứng dụng AI của toàn bộ sự nghiệp, khởi động &amp;ldquo;Bảng xếp hạng AI&amp;rdquo;!&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Tác giả:&lt;/strong&gt; Đội biên tập Phòng Thúc đẩy Văn hóa&lt;br&gt;
+&lt;strong&gt;Ngày đăng:&lt;/strong&gt; 8 tháng 10, 2025&lt;br&gt;
+&lt;strong&gt;Danh mục:&lt;/strong&gt; Công nghệ, Generative AI&lt;br&gt;
+&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://cybar.cag.isca.jp/?p=135542"&gt;https://cybar.cag.isca.jp/?p=135542&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="bối-cảnh-dẫn-đến-việc-tổ-chức"&gt;Bối cảnh dẫn đến việc tổ chức&lt;/h2&gt;
+&lt;p&gt;Đã khoảng 2 năm kể từ khi toàn công ty bắt đầu ứng dụng AI thông qua các sáng kiến toàn công ty như cuộc thi ứng dụng triệt để AI sinh tạo và reskilling hiểu biết triệt để, cũng như các nỗ lực của từng bộ phận kinh doanh. Tôi nghĩ nhiều tổ chức đã đến giai đoạn mà việc sử dụng AI như một lựa chọn đã trở thành điều hiển nhiên, nhưng từ giờ trở đi, việc tận dụng AI như một thế mạnh của doanh nghiệp và dịch vụ sẽ dẫn đến việc cải thiện khả năng cạnh tranh của toàn bộ CyberAgent.&lt;/p&gt;</description></item><item><title>Bắt đầu xây dựng AI Agent trên AWS! Triển khai Strands lên AgentCore</title><link>https://cola1605.github.io/posts/qiita_aws_ai_agent_strandsagentcore_vietnamese/</link><pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/qiita_aws_ai_agent_strandsagentcore_vietnamese/</guid><description>&lt;h1 id="bắt-đầu-xây-dựng-ai-agent-trên-aws-triển-khai-strands-lên-agentcore"&gt;Bắt đầu xây dựng AI Agent trên AWS! Triển khai Strands lên AgentCore&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Tác giả:&lt;/strong&gt; minorun365&lt;br&gt;
+&lt;strong&gt;Ngày xuất bản:&lt;/strong&gt; 2025-10-04&lt;br&gt;
+&lt;strong&gt;Nguồn:&lt;/strong&gt; &lt;a href="https://qiita.com/minorun365/items/deb10c8e7a6b1219e595"&gt;Qiita&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="tóm-tắt"&gt;Tóm tắt&lt;/h2&gt;
+&lt;p&gt;Hướng dẫn thực hành xây dựng và triển khai AI Agent bằng framework Strands và AWS AgentCore. Từ việc tạo AI agent đơn giản 3 dòng code, đến tích hợp công cụ, sử dụng MCP server, cấu trúc multi-agent, và cuối cùng là triển khai trên môi trường serverless.&lt;/p&gt;</description></item><item><title>CyberAgent AI Studio: Tips và công nghệ Virtual Production để quảng cáo hiệu quả</title><link>https://cola1605.github.io/ja/posts/cyberagent_ai_studio_tips_promise_commercial_vietnamese/</link><pubDate>Fri, 03 Oct 2025 13:00:00 +0700</pubDate><guid>https://cola1605.github.io/ja/posts/cyberagent_ai_studio_tips_promise_commercial_vietnamese/</guid><description>&lt;h2 id="1-cpa-cải-thiện-15-tiktok-đạt-6000-lượt-thích--hiệu-quả-quay-phim-tại-studio"&gt;1. CPA Cải Thiện 15%, TikTok Đạt 6,000 Lượt Thích ── Hiệu Quả Quay Phim Tại Studio&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Anh Kawakubo&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Trong series mới lần này, chúng tôi có phương châm sản xuất hàng loạt creative theo mục tiêu × cảnh quay và triển khai quảng cáo video được cá nhân hóa cho từng người dùng. Trong đó, chúng tôi đã đưa ra quyết định &amp;ldquo;&lt;strong&gt;Nếu là quay phim hàng loạt thì nên sử dụng Extreme AI Odaiba&lt;/strong&gt;&amp;rdquo;, và quyết định quay phim tại Extreme AI Odaiba Studio.&lt;/p&gt;</description></item><item><title>CyberAgent AI Studio: Tips và công nghệ Virtual Production để quảng cáo hiệu quả</title><link>https://cola1605.github.io/posts/cyberagent_ai_studio_tips_promise_commercial_vietnamese/</link><pubDate>Fri, 03 Oct 2025 13:00:00 +0700</pubDate><guid>https://cola1605.github.io/posts/cyberagent_ai_studio_tips_promise_commercial_vietnamese/</guid><description>&lt;h1 id="extreme-ai-odaiba-studio-tips-3-kết-hợp-công-nghệ-studio-và-ai-sinh-tạo-để-đạt-được-hiệu-quả-quảng-cáo-và-chất-lượng-cao--phần-promise-"&gt;&amp;ldquo;Extreme AI Odaiba Studio Tips&amp;rdquo; #3 Kết Hợp Công Nghệ Studio và AI Sinh Tạo để Đạt Được Hiệu Quả Quảng Cáo và Chất Lượng Cao ~ Phần &amp;ldquo;Promise&amp;rdquo; ~&lt;/h1&gt;
+&lt;h2 id="thông-tin-bài-viết"&gt;Thông Tin Bài Viết&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ngày&lt;/strong&gt;: 4 tháng 8, 2025&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Danh mục&lt;/strong&gt;: Bộ phận Kinh doanh Quảng cáo Internet, Kinh doanh, Công nghệ, AI Sinh tạo&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;URL&lt;/strong&gt;: &lt;a href="https://cybar.cag.isca.jp/?p=133799"&gt;https://cybar.cag.isca.jp/?p=133799&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="tổng-quan"&gt;Tổng Quan&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Extreme AI Odaiba Studio Tips&amp;rdquo; chia sẻ các công nghệ Virtual Production, thành quả quảng cáo video và hậu trường sản xuất thông qua các ví dụ thực tế từ Extreme AI Odaiba Studio, cùng với tiếng nói từ hiện trường.&lt;/p&gt;</description></item><item><title>Chiến lược mở rộng Annotation Center: Tương lai của AI và dữ liệu</title><link>https://cola1605.github.io/ja/posts/annotation_center_expansion_vietnamese/</link><pubDate>Fri, 03 Oct 2025 12:00:00 +0700</pubDate><guid>https://cola1605.github.io/ja/posts/annotation_center_expansion_vietnamese/</guid><description>&lt;p&gt;&lt;strong&gt;Metadata Bài viết:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ID Nguồn: p=115507&lt;/li&gt;
+&lt;li&gt;Ngày Crawl: 18 tháng 1, 2025&lt;/li&gt;
+&lt;li&gt;Số từ Ước tính: 2.500 từ&lt;/li&gt;
+&lt;li&gt;Thời gian Đọc Ước tính: 10 phút&lt;/li&gt;
+&lt;li&gt;Loại Nội dung: Phỏng vấn Nhiều người tham gia&lt;/li&gt;
+&lt;li&gt;Trọng tâm Chính: Hạ tầng Dữ liệu AI, Dịch vụ Chú thích, Chiến lược AI Toàn công ty&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Thẻ:&lt;/strong&gt; AI Tạo sinh, Chú thích Dữ liệu, Chất lượng Dữ liệu, Học máy, Ứng dụng AI Toàn công ty, Phỏng vấn Kỹ thuật, CyberAgent, Khoa học Dữ liệu, Kinh doanh AI, Chuyển đổi Số&lt;/p&gt;</description></item><item><title>Chiến lược mở rộng Annotation Center: Tương lai của AI và dữ liệu</title><link>https://cola1605.github.io/posts/annotation_center_expansion_vietnamese/</link><pubDate>Fri, 03 Oct 2025 12:00:00 +0700</pubDate><guid>https://cola1605.github.io/posts/annotation_center_expansion_vietnamese/</guid><description>&lt;h1 id="chiến-lược-mở-rộng-annotation-center-tương-lai-của-ai-và-dữ-liệu"&gt;Chiến lược mở rộng Annotation Center: Tương lai của AI và dữ liệu&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Nguồn:&lt;/strong&gt; Tin tức công nghệ&lt;br&gt;
+&lt;strong&gt;Xuất bản:&lt;/strong&gt; 2025-04-11&lt;br&gt;
+&lt;strong&gt;Chủ đề:&lt;/strong&gt; AI, Annotation, Machine Learning&lt;/p&gt;
+&lt;h2 id="tóm-tắt"&gt;Tóm tắt&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Trung tâm Chú thích&amp;rdquo; tại CyberAgent nâng cao chất lượng dữ liệu qua các đơn vị kinh doanh khác nhau để thúc đẩy việc ứng dụng AI toàn công ty. Takuma Kobayashi (Giám đốc Trung tâm Chú thích) phỏng vấn Ryuma Sunagawa (Quản lý Trung tâm Chú thích) và Sora Inagaki (Cố vấn Chuyên gia Đa phương thức) về tầm quan trọng và tiềm năng của công việc chú thích. Bài viết này bao gồm bối cảnh quyết định mở rộng Trung tâm Chú thích, triển vọng tương lai và tác động kinh doanh được tạo ra thông qua việc chú thích.&lt;/p&gt;</description></item><item><title>Woman AI Meet Lounge: Tăng cường kết nối AI và phụ nữ trong công nghệ</title><link>https://cola1605.github.io/ja/posts/woman_ai_meet_lounge_vietnamese/</link><pubDate>Thu, 02 Oct 2025 10:00:00 +0700</pubDate><guid>https://cola1605.github.io/ja/posts/woman_ai_meet_lounge_vietnamese/</guid><description>&lt;h2 id="thông-điệp-từ-ban-tổ-chức-sự-kiện-ueno-chihiro--giám-đốc-điều-hành-aiオペレーション室"&gt;Thông điệp từ ban tổ chức sự kiện: Ueno Chihiro / Giám đốc điều hành AIオペレーション室&lt;/h2&gt;
+&lt;p&gt;AI nghe có vẻ như là một rào cản cao, nhưng đối với các nhân viên CyberAgent - những người luôn tiếp tục thử thách mới trong mọi lĩnh vực để xây dựng công ty - đây thực sự là một mảng kinh doanh mới rất thú vị và đầy hứng khởi.&lt;/p&gt;
+&lt;p&gt;Với tư cách là những đồng nghiệp đang đối mặt với AI trong thời điểm này, chúng tôi bắt đầu từ mong muốn có thể tích cực tạo dựng mối liên kết ngang giữa các nữ nhân viên trong các mảng kinh doanh liên quan đến AI, và đã tổ chức sự kiện &amp;ldquo;Woman AI Meet Lounge&amp;rdquo; với chủ đề AI × Phụ nữ vào ngày 22 tháng 1, 2025 (Thứ Tư). Tại sự kiện này, chúng tôi đã mời các nhân viên đang hoạt động tích cực trong các mảng kinh doanh liên quan đến AI lên sân khấu, và chia sẻ nội dung về việc cùng nhau sử dụng AI sinh tạo để tối ưu hóa công việc, từ đó tăng thêm thời gian mà 私たち có thể tạo ra.&lt;/p&gt;</description></item><item><title>Woman AI Meet Lounge: Tăng cường kết nối AI và phụ nữ trong công nghệ</title><link>https://cola1605.github.io/posts/woman_ai_meet_lounge_vietnamese/</link><pubDate>Thu, 02 Oct 2025 10:00:00 +0700</pubDate><guid>https://cola1605.github.io/posts/woman_ai_meet_lounge_vietnamese/</guid><description>&lt;h1 id="tăng-cường-kết-nối-ngang-giữa-các-mảng-kinh-doanh-liên-quan-đến-ai-để-củng-cố-năng-lực-ai-sinh-tạo-toàn-công-ty---sự-kiện-woman-ai-meet-lounge-với-chủ-đề-ai--phụ-nữ"&gt;Tăng cường kết nối ngang giữa các mảng kinh doanh liên quan đến AI để củng cố năng lực AI sinh tạo toàn công ty - Sự kiện &amp;ldquo;Woman AI Meet Lounge&amp;rdquo; với chủ đề AI × Phụ nữ&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Ngày xuất bản:&lt;/strong&gt; 4 tháng 4, 2025&lt;br&gt;
+&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://cybar.cag.isca.jp/?p=125055"&gt;https://cybar.cag.isca.jp/?p=125055&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Thể loại:&lt;/strong&gt; AI sinh tạo&lt;/p&gt;
+&lt;h2 id="tổng-quan-sự-kiện"&gt;Tổng quan sự kiện&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Tên sự kiện:&lt;/strong&gt; Woman AI Meet Lounge&lt;br&gt;
+&lt;strong&gt;Ngày tổ chức:&lt;/strong&gt; 22 tháng 1, 2025 (Thứ Tư)&lt;br&gt;
+&lt;strong&gt;Chủ đề:&lt;/strong&gt; AI × Phụ nữ&lt;br&gt;
+&lt;strong&gt;Số lượng tham gia:&lt;/strong&gt; 68 người (bao gồm cả nhân viên nghỉ thai sản)&lt;br&gt;
+&lt;strong&gt;Mục đích:&lt;/strong&gt; Tích cực tạo dựng mối liên kết ngang giữa các nữ nhân viên trong các mảng kinh doanh liên quan đến AI&lt;/p&gt;</description></item><item><title>Hướng dẫn nhập môn StrandsAgents</title><link>https://cola1605.github.io/ja/posts/qiita_strands_agents_guide_vi/</link><pubDate>Thu, 02 Oct 2025 08:00:00 +0700</pubDate><guid>https://cola1605.github.io/ja/posts/qiita_strands_agents_guide_vi/</guid><description>&lt;h2 id="mở-đầu"&gt;Mở đầu&lt;/h2&gt;
+&lt;p&gt;Gần đây, có rất nhiều framework dành cho agent được ra mắt, và trong số đó tôi bắt đầu thấy tên &amp;ldquo;StrandsAgents&amp;rdquo; xuất hiện và cảm thấy tò mò nên quyết định thử nghiệm. StrandsAgents là một lightweight framework cho phép định nghĩa agent với cấu trúc khá đơn giản. Trong 記事 này, tôi sẽ giới thiệu đầy đủ từ việc thiết lập môi trường cơ bản để bắt đầu sử dụng StrandsAgents, cách gọi model, đến cách tích hợp các tool (hàm bên ngoài).&lt;/p&gt;</description></item><item><title>Hướng dẫn nhập môn StrandsAgents</title><link>https://cola1605.github.io/posts/qiita_strands_agents_guide_vi/</link><pubDate>Thu, 02 Oct 2025 08:00:00 +0700</pubDate><guid>https://cola1605.github.io/posts/qiita_strands_agents_guide_vi/</guid><description>&lt;h1 id="hướng-dẫn-nhập-môn-strandsagents"&gt;Hướng dẫn nhập môn StrandsAgents&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Tác giả:&lt;/strong&gt; @yakumo_09 (やくも)&lt;br&gt;
+&lt;strong&gt;Xuất bản:&lt;/strong&gt; 2025-09-27&lt;br&gt;
+&lt;strong&gt;Nguồn:&lt;/strong&gt; &lt;a href="https://qiita.com/yakumo_09/items/f85a8a0634e30b0d756c"&gt;Qiita&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Likes:&lt;/strong&gt; 17 | &lt;strong&gt;Stocks:&lt;/strong&gt; 13&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="mở-đầu"&gt;Mở đầu&lt;/h2&gt;
+&lt;p&gt;Gần đây, có rất nhiều framework dành cho agent được ra mắt, và trong số đó tôi bắt đầu thấy tên &amp;ldquo;StrandsAgents&amp;rdquo; xuất hiện và cảm thấy tò mò nên quyết định thử nghiệm. StrandsAgents là một lightweight framework cho phép định nghĩa agent với cấu trúc khá đơn giản. Trong bài viết này, tôi sẽ giới thiệu đầy đủ từ việc thiết lập môi trường cơ bản để bắt đầu sử dụng StrandsAgents, cách gọi model, đến cách tích hợp các tool (hàm bên ngoài).&lt;/p&gt;</description></item><item><title>Kỹ sư cần biết về chiến lược kinh doanh</title><link>https://cola1605.github.io/ja/posts/qiita_engineer_business_strategy_2025_vietnamese/</link><pubDate>Thu, 02 Oct 2025 07:00:00 +0700</pubDate><guid>https://cola1605.github.io/ja/posts/qiita_engineer_business_strategy_2025_vietnamese/</guid><description>&lt;p&gt;&lt;strong&gt;Tài liệu tham khảo:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Team Topologies - Thiết kế tổ chức thích ứng để cung cấp phần mềm có giá trị một cách nhanh chóng&lt;/li&gt;
+&lt;li&gt;Lời mời đến lý thuyết tổ chức Engineering - Tư duy và refactoring tổ chức đối mặt với sự không chắc chắn&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Kỹ sư cần biết về chiến lược kinh doanh</title><link>https://cola1605.github.io/posts/qiita_engineer_business_strategy_2025_vietnamese/</link><pubDate>Thu, 02 Oct 2025 07:00:00 +0700</pubDate><guid>https://cola1605.github.io/posts/qiita_engineer_business_strategy_2025_vietnamese/</guid><description>&lt;h1 id="kỹ-sư-cần-biết-về-chiến-lược-kinh-doanh"&gt;Kỹ sư cần biết về chiến lược kinh doanh&lt;/h1&gt;
+&lt;h2 id="thông-tin-bài-viết"&gt;Thông tin bài viết&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Tác giả&lt;/strong&gt;: morry_48 (@morry_48)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ngày phát hành&lt;/strong&gt;: 2025-03-03&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ngày cập nhật&lt;/strong&gt;: 2025-03-11&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;URL&lt;/strong&gt;: &lt;a href="https://qiita.com/morry_48/items/274bdc42ac2e94f8ecdc"&gt;https://qiita.com/morry_48/items/274bdc42ac2e94f8ecdc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Thẻ&lt;/strong&gt;: Bài viết cảm nghĩ, AI, Tổ chức, Cảm nhận, Chiến lược&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lượt thích&lt;/strong&gt;: 298&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lượt stock&lt;/strong&gt;: 228&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bình luận&lt;/strong&gt;: 1&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="mục-lục"&gt;Mục lục&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="#gi%E1%BB%9Bi-thi%E1%BB%87u"&gt;Giới thiệu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#cursor"&gt;Cursor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#bill-one"&gt;Bill One&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#t%E1%BB%95-ch%E1%BB%A9c-%C4%91%E1%BA%A1t-%C4%91%C6%B0%E1%BB%A3c-t%E1%BB%91c-%C4%91%E1%BB%99-t%C4%83ng-tr%C6%B0%E1%BB%9Fng-nhanh-nh%E1%BA%A5t-th%E1%BA%BF-gi%E1%BB%9Bi-v%C3%A0-k%E1%BA%BFt-qu%E1%BA%A3-s%E1%BB%91-1-nh%E1%BA%ADt-b%E1%BA%A3n"&gt;Tổ chức đạt được tốc độ tăng trưởng nhanh nhất thế giới và kết quả số 1 Nhật Bản&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#n%C3%BAt-th%E1%BA%AFt-c%E1%BB%95-chai-trong-th%E1%BB%9Di-%C4%91%E1%BA%A1i-ai"&gt;Nút thắt cổ chai trong thời đại AI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#n%E1%BB%A3-k%E1%BB%B9-thu%E1%BA%ADt---k%E1%BA%BB-m%E1%BA%A1nh-%C4%91%C3%A1ng-g%E1%BB%9Dm"&gt;Nợ kỹ thuật - kẻ mạnh đáng gờm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#l%C3%A0m-th%E1%BA%BF-n%C3%A0o-%C4%91%E1%BB%83-ph%C3%A1t-tri%E1%BB%83n-nhanh-h%C6%A1n-ngo%C3%A0i-vi%E1%BB%87c-kh%E1%BB%9Fi-nghi%E1%BB%87p-m%E1%BB%9Bi"&gt;Làm thế nào để phát triển nhanh hơn ngoài việc khởi nghiệp mới?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="giới-thiệu"&gt;Giới thiệu&lt;/h2&gt;
+&lt;p&gt;Xin chào, tôi là chú chim munia muốn có ngực rộng.&lt;/p&gt;</description></item><item><title>Tóm tắt hướng dẫn StrandsAgents: Công cụ AI mạnh mẽ cho developers</title><link>https://cola1605.github.io/ja/posts/qiita_strands_agents_guide_summary_vi/</link><pubDate>Thu, 02 Oct 2025 05:00:00 +0700</pubDate><guid>https://cola1605.github.io/ja/posts/qiita_strands_agents_guide_summary_vi/</guid><description/></item><item><title>Tóm tắt hướng dẫn StrandsAgents: Công cụ AI mạnh mẽ cho developers</title><link>https://cola1605.github.io/posts/qiita_strands_agents_guide_summary_vi/</link><pubDate>Thu, 02 Oct 2025 05:00:00 +0700</pubDate><guid>https://cola1605.github.io/posts/qiita_strands_agents_guide_summary_vi/</guid><description>&lt;h1 id="tóm-tắt-hướng-dẫn-strandsagents-công-cụ-ai-mạnh-mẽ-cho-developers"&gt;Tóm tắt hướng dẫn StrandsAgents: Công cụ AI mạnh mẽ cho developers&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Tác giả:&lt;/strong&gt; @yakumo_09 (やくも)&lt;br&gt;
+&lt;strong&gt;Xuất bản:&lt;/strong&gt; 2025-09-27&lt;br&gt;
+&lt;strong&gt;Nguồn:&lt;/strong&gt; &lt;a href="https://qiita.com/yakumo_09/items/f85a8a0634e30b0d756c"&gt;Qiita&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="tóm-tắt-chính"&gt;Tóm tắt chính&lt;/h2&gt;
+&lt;p&gt;StrandsAgents là một công cụ AI mạnh mẽ được xây dựng trên AWS Bedrock, giúp developers tăng cường hiệu quả trong quá trình phát triển phần mềm.&lt;/p&gt;
+&lt;h3 id="điểm-nổi-bật"&gt;Điểm nổi bật:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Tích hợp seamless với VS Code&lt;/li&gt;
+&lt;li&gt;Sử dụng AWS Bedrock để xử lý AI&lt;/li&gt;
+&lt;li&gt;Hỗ trợ multiple programming languages&lt;/li&gt;
+&lt;li&gt;Interface thân thiện với developer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="cách-sử-dụng-cơ-bản"&gt;Cách sử dụng cơ bản:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Cài đặt extension trong VS Code&lt;/li&gt;
+&lt;li&gt;Cấu hình AWS credentials&lt;/li&gt;
+&lt;li&gt;Kết nối với Bedrock service&lt;/li&gt;
+&lt;li&gt;Bắt đầu sử dụng AI assistant&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Để xem hướng dẫn chi tiết, vui lòng tham khảo &lt;a href="https://cola1605.github.io/posts/qiita_strands_agents_guide_vi/"&gt;bài viết đầy đủ&lt;/a&gt;.&lt;/p&gt;</description></item></channel></rss>

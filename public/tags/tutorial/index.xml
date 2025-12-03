@@ -1,26 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tutorial on SYSTEM_NEWS</title>
-    <link>https://cola1605.github.io/tags/tutorial/</link>
-    <description>Recent content in Tutorial on SYSTEM_NEWS</description>
-    <generator>Hugo</generator>
-    <language>vi</language>
-    <lastBuildDate>Thu, 13 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://cola1605.github.io/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Deploy ứng dụng container dễ dàng với AWS App Runner</title>
-      <link>https://cola1605.github.io/posts/qiita_aws_app_runner_container_deployment/</link>
-      <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/posts/qiita_aws_app_runner_container_deployment/</guid>
-      <description>&lt;h1 id=&#34;deploy-ứng-dụng-container-dễ-dàng-với-aws-app-runner&#34;&gt;Deploy ứng dụng container dễ dàng với AWS App Runner&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tác giả&lt;/strong&gt;: YuNagura (Yu Nagura) - BIPROGY株式会社&lt;br&gt;&#xA;&lt;strong&gt;Ngày xuất bản&lt;/strong&gt;: 13 tháng 11 năm 2025&lt;br&gt;&#xA;&lt;strong&gt;Nguồn&lt;/strong&gt;: &lt;a href=&#34;https://qiita.com/YuNagura/items/d42f2cd6c60d9723931e&#34;&gt;Qiita&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;tổng-quan&#34;&gt;Tổng quan&lt;/h2&gt;&#xA;&lt;p&gt;Bài viết giới thiệu các bước thực hành xây dựng container application sử dụng AWS App Runner. Với các đặc điểm serverless, auto-scaling và auto-deploy, App Runner cho phép deploy một web bulletin board app đơn giản từ ECR và kiểm tra hoạt động. Có thể xây dựng dễ dàng từ Management Console, là môi trường lý tưởng cho việc kiểm thử container applications.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tích hợp Bootstrap vào Angular để tạo trang web với thiết kế chuyên nghiệp một cách dễ dàng</title>
-      <link>https://cola1605.github.io/posts/qiita_angular_bootstrap_guide_vietnamese/</link>
-      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://cola1605.github.io/posts/qiita_angular_bootstrap_guide_vietnamese/</guid>
-      <description>&lt;h1 id=&#34;tích-hợp-bootstrap-vào-angular-để-tạo-trang-web-với-thiết-kế-chuyên-nghiệp-một-cách-dễ-dàng&#34;&gt;Tích hợp Bootstrap vào Angular để tạo trang web với thiết kế chuyên nghiệp một cách dễ dàng&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tác giả:&lt;/strong&gt; Tsurukawauchi_Jin&lt;br&gt;&#xA;&lt;strong&gt;Tổ chức:&lt;/strong&gt; Công ty TNHH Cleaveware (株式会社クリーブウェア)&lt;br&gt;&#xA;&lt;strong&gt;Ngày xuất bản:&lt;/strong&gt; 30 tháng 10, 2025&lt;br&gt;&#xA;&lt;strong&gt;Ngày cập nhật:&lt;/strong&gt; 30 tháng 10, 2025&lt;br&gt;&#xA;&lt;strong&gt;Thẻ:&lt;/strong&gt; HTML, CSS, Bootstrap, Angular, Dành cho người mới bắt đầu&lt;br&gt;&#xA;&lt;strong&gt;Nguồn:&lt;/strong&gt; &lt;a href=&#34;https://qiita.com/Tsurukawauchi_Jin/items/d96b3e9e0bf0a332112b&#34;&gt;Qiita&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;bootstrap-là-gì&#34;&gt;Bootstrap là gì?&lt;/h2&gt;&#xA;&lt;p&gt;Bootstrap là framework mã nguồn mở được phát triển bởi các kỹ sư của công ty Twitter cũ, bao gồm HTML, CSS và JavaScript, giúp phát triển website một cách hiệu quả.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tutorial on SYSTEM_NEWS</title><link>https://cola1605.github.io/tags/tutorial/</link><description>Recent content in Tutorial on SYSTEM_NEWS</description><generator>Hugo</generator><language>vi</language><lastBuildDate>Thu, 13 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cola1605.github.io/tags/tutorial/index.xml" rel="self" type="application/rss+xml"/><item><title>Deploy ứng dụng container dễ dàng với AWS App Runner</title><link>https://cola1605.github.io/posts/qiita_aws_app_runner_container_deployment/</link><pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/qiita_aws_app_runner_container_deployment/</guid><description>&lt;h1 id="deploy-ứng-dụng-container-dễ-dàng-với-aws-app-runner"&gt;Deploy ứng dụng container dễ dàng với AWS App Runner&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Tác giả&lt;/strong&gt;: YuNagura (Yu Nagura) - BIPROGY株式会社&lt;br&gt;
+&lt;strong&gt;Ngày xuất bản&lt;/strong&gt;: 13 tháng 11 năm 2025&lt;br&gt;
+&lt;strong&gt;Nguồn&lt;/strong&gt;: &lt;a href="https://qiita.com/YuNagura/items/d42f2cd6c60d9723931e"&gt;Qiita&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="tổng-quan"&gt;Tổng quan&lt;/h2&gt;
+&lt;p&gt;Bài viết giới thiệu các bước thực hành xây dựng container application sử dụng AWS App Runner. Với các đặc điểm serverless, auto-scaling và auto-deploy, App Runner cho phép deploy một web bulletin board app đơn giản từ ECR và kiểm tra hoạt động. Có thể xây dựng dễ dàng từ Management Console, là môi trường lý tưởng cho việc kiểm thử container applications.&lt;/p&gt;</description></item><item><title>Tích hợp Bootstrap vào Angular để tạo trang web với thiết kế chuyên nghiệp một cách dễ dàng</title><link>https://cola1605.github.io/posts/qiita_angular_bootstrap_guide_vietnamese/</link><pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/qiita_angular_bootstrap_guide_vietnamese/</guid><description>&lt;h1 id="tích-hợp-bootstrap-vào-angular-để-tạo-trang-web-với-thiết-kế-chuyên-nghiệp-một-cách-dễ-dàng"&gt;Tích hợp Bootstrap vào Angular để tạo trang web với thiết kế chuyên nghiệp một cách dễ dàng&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Tác giả:&lt;/strong&gt; Tsurukawauchi_Jin&lt;br&gt;
+&lt;strong&gt;Tổ chức:&lt;/strong&gt; Công ty TNHH Cleaveware (株式会社クリーブウェア)&lt;br&gt;
+&lt;strong&gt;Ngày xuất bản:&lt;/strong&gt; 30 tháng 10, 2025&lt;br&gt;
+&lt;strong&gt;Ngày cập nhật:&lt;/strong&gt; 30 tháng 10, 2025&lt;br&gt;
+&lt;strong&gt;Thẻ:&lt;/strong&gt; HTML, CSS, Bootstrap, Angular, Dành cho người mới bắt đầu&lt;br&gt;
+&lt;strong&gt;Nguồn:&lt;/strong&gt; &lt;a href="https://qiita.com/Tsurukawauchi_Jin/items/d96b3e9e0bf0a332112b"&gt;Qiita&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="bootstrap-là-gì"&gt;Bootstrap là gì?&lt;/h2&gt;
+&lt;p&gt;Bootstrap là framework mã nguồn mở được phát triển bởi các kỹ sư của công ty Twitter cũ, bao gồm HTML, CSS và JavaScript, giúp phát triển website một cách hiệu quả.&lt;/p&gt;</description></item></channel></rss>
