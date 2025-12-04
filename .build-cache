@@ -152,3 +152,5 @@ aws-cloudfront-viewer-mtls.md:1764812263
 aws-dynamodb-data-model-validation.md:1764812263
 aws-transform-custom.md:1764813294
 aws-transform-mainframe.md:1764813294
+cyberagent-ssh-authentication.md:1764814502
+cyberagent-typescript-compiler-linter.md:1764814502
