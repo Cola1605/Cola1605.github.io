@@ -148,3 +148,5 @@ aws-opensearch-cluster-insights.md:1764807986
 aws-route53-global-resolver.md:1764751689
 aws-octus-opensearch-migration.md:1764811531
 aws-opensearch-gpu-acceleration.md:1764811531
+aws-cloudfront-viewer-mtls.md:1764812263
+aws-dynamodb-data-model-validation.md:1764812263
