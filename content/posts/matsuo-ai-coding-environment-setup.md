@@ -1,6 +1,6 @@
 ---
 title: "Cách Xây Dựng Môi Trường Thực Hành AI Coding【Tháng 12 năm 2025】"
-date: 2025-12-04T21:00:00+09:00
+date: 2025-12-04T11:45:00+09:00
 draft: false
 categories: ["Development", "AI and Machine Learning", "DevOps and Infrastructure"]
 tags: ["LLM", "SDD", "Claude Code", "AI Coding", "Development Tools", "MCP", "GitHub CLI"]

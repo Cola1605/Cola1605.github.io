@@ -1,6 +1,6 @@
 ---
 title: "Spec-Driven Development Thân Thiện Với Mắt: Hiệu Ứng Blueberry của spec-workflow-mcp"
-date: 2025-12-04T20:00:00+09:00
+date: 2025-12-04T11:30:00+09:00
 draft: false
 categories: ["Development", "AI and Machine Learning", "DevOps and Infrastructure"]
 tags: ["AI", "LLM", "Claude", "SDD", "Spec-Driven Development", "MCP", "spec-workflow-mcp", "Developer Experience"]

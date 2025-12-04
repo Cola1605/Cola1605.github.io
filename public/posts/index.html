@@ -1,74 +1,811 @@
-<!doctype html><html class=no-js lang=en><head><meta charset=UTF-8><meta name=viewport content="width=device-width,initial-scale=1"><title>Posts - SYSTEM_NEWS</title><script>(function(e,t){e[t]=e[t].replace("no-js","js")})(document.documentElement,"className")</script><meta name=description content><meta property="og:url" content="https://cola1605.github.io/posts/"><meta property="og:site_name" content="SYSTEM_NEWS"><meta property="og:title" content="Posts"><meta property="og:description" content="Blog cá nhân chia sẻ kiến thức về lập trình, AI và công nghệ."><meta property="og:locale" content="vi"><meta property="og:type" content="website"><link rel=preconnect href=https://fonts.gstatic.com crossorigin><link rel=dns-prefetch href=//fonts.googleapis.com><link rel=dns-prefetch href=//fonts.gstatic.com><link rel=stylesheet href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700"><link rel=stylesheet href=https://cola1605.github.io/css/style.css><link rel=alternate type=application/rss+xml href=/posts/index.xml title=SYSTEM_NEWS><link rel="shortcut icon" href=/favicon.ico></head><body class=body><div class="container container--outer"><header class=site-header><div class="container flex"><a href=/ class=logo>SYSTEM_NEWS</a><nav class=nav><a href=/>Trang chủ</a>
-<a href=/posts/>Bài viết</a>
-<a href=/about/>Giới thiệu</a></nav></div></header><div class="wrapper flex"><div class=primary><main class=main role=main><div class=main__header><h1 class=main__title>Posts</h1></div><div class=list><article class="list__item post"><header class=list__header><h2 class="list__title post__title"><a href=/posts/aws-opensearch-gpu-acceleration/ rel=bookmark>Amazon OpenSearch Service Cải thiện Hiệu suất và Chi phí Vector Database với GPU Acceleration và Auto-optimization</a></h2><div class="list__meta meta"><div class="meta__item-datetime meta__item"><svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="m15 0c8.3.0 15 6.7 15 15s-6.7 15-15 15S0 23.3.0 15 6.7.0 15 0zm0 28c7.2.0 13-5.8 13-13S22.2 2 15 2 2 7.8 2 15s5.8 13 13 13zm5-13h-6V9c0-.6-.4-1-1-1s-1 .4-1 1v7c0 .6.4 1 1 1h7c.6.0 1-.4 1-1s-.4-1-1-1z"/></svg>
-<time class=meta__text datetime=2025-12-04T12:00:00+09:00>04/12/2025</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2 1 2h8v11H0V2z"/></svg>
-<span class=meta__text><a class=meta__link href=/categories/cloud rel=category>Cloud</a>
-,
-<a class=meta__link href=/categories/data-and-analytics rel=category>Data and Analytics</a>
-,
-<a class=meta__link href=/categories/ai-and-machine-learning rel=category>AI and Machine Learning</a></span></div></div></header><div class="list__excerpt post__content clearfix"><h1 id=amazon-opensearch-service-cải-thiện-hiệu-suất-và-chi-phí-vector-database-với-gpu-acceleration-và-auto-optimization>Amazon OpenSearch Service Cải thiện Hiệu suất và Chi phí Vector Database với GPU Acceleration và Auto-optimization</h1><h2 id=giới-thiệu>Giới thiệu</h2><p>Hôm nay, Amazon OpenSearch Service công bố tính năng <strong>GPU acceleration serverless</strong> và <strong>auto-optimization cho vector index</strong>, cho phép xây dựng vector database quy mô lớn nhanh hơn và tiết kiệm chi phí hơn, đồng thời tự động tối ưu hóa vector index để đạt được sự cân bằng tối ưu giữa chất lượng tìm kiếm, tốc độ và chi phí.</p></div><div class=list__footer><a class="list__footer-readmore btn" href=/posts/aws-opensearch-gpu-acceleration/ rel=bookmark>Đọc tiếp</a></div></article><article class="list__item post"><header class=list__header><h2 class="list__title post__title"><a href=/posts/aws-opensearch-cluster-insights/ rel=bookmark>Cluster Insights: Dashboard Monitoring Thống nhất cho Amazon OpenSearch Service</a></h2><div class="list__meta meta"><div class="meta__item-datetime meta__item"><svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="m15 0c8.3.0 15 6.7 15 15s-6.7 15-15 15S0 23.3.0 15 6.7.0 15 0zm0 28c7.2.0 13-5.8 13-13S22.2 2 15 2 2 7.8 2 15s5.8 13 13 13zm5-13h-6V9c0-.6-.4-1-1-1s-1 .4-1 1v7c0 .6.4 1 1 1h7c.6.0 1-.4 1-1s-.4-1-1-1z"/></svg>
-<time class=meta__text datetime=2025-12-04T11:00:00+09:00>04/12/2025</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2 1 2h8v11H0V2z"/></svg>
-<span class=meta__text><a class=meta__link href=/categories/cloud rel=category>Cloud</a>
-,
-<a class=meta__link href=/categories/data-and-analytics rel=category>Data and Analytics</a>
-,
-<a class=meta__link href=/categories/devops-and-infrastructure rel=category>DevOps and Infrastructure</a></span></div></div></header><div class="list__excerpt post__content clearfix"><h1 id=cluster-insights-dashboard-monitoring-thống-nhất-cho-amazon-opensearch-service>Cluster Insights: Dashboard Monitoring Thống nhất cho Amazon OpenSearch Service</h1><p><strong>Nguồn</strong>: <a href=https://aws.amazon.com/jp/blogs/big-data/introducing-cluster-insights-unified-monitoring-dashboard-for-amazon-opensearch-service-clusters/>AWS Big Data Blog</a><br><strong>Tác giả</strong>: Siddhant Gupta, Varunsrivathsa Venkatesha, Gagandeep Juneja, Jinhwan Hyon<br><strong>Ngày gốc</strong>: 21 tháng 11, 2025<br><strong>Translator</strong>: 榎本 貴之</p><hr><h2 id=giới-thiệu>Giới thiệu</h2><h3 id=background>Background</h3><p><strong>Amazon OpenSearch Service cluster</strong> cung cấp metrics vận hành phong phú, có thể truy cập qua:</p><ul><li>CloudWatch</li><li>Amazon OpenSearch Service console</li></ul><p>Các metrics này hỗ trợ <strong>performance monitoring</strong> và <strong>alerting</strong> hiệu quả.</p><h3 id=thách-thức>Thách thức</h3><p>Tuy nhiên, việc <strong>xác định vấn đề về resilience và performance</strong> trong cluster có thể khó khăn:</p></div><div class=list__footer><a class="list__footer-readmore btn" href=/posts/aws-opensearch-cluster-insights/ rel=bookmark>Đọc tiếp</a></div></article><article class="list__item post"><header class=list__header><h2 class="list__title post__title"><a href=/posts/aws-clean-rooms-synthetic-dataset/ rel=bookmark>AWS Clean Rooms Ra mắt Tính năng Tạo Synthetic Dataset Tăng cường Quyền riêng tư cho Huấn luyện Mô hình ML</a></h2><div class="list__meta meta"><div class="meta__item-datetime meta__item"><svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="m15 0c8.3.0 15 6.7 15 15s-6.7 15-15 15S0 23.3.0 15 6.7.0 15 0zm0 28c7.2.0 13-5.8 13-13S22.2 2 15 2 2 7.8 2 15s5.8 13 13 13zm5-13h-6V9c0-.6-.4-1-1-1s-1 .4-1 1v7c0 .6.4 1 1 1h7c.6.0 1-.4 1-1s-.4-1-1-1z"/></svg>
-<time class=meta__text datetime=2025-12-04T10:00:00+09:00>04/12/2025</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2 1 2h8v11H0V2z"/></svg>
-<span class=meta__text><a class=meta__link href=/categories/ai-and-machine-learning rel=category>AI and Machine Learning</a>
-,
-<a class=meta__link href=/categories/cloud rel=category>Cloud</a>
-,
-<a class=meta__link href=/categories/security-and-networking rel=category>Security and Networking</a></span></div></div></header><div class="list__excerpt post__content clearfix"><h1 id=aws-clean-rooms-ra-mắt-tính-năng-tạo-synthetic-dataset-tăng-cường-quyền-riêng-tư-cho-huấn-luyện-mô-hình-ml>AWS Clean Rooms Ra mắt Tính năng Tạo Synthetic Dataset Tăng cường Quyền riêng tư cho Huấn luyện Mô hình ML</h1><p><strong>Nguồn</strong>: <a href=https://aws.amazon.com/jp/blogs/news/aws-clean-rooms-launches-privacy-enhancing-synthetic-dataset-generation-for-ml-model-training/>AWS Blog</a><br><strong>Tác giả</strong>: Micah Walter<br><strong>Ngày</strong>: 3 tháng 12, 2025</p><hr><h2 id=giới-thiệu>Giới thiệu</h2><p>Ngày 30 tháng 11 năm 2025, AWS công bố <strong>tính năng tạo synthetic dataset tăng cường quyền riêng tư</strong> cho AWS Clean Rooms. Đây là tính năng mới cho phép tổ chức và đối tác của họ tạo synthetic dataset tăng cường quyền riêng tư từ dữ liệu đã thu thập, sử dụng để huấn luyện các mô hình machine learning (ML) hồi quy và phân loại.</p></div><div class=list__footer><a class="list__footer-readmore btn" href=/posts/aws-clean-rooms-synthetic-dataset/ rel=bookmark>Đọc tiếp</a></div></article><article class="list__item post"><header class=list__header><h2 class="list__title post__title"><a href=/posts/aws-route53-global-resolver/ rel=bookmark>Amazon Route 53 Global Resolver: Giải pháp DNS Anycast Toàn cầu An toàn (Preview)</a></h2><div class="list__meta meta"><div class="meta__item-datetime meta__item"><svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="m15 0c8.3.0 15 6.7 15 15s-6.7 15-15 15S0 23.3.0 15 6.7.0 15 0zm0 28c7.2.0 13-5.8 13-13S22.2 2 15 2 2 7.8 2 15s5.8 13 13 13zm5-13h-6V9c0-.6-.4-1-1-1s-1 .4-1 1v7c0 .6.4 1 1 1h7c.6.0 1-.4 1-1s-.4-1-1-1z"/></svg>
-<time class=meta__text datetime=2025-12-03T12:00:00+09:00>03/12/2025</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2 1 2h8v11H0V2z"/></svg>
-<span class=meta__text><a class=meta__link href=/categories/cloud rel=category>Cloud</a>
-,
-<a class=meta__link href=/categories/security-and-networking rel=category>Security and Networking</a></span></div></div></header><div class="list__excerpt post__content clearfix"><h1 id=amazon-route-53-global-resolver-giải-pháp-dns-anycast-toàn-cầu-an-toàn-preview>Amazon Route 53 Global Resolver: Giải pháp DNS Anycast Toàn cầu An toàn (Preview)</h1><p><strong>Nguồn</strong>: <a href=https://aws.amazon.com/jp/blogs/news/introducing-amazon-route-53-global-resolver-for-secure-anycast-dns-resolution-preview/>AWS Blog</a><br><strong>Tác giả</strong>: Esra Kayabali<br><strong>Ngày</strong>: 3 tháng 12, 2025</p><hr><h2 id=giới-thiệu>Giới thiệu</h2><p>Ngày 30 tháng 11 năm 2025, AWS đã công bố <strong>Amazon Route 53 Global Resolver</strong> – một dịch vụ Amazon Route 53 mới cung cấp khả năng phân giải DNS an toàn và đáng tin cậy trên toàn cầu cho các truy vấn từ bất kỳ đâu (hiện đang ở giai đoạn Preview). Với Global Resolver, bạn có thể phân giải các truy vấn DNS đến:</p></div><div class=list__footer><a class="list__footer-readmore btn" href=/posts/aws-route53-global-resolver/ rel=bookmark>Đọc tiếp</a></div></article><article class="list__item post"><header class=list__header><h2 class="list__title post__title"><a href=/posts/cyberagent-atlantis-terraform/ rel=bookmark>Atlantis giúp "minh bạch hóa" vận hành Terraform – Chuyển đổi kiến thức cá nhân thành sức mạnh tổ chức</a></h2><div class="list__meta meta"><div class="meta__item-datetime meta__item"><svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="m15 0c8.3.0 15 6.7 15 15s-6.7 15-15 15S0 23.3.0 15 6.7.0 15 0zm0 28c7.2.0 13-5.8 13-13S22.2 2 15 2 2 7.8 2 15s5.8 13 13 13zm5-13h-6V9c0-.6-.4-1-1-1s-1 .4-1 1v7c0 .6.4 1 1 1h7c.6.0 1-.4 1-1s-.4-1-1-1z"/></svg>
-<time class=meta__text datetime=2025-12-03T11:00:00+09:00>03/12/2025</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2 1 2h8v11H0V2z"/></svg>
-<span class=meta__text><a class=meta__link href=/categories/devops-infrastructure rel=category>DevOps & Infrastructure</a>
-,
-<a class=meta__link href=/categories/development rel=category>Development</a></span></div></div></header><div class="list__excerpt post__content clearfix"><p>Chia sẻ kinh nghiệm chuyển đổi từ Dev Container sang Atlantis để vận hành Terraform, cùng với chiến lược module giúp giảm chi phí quản lý và tăng hiệu suất làm việc nhóm.</p></div><div class=list__footer><a class="list__footer-readmore btn" href=/posts/cyberagent-atlantis-terraform/ rel=bookmark>Đọc tiếp</a></div></article><article class="list__item post"><header class=list__header><h2 class="list__title post__title"><a href=/posts/gtr-git-worktree-runner/ rel=bookmark>GTR (Git Worktree Runner): Công cụ tuyệt vời cho code review không cần stash hay switch branch</a></h2><div class="list__meta meta"><div class="meta__item-datetime meta__item"><svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="m15 0c8.3.0 15 6.7 15 15s-6.7 15-15 15S0 23.3.0 15 6.7.0 15 0zm0 28c7.2.0 13-5.8 13-13S22.2 2 15 2 2 7.8 2 15s5.8 13 13 13zm5-13h-6V9c0-.6-.4-1-1-1s-1 .4-1 1v7c0 .6.4 1 1 1h7c.6.0 1-.4 1-1s-.4-1-1-1z"/></svg>
-<time class=meta__text datetime=2025-12-03T11:00:00+09:00>03/12/2025</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2 1 2h8v11H0V2z"/></svg>
-<span class=meta__text><a class=meta__link href=/categories/development rel=category>Development</a>
-,
-<a class=meta__link href=/categories/devops-and-infrastructure rel=category>DevOps and Infrastructure</a></span></div></div></header><div class="list__excerpt post__content clearfix"><p>GTR (Git Worktree Runner) - tool đơn giản hóa git worktree cho code review. Tạo review environment độc lập trong vài giây, tự động setup editor và AI agent, không cần stash hay npm install lại. Workflow mượt mà cho parallel development.</p></div><div class=list__footer><a class="list__footer-readmore btn" href=/posts/gtr-git-worktree-runner/ rel=bookmark>Đọc tiếp</a></div></article><article class="list__item post"><header class=list__header><h2 class="list__title post__title"><a href=/posts/amazon-api-gateway-portal/ rel=bookmark>Amazon API Gateway Portal: Cải thiện khả năng khám phá API với Developer Portal được quản lý hoàn toàn</a></h2><div class="list__meta meta"><div class="meta__item-datetime meta__item"><svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="m15 0c8.3.0 15 6.7 15 15s-6.7 15-15 15S0 23.3.0 15 6.7.0 15 0zm0 28c7.2.0 13-5.8 13-13S22.2 2 15 2 2 7.8 2 15s5.8 13 13 13zm5-13h-6V9c0-.6-.4-1-1-1s-1 .4-1 1v7c0 .6.4 1 1 1h7c.6.0 1-.4 1-1s-.4-1-1-1z"/></svg>
-<time class=meta__text datetime=2025-12-03T10:00:00+09:00>03/12/2025</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2 1 2h8v11H0V2z"/></svg>
-<span class=meta__text><a class=meta__link href=/categories/cloud rel=category>Cloud</a>
-,
-<a class=meta__link href=/categories/devops-and-infrastructure rel=category>DevOps and Infrastructure</a>
-,
-<a class=meta__link href=/categories/development rel=category>Development</a></span></div></div></header><div class="list__excerpt post__content clearfix"><p>Amazon API Gateway Portal - giải pháp developer portal được quản lý hoàn toàn cho phép tạo portal API chuyên nghiệp trong vài phút, với tính năng portal product, Try it interactive, cross-account sharing qua AWS RAM, và access control linh hoạt với Amazon Cognito.</p></div><div class=list__footer><a class="list__footer-readmore btn" href=/posts/amazon-api-gateway-portal/ rel=bookmark>Đọc tiếp</a></div></article><article class="list__item post"><header class=list__header><h2 class="list__title post__title"><a href=/posts/cyberagent-dbt-snowflake-iceberg/ rel=bookmark>Triển khai Iceberg Materialization với Multi-Catalog sử dụng dbt × Snowflake 🧊</a></h2><div class="list__meta meta"><div class="meta__item-datetime meta__item"><svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="m15 0c8.3.0 15 6.7 15 15s-6.7 15-15 15S0 23.3.0 15 6.7.0 15 0zm0 28c7.2.0 13-5.8 13-13S22.2 2 15 2 2 7.8 2 15s5.8 13 13 13zm5-13h-6V9c0-.6-.4-1-1-1s-1 .4-1 1v7c0 .6.4 1 1 1h7c.6.0 1-.4 1-1s-.4-1-1-1z"/></svg>
-<time class=meta__text datetime=2025-12-03T10:00:00+09:00>03/12/2025</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2 1 2h8v11H0V2z"/></svg>
-<span class=meta__text><a class=meta__link href=/categories/data-analytics rel=category>Data & Analytics</a>
-,
-<a class=meta__link href=/categories/cloud rel=category>Cloud</a>
-,
-<a class=meta__link href=/categories/devops-infrastructure rel=category>DevOps & Infrastructure</a></span></div></div></header><div class="list__excerpt post__content clearfix"><p>Hướng dẫn chi tiết cách xây dựng kiến trúc multi-catalog cho Iceberg materialization với dbt và Snowflake, kết hợp AWS Glue Catalog và Snowflake Horizon Catalog để xử lý dữ liệu tăng trưởng.</p></div><div class=list__footer><a class="list__footer-readmore btn" href=/posts/cyberagent-dbt-snowflake-iceberg/ rel=bookmark>Đọc tiếp</a></div></article><article class="list__item post"><header class=list__header><h2 class="list__title post__title"><a href=/posts/aws-dms-column-filter-performance/ rel=bookmark>Cải thiện hiệu suất AWS DMS CDC bằng Column Filter để song song hóa bảng lớn</a></h2><div class="list__meta meta"><div class="meta__item-datetime meta__item"><svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="m15 0c8.3.0 15 6.7 15 15s-6.7 15-15 15S0 23.3.0 15 6.7.0 15 0zm0 28c7.2.0 13-5.8 13-13S22.2 2 15 2 2 7.8 2 15s5.8 13 13 13zm5-13h-6V9c0-.6-.4-1-1-1s-1 .4-1 1v7c0 .6.4 1 1 1h7c.6.0 1-.4 1-1s-.4-1-1-1z"/></svg>
-<time class=meta__text datetime=2025-12-02T11:00:00+09:00>02/12/2025</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2 1 2h8v11H0V2z"/></svg>
-<span class=meta__text><a class=meta__link href=/categories/data-and-analytics rel=category>Data and Analytics</a>
-,
-<a class=meta__link href=/categories/devops-and-infrastructure rel=category>DevOps and Infrastructure</a></span></div></div></header><div class="list__excerpt post__content clearfix"><p>Hướng dẫn chi tiết cách sử dụng Column Filter của AWS DMS để song song hóa CDC task, giảm latency từ 600s xuống hàng chục giây cho bảng dữ liệu lớn trong quá trình migration từ Oracle sang PostgreSQL.</p></div><div class=list__footer><a class="list__footer-readmore btn" href=/posts/aws-dms-column-filter-performance/ rel=bookmark>Đọc tiếp</a></div></article><article class="list__item post"><header class=list__header><h2 class="list__title post__title"><a href=/posts/bedrock-agentcore-gateway-interceptors/ rel=bookmark>Amazon Bedrock AgentCore Gateway Interceptors: Kiểm soát quyền truy cập chi tiết cho AI Agent</a></h2><div class="list__meta meta"><div class="meta__item-datetime meta__item"><svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="m15 0c8.3.0 15 6.7 15 15s-6.7 15-15 15S0 23.3.0 15 6.7.0 15 0zm0 28c7.2.0 13-5.8 13-13S22.2 2 15 2 2 7.8 2 15s5.8 13 13 13zm5-13h-6V9c0-.6-.4-1-1-1s-1 .4-1 1v7c0 .6.4 1 1 1h7c.6.0 1-.4 1-1s-.4-1-1-1z"/></svg>
-<time class=meta__text datetime=2025-12-02T10:00:00+09:00>02/12/2025</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2 1 2h8v11H0V2z"/></svg>
-<span class=meta__text><a class=meta__link href=/categories/ai-and-machine-learning rel=category>AI and Machine Learning</a>
-,
-<a class=meta__link href=/categories/security-and-networking rel=category>Security and Networking</a>
-,
-<a class=meta__link href=/categories/development rel=category>Development</a></span></div></div></header><div class="list__excerpt post__content clearfix"><p>Tìm hiểu cách sử dụng Gateway Interceptors của Amazon Bedrock AgentCore để triển khai kiểm soát quyền truy cập chi tiết, lọc công cụ động, và quản lý identity cho AI agent systems quy mô lớn.</p></div><div class=list__footer><a class="list__footer-readmore btn" href=/posts/bedrock-agentcore-gateway-interceptors/ rel=bookmark>Đọc tiếp</a></div></article></div><nav class="list__pagination pagination"><div class=pagination__info><span class=pagination__page-info>Trang 1 / 15
-(10 bài / Tổng: 149 bài)</span></div><div class=pagination__buttons><div class=pagination__numbers><span class="pagination__number pagination__number--current">1</span>
-<a class=pagination__number href=/posts/page/2/>2</a>
-<a class=pagination__number href=/posts/page/3/>3</a>
-<span class=pagination__ellipsis>...</span>
-<a class=pagination__number href=/posts/page/15/>15</a></div><a class="pagination__item pagination__item--next" href=/posts/page/2/>Tiếp →</a></div></nav></main></div><aside class=sidebar><div class="widget widget-search"><form class=widget__form role=search method=get action=https://cola1605.github.io/><input class=widget__field type=search name=q placeholder="Tìm kiếm...">
-<button class=widget__submit type=submit title="Tìm kiếm">Tìm kiếm</button></form></div><div class="widget widget-recent"><h4 class=widget__title>Bài viết mới nhất</h4><ul class=widget__list><li class=widget__item><a class=widget__link href=/posts/aws-opensearch-gpu-acceleration/>Amazon OpenSearch Service Cải thiện Hiệu suất và Chi phí Vector Database với GPU Acceleration và Auto-optimization</a></li><li class=widget__item><a class=widget__link href=/posts/aws-opensearch-cluster-insights/>Cluster Insights: Dashboard Monitoring Thống nhất cho Amazon OpenSearch Service</a></li><li class=widget__item><a class=widget__link href=/posts/aws-clean-rooms-synthetic-dataset/>AWS Clean Rooms Ra mắt Tính năng Tạo Synthetic Dataset Tăng cường Quyền riêng tư cho Huấn luyện Mô hình ML</a></li><li class=widget__item><a class=widget__link href=/posts/aws-route53-global-resolver/>Amazon Route 53 Global Resolver: Giải pháp DNS Anycast Toàn cầu An toàn (Preview)</a></li><li class=widget__item><a class=widget__link href=/posts/cyberagent-atlantis-terraform/>Atlantis giúp "minh bạch hóa" vận hành Terraform – Chuyển đổi kiến thức cá nhân thành sức mạnh tổ chức</a></li></ul></div><div class="widget widget-categories"><h4 class=widget__title>Chuyên mục</h4><ul class=widget__list><li class=widget__item><a class=widget__link href=/categories/ai-and-machine-learning>ai and machine learning</a>
-<span class=widget__counter>(72)</span></li><li class=widget__item><a class=widget__link href=/categories/aws>aws</a>
-<span class=widget__counter>(80)</span></li><li class=widget__item><a class=widget__link href=/categories/business-and-technology>business and technology</a>
-<span class=widget__counter>(51)</span></li><li class=widget__item><a class=widget__link href=/categories/cloud>cloud</a>
-<span class=widget__counter>(15)</span></li><li class=widget__item><a class=widget__link href=/categories/cloud-computing>cloud computing</a>
-<span class=widget__counter>(4)</span></li><li class=widget__item><a class=widget__link href=/categories/data-analytics>data & analytics</a>
-<span class=widget__counter>(1)</span></li><li class=widget__item><a class=widget__link href=/categories/data-and-analytics>data and analytics</a>
-<span class=widget__counter>(18)</span></li><li class=widget__item><a class=widget__link href=/categories/data-management>data management</a>
-<span class=widget__counter>(1)</span></li><li class=widget__item><a class=widget__link href=/categories/development>development</a>
-<span class=widget__counter>(61)</span></li><li class=widget__item><a class=widget__link href=/categories/devops-infrastructure>devops & infrastructure</a>
-<span class=widget__counter>(2)</span></li><li class=widget__item><a class=widget__link href=/categories/devops-and-infrastructure>devops and infrastructure</a>
-<span class=widget__counter>(48)</span></li><li class=widget__item><a class=widget__link href=/categories/security-and-networking>security and networking</a>
-<span class=widget__counter>(16)</span></li><li class=widget__item><a class=widget__link href=/categories/web-and-frontend>web and frontend</a>
-<span class=widget__counter>(11)</span></li></ul></div><div class="widget-archive widget"><h4 class=widget__title>📅 Lưu trữ theo tháng</h4><div class=widget__content><ul class=widget__list><li class=widget__item><a class=widget__link href=/archive/2025-12/>Tháng 12 2025 <span class=widget__counter>(17)</span></a></li><li class=widget__item><a class=widget__link href=/archive/2025-11/>Tháng 11 2025 <span class=widget__counter>(67)</span></a></li><li class=widget__item><a class=widget__link href=/archive/2025-10/>Tháng 10 2025 <span class=widget__counter>(82)</span></a></li><li class=widget__item><a class=widget__link href=/archive/0001-01/>Tháng 1 0001 <span class=widget__counter>(6)</span></a></li></ul></div></div></aside></div><footer class=site-footer><div class=container><p>© 2025 . Powered by Hugo.</p></div></footer></div><script async defer src=/js/menu.js></script></body></html>
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Posts - SYSTEM_NEWS</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:url" content="https://cola1605.github.io/posts/">
+  <meta property="og:site_name" content="SYSTEM_NEWS">
+  <meta property="og:title" content="Posts">
+  <meta property="og:description" content="Blog cá nhân chia sẻ kiến thức về lập trình, AI và công nghệ.">
+  <meta property="og:locale" content="vi">
+  <meta property="og:type" content="website">
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
+
+	<link rel="stylesheet" href="https://cola1605.github.io/css/style.css">
+	
+	<link rel="alternate" type="application/rss+xml" href="/posts/index.xml" title="SYSTEM_NEWS">
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="site-header">
+  <div class="container flex">
+    <a href="/" class="logo">SYSTEM_NEWS</a>
+    <nav class="nav">
+      <a href="/">Trang chủ</a>
+      <a href="/posts/">Bài viết</a>
+      <a href="/about/">Giới thiệu</a>
+    </nav>
+  </div>
+</header>
+
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+  <div class="main__header">
+    <h1 class="main__title">Posts</h1>
+    
+  </div>
+
+  
+  <div class="list">
+    
+    <article class="list__item post">
+      <header class="list__header">
+        <h2 class="list__title post__title">
+          <a href="/posts/aws-opensearch-gpu-acceleration/" rel="bookmark">Amazon OpenSearch Service Cải thiện Hiệu suất và Chi phí Vector Database với GPU Acceleration và Auto-optimization</a>
+        </h2>
+        <div class="list__meta meta">
+          <div class="meta__item-datetime meta__item">
+            <svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28">
+              <path d="m15 0c8.3 0 15 6.7 15 15s-6.7 15-15 15-15-6.7-15-15 6.7-15 15-15zm0 28c7.2 0 13-5.8 13-13s-5.8-13-13-13-13 5.8-13 13 5.8 13 13 13zm5-13h-6v-6c0-0.6-0.4-1-1-1s-1 0.4-1 1v7c0 0.6 0.4 1 1 1h7c0.6 0 1-0.4 1-1s-0.4-1-1-1z"/>
+            </svg>
+            <time class="meta__text" datetime="2025-12-04T12:00:00&#43;09:00">
+              04/12/2025
+            </time>
+          </div>
+          
+          <div class="meta__item-categories meta__item">
+            <svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16">
+              <path d="m7 2l1 2h8v11h-16v-13z"/>
+            </svg>
+            <span class="meta__text">
+              
+                
+                <a class="meta__link" href="/categories/cloud" rel="category">Cloud</a>
+              
+                , 
+                <a class="meta__link" href="/categories/data-and-analytics" rel="category">Data and Analytics</a>
+              
+                , 
+                <a class="meta__link" href="/categories/ai-and-machine-learning" rel="category">AI and Machine Learning</a>
+              
+            </span>
+          </div>
+          </div>
+      </header>
+      
+      
+      <div class="list__excerpt post__content clearfix">
+        <h1 id="amazon-opensearch-service-cải-thiện-hiệu-suất-và-chi-phí-vector-database-với-gpu-acceleration-và-auto-optimization">Amazon OpenSearch Service Cải thiện Hiệu suất và Chi phí Vector Database với GPU Acceleration và Auto-optimization</h1>
+<h2 id="giới-thiệu">Giới thiệu</h2>
+<p>Hôm nay, Amazon OpenSearch Service công bố tính năng <strong>GPU acceleration serverless</strong> và <strong>auto-optimization cho vector index</strong>, cho phép xây dựng vector database quy mô lớn nhanh hơn và tiết kiệm chi phí hơn, đồng thời tự động tối ưu hóa vector index để đạt được sự cân bằng tối ưu giữa chất lượng tìm kiếm, tốc độ và chi phí.</p>
+      </div>
+      
+      
+      <div class="list__footer">
+        <a class="list__footer-readmore btn" href="/posts/aws-opensearch-gpu-acceleration/" rel="bookmark">Đọc tiếp</a>
+      </div>
+    </article>
+    
+    <article class="list__item post">
+      <header class="list__header">
+        <h2 class="list__title post__title">
+          <a href="/posts/matsuo-ai-coding-environment-setup/" rel="bookmark">Cách Xây Dựng Môi Trường Thực Hành AI Coding【Tháng 12 năm 2025】</a>
+        </h2>
+        <div class="list__meta meta">
+          <div class="meta__item-datetime meta__item">
+            <svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28">
+              <path d="m15 0c8.3 0 15 6.7 15 15s-6.7 15-15 15-15-6.7-15-15 6.7-15 15-15zm0 28c7.2 0 13-5.8 13-13s-5.8-13-13-13-13 5.8-13 13 5.8 13 13 13zm5-13h-6v-6c0-0.6-0.4-1-1-1s-1 0.4-1 1v7c0 0.6 0.4 1 1 1h7c0.6 0 1-0.4 1-1s-0.4-1-1-1z"/>
+            </svg>
+            <time class="meta__text" datetime="2025-12-04T11:45:00&#43;09:00">
+              04/12/2025
+            </time>
+          </div>
+          
+          <div class="meta__item-categories meta__item">
+            <svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16">
+              <path d="m7 2l1 2h8v11h-16v-13z"/>
+            </svg>
+            <span class="meta__text">
+              
+                
+                <a class="meta__link" href="/categories/development" rel="category">Development</a>
+              
+                , 
+                <a class="meta__link" href="/categories/ai-and-machine-learning" rel="category">AI and Machine Learning</a>
+              
+                , 
+                <a class="meta__link" href="/categories/devops-and-infrastructure" rel="category">DevOps and Infrastructure</a>
+              
+            </span>
+          </div>
+          </div>
+      </header>
+      
+      
+      <div class="list__excerpt post__content clearfix">
+        <h1 id="cách-xây-dựng-môi-trường-thực-hành-ai-codingtháng-12-năm-2025">Cách Xây Dựng Môi Trường Thực Hành AI Coding【Tháng 12 năm 2025】</h1>
+<blockquote>
+<p>Bài viết này là một phần của <strong>Matsuo Institute Advent Calendar 2025</strong>. Từ bài viết này, bạn sẽ hiểu cách xây dựng môi trường để thực hành AI coding. Các điểm cụ thể như sau:</p></blockquote>
+<h2 id="tổng-quan">Tổng Quan</h2>
+<p>Bài viết này cung cấp hướng dẫn toàn diện về:</p>
+<ul>
+<li><strong>Quy trình xây dựng môi trường AI coding với Claude Code làm trung tâm</strong> tính đến tháng 12 năm 2025</li>
+<li><strong>Tổng quan, phương pháp thiết lập và cách sử dụng các công cụ</strong> cần thiết cho AI coding</li>
+<li><strong>Quy trình phát triển phần mềm theo spec-driven development</strong> và phương pháp thực hành cụ thể</li>
+</ul>
+<h3 id="kiến-thức-và-kinh-nghiệm-cần-thiết">Kiến Thức và Kinh Nghiệm Cần Thiết</h3>
+<ul>
+<li>Có kiến thức lập trình cơ bản</li>
+<li>Hiểu cách sử dụng GitHub ở mức cơ bản</li>
+<li>Đã sử dụng generative AI (như ChatGPT)</li>
+</ul>
+<h2 id="tình-hình-hiện-tại-của-công-cụ-ai-coding">Tình Hình Hiện Tại của Công Cụ AI Coding</h2>
+<p><a href="https://zenn.dev/mkj/articles/cf8536923d9cd7">Tôi đã viết một bài blog về công cụ AI coding vào tháng 3 năm nay (2025)</a>. Vào thời điểm đó, tôi đang sử dụng Cline - một công cụ đang có động lực tốt, nhưng chỉ trong vòng nửa năm, các công cụ coding tôi sử dụng đã thay đổi sang các công cụ dựa trên CLI như <strong>Claude Code</strong>, <strong>Gemini CLI</strong>, <strong>Codex CLI</strong>, cùng với các cơ chế tiện lợi như <strong>MCP</strong> (Model Context Protocol) kết nối với LLM để thực hiện nhiều chức năng khác nhau. Tình hình best practices đang thay đổi hàng ngày.</p>
+      </div>
+      
+      
+      <div class="list__footer">
+        <a class="list__footer-readmore btn" href="/posts/matsuo-ai-coding-environment-setup/" rel="bookmark">Đọc tiếp</a>
+      </div>
+    </article>
+    
+    <article class="list__item post">
+      <header class="list__header">
+        <h2 class="list__title post__title">
+          <a href="/posts/layerx-spec-workflow-mcp/" rel="bookmark">Spec-Driven Development Thân Thiện Với Mắt: Hiệu Ứng Blueberry của spec-workflow-mcp</a>
+        </h2>
+        <div class="list__meta meta">
+          <div class="meta__item-datetime meta__item">
+            <svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28">
+              <path d="m15 0c8.3 0 15 6.7 15 15s-6.7 15-15 15-15-6.7-15-15 6.7-15 15-15zm0 28c7.2 0 13-5.8 13-13s-5.8-13-13-13-13 5.8-13 13 5.8 13 13 13zm5-13h-6v-6c0-0.6-0.4-1-1-1s-1 0.4-1 1v7c0 0.6 0.4 1 1 1h7c0.6 0 1-0.4 1-1s-0.4-1-1-1z"/>
+            </svg>
+            <time class="meta__text" datetime="2025-12-04T11:30:00&#43;09:00">
+              04/12/2025
+            </time>
+          </div>
+          
+          <div class="meta__item-categories meta__item">
+            <svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16">
+              <path d="m7 2l1 2h8v11h-16v-13z"/>
+            </svg>
+            <span class="meta__text">
+              
+                
+                <a class="meta__link" href="/categories/development" rel="category">Development</a>
+              
+                , 
+                <a class="meta__link" href="/categories/ai-and-machine-learning" rel="category">AI and Machine Learning</a>
+              
+                , 
+                <a class="meta__link" href="/categories/devops-and-infrastructure" rel="category">DevOps and Infrastructure</a>
+              
+            </span>
+          </div>
+          </div>
+      </header>
+      
+      
+      <div class="list__excerpt post__content clearfix">
+        <p>Giới thiệu spec-workflow-mcp - công cụ Spec-Driven Development với dashboard trực quan giảm tải review, tăng cường trải nghiệm developer trong kỷ nguyên AI coding</p>
+      </div>
+      
+      
+      <div class="list__footer">
+        <a class="list__footer-readmore btn" href="/posts/layerx-spec-workflow-mcp/" rel="bookmark">Đọc tiếp</a>
+      </div>
+    </article>
+    
+    <article class="list__item post">
+      <header class="list__header">
+        <h2 class="list__title post__title">
+          <a href="/posts/aws-opensearch-cluster-insights/" rel="bookmark">Cluster Insights: Dashboard Monitoring Thống nhất cho Amazon OpenSearch Service</a>
+        </h2>
+        <div class="list__meta meta">
+          <div class="meta__item-datetime meta__item">
+            <svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28">
+              <path d="m15 0c8.3 0 15 6.7 15 15s-6.7 15-15 15-15-6.7-15-15 6.7-15 15-15zm0 28c7.2 0 13-5.8 13-13s-5.8-13-13-13-13 5.8-13 13 5.8 13 13 13zm5-13h-6v-6c0-0.6-0.4-1-1-1s-1 0.4-1 1v7c0 0.6 0.4 1 1 1h7c0.6 0 1-0.4 1-1s-0.4-1-1-1z"/>
+            </svg>
+            <time class="meta__text" datetime="2025-12-04T11:00:00&#43;09:00">
+              04/12/2025
+            </time>
+          </div>
+          
+          <div class="meta__item-categories meta__item">
+            <svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16">
+              <path d="m7 2l1 2h8v11h-16v-13z"/>
+            </svg>
+            <span class="meta__text">
+              
+                
+                <a class="meta__link" href="/categories/cloud" rel="category">Cloud</a>
+              
+                , 
+                <a class="meta__link" href="/categories/data-and-analytics" rel="category">Data and Analytics</a>
+              
+                , 
+                <a class="meta__link" href="/categories/devops-and-infrastructure" rel="category">DevOps and Infrastructure</a>
+              
+            </span>
+          </div>
+          </div>
+      </header>
+      
+      
+      <div class="list__excerpt post__content clearfix">
+        <h1 id="cluster-insights-dashboard-monitoring-thống-nhất-cho-amazon-opensearch-service">Cluster Insights: Dashboard Monitoring Thống nhất cho Amazon OpenSearch Service</h1>
+<p><strong>Nguồn</strong>: <a href="https://aws.amazon.com/jp/blogs/big-data/introducing-cluster-insights-unified-monitoring-dashboard-for-amazon-opensearch-service-clusters/">AWS Big Data Blog</a><br>
+<strong>Tác giả</strong>: Siddhant Gupta, Varunsrivathsa Venkatesha, Gagandeep Juneja, Jinhwan Hyon<br>
+<strong>Ngày gốc</strong>: 21 tháng 11, 2025<br>
+<strong>Translator</strong>: 榎本 貴之</p>
+<hr>
+<h2 id="giới-thiệu">Giới thiệu</h2>
+<h3 id="background">Background</h3>
+<p><strong>Amazon OpenSearch Service cluster</strong> cung cấp metrics vận hành phong phú, có thể truy cập qua:</p>
+<ul>
+<li>CloudWatch</li>
+<li>Amazon OpenSearch Service console</li>
+</ul>
+<p>Các metrics này hỗ trợ <strong>performance monitoring</strong> và <strong>alerting</strong> hiệu quả.</p>
+<h3 id="thách-thức">Thách thức</h3>
+<p>Tuy nhiên, việc <strong>xác định vấn đề về resilience và performance</strong> trong cluster có thể khó khăn:</p>
+      </div>
+      
+      
+      <div class="list__footer">
+        <a class="list__footer-readmore btn" href="/posts/aws-opensearch-cluster-insights/" rel="bookmark">Đọc tiếp</a>
+      </div>
+    </article>
+    
+    <article class="list__item post">
+      <header class="list__header">
+        <h2 class="list__title post__title">
+          <a href="/posts/aws-clean-rooms-synthetic-dataset/" rel="bookmark">AWS Clean Rooms Ra mắt Tính năng Tạo Synthetic Dataset Tăng cường Quyền riêng tư cho Huấn luyện Mô hình ML</a>
+        </h2>
+        <div class="list__meta meta">
+          <div class="meta__item-datetime meta__item">
+            <svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28">
+              <path d="m15 0c8.3 0 15 6.7 15 15s-6.7 15-15 15-15-6.7-15-15 6.7-15 15-15zm0 28c7.2 0 13-5.8 13-13s-5.8-13-13-13-13 5.8-13 13 5.8 13 13 13zm5-13h-6v-6c0-0.6-0.4-1-1-1s-1 0.4-1 1v7c0 0.6 0.4 1 1 1h7c0.6 0 1-0.4 1-1s-0.4-1-1-1z"/>
+            </svg>
+            <time class="meta__text" datetime="2025-12-04T10:00:00&#43;09:00">
+              04/12/2025
+            </time>
+          </div>
+          
+          <div class="meta__item-categories meta__item">
+            <svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16">
+              <path d="m7 2l1 2h8v11h-16v-13z"/>
+            </svg>
+            <span class="meta__text">
+              
+                
+                <a class="meta__link" href="/categories/ai-and-machine-learning" rel="category">AI and Machine Learning</a>
+              
+                , 
+                <a class="meta__link" href="/categories/cloud" rel="category">Cloud</a>
+              
+                , 
+                <a class="meta__link" href="/categories/security-and-networking" rel="category">Security and Networking</a>
+              
+            </span>
+          </div>
+          </div>
+      </header>
+      
+      
+      <div class="list__excerpt post__content clearfix">
+        <h1 id="aws-clean-rooms-ra-mắt-tính-năng-tạo-synthetic-dataset-tăng-cường-quyền-riêng-tư-cho-huấn-luyện-mô-hình-ml">AWS Clean Rooms Ra mắt Tính năng Tạo Synthetic Dataset Tăng cường Quyền riêng tư cho Huấn luyện Mô hình ML</h1>
+<p><strong>Nguồn</strong>: <a href="https://aws.amazon.com/jp/blogs/news/aws-clean-rooms-launches-privacy-enhancing-synthetic-dataset-generation-for-ml-model-training/">AWS Blog</a><br>
+<strong>Tác giả</strong>: Micah Walter<br>
+<strong>Ngày</strong>: 3 tháng 12, 2025</p>
+<hr>
+<h2 id="giới-thiệu">Giới thiệu</h2>
+<p>Ngày 30 tháng 11 năm 2025, AWS công bố <strong>tính năng tạo synthetic dataset tăng cường quyền riêng tư</strong> cho AWS Clean Rooms. Đây là tính năng mới cho phép tổ chức và đối tác của họ tạo synthetic dataset tăng cường quyền riêng tư từ dữ liệu đã thu thập, sử dụng để huấn luyện các mô hình machine learning (ML) hồi quy và phân loại.</p>
+      </div>
+      
+      
+      <div class="list__footer">
+        <a class="list__footer-readmore btn" href="/posts/aws-clean-rooms-synthetic-dataset/" rel="bookmark">Đọc tiếp</a>
+      </div>
+    </article>
+    
+    <article class="list__item post">
+      <header class="list__header">
+        <h2 class="list__title post__title">
+          <a href="/posts/aws-route53-global-resolver/" rel="bookmark">Amazon Route 53 Global Resolver: Giải pháp DNS Anycast Toàn cầu An toàn (Preview)</a>
+        </h2>
+        <div class="list__meta meta">
+          <div class="meta__item-datetime meta__item">
+            <svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28">
+              <path d="m15 0c8.3 0 15 6.7 15 15s-6.7 15-15 15-15-6.7-15-15 6.7-15 15-15zm0 28c7.2 0 13-5.8 13-13s-5.8-13-13-13-13 5.8-13 13 5.8 13 13 13zm5-13h-6v-6c0-0.6-0.4-1-1-1s-1 0.4-1 1v7c0 0.6 0.4 1 1 1h7c0.6 0 1-0.4 1-1s-0.4-1-1-1z"/>
+            </svg>
+            <time class="meta__text" datetime="2025-12-03T12:00:00&#43;09:00">
+              03/12/2025
+            </time>
+          </div>
+          
+          <div class="meta__item-categories meta__item">
+            <svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16">
+              <path d="m7 2l1 2h8v11h-16v-13z"/>
+            </svg>
+            <span class="meta__text">
+              
+                
+                <a class="meta__link" href="/categories/cloud" rel="category">Cloud</a>
+              
+                , 
+                <a class="meta__link" href="/categories/security-and-networking" rel="category">Security and Networking</a>
+              
+            </span>
+          </div>
+          </div>
+      </header>
+      
+      
+      <div class="list__excerpt post__content clearfix">
+        <h1 id="amazon-route-53-global-resolver-giải-pháp-dns-anycast-toàn-cầu-an-toàn-preview">Amazon Route 53 Global Resolver: Giải pháp DNS Anycast Toàn cầu An toàn (Preview)</h1>
+<p><strong>Nguồn</strong>: <a href="https://aws.amazon.com/jp/blogs/news/introducing-amazon-route-53-global-resolver-for-secure-anycast-dns-resolution-preview/">AWS Blog</a><br>
+<strong>Tác giả</strong>: Esra Kayabali<br>
+<strong>Ngày</strong>: 3 tháng 12, 2025</p>
+<hr>
+<h2 id="giới-thiệu">Giới thiệu</h2>
+<p>Ngày 30 tháng 11 năm 2025, AWS đã công bố <strong>Amazon Route 53 Global Resolver</strong> – một dịch vụ Amazon Route 53 mới cung cấp khả năng phân giải DNS an toàn và đáng tin cậy trên toàn cầu cho các truy vấn từ bất kỳ đâu (hiện đang ở giai đoạn Preview). Với Global Resolver, bạn có thể phân giải các truy vấn DNS đến:</p>
+      </div>
+      
+      
+      <div class="list__footer">
+        <a class="list__footer-readmore btn" href="/posts/aws-route53-global-resolver/" rel="bookmark">Đọc tiếp</a>
+      </div>
+    </article>
+    
+    <article class="list__item post">
+      <header class="list__header">
+        <h2 class="list__title post__title">
+          <a href="/posts/cyberagent-atlantis-terraform/" rel="bookmark">Atlantis giúp &#34;minh bạch hóa&#34; vận hành Terraform – Chuyển đổi kiến thức cá nhân thành sức mạnh tổ chức</a>
+        </h2>
+        <div class="list__meta meta">
+          <div class="meta__item-datetime meta__item">
+            <svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28">
+              <path d="m15 0c8.3 0 15 6.7 15 15s-6.7 15-15 15-15-6.7-15-15 6.7-15 15-15zm0 28c7.2 0 13-5.8 13-13s-5.8-13-13-13-13 5.8-13 13 5.8 13 13 13zm5-13h-6v-6c0-0.6-0.4-1-1-1s-1 0.4-1 1v7c0 0.6 0.4 1 1 1h7c0.6 0 1-0.4 1-1s-0.4-1-1-1z"/>
+            </svg>
+            <time class="meta__text" datetime="2025-12-03T11:00:00&#43;09:00">
+              03/12/2025
+            </time>
+          </div>
+          
+          <div class="meta__item-categories meta__item">
+            <svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16">
+              <path d="m7 2l1 2h8v11h-16v-13z"/>
+            </svg>
+            <span class="meta__text">
+              
+                
+                <a class="meta__link" href="/categories/devops-infrastructure" rel="category">DevOps &amp; Infrastructure</a>
+              
+                , 
+                <a class="meta__link" href="/categories/development" rel="category">Development</a>
+              
+            </span>
+          </div>
+          </div>
+      </header>
+      
+      
+      <div class="list__excerpt post__content clearfix">
+        <p>Chia sẻ kinh nghiệm chuyển đổi từ Dev Container sang Atlantis để vận hành Terraform, cùng với chiến lược module giúp giảm chi phí quản lý và tăng hiệu suất làm việc nhóm.</p>
+      </div>
+      
+      
+      <div class="list__footer">
+        <a class="list__footer-readmore btn" href="/posts/cyberagent-atlantis-terraform/" rel="bookmark">Đọc tiếp</a>
+      </div>
+    </article>
+    
+    <article class="list__item post">
+      <header class="list__header">
+        <h2 class="list__title post__title">
+          <a href="/posts/gtr-git-worktree-runner/" rel="bookmark">GTR (Git Worktree Runner): Công cụ tuyệt vời cho code review không cần stash hay switch branch</a>
+        </h2>
+        <div class="list__meta meta">
+          <div class="meta__item-datetime meta__item">
+            <svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28">
+              <path d="m15 0c8.3 0 15 6.7 15 15s-6.7 15-15 15-15-6.7-15-15 6.7-15 15-15zm0 28c7.2 0 13-5.8 13-13s-5.8-13-13-13-13 5.8-13 13 5.8 13 13 13zm5-13h-6v-6c0-0.6-0.4-1-1-1s-1 0.4-1 1v7c0 0.6 0.4 1 1 1h7c0.6 0 1-0.4 1-1s-0.4-1-1-1z"/>
+            </svg>
+            <time class="meta__text" datetime="2025-12-03T11:00:00&#43;09:00">
+              03/12/2025
+            </time>
+          </div>
+          
+          <div class="meta__item-categories meta__item">
+            <svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16">
+              <path d="m7 2l1 2h8v11h-16v-13z"/>
+            </svg>
+            <span class="meta__text">
+              
+                
+                <a class="meta__link" href="/categories/development" rel="category">Development</a>
+              
+                , 
+                <a class="meta__link" href="/categories/devops-and-infrastructure" rel="category">DevOps and Infrastructure</a>
+              
+            </span>
+          </div>
+          </div>
+      </header>
+      
+      
+      <div class="list__excerpt post__content clearfix">
+        <p>GTR (Git Worktree Runner) - tool đơn giản hóa git worktree cho code review. Tạo review environment độc lập trong vài giây, tự động setup editor và AI agent, không cần stash hay npm install lại. Workflow mượt mà cho parallel development.</p>
+      </div>
+      
+      
+      <div class="list__footer">
+        <a class="list__footer-readmore btn" href="/posts/gtr-git-worktree-runner/" rel="bookmark">Đọc tiếp</a>
+      </div>
+    </article>
+    
+    <article class="list__item post">
+      <header class="list__header">
+        <h2 class="list__title post__title">
+          <a href="/posts/amazon-api-gateway-portal/" rel="bookmark">Amazon API Gateway Portal: Cải thiện khả năng khám phá API với Developer Portal được quản lý hoàn toàn</a>
+        </h2>
+        <div class="list__meta meta">
+          <div class="meta__item-datetime meta__item">
+            <svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28">
+              <path d="m15 0c8.3 0 15 6.7 15 15s-6.7 15-15 15-15-6.7-15-15 6.7-15 15-15zm0 28c7.2 0 13-5.8 13-13s-5.8-13-13-13-13 5.8-13 13 5.8 13 13 13zm5-13h-6v-6c0-0.6-0.4-1-1-1s-1 0.4-1 1v7c0 0.6 0.4 1 1 1h7c0.6 0 1-0.4 1-1s-0.4-1-1-1z"/>
+            </svg>
+            <time class="meta__text" datetime="2025-12-03T10:00:00&#43;09:00">
+              03/12/2025
+            </time>
+          </div>
+          
+          <div class="meta__item-categories meta__item">
+            <svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16">
+              <path d="m7 2l1 2h8v11h-16v-13z"/>
+            </svg>
+            <span class="meta__text">
+              
+                
+                <a class="meta__link" href="/categories/cloud" rel="category">Cloud</a>
+              
+                , 
+                <a class="meta__link" href="/categories/devops-and-infrastructure" rel="category">DevOps and Infrastructure</a>
+              
+                , 
+                <a class="meta__link" href="/categories/development" rel="category">Development</a>
+              
+            </span>
+          </div>
+          </div>
+      </header>
+      
+      
+      <div class="list__excerpt post__content clearfix">
+        <p>Amazon API Gateway Portal - giải pháp developer portal được quản lý hoàn toàn cho phép tạo portal API chuyên nghiệp trong vài phút, với tính năng portal product, Try it interactive, cross-account sharing qua AWS RAM, và access control linh hoạt với Amazon Cognito.</p>
+      </div>
+      
+      
+      <div class="list__footer">
+        <a class="list__footer-readmore btn" href="/posts/amazon-api-gateway-portal/" rel="bookmark">Đọc tiếp</a>
+      </div>
+    </article>
+    
+    <article class="list__item post">
+      <header class="list__header">
+        <h2 class="list__title post__title">
+          <a href="/posts/cyberagent-dbt-snowflake-iceberg/" rel="bookmark">Triển khai Iceberg Materialization với Multi-Catalog sử dụng dbt × Snowflake 🧊</a>
+        </h2>
+        <div class="list__meta meta">
+          <div class="meta__item-datetime meta__item">
+            <svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28">
+              <path d="m15 0c8.3 0 15 6.7 15 15s-6.7 15-15 15-15-6.7-15-15 6.7-15 15-15zm0 28c7.2 0 13-5.8 13-13s-5.8-13-13-13-13 5.8-13 13 5.8 13 13 13zm5-13h-6v-6c0-0.6-0.4-1-1-1s-1 0.4-1 1v7c0 0.6 0.4 1 1 1h7c0.6 0 1-0.4 1-1s-0.4-1-1-1z"/>
+            </svg>
+            <time class="meta__text" datetime="2025-12-03T10:00:00&#43;09:00">
+              03/12/2025
+            </time>
+          </div>
+          
+          <div class="meta__item-categories meta__item">
+            <svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16">
+              <path d="m7 2l1 2h8v11h-16v-13z"/>
+            </svg>
+            <span class="meta__text">
+              
+                
+                <a class="meta__link" href="/categories/data-analytics" rel="category">Data &amp; Analytics</a>
+              
+                , 
+                <a class="meta__link" href="/categories/cloud" rel="category">Cloud</a>
+              
+                , 
+                <a class="meta__link" href="/categories/devops-infrastructure" rel="category">DevOps &amp; Infrastructure</a>
+              
+            </span>
+          </div>
+          </div>
+      </header>
+      
+      
+      <div class="list__excerpt post__content clearfix">
+        <p>Hướng dẫn chi tiết cách xây dựng kiến trúc multi-catalog cho Iceberg materialization với dbt và Snowflake, kết hợp AWS Glue Catalog và Snowflake Horizon Catalog để xử lý dữ liệu tăng trưởng.</p>
+      </div>
+      
+      
+      <div class="list__footer">
+        <a class="list__footer-readmore btn" href="/posts/cyberagent-dbt-snowflake-iceberg/" rel="bookmark">Đọc tiếp</a>
+      </div>
+    </article>
+    
+  </div>
+
+  
+  
+  <nav class="list__pagination pagination">
+    <div class="pagination__info">
+      <span class="pagination__page-info">
+        Trang 1 / 16 
+        (10 bài / Tổng: 151 bài)
+      </span>
+    </div>
+    
+    <div class="pagination__buttons">
+      
+      
+      
+      <div class="pagination__numbers">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+          
+          
+            
+              <span class="pagination__number pagination__number--current">1</span>
+            
+          
+        
+          
+          
+            
+              <a class="pagination__number" href="/posts/page/2/">2</a>
+            
+          
+        
+          
+          
+            
+              <a class="pagination__number" href="/posts/page/3/">3</a>
+            
+          
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+        
+        
+        
+          
+            <span class="pagination__ellipsis">...</span>
+          
+          <a class="pagination__number" href="/posts/page/16/">16</a>
+        
+      </div>
+      
+      
+      <a class="pagination__item pagination__item--next" href="/posts/page/2/">Tiếp →</a>
+      
+    </div>
+  </nav>
+  
+  
+</main>
+
+			</div>
+			<aside class="sidebar">
+  
+  <div class="widget widget-search">
+    <form class="widget__form" role="search" method="get" action="https://cola1605.github.io/" >
+      <input class="widget__field" type="search" name="q" placeholder="Tìm kiếm..." value="">
+      <button class="widget__submit" type="submit" title="Tìm kiếm">Tìm kiếm</button>
+    </form>
+  </div>
+
+  
+  <div class="widget widget-recent">
+    <h4 class="widget__title">Bài viết mới nhất</h4>
+    <ul class="widget__list">
+      
+      <li class="widget__item">
+        <a class="widget__link" href="/posts/aws-opensearch-gpu-acceleration/">Amazon OpenSearch Service Cải thiện Hiệu suất và Chi phí Vector Database với GPU Acceleration và Auto-optimization</a>
+      </li>
+      
+      <li class="widget__item">
+        <a class="widget__link" href="/posts/matsuo-ai-coding-environment-setup/">Cách Xây Dựng Môi Trường Thực Hành AI Coding【Tháng 12 năm 2025】</a>
+      </li>
+      
+      <li class="widget__item">
+        <a class="widget__link" href="/posts/layerx-spec-workflow-mcp/">Spec-Driven Development Thân Thiện Với Mắt: Hiệu Ứng Blueberry của spec-workflow-mcp</a>
+      </li>
+      
+      <li class="widget__item">
+        <a class="widget__link" href="/posts/aws-opensearch-cluster-insights/">Cluster Insights: Dashboard Monitoring Thống nhất cho Amazon OpenSearch Service</a>
+      </li>
+      
+      <li class="widget__item">
+        <a class="widget__link" href="/posts/aws-clean-rooms-synthetic-dataset/">AWS Clean Rooms Ra mắt Tính năng Tạo Synthetic Dataset Tăng cường Quyền riêng tư cho Huấn luyện Mô hình ML</a>
+      </li>
+      
+    </ul>
+  </div>
+
+  
+  <div class="widget widget-categories">
+    <h4 class="widget__title">Chuyên mục</h4>
+    <ul class="widget__list">
+      
+      <li class="widget__item">
+        <a class="widget__link" href="/categories/ai-and-machine-learning">ai and machine learning</a>
+        <span class="widget__counter">(74)</span>
+      </li>
+      
+      <li class="widget__item">
+        <a class="widget__link" href="/categories/aws">aws</a>
+        <span class="widget__counter">(80)</span>
+      </li>
+      
+      <li class="widget__item">
+        <a class="widget__link" href="/categories/business-and-technology">business and technology</a>
+        <span class="widget__counter">(51)</span>
+      </li>
+      
+      <li class="widget__item">
+        <a class="widget__link" href="/categories/cloud">cloud</a>
+        <span class="widget__counter">(15)</span>
+      </li>
+      
+      <li class="widget__item">
+        <a class="widget__link" href="/categories/cloud-computing">cloud computing</a>
+        <span class="widget__counter">(4)</span>
+      </li>
+      
+      <li class="widget__item">
+        <a class="widget__link" href="/categories/data-analytics">data &amp; analytics</a>
+        <span class="widget__counter">(1)</span>
+      </li>
+      
+      <li class="widget__item">
+        <a class="widget__link" href="/categories/data-and-analytics">data and analytics</a>
+        <span class="widget__counter">(18)</span>
+      </li>
+      
+      <li class="widget__item">
+        <a class="widget__link" href="/categories/data-management">data management</a>
+        <span class="widget__counter">(1)</span>
+      </li>
+      
+      <li class="widget__item">
+        <a class="widget__link" href="/categories/development">development</a>
+        <span class="widget__counter">(63)</span>
+      </li>
+      
+      <li class="widget__item">
+        <a class="widget__link" href="/categories/devops-infrastructure">devops &amp; infrastructure</a>
+        <span class="widget__counter">(2)</span>
+      </li>
+      
+      <li class="widget__item">
+        <a class="widget__link" href="/categories/devops-and-infrastructure">devops and infrastructure</a>
+        <span class="widget__counter">(50)</span>
+      </li>
+      
+      <li class="widget__item">
+        <a class="widget__link" href="/categories/security-and-networking">security and networking</a>
+        <span class="widget__counter">(16)</span>
+      </li>
+      
+      <li class="widget__item">
+        <a class="widget__link" href="/categories/web-and-frontend">web and frontend</a>
+        <span class="widget__counter">(11)</span>
+      </li>
+      
+    </ul>
+  </div>
+
+  
+  
+
+  
+  
+<div class="widget-archive widget">
+  <h4 class="widget__title">📅 Lưu trữ theo tháng</h4>
+  <div class="widget__content">
+    <ul class="widget__list">
+        <li class="widget__item">
+          <a class="widget__link" href="/archive/2025-12/">
+            Tháng 12 2025 <span class="widget__counter">(19)</span>
+          </a>
+        </li>
+        <li class="widget__item">
+          <a class="widget__link" href="/archive/2025-11/">
+            Tháng 11 2025 <span class="widget__counter">(67)</span>
+          </a>
+        </li>
+        <li class="widget__item">
+          <a class="widget__link" href="/archive/2025-10/">
+            Tháng 10 2025 <span class="widget__counter">(82)</span>
+          </a>
+        </li>
+        <li class="widget__item">
+          <a class="widget__link" href="/archive/0001-01/">
+            Tháng 1 0001 <span class="widget__counter">(6)</span>
+          </a>
+        </li>
+    </ul>
+  </div>
+</div>
+
+</aside>
+		</div>
+		<footer class="site-footer">
+  <div class="container">
+    <p>© 2025 . Powered by Hugo.</p>
+  </div>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+</body>
+</html>
