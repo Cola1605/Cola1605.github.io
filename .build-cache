@@ -166,5 +166,6 @@ cyberagent-bucketeer-docker-compose.md:1765154445
 cyberagent-ai-coding-agent-dev-env.md:1765155174
 cyberagent-break8-sato-yosuke.md:1765156807
 nextjs-react-rce-vulnerability-critical-alert.md:1765157757
-amazon-bedrock-reinforcement-fine-tuning.md:1765165906
-aws-sagemaker-hyperpod-checkpointless-elastic-training.md:1765165906
+aws-sagemaker-serverless-model-customization.md:1765173654
+amazon-bedrock-reinforcement-fine-tuning.md:1765165975
+aws-sagemaker-hyperpod-checkpointless-elastic-training.md:1765165975
