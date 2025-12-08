@@ -7,7 +7,17 @@
 &lt;hr&gt;
 &lt;h2 id="1-giới-thiệu"&gt;1. Giới Thiệu&lt;/h2&gt;
 &lt;p&gt;Xin chào!&lt;/p&gt;
-&lt;p&gt;Tôi là Kondo từ CIU (CyberAgent group Infrastructure Unit) Computing &amp;amp; Web Service. Công việc hàng ngày của tôi là phát triển và vận hành nền tảng IaaS của private cloud &amp;ldquo;Cycloud&amp;rdquo; của CyberAgent.&lt;/p&gt;</description></item><item><title>Hiểu Hoàn Toàn Prompt Caching để Giảm Chi Phí LLM Cực Mạnh</title><link>https://cola1605.github.io/posts/zenn-prompt-caching-llm-cost-optimization/</link><pubDate>Fri, 05 Dec 2025 15:00:00 +0900</pubDate><guid>https://cola1605.github.io/posts/zenn-prompt-caching-llm-cost-optimization/</guid><description>&lt;p&gt;&lt;strong&gt;Nguồn:&lt;/strong&gt; &lt;a href="https://zenn.dev/ubie_dev/articles/ade17afebabaa9"&gt;Zenn - Ubie テックブログ&lt;/a&gt;&lt;br&gt;
+&lt;p&gt;Tôi là Kondo từ CIU (CyberAgent group Infrastructure Unit) Computing &amp;amp; Web Service. Công việc hàng ngày của tôi là phát triển và vận hành nền tảng IaaS của private cloud &amp;ldquo;Cycloud&amp;rdquo; của CyberAgent.&lt;/p&gt;</description></item><item><title>Cải Thiện Độ Chính Xác Model với Reinforcement Fine-Tuning trong Amazon Bedrock</title><link>https://cola1605.github.io/posts/amazon-bedrock-reinforcement-fine-tuning/</link><pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/amazon-bedrock-reinforcement-fine-tuning/</guid><description>&lt;h1 id="cải-thiện-độ-chính-xác-model-với-reinforcement-fine-tuning-trong-amazon-bedrock"&gt;Cải Thiện Độ Chính Xác Model với Reinforcement Fine-Tuning trong Amazon Bedrock&lt;/h1&gt;
+&lt;h2 id="-tóm-tắt-nhanh"&gt;📋 Tóm Tắt Nhanh&lt;/h2&gt;
+&lt;p&gt;Ngày 3 tháng 12 năm 2025, AWS công bố &lt;strong&gt;Reinforcement Fine-Tuning&lt;/strong&gt; trên Amazon Bedrock - một phương pháp đột phá cho phép:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📈 &lt;strong&gt;Tăng 66% độ chính xác&lt;/strong&gt; so với base model&lt;/li&gt;
+&lt;li&gt;🎯 &lt;strong&gt;Không cần large labeled dataset&lt;/strong&gt; hay người annotate&lt;/li&gt;
+&lt;li&gt;⚡ &lt;strong&gt;Không cần deep ML expertise&lt;/strong&gt; - tự động hóa workflow&lt;/li&gt;
+&lt;li&gt;🔒 &lt;strong&gt;Bảo mật cao&lt;/strong&gt; - data luôn trong AWS environment&lt;/li&gt;
+&lt;li&gt;💰 &lt;strong&gt;Cost-effective&lt;/strong&gt; - tối ưu price/performance với Nova 2 Lite&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Công nghệ&lt;/strong&gt;: Học từ &lt;strong&gt;feedback&lt;/strong&gt; thay vì fixed examples, sử dụng &lt;strong&gt;reward functions&lt;/strong&gt; để đánh giá response quality!&lt;/p&gt;</description></item><item><title>Hiểu Hoàn Toàn Prompt Caching để Giảm Chi Phí LLM Cực Mạnh</title><link>https://cola1605.github.io/posts/zenn-prompt-caching-llm-cost-optimization/</link><pubDate>Fri, 05 Dec 2025 15:00:00 +0900</pubDate><guid>https://cola1605.github.io/posts/zenn-prompt-caching-llm-cost-optimization/</guid><description>&lt;p&gt;&lt;strong&gt;Nguồn:&lt;/strong&gt; &lt;a href="https://zenn.dev/ubie_dev/articles/ade17afebabaa9"&gt;Zenn - Ubie テックブログ&lt;/a&gt;&lt;br&gt;
 &lt;strong&gt;Advent Calendar:&lt;/strong&gt; &lt;a href="https://adventar.org/calendars/12070"&gt;Ubie Tech Advent Calendar 2025&lt;/a&gt; - Ngày 1&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id="mở-đầu"&gt;Mở Đầu&lt;/h2&gt;
