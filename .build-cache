@@ -169,8 +169,9 @@ nextjs-react-rce-vulnerability-critical-alert.md:1765157757
 aws-sagemaker-serverless-model-customization.md:1765173654
 amazon-bedrock-reinforcement-fine-tuning.md:1765165975
 aws-sagemaker-hyperpod-checkpointless-elastic-training.md:1765165975
-aws-transform-discovery-tool.md:1765241493
-esa-margin-auto-sync-spec.md:1765241584
-qiita-sql-antipatterns.md:1765241493
 cyberagent-ai-coding-agent.md:1765243000
 qiita-http402-payment-nextjs.md:1765243000
+aws-glue-iceberg-catalog-federation.md:1765246031
+aws-transform-discovery-tool.md:1765243534
+esa-margin-auto-sync-spec.md:1765243534
+qiita-sql-antipatterns.md:1765243534
