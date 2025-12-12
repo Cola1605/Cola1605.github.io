@@ -1,3 +1,13 @@
+---
+title: "Ngăn Chặn CLAUDE.md Phình To! Phương Pháp Tải Rules Động Với .claude/rules/"
+date: 2025-12-11
+draft: false
+description: "Hướng dẫn sử dụng .claude/rules/ để tải rules động, ngăn chặn CLAUDE.md phình to, tối ưu context và áp dụng nhiều rules đồng thời trong Claude Code."
+tags: ["Claude", "Claude Code", "AI-driven Development", "Context Management", "Rules", "Modular Configuration", "Best Practices"]
+categories: ["AI and Machine Learning", "Development"]
+author: "とまだ (tmasuyama1114)"
+---
+
 # Ngăn Chặn CLAUDE.md Phình To! Phương Pháp Tải Rules Động Với .claude/rules/
 
 ## Tóm Tắt Cho Người Bận Rộn

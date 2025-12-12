@@ -1,3 +1,13 @@
+---
+title: "Chuẩn Bị Giám Sát Vận Hành Amazon Connect Sử Dụng MCP"
+date: 2025-12-11
+draft: false
+description: "Hướng dẫn sử dụng Model Context Protocol (MCP) để giám sát và phân tích vận hành Amazon Connect với AI tạo sinh, tích hợp CloudWatch và Amazon Q Developer."
+tags: ["Amazon Connect", "MCP", "Model Context Protocol", "CloudWatch", "Amazon Q Developer", "Monitoring", "Operational Excellence", "Contact Center"]
+categories: ["Cloud", "AI and Machine Learning", "DevOps and Infrastructure"]
+author: "Koki Takahashi"
+---
+
 # Chuẩn Bị Giám Sát Vận Hành Amazon Connect Sử Dụng MCP
 
 ## Tổng Quan

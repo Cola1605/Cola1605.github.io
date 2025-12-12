@@ -1,3 +1,13 @@
+---
+title: "Khuyến Nghị Tự Động Gia Hạn Chứng Chỉ - Đạt Được Zero Operations Với Step Functions × DigiCert API"
+date: 2025-12-10
+draft: false
+description: "Hướng dẫn xây dựng hệ thống tự động gia hạn chứng chỉ SSL/TLS với AWS Step Functions, Lambda và DigiCert API để đối phó với thời hạn rút ngắn xuống 47 ngày."
+tags: ["AWS", "Step Functions", "Lambda", "SSL/TLS", "Certificate Management", "DigiCert", "ACM", "Automation", "Zero Operations"]
+categories: ["Cloud", "Security and Networking", "DevOps and Infrastructure"]
+author: "@chotone"
+---
+
 # Khuyến Nghị Tự Động Gia Hạn Chứng Chỉ − Đạt Được Zero Operations Với Step Functions × DigiCert API
 
 ## Giới Thiệu

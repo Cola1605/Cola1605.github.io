@@ -1,3 +1,13 @@
+---
+title: "Kết nối đến Amazon RDS for Db2 bằng AWS CloudShell"
+date: 2025-12-10
+draft: false
+description: "Hướng dẫn kết nối an toàn đến Amazon RDS for Db2 sử dụng AWS CloudShell với môi trường tích hợp VPC, không cần EC2 bastion host hay cài đặt client cục bộ."
+tags: ["AWS", "Amazon RDS", "Db2", "AWS CloudShell", "Database", "VPC", "Security", "IBM Db2"]
+categories: ["Cloud", "Data and Analytics", "Security and Networking"]
+author: "Vikram S Khatri, Sumit Kumar, Rajib Sarkar, Ashish Saraswat"
+---
+
 # Kết nối đến Amazon RDS for Db2 bằng AWS CloudShell
 
 **Nguồn:** AWS Blog  

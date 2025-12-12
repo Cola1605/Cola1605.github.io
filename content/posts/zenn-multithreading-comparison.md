@@ -1,3 +1,14 @@
+---
+title: "Xử lý đó có thực sự song song không? - Cạm bẫy CPU-bound khi dùng Node.js, Python, Ruby, Go"
+date: 2025-12-08
+draft: false
+slug: "zenn-multithreading-comparison-nodejs-python-ruby-go"
+description: "So sánh chi tiết cách xử lý đồng thời và song song trong Node.js, Python, Ruby, Go. Phân tích GIL, event loop, goroutines và hiệu năng CPU-bound."
+tags: ["Go", "Node.js", "Python", "Ruby", "Concurrency", "Performance", "CPU-bound", "Multithreading", "Parallel Processing"]
+categories: ["Development", "Data and Analytics"]
+author: "ほりしょー (@h0r15h0)"
+---
+
 # "Xử lý đó có thực sự song song không?" - Cạm bẫy CPU-bound khi dùng Node.js, Python, Ruby, Go
 
 **Tác giả:** ほりしょー (@h0r15h0)  

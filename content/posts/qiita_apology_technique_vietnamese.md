@@ -1,3 +1,13 @@
+---
+title: "Kỹ Thuật Không Xin Lỗi Quá Nhiều"
+date: 2025-11-21
+draft: false
+description: "Phân tích tại sao kỹ sư xin lỗi quá mức, tác hại của việc này đến uy tín chuyên môn, và kỹ thuật giao tiếp hiệu quả hơn trong môi trường phát triển."
+tags: ["Communication", "Soft Skills", "Professional Development", "Engineering Culture", "Team Collaboration", "Leadership"]
+categories: ["Business and Technology", "Development"]
+author: "y_o_28"
+---
+
 # Kỹ Thuật "Không Xin Lỗi Quá Nhiều"
 
 **Tác giả:** y_o_28  

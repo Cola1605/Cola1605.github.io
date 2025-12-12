@@ -1,3 +1,14 @@
+---
+title: "Amazon Bedrock AgentCore bổ sung đánh giá chất lượng và kiểm soát chính sách để triển khai các AI agent đáng tin cậy"
+date: 2025-12-11
+draft: false
+slug: "aws-bedrock-agentcore-evaluations-policy"
+description: "Amazon Bedrock AgentCore ra mắt tính năng đánh giá chất lượng, kiểm soát chính sách, episode và streaming hai chiều để triển khai AI agent production-ready."
+tags: ["AWS", "Amazon Bedrock", "AgentCore", "AI Agent", "Quality Evaluation", "Policy Controls", "Production AI", "Enterprise AI"]
+categories: ["Cloud", "AI and Machine Learning", "DevOps and Infrastructure"]
+author: "Danilo Poccia"
+---
+
 # Amazon Bedrock AgentCore bổ sung đánh giá chất lượng và kiểm soát chính sách để triển khai các AI agent đáng tin cậy
 
 **Nguồn:** AWS Blog  
