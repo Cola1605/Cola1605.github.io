@@ -2,6 +2,7 @@
 title: "Trực quan hóa dữ liệu không cần code! Tạo Dashboard với Claude Skills"
 date: 2025-12-11
 draft: false
+slug: "isca-claude-skills-dashboard-visualization"
 description: "Hướng dẫn chi tiết cách sử dụng tính năng Skills của Claude để tạo dashboard trực quan hóa dữ liệu từ CSV, Excel, JSON mà không cần lập trình. Sử dụng skill-creator để xây dựng workflow tự động hóa công việc lặp lại."
 tags: ["Claude", "AI", "Data Visualization", "Dashboard", "No-Code", "Workflow", "Automation", "Skills", "Business Intelligence"]
 categories: ["AI and Machine Learning", "Data and Analytics", "Development"]
