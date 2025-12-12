@@ -2,6 +2,7 @@
 title: "Amazon RDS for Oracle và SQL Server bổ sung tính năng mới để tối ưu chi phí và nâng cao hiệu suất"
 date: 2025-12-12
 draft: false
+slug: "aws-rds-oracle-sqlserver-new-capabilities"
 description: "4 tính năng mới của Amazon RDS giúp tối ưu chi phí và mở rộng quy mô: SQL Server Developer Edition, tối ưu CPU trên M7i/R7i (giảm 55% chi phí), mở rộng storage lên 256 TiB."
 tags: ["AWS", "Amazon RDS", "RDS for Oracle", "RDS for SQL Server", "Cost Optimization", "Performance", "Storage", "CPU Optimization", "Developer Edition", "M7i", "R7i", "Database"]
 categories: ["Cloud", "Data and Analytics", "DevOps and Infrastructure"]

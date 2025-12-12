@@ -2,6 +2,7 @@
 title: "Giới thiệu Amazon Nova 2 Lite: Mô hình suy luận nhanh và tiết kiệm chi phí"
 date: 2025-12-12
 draft: false
+slug: "aws-amazon-nova-2-lite-reasoning-model"
 description: "Amazon Nova 2 Lite mang lại hiệu suất giá cả hàng đầu với Extended Thinking, 1 triệu token context window, multimodal input và built-in tools cho ứng dụng AI hàng ngày."
 tags: ["AWS", "Amazon Nova", "Amazon Bedrock", "AI", "Machine Learning", "Reasoning Model", "Extended Thinking", "Agentic AI", "Multimodal", "Cost Optimization", "Python", "Boto3"]
 categories: ["AI and Machine Learning", "Cloud", "Development"]
