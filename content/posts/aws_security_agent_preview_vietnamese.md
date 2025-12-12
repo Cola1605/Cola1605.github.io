@@ -1,6 +1,7 @@
 ---
 title: "AWS Security Agent: Bảo Vệ Ứng Dụng Chủ Động Từ Thiết Kế Đến Triển Khai (Preview)"
 date: 2025-12-12T10:00:00+07:00
+slug: "aws-security-agent-preview"
 categories: ["Business and Technology", "Development"]
 tags: ["AWS", "Security", "DevSecOps", "AI Agent", "Application Security", "Penetration Testing", "SAST", "DAST", "Cloud Security"]
 description: "Giới thiệu AWS Security Agent - frontier agent bảo vệ ứng dụng chủ động từ thiết kế đến triển khai với design review, code review tự động và penetration testing theo yêu cầu."

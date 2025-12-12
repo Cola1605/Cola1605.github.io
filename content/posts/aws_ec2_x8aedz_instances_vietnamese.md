@@ -1,6 +1,7 @@
 ---
 title: "Amazon EC2 X8aedz: Bộ Xử Lý AMD EPYC Thế Hệ 5 Cho Workloads Sử Dụng Nhiều Bộ Nhớ"
 date: 2025-12-12T10:30:00+07:00
+slug: "aws-ec2-x8aedz-instances"
 categories: ["Business and Technology", "Development"]
 tags: ["AWS", "EC2", "AMD EPYC", "Cloud Computing", "High Performance", "EDA", "Database", "Memory Optimized", "Instance Types"]
 description: "Giới thiệu Amazon EC2 X8aedz instances với bộ xử lý AMD EPYC thế hệ 5, tần số CPU 5GHz cao nhất cloud, hiệu suất gấp 2 lần và tỷ lệ memory-to-vCPU 32:1 cho workloads memory-intensive."
