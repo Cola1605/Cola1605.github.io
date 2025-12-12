@@ -1634,7 +1634,13 @@ Yêu thích giải quyết các vấn đề phức tạp và hỗ trợ khách h
  &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Tham khảo: &lt;a href="https://www.digicert.com/jp/blog/tls-certificate-lifetimes-will-officially-reduce-to-47-days"&gt;DigiCert Blog - TLS Certificate Lifetimes Will Officially Reduce to 47 Days&lt;/a&gt;&lt;/p&gt;</description></item><item><title/><link>https://cola1605.github.io/posts/qiita_apology_technique_vietnamese/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/qiita_apology_technique_vietnamese/</guid><description>&lt;h1 id="kỹ-thuật-không-xin-lỗi-quá-nhiều"&gt;Kỹ Thuật &amp;ldquo;Không Xin Lỗi Quá Nhiều&amp;rdquo;&lt;/h1&gt;
+&lt;p&gt;Tham khảo: &lt;a href="https://www.digicert.com/jp/blog/tls-certificate-lifetimes-will-officially-reduce-to-47-days"&gt;DigiCert Blog - TLS Certificate Lifetimes Will Officially Reduce to 47 Days&lt;/a&gt;&lt;/p&gt;</description></item><item><title/><link>https://cola1605.github.io/posts/claude-code-dynamic-rules/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/claude-code-dynamic-rules/</guid><description>&lt;h1 id="ngăn-chặn-claudemd-phình-to-phương-pháp-tải-rules-động-với-clauderules"&gt;Ngăn Chặn CLAUDE.md Phình To! Phương Pháp Tải Rules Động Với .claude/rules/&lt;/h1&gt;
+&lt;h2 id="tóm-tắt-cho-người-bận-rộn"&gt;Tóm Tắt Cho Người Bận Rộn&lt;/h2&gt;
+&lt;p&gt;4 điểm chính của bài viết này:&lt;/p&gt;
+&lt;p&gt;• &lt;code&gt;.claude/rules/&lt;/code&gt; là tính năng modular rule để ngăn chặn CLAUDE.md phình to&lt;br&gt;
+• Rules không có &lt;code&gt;paths&lt;/code&gt; được load khi khởi động, rules có &lt;code&gt;paths&lt;/code&gt; được load động khi thao tác file đích&lt;br&gt;
+• Rules đã load một lần không bị load lại (hiệu quả context ◎)&lt;br&gt;
+• Có thể áp dụng đồng thời nhiều rules (TypeScript + API rules, v.v.)&lt;/p&gt;</description></item><item><title/><link>https://cola1605.github.io/posts/qiita_apology_technique_vietnamese/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cola1605.github.io/posts/qiita_apology_technique_vietnamese/</guid><description>&lt;h1 id="kỹ-thuật-không-xin-lỗi-quá-nhiều"&gt;Kỹ Thuật &amp;ldquo;Không Xin Lỗi Quá Nhiều&amp;rdquo;&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Tác giả:&lt;/strong&gt; y_o_28&lt;br&gt;
 &lt;strong&gt;Ngày xuất bản:&lt;/strong&gt; 21/11/2025&lt;br&gt;
 &lt;strong&gt;Ngày cập nhật:&lt;/strong&gt; 22/11/2025&lt;br&gt;
